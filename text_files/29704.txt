@@ -1,0 +1,350 @@
+
+
+
+
+	Questions : Lok Sabha
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Screen Reader Access
+Skip to Main Content
+Skip to Navigation
+
+
+
+Text Size
+
+                                A
+
+                                A
+A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+हिन्दी मे
+
+
+
+
+
+
+
+
+Parliament of India Lok Sabha House of the
+                        People
+
+
+
+
+
+
+* Special Characters not allowed
+
+
+
+
+
+
+
+
+
+
+
+
+India Time 
+
+
+Your Time 
+
+
+                        Tuesday,
+                        12 April 2022
+
+
+
+
+
+
+
+
+
+HomeMembersSitting MembersMembers Home PageMembers' PortalContact DetailsMembers SearchStatistical AnalysisAttendance of MembersHandbook Members Since 1952Digitized Who's WhoOthers BusinessProvisional CalendarList of BusinessPapers to be LaidList of Private Members' BusinessBulletin-IDigitized Lok Sabha Bulletin Part IBulletin-IIStatement of WorkSpecial Mentions (ZERO HOUR)Resume of WorkDigitized Resume of Work done by Lok Sabha QuestionsHomeQuestion ListStatus of notices of questionQuestions CalendarGrouping of Ministries - AlphabeticalOfficers in Min./Dept. Dealing with Parliamentary WorkQuestion SearchSupplementary Questions DebatesIntroductionSynopsisUncorrected DebateText of DebateDigitized DebatesConstituent Assembly DebatesWit And HumourDebate SearchHindi FontsDisclaimer Papers LaidPapers Laid on the Table of the House LegislationIntroduction(How Bill Becomes Act)Bills IntroducedBills PassedBills PendingBills AssentedBills LapsedBills WithdrawnBills NegativedBills Search Disclaimer CommitteesIntroductionChairpersonSummary of WorkCommittee Meetings ScheduleBills Referred to CommitteesReports PresentedDigitized ReportsPress ReleaseMembership SearchToday's Committee MeetingsCommittee Subject SelectedDepartment Related-RS Govt. AssurancesSANSAD TVIntranet
+
+
+
+
+
+HomeQuestion ListStatus of notices of questionQuestions CalendarGrouping of Ministries - AlphabeticalOfficers in Min./Dept. Dealing with Parliamentary WorkQuestion SearchSupplementary Questions
+
+
+
+
+
+
+
+
+
+
+
+Download as PDF
+
+
+
+
+Print
+
+
+
+
+
+
+
+
+
+
+
+
+PDF/WORD(Hindi)
+
+
+PDF/WORD
+
+
+
+
+                                    GOVERNMENT OF INDIA
+                                
+
+
+
+
+
+                                    MINISTRY OF
+                                    FINANCE
+
+
+
+
+
+
+                                    LOK SABHA
+                                
+
+
+
+
+
+UNSTARRED 
+
+
+                                    QUESTION NO:
+                                
+
+1354
+
+
+
+
+
+
+                                    ANSWERED ON: 
+                                
+
+06.12.2021
+
+
+
+
+
+
+Banking Frauds
+
+
+
+
+Rajiv Ranjan (Lalan) Singh
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        Will the Minister of
+
+
+
+
+
+FINANCE
+
+
+                        be pleased to state:-
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                    (a)	whether digital transaction has opened the doorfor banking fraud as hackers take confidential datatherefrom;(b)	if so, the details of the steps being taken tocontrol the banking fraud;(c)	the number of ATMs installed all over the countryand the target for installation of ATMs till 2022;(d)	whether ATM facilities are still not available toremote areas in the country; and(e)	if so, the details thereof along with the correctivesteps taken by the Government in this regard? 
+
+
+
+
+
+
+ANSWER
+
+
+
+
+                                                        THE MINISTER OF STATE IN THE MINISTRY OF FINANCE(a) and (b): Digitalisation of banking services has helped banks in increasing efficiency, reach and competitiveness, and has also facilitated financial inclusion of unbanked. It has also helped in delivery of prompt and better customer services. At the same time, nature of risks associated has also changed. A number of measures have been taken to mitigate such risks and in turn to prevent frauds, including, inter alia¸ the following:(i)	Indian Cyber Crime Coordination Centre has been established to provide a framework and ecosystem for law enforcement agencies (LEAs) for dealing with cybercrimes (including frauds related to credit cards, debit cards, online banking, etc.) in a comprehensive and coordinated manner.(ii)	A National Cyber Crime Reporting Portal has been launched to enable public to report incidents pertaining to all types of cybercrimes, and a toll-free number has also been operationalised to get assistance in lodging online complaints.(iii)	Financial Cyber Fraud Reporting and Management System module has been launched for immediate reporting of financial frauds and to stop siphoning-off of funds by the fraudsters.(iv)	The Indian Computer Emergency Response Team (CERT-IN) issues alerts and advisories regarding latest cyber threats and countermeasures on regular basis to ensure safe usage of digital technologies, and is working in coordination with service providers, regulators and LEAs to track and disable phishing websites and facilitate investigation of fraudulent activities.(v)	CERT-In is providing the requisite leadership for the CSIRT-Fin (Computer Security Incident Response Team-Finance Sector) operations under its umbrella for responding to, containment and mitigation of cyber security incidents reported from the financial sector.(vi)	Reserve Bank of India (RBI) has advised banks to have in place a Board-approved cyber-security policy elucidating the strategy containing an appropriate approach to combat cyber threats.Further, to strengthen customers from fraudulent transactions, RBI has advised banks for corrective measures in respect of security and risk mitigation related to electronic/digital transactions, including, inter-alia, the following:(i)	For securing card transactions, inclusive of online alerts for all transactions, certification of merchant terminals, and conversion of magnetic strip cards to EMV chip and PIN cards;(ii)	Capping the value/mode of transactions/beneficiaries, setting daily limits and issuing alerts upon addition of beneficiaries;(iii)	Requiring PIN entry for all ATM transactions, and enabling all ATMs for processing EMV chip and PIN cards;(iv)	A number of security features added in Prepaid Payment Instruments (PPIs) / wallets, viz introducing time-out features, authenticating every wallet payment transaction by customer consent, provision of customer-induced options for capping the number and value of transactions, suitable cooling period for funds transfer on opening of PPI, and issue of alerts for PPI transactions; and(v)	To ensure that all new debit and credit cards are issued only for domestic usage unless international use is specifically sought by the customer.(c) to (e): As per RBI data, scheduled commercial banks have installed 2,13,145 ATMs up to September 2021. In addition to this, 27,837 White Label ATMs (WLA) were also installed by WLA operators up to September 2021. Out of these, 47.4 % of the ATMs are installed in the rural and semi-urban centres.  WLA Scheme was introducedas extended delivery channel for banking services, especially in tier III to VI centres.With regard to the target of installation of ATMs, RBI has apprised that WLA operators are required to deploy a minimum of 1000 ATMs every year and to maintain a deployment ratio of 1:2:3 for Metro & Urban, Semi-Urban, and Rural regions respectively.*****
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+HomeArchiveIndex to Select Questions (1984-1999)Ballot ListStatistical Statements Relating to QuestionsUploading of Questions - Status QueryProcedure for Sending Text of Questions & AnswersDemarcation of responsibilities in Govt. of IndiaBrochure on Statutory Corporations, Companies and Other Bodies in Which the Government of India have financial or controlling interestHighlights pertaining to questions of 17th Lok Sabha
+
+
+
+
+
+
+Contact Us 
+Disclaimer
+
+
+
+
+
+
+
+
+
+
+
+        Developed and Hosted by National Informatics Centre (NIC)
+
+Content on this website is published,
+            managed & maintained by Software Unit, Computer (HW & SW) Management. Branch,
+            Lok Sabha Secretariat
+
+
+
+
+
+HomeMembersBusinessQuestionsDebatesPapers Laid
+
+
+LegislationCommitteesSANSAD TVIntranetSecretariatPRIDE
+
+
+RecruitmentSC/ST ReservationConferenceParliament Library
+
+
+About ParliamentPhoto GalleryRelated LinksRTITendersFAQ
+
+
+SpeakerDy. SpeakerLeader of the HousePanel of ChairpersonsContact UsFeedback
+
+
+Council of MinistersPublications of MinistriesParliamentry ProceduresJournal of Parliamentary Information
+Visitor's Counter:113224911
+
+
+
+
+
+
+
+Copyright
+Privacy Policy
+Disclaimer
+Terms &
+                Conditions
+
+                Accessibility Statement
+Accessibility
+                Options
+Feedback
+Site Map
+
+
+
+
+
+
+

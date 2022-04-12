@@ -1,0 +1,350 @@
+
+
+
+
+	Questions : Lok Sabha
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Screen Reader Access
+Skip to Main Content
+Skip to Navigation
+
+
+
+Text Size
+
+                                A
+
+                                A
+A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+हिन्दी मे
+
+
+
+
+
+
+
+
+Parliament of India Lok Sabha House of the
+                        People
+
+
+
+
+
+
+* Special Characters not allowed
+
+
+
+
+
+
+
+
+
+
+
+
+India Time 
+
+
+Your Time 
+
+
+                        Monday,
+                        11 April 2022
+
+
+
+
+
+
+
+
+
+HomeMembersSitting MembersMembers Home PageMembers' PortalContact DetailsMembers SearchStatistical AnalysisAttendance of MembersHandbook Members Since 1952Digitized Who's WhoOthers BusinessProvisional CalendarList of BusinessPapers to be LaidList of Private Members' BusinessBulletin-IDigitized Lok Sabha Bulletin Part IBulletin-IIStatement of WorkSpecial Mentions (ZERO HOUR)Resume of WorkDigitized Resume of Work done by Lok Sabha QuestionsHomeQuestion ListStatus of notices of questionQuestions CalendarGrouping of Ministries - AlphabeticalOfficers in Min./Dept. Dealing with Parliamentary WorkQuestion SearchSupplementary Questions DebatesIntroductionSynopsisUncorrected DebateText of DebateDigitized DebatesConstituent Assembly DebatesWit And HumourDebate SearchHindi FontsDisclaimer Papers LaidPapers Laid on the Table of the House LegislationIntroduction(How Bill Becomes Act)Bills IntroducedBills PassedBills PendingBills AssentedBills LapsedBills WithdrawnBills NegativedBills Search Disclaimer CommitteesIntroductionChairpersonSummary of WorkCommittee Meetings ScheduleBills Referred to CommitteesReports PresentedDigitized ReportsPress ReleaseMembership SearchToday's Committee MeetingsCommittee Subject SelectedDepartment Related-RS Govt. AssurancesSANSAD TVIntranet
+
+
+
+
+
+HomeQuestion ListStatus of notices of questionQuestions CalendarGrouping of Ministries - AlphabeticalOfficers in Min./Dept. Dealing with Parliamentary WorkQuestion SearchSupplementary Questions
+
+
+
+
+
+
+
+
+
+
+
+Download as PDF
+
+
+
+
+Print
+
+
+
+
+
+
+
+
+
+
+
+
+PDF/WORD(Hindi)
+
+
+PDF/WORD
+
+
+
+
+                                    GOVERNMENT OF INDIA
+                                
+
+
+
+
+
+                                    MINISTRY OF
+                                    ELECTRONICS AND INFORMATION TECHNOLOGY
+
+
+
+
+
+
+                                    LOK SABHA
+                                
+
+
+
+
+
+UNSTARRED 
+
+
+                                    QUESTION NO:
+                                
+
+1414
+
+
+
+
+
+
+                                    ANSWERED ON: 
+                                
+
+10.02.2021
+
+
+
+
+
+
+Digital Technology Solutions
+
+
+
+
+S. Jagathrakshakan
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        Will the Minister of
+
+
+
+
+
+ELECTRONICS AND INFORMATION TECHNOLOGY
+
+
+                        be pleased to state:-
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                    Will the Minister of ELECTRONICS & INFORMATION TECHNOLOGY be pleased to state: -(a)	the steps taken by the Government to implement digital technology solutions in accessible rural areas of around 6,50,000 villages in the country; and(b)	whether the Government has drawn any action plan to connect all villages across the country with optic fiber cables within 1,000 days and if so, the details thereof?
+
+
+
+
+
+
+ANSWER
+
+
+
+
+                                                        (a):   Government of India has initiated the ‘Digital India’ programme with the vision to transform India into a digitally empowered society and knowledge-based economy by ensuring digital access, digital inclusion, digital empowerment and bridging the digital divide. Under Digital India Programme, MeitY has effectively utilised Digital technologies to transform the lives of people  at centres & rural areas, while ensuring digital inclusion of all the segments. Various initiatives have been undertaken by Government for penetration of digital technology application across the country. Under Pillar 5: e-Kranti of Digital India programme, a total of 44 Mission Mode Projects (MMPs) is being implemented by various Central Ministries/Departments, States, and State Departments.  These MMPs are providing services in the areas such as education, healthcare, agriculture, justice, land records, social benefits, local governments, rural development, women & child development, legislature, transport, financial services, Income Tax (IT), Passport, Posts, etc. Some of the key initiatives implemented having impact across the country including rural areas are as follows:  •	Common Services Centre (CSC): The Common Services Centres are service (Government to Citizen & Business to Citizen) delivery centres. As on 31st December 2020, 3.74 lakhs CSCs are functional in rural and urban areas. •	A“Digital Village Pilot Project” in October, 2018 covering 700 Gram Panchayats (GPs)/ villages(at least one Gram Panchayat/village per District per State/UT) is being implemented across the country. The project is being implemented by M/s CSC eGovernance Services India Limited. The digital services being offered are Digital Health Services (Tele-Health & Tele-Veterinary consultation), Education Service (NIELIT courses on BCC/CCC, Tally), Financial Inclusion Awareness Programme, Skill Development, Solar panel powered street lights including Government to Citizens Services (G2C), Business to Citizen (B2C) Services.•	Digital locker: Digital Locker provides an ecosystem with collection of repositories and gateways for issuers to upload the documents in the digital repositories. So far 5.54 Crore are registered user and 426 Crore documents are available with DigiLocker.•	Jeevan Pramaan: Digital Life Certificate for Pensioners scheme known as Jeevan Pramaan envisages to digitize the whole process of securing the life certificate. So far 4.45 Crore Digital Life Certificate (DLC) submitted since 2014 out of which 3.46 Crore DLCs has been successfully processed.•	Online Registration System(ORS)/eHospital: Online Registration System (ORS) under eHospital includes online appointment and registration by new patients, viewing of lab reports, checking the status of blood availability and integration with payment gateway (PayGov). eHospital implemented in 420 hostpilats with 18.36 Crore transactions. ORS in 260 hospital with136.66b lakhs online appointments. •	Unified Mobile Application for New-Age Governance (UMANG): UMANG has been developed as a single mobile platform to deliver major Government.1051 services from 219 Central/state/UT Government departments along with 19474 Bharat Bill Payment System (BBPS) have been on-boarded on UMANG. It has 2.6 Crore registered users and 4.8 Crore downloads of UMANG app. 	Delivery of these services at villages are possible by using the broadband/fiber optical connectivity (BharatNet) provided by the Department of Telecommunication.(b):	The BharatNet project for connecting 2,50,000 Gram Panchayats (GPs) on Optical Fibre Connectivity (OFC) has been mandated to extend to over 6 lakhs in 1000 days and various models are being implemented to achieve the same such as Central Public Sector Undertaking (CPSU) led, State led and through Public Private Partnership (PPP) mode.  The project is envisaged to be completed by May, 2023. The approval in this regard is under process. This connectivity will facilitate broad band access in rural areas for digital solutions to be implemented.******* 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+HomeArchiveIndex to Select Questions (1984-1999)Ballot ListStatistical Statements Relating to QuestionsUploading of Questions - Status QueryProcedure for Sending Text of Questions & AnswersDemarcation of responsibilities in Govt. of IndiaBrochure on Statutory Corporations, Companies and Other Bodies in Which the Government of India have financial or controlling interestHighlights pertaining to questions of 17th Lok Sabha
+
+
+
+
+
+
+Contact Us 
+Disclaimer
+
+
+
+
+
+
+
+
+
+
+
+        Developed and Hosted by National Informatics Centre (NIC)
+
+Content on this website is published,
+            managed & maintained by Software Unit, Computer (HW & SW) Management. Branch,
+            Lok Sabha Secretariat
+
+
+
+
+
+HomeMembersBusinessQuestionsDebatesPapers Laid
+
+
+LegislationCommitteesSANSAD TVIntranetSecretariatPRIDE
+
+
+RecruitmentSC/ST ReservationConferenceParliament Library
+
+
+About ParliamentPhoto GalleryRelated LinksRTITendersFAQ
+
+
+SpeakerDy. SpeakerLeader of the HousePanel of ChairpersonsContact UsFeedback
+
+
+Council of MinistersPublications of MinistriesParliamentry ProceduresJournal of Parliamentary Information
+Visitor's Counter:113202929
+
+
+
+
+
+
+
+Copyright
+Privacy Policy
+Disclaimer
+Terms &
+                Conditions
+
+                Accessibility Statement
+Accessibility
+                Options
+Feedback
+Site Map
+
+
+
+
+
+
+

@@ -1,0 +1,363 @@
+
+
+
+
+	Questions : Lok Sabha
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Screen Reader Access
+Skip to Main Content
+Skip to Navigation
+
+
+
+Text Size
+
+                                A
+
+                                A
+A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+हिन्दी मे
+
+
+
+
+
+
+
+
+Parliament of India Lok Sabha House of the
+                        People
+
+
+
+
+
+
+* Special Characters not allowed
+
+
+
+
+
+
+
+
+
+
+
+
+India Time 
+
+
+Your Time 
+
+
+                        Tuesday,
+                        12 April 2022
+
+
+
+
+
+
+
+
+
+HomeMembersSitting MembersMembers Home PageMembers' PortalContact DetailsMembers SearchStatistical AnalysisAttendance of MembersHandbook Members Since 1952Digitized Who's WhoOthers BusinessProvisional CalendarList of BusinessPapers to be LaidList of Private Members' BusinessBulletin-IDigitized Lok Sabha Bulletin Part IBulletin-IIStatement of WorkSpecial Mentions (ZERO HOUR)Resume of WorkDigitized Resume of Work done by Lok Sabha QuestionsHomeQuestion ListStatus of notices of questionQuestions CalendarGrouping of Ministries - AlphabeticalOfficers in Min./Dept. Dealing with Parliamentary WorkQuestion SearchSupplementary Questions DebatesIntroductionSynopsisUncorrected DebateText of DebateDigitized DebatesConstituent Assembly DebatesWit And HumourDebate SearchHindi FontsDisclaimer Papers LaidPapers Laid on the Table of the House LegislationIntroduction(How Bill Becomes Act)Bills IntroducedBills PassedBills PendingBills AssentedBills LapsedBills WithdrawnBills NegativedBills Search Disclaimer CommitteesIntroductionChairpersonSummary of WorkCommittee Meetings ScheduleBills Referred to CommitteesReports PresentedDigitized ReportsPress ReleaseMembership SearchToday's Committee MeetingsCommittee Subject SelectedDepartment Related-RS Govt. AssurancesSANSAD TVIntranet
+
+
+
+
+
+HomeQuestion ListStatus of notices of questionQuestions CalendarGrouping of Ministries - AlphabeticalOfficers in Min./Dept. Dealing with Parliamentary WorkQuestion SearchSupplementary Questions
+
+
+
+
+
+
+
+
+
+
+
+Download as PDF
+
+
+
+
+Print
+
+
+
+
+
+
+
+
+
+
+
+
+PDF/WORD(Hindi)
+
+
+PDF/WORD
+
+
+
+
+                                    GOVERNMENT OF INDIA
+                                
+
+
+
+
+
+                                    MINISTRY OF
+                                    RAILWAYS
+
+
+
+
+
+
+                                    LOK SABHA
+                                
+
+
+
+
+
+UNSTARRED 
+
+
+                                    QUESTION NO:
+                                
+
+4516
+
+
+
+
+
+
+                                    ANSWERED ON: 
+                                
+
+30.03.2022
+
+
+
+
+
+
+Technology Improvement/Development of Railways
+
+
+
+
+Manoj Kishorbhai Kotak
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                    Raksha Nikhil Khadse
+                                                
+
+
+
+
+
+
+
+
+
+
+
+
+                        Will the Minister of
+
+
+
+
+
+RAILWAYS
+
+
+                        be pleased to state:-
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                    (a)whether the Government  is working on technology improvement/development for modernization of Indian Railways;(b) if so, the details thereof;(c) whether the Government  is making a policy to enable involvement of private sector for research and development in Railways; and(d) if so, the details thereof?
+
+
+
+
+
+
+ANSWER
+
+
+
+
+                                                        MINISTER OF RAILWAYS, COMMUNICATIONS AND ELECTRONICS & INFORMATION TECHNOLOGY(SHRI ASHWINI VAISHNAW)(a) & (b): Yes, Sir.  Technology improvement/development  for modernization of Indian Railways is a continuous process. The various steps taken by Indian Railways in this regard are as under:(1) Track: (i) Modern track structure consisting of Pre-stressed Concrete Sleeper (PSC) Normal/Wide base sleepers with elastic fastening, 60 kg, 90 or higher Ultimate Tensile Strength (UTS) rails, fan shaped layout turnout on PSC sleepers, Steel Channel Sleepers on girder bridges is used while carrying out primary track renewals. (ii) Long rail panels of 260 M/130M length are being manufactured  at the steel plant to minimize number of Alumino Thermit Joints in the track.(iii) Provision of Thick Web Switches (TWS), (iv)  Weldable Cast Manganese Steel (CMS) crossings, (v)  Using of improved fittings,(vi)  Maintenance of track with the help of track machines, (vii) Ultrasonic testing of rails to detect flaws, etc.(2)  Bridge: (i) Bridge Management System (BMS), a web based IT application has been developed  to facilitate 24x7 availability of information such as bridge drawings/design details, inspection details, photographs, videos, etc. for meaningful analysis, assessment of progressive deterioration and capacity to carry increased loads.  (ii) New and Modern Technologies introduced to upgrade inspection techniques of Bridges such as continuous water level measurement and monitoring system; inspection  of bridges using Drones, 3D scanning of riverbeds.(iii) Trials of continuous scour monitoring system are in progress.(iv) Trials for under water inspection by deploying Remote Operated Vehicles (ROV) are in progress.(3) Rolling Stock: (i) Advanced/improved technologies like Online Monitoring  of Rolling Stock System (OMRS) and Wheel Impact Load Detector (WILD) have been adopted for predictive maintenance of rolling stock.(ii)  Radio Frequency Identification (RFID) tags are being fitted on rolling stock to automatically track and trace the rolling asset moving over Indian Railways network.(iii)  In addition, other technological systems like Hot Box Detector (BBD) and Machine Vision Inspection System (MVIS) are also under development for implementation over Indian Railways.(4) EMU/MEMU:  (i)  Newly manufactured Electric Multiple Unit (EMU) trains,  Mainline Electrical Multiple Unit (MEMU)  trains, Kolkata Metro and Electric Train sets have been introduced with common technical features such as Introduction of IGBT based 3-Phase propulsion system with energy efficient regenerative braking features.(ii) Microprocessor based Train Control and Management System (TCMS), Corrosion less Stainless car body, (iii) Installation of GPS based Passenger Announcement cum Passenger Information System, (iv) Touch-screen Driver’s Display Unit provides live status of healthiness of major equipments of all basic units such as lights or fans, etc. (v) To ensure security  of passengers, Close Circuit Tele Vision Cameras in Coaches  as well as in Driver’s cabs have been provided which would be visible on Display in Driver’s/Guard’s cabs.(vi) Front view CCTV Cameras to record Signal aspects and Rear view cameras on both sides of Drivers Cab for recording platform status.(vii) Emergency Talk Back system/Panic Buttons, for passengers to communicate with Guard/Driver in case of emergency.(viii) Aesthetic plush interiors for comfort  of passengers,  Aerodynamic Nose Cone and Ergonomically designed Driver’s desk.(ix) Energy efficient LED lights in coaches for better illumination.(x) Under-slung Fully Air conditioned, Kolkata Metro rakes with Automatic doors, end to end vestibules, fitted with Train Protection and warning system  and fully suspended Traction Motors.(5) Main Line Trains:  (i) In Main Line Trains, EOG trains have been converted into HOG trains to reduce noise and air pollution at stations and in trains.  All LHB EOG trains have been converted into HOG compliant.  (ii) Energy efficient LED lights provided in coaches for better illumination.(6) Signalling System: (i)  Electronic Interlocking (EI) is being adopted on a large scale to derive benefits of digital technologies in train operation and to enhance safety, (ii) In order to increase line capacity to run more trains on existing High Density Routes of Indian Railways,  Automatic Block Signalling  is being provided,  (iii) Automatic Train Protection (ATP System called Kavach,   indigenously developed by Indian Railways, has been adopted in South Central Railway  for enhancing safety of running trains.  (7)  Coach: (i) With indigenous developed technology, Indian Railway has  manufactured Vande-Bharat Trains (Train-18).(ii) Indian Railway has already awarded contract for design, development, manufacture, supply, integration, testing and commissioning of IGBT based 3-Phase propulsion, control and other equipment (including Bogie assemblies) for manufacture of 44 Vande Bharat trains with improved suspension technology and energecy efficiency.(iii) Indian Railway also plans to acquire/manufacture 400 new generation energy efficient Vande Bharat trains with better energy efficiency and passenger riding experience.  (iv)  Modern Coach Factory (MCF)/Rae Bareli has signed a Transfer of Technology (ToT)  contract with M/s Dawonsys, South Korea for Design, Development, Manufacturing and Testing of Aluminium Body passenger coaches.(c) & (d): Indian Railways is making efforts to leverage the expertise and technical knowledge available with various sectors, including private sector, in the country for improving operational efficiency of Indian Railways.*****
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+HomeArchiveIndex to Select Questions (1984-1999)Ballot ListStatistical Statements Relating to QuestionsUploading of Questions - Status QueryProcedure for Sending Text of Questions & AnswersDemarcation of responsibilities in Govt. of IndiaBrochure on Statutory Corporations, Companies and Other Bodies in Which the Government of India have financial or controlling interestHighlights pertaining to questions of 17th Lok Sabha
+
+
+
+
+
+
+Contact Us 
+Disclaimer
+
+
+
+
+
+
+
+
+
+
+
+        Developed and Hosted by National Informatics Centre (NIC)
+
+Content on this website is published,
+            managed & maintained by Software Unit, Computer (HW & SW) Management. Branch,
+            Lok Sabha Secretariat
+
+
+
+
+
+HomeMembersBusinessQuestionsDebatesPapers Laid
+
+
+LegislationCommitteesSANSAD TVIntranetSecretariatPRIDE
+
+
+RecruitmentSC/ST ReservationConferenceParliament Library
+
+
+About ParliamentPhoto GalleryRelated LinksRTITendersFAQ
+
+
+SpeakerDy. SpeakerLeader of the HousePanel of ChairpersonsContact UsFeedback
+
+
+Council of MinistersPublications of MinistriesParliamentry ProceduresJournal of Parliamentary Information
+Visitor's Counter:113264690
+
+
+
+
+
+
+
+Copyright
+Privacy Policy
+Disclaimer
+Terms &
+                Conditions
+
+                Accessibility Statement
+Accessibility
+                Options
+Feedback
+Site Map
+
+
+
+
+
+
+

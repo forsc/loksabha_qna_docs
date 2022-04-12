@@ -1,0 +1,350 @@
+
+
+
+
+	Questions : Lok Sabha
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Screen Reader Access
+Skip to Main Content
+Skip to Navigation
+
+
+
+Text Size
+
+                                A
+
+                                A
+A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+हिन्दी मे
+
+
+
+
+
+
+
+
+Parliament of India Lok Sabha House of the
+                        People
+
+
+
+
+
+
+* Special Characters not allowed
+
+
+
+
+
+
+
+
+
+
+
+
+India Time 
+
+
+Your Time 
+
+
+                        Sunday,
+                        10 April 2022
+
+
+
+
+
+
+
+
+
+HomeMembersSitting MembersMembers Home PageMembers' PortalContact DetailsMembers SearchStatistical AnalysisAttendance of MembersHandbook Members Since 1952Digitized Who's WhoOthers BusinessProvisional CalendarList of BusinessPapers to be LaidList of Private Members' BusinessBulletin-IDigitized Lok Sabha Bulletin Part IBulletin-IIStatement of WorkSpecial Mentions (ZERO HOUR)Resume of WorkDigitized Resume of Work done by Lok Sabha QuestionsHomeQuestion ListStatus of notices of questionQuestions CalendarGrouping of Ministries - AlphabeticalOfficers in Min./Dept. Dealing with Parliamentary WorkQuestion SearchSupplementary Questions DebatesIntroductionSynopsisUncorrected DebateText of DebateDigitized DebatesConstituent Assembly DebatesWit And HumourDebate SearchHindi FontsDisclaimer Papers LaidPapers Laid on the Table of the House LegislationIntroduction(How Bill Becomes Act)Bills IntroducedBills PassedBills PendingBills AssentedBills LapsedBills WithdrawnBills NegativedBills Search Disclaimer CommitteesIntroductionChairpersonSummary of WorkCommittee Meetings ScheduleBills Referred to CommitteesReports PresentedDigitized ReportsPress ReleaseMembership SearchToday's Committee MeetingsCommittee Subject SelectedDepartment Related-RS Govt. AssurancesSANSAD TVIntranet
+
+
+
+
+
+HomeQuestion ListStatus of notices of questionQuestions CalendarGrouping of Ministries - AlphabeticalOfficers in Min./Dept. Dealing with Parliamentary WorkQuestion SearchSupplementary Questions
+
+
+
+
+
+
+
+
+
+
+
+Download as PDF
+
+
+
+
+Print
+
+
+
+
+
+
+
+
+
+
+
+
+PDF/WORD(Hindi)
+
+
+PDF/WORD
+
+
+
+
+                                    GOVERNMENT OF INDIA
+                                
+
+
+
+
+
+                                    MINISTRY OF
+                                    ELECTRONICS AND INFORMATION TECHNOLOGY
+
+
+
+
+
+
+                                    LOK SABHA
+                                
+
+
+
+
+
+UNSTARRED 
+
+
+                                    QUESTION NO:
+                                
+
+471
+
+
+
+
+
+
+                                    ANSWERED ON: 
+                                
+
+20.11.2019
+
+
+
+
+
+
+Linking of Aadhaar with Social Media
+
+
+
+
+S. Jothimani
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        Will the Minister of
+
+
+
+
+
+ELECTRONICS AND INFORMATION TECHNOLOGY
+
+
+                        be pleased to state:-
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                    Will the Minister of Electronics & Information Technology be pleased to state:-(a) 	whether the Government proposes to enact a law for linking Aadhaar with social media accounts of individuals and if so, the details thereof and the reasons therefor;(b) 	whether the Government has ordered the removal of objectionable online content posted on social media and if so, the details thereof and the details of topics included therein; and(c) 	The steps being taken by the Government to address the privacy concerns about the biometric data stored by UIDAI and leakages of personal information?
+
+
+
+
+
+
+ANSWER
+
+
+
+
+                                                        (a):    No, Sir. There is no such proposal with Government for linking Aadhaar with social media accounts of individuals.(b):  Section 69A of the Information Technology Act, 2000 empowers Government to block any information generated, transmitted, received, stored or hosted in any computer resource : (i) in the interest of sovereignty and integrity of India, (ii) defence of India, (iii) security of the State, (iv) friendly relations with foreign states,  (v) public order or (vi) for preventing incitement to the commission of any cognizable offence relating to above. Year-wise detail of no. of URLs blocked on social media platforms are as follows :Year	No. of URLs ordered for blocking2016	6332017	13852018	27992019  (till 31st October 2019)	3433 The order for blocking is issued for the topics mentioned above.(c):  Aadhaar is based on three core principles of minimal information, optimal ignorance and federated database. In its whole lifecycle an Aadhaar database contains only the information that the resident provides at the time of enrolment or updation. The database contains name, address, gender, date of birth/age, photograph and core biometrics (10 fingerprints and 2 iris scans) of the enrolled resident.  The database may also have mobile and email, if provided by the resident, during enrolment or updation. As a matter of policy and by design, UIDAI precludes itself from aggregating information arising from the use of Aadhaar, tracking and profiling individuals, and the system by intent, is blind to the purpose for which Aadhaar may be used at the front end by the resident.  Also, the core biometrics is encrypted at the time of enrolment/Updation. It is never kept unencrypted and is never shared. For security of Aadhaar data, UIDAI has a well-designed, multi-layer robust security system in place and the same is being constantly upgraded to maintain highest level of data security and integrity.  The architecture of Aadhaar ecosystem has been designed to ensure data security and privacy which is an integral part of the system from the initial design to the final stage.Various policies and procedures have been defined and are reviewed and updated continually thereby appropriately controlling and monitoring any movement of people, material and data in and out of UIDAI premises, particularly the data centres. UIDAI data is fully secured/ encrypted at all times i.e. at rest, in transit and in storage.  For further strengthening of security and privacy of data, security audits are conducted on regular basis. The security assurance of Aadhaar ecosystem has been strengthened with enactment of the Aadhaar (Targeted Delivery of Financial and Other Subsidies, Benefits and Services) Act, 2016 and subsequently the Aadhaar and Other Laws (Amendment) Act, 2019 which has stringent penalties/punishments for offenders.    UIDAI has been declared ISO 27001:2013 certified with respect to information security which has added another layer of IT security assurance.  The core infrastructure of Aadhaar has been notified as protected system under the provisions of section 70 of the Information Technology Act, 2000.******** 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+HomeArchiveIndex to Select Questions (1984-1999)Ballot ListStatistical Statements Relating to QuestionsUploading of Questions - Status QueryProcedure for Sending Text of Questions & AnswersDemarcation of responsibilities in Govt. of IndiaBrochure on Statutory Corporations, Companies and Other Bodies in Which the Government of India have financial or controlling interestHighlights pertaining to questions of 17th Lok Sabha
+
+
+
+
+
+
+Contact Us 
+Disclaimer
+
+
+
+
+
+
+
+
+
+
+
+        Developed and Hosted by National Informatics Centre (NIC)
+
+Content on this website is published,
+            managed & maintained by Software Unit, Computer (HW & SW) Management. Branch,
+            Lok Sabha Secretariat
+
+
+
+
+
+HomeMembersBusinessQuestionsDebatesPapers Laid
+
+
+LegislationCommitteesSANSAD TVIntranetSecretariatPRIDE
+
+
+RecruitmentSC/ST ReservationConferenceParliament Library
+
+
+About ParliamentPhoto GalleryRelated LinksRTITendersFAQ
+
+
+SpeakerDy. SpeakerLeader of the HousePanel of ChairpersonsContact UsFeedback
+
+
+Council of MinistersPublications of MinistriesParliamentry ProceduresJournal of Parliamentary Information
+Visitor's Counter:113119410
+
+
+
+
+
+
+
+Copyright
+Privacy Policy
+Disclaimer
+Terms &
+                Conditions
+
+                Accessibility Statement
+Accessibility
+                Options
+Feedback
+Site Map
+
+
+
+
+
+
+

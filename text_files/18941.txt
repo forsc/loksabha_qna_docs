@@ -1,0 +1,403 @@
+
+
+
+
+	Questions : Lok Sabha
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Screen Reader Access
+Skip to Main Content
+Skip to Navigation
+
+
+
+Text Size
+
+                                A
+
+                                A
+A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+हिन्दी मे
+
+
+
+
+
+
+
+
+Parliament of India Lok Sabha House of the
+                        People
+
+
+
+
+
+
+* Special Characters not allowed
+
+
+
+
+
+
+
+
+
+
+
+
+India Time 
+
+
+Your Time 
+
+
+                        Monday,
+                        11 April 2022
+
+
+
+
+
+
+
+
+
+HomeMembersSitting MembersMembers Home PageMembers' PortalContact DetailsMembers SearchStatistical AnalysisAttendance of MembersHandbook Members Since 1952Digitized Who's WhoOthers BusinessProvisional CalendarList of BusinessPapers to be LaidList of Private Members' BusinessBulletin-IDigitized Lok Sabha Bulletin Part IBulletin-IIStatement of WorkSpecial Mentions (ZERO HOUR)Resume of WorkDigitized Resume of Work done by Lok Sabha QuestionsHomeQuestion ListStatus of notices of questionQuestions CalendarGrouping of Ministries - AlphabeticalOfficers in Min./Dept. Dealing with Parliamentary WorkQuestion SearchSupplementary Questions DebatesIntroductionSynopsisUncorrected DebateText of DebateDigitized DebatesConstituent Assembly DebatesWit And HumourDebate SearchHindi FontsDisclaimer Papers LaidPapers Laid on the Table of the House LegislationIntroduction(How Bill Becomes Act)Bills IntroducedBills PassedBills PendingBills AssentedBills LapsedBills WithdrawnBills NegativedBills Search Disclaimer CommitteesIntroductionChairpersonSummary of WorkCommittee Meetings ScheduleBills Referred to CommitteesReports PresentedDigitized ReportsPress ReleaseMembership SearchToday's Committee MeetingsCommittee Subject SelectedDepartment Related-RS Govt. AssurancesSANSAD TVIntranet
+
+
+
+
+
+HomeQuestion ListStatus of notices of questionQuestions CalendarGrouping of Ministries - AlphabeticalOfficers in Min./Dept. Dealing with Parliamentary WorkQuestion SearchSupplementary Questions
+
+
+
+
+
+
+
+
+
+
+
+Download as PDF
+
+
+
+
+Print
+
+
+
+
+
+
+
+
+
+
+
+
+PDF/WORD(Hindi)
+
+
+PDF/WORD
+
+
+
+
+                                    GOVERNMENT OF INDIA
+                                
+
+
+
+
+
+                                    MINISTRY OF
+                                    COMMUNICATIONS
+
+
+
+
+
+
+                                    LOK SABHA
+                                
+
+
+
+
+
+UNSTARRED 
+
+
+                                    QUESTION NO:
+                                
+
+384
+
+
+
+
+
+
+                                    ANSWERED ON: 
+                                
+
+03.02.2021
+
+
+
+
+
+
+Wi-Fi Network
+
+
+
+
+Kuldeep Rai Sharma
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                    Amol Ramsing Kolhe
+                                                
+
+
+
+
+
+
+
+
+                                                    Sunil Dattatray Tatkare
+                                                
+
+
+
+
+
+
+
+
+                                                    Subhash Ramrao Bhamre
+                                                
+
+
+
+
+
+
+
+
+                                                    Supriya Sadanand Sule
+                                                
+
+
+
+
+
+
+
+
+                                                    DNV Senthilkumar. S.
+                                                
+
+
+
+
+
+
+
+
+
+
+
+
+                        Will the Minister of
+
+
+
+
+
+COMMUNICATIONS
+
+
+                        be pleased to state:-
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                    (a) 	whether the Government has recently approved the setting up of Wi-Fi Networks all over the country and if so, the details thereof ; (b) 	the number of data centres to be set up to launch the massive Wi-Fi network and the criteria fixed by the Government for setting up such data centres; (c) 	whether the Government is way behind in achieving the target of enabling internet reac to people as provided in National Digital Communication policy, 2018; (d) 	if so, the details thereof and the reasons therefor; and (e) 	the corrective steps taken/being taken by the Government in this regard?
+
+
+
+
+
+
+ANSWER
+
+
+
+
+                                                        MINISTER OF STATE FOR COMMUNICATIONS, EDUCATION ANDELECTRONICS & INFORMATION TECHNOLOGY (SHRI SANJAY DHOTRE)(a)  	Yes, Sir. The proposal of the Department for Proliferation of Broadband through Public Wi-Fi Networks based on Wireless Access Network Interface (WANI) framework has been approved by the Cabinet in its meeting held on 9/12/2020. As per the  WANI framework, it is envisaged that last mile broadband connectivity, will be through a network of public Wi-Fi access points. The backhaul requirement for these Wi-Fi access points to be met by internet bandwidth from the telecom service providers/internet service providers.  Under the distributed architecture and unbundling of functions, the WANI eco-system consists of following players: •	Public Data Office (PDO): To establish, maintain, and operate WANI compliant Wi-Fi Access Points and deliver broadband services to subscribers. •	Public Data Office Aggregator (PDOA): An aggregator of PDOs and perform the functions relating to Authorization and Accounting. •	App Provider:  To register users and discover WANI compliant Wi-Fi hotspots in the nearby area and display the same within the App for accessing the internet service.•	Central Registry: To maintain, in accordance with the WANI architecture and specifications, the details of App Providers, PDOAs, and PDOs. (b)    	The WANI framework does not involve setting up of data centres.(c) to (e) 	The National Digital Communications Policy 2018 (NDCP-2018) was notified on 22nd October, 2018 with a strategic objective of providing Broadband for all. Internet is being currently accessed mainly through mobile wireless technologies which at present cover more than 95% of the total population of the country. Setting up of public Wi-Fi Hotspots by entrepreneurs under WANI framework will further enhance the penetration of internet services in the country. ************
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+HomeArchiveIndex to Select Questions (1984-1999)Ballot ListStatistical Statements Relating to QuestionsUploading of Questions - Status QueryProcedure for Sending Text of Questions & AnswersDemarcation of responsibilities in Govt. of IndiaBrochure on Statutory Corporations, Companies and Other Bodies in Which the Government of India have financial or controlling interestHighlights pertaining to questions of 17th Lok Sabha
+
+
+
+
+
+
+Contact Us 
+Disclaimer
+
+
+
+
+
+
+
+
+
+
+
+        Developed and Hosted by National Informatics Centre (NIC)
+
+Content on this website is published,
+            managed & maintained by Software Unit, Computer (HW & SW) Management. Branch,
+            Lok Sabha Secretariat
+
+
+
+
+
+HomeMembersBusinessQuestionsDebatesPapers Laid
+
+
+LegislationCommitteesSANSAD TVIntranetSecretariatPRIDE
+
+
+RecruitmentSC/ST ReservationConferenceParliament Library
+
+
+About ParliamentPhoto GalleryRelated LinksRTITendersFAQ
+
+
+SpeakerDy. SpeakerLeader of the HousePanel of ChairpersonsContact UsFeedback
+
+
+Council of MinistersPublications of MinistriesParliamentry ProceduresJournal of Parliamentary Information
+Visitor's Counter:113199612
+
+
+
+
+
+
+
+Copyright
+Privacy Policy
+Disclaimer
+Terms &
+                Conditions
+
+                Accessibility Statement
+Accessibility
+                Options
+Feedback
+Site Map
+
+
+
+
+
+
+

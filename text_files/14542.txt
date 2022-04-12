@@ -1,0 +1,350 @@
+
+
+
+
+	Questions : Lok Sabha
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Screen Reader Access
+Skip to Main Content
+Skip to Navigation
+
+
+
+Text Size
+
+                                A
+
+                                A
+A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+हिन्दी मे
+
+
+
+
+
+
+
+
+Parliament of India Lok Sabha House of the
+                        People
+
+
+
+
+
+
+* Special Characters not allowed
+
+
+
+
+
+
+
+
+
+
+
+
+India Time 
+
+
+Your Time 
+
+
+                        Monday,
+                        11 April 2022
+
+
+
+
+
+
+
+
+
+HomeMembersSitting MembersMembers Home PageMembers' PortalContact DetailsMembers SearchStatistical AnalysisAttendance of MembersHandbook Members Since 1952Digitized Who's WhoOthers BusinessProvisional CalendarList of BusinessPapers to be LaidList of Private Members' BusinessBulletin-IDigitized Lok Sabha Bulletin Part IBulletin-IIStatement of WorkSpecial Mentions (ZERO HOUR)Resume of WorkDigitized Resume of Work done by Lok Sabha QuestionsHomeQuestion ListStatus of notices of questionQuestions CalendarGrouping of Ministries - AlphabeticalOfficers in Min./Dept. Dealing with Parliamentary WorkQuestion SearchSupplementary Questions DebatesIntroductionSynopsisUncorrected DebateText of DebateDigitized DebatesConstituent Assembly DebatesWit And HumourDebate SearchHindi FontsDisclaimer Papers LaidPapers Laid on the Table of the House LegislationIntroduction(How Bill Becomes Act)Bills IntroducedBills PassedBills PendingBills AssentedBills LapsedBills WithdrawnBills NegativedBills Search Disclaimer CommitteesIntroductionChairpersonSummary of WorkCommittee Meetings ScheduleBills Referred to CommitteesReports PresentedDigitized ReportsPress ReleaseMembership SearchToday's Committee MeetingsCommittee Subject SelectedDepartment Related-RS Govt. AssurancesSANSAD TVIntranet
+
+
+
+
+
+HomeQuestion ListStatus of notices of questionQuestions CalendarGrouping of Ministries - AlphabeticalOfficers in Min./Dept. Dealing with Parliamentary WorkQuestion SearchSupplementary Questions
+
+
+
+
+
+
+
+
+
+
+
+Download as PDF
+
+
+
+
+Print
+
+
+
+
+
+
+
+
+
+
+
+
+PDF/WORD(Hindi)
+
+
+PDF/WORD
+
+
+
+
+                                    GOVERNMENT OF INDIA
+                                
+
+
+
+
+
+                                    MINISTRY OF
+                                    HEALTH AND FAMILY WELFARE
+
+
+
+
+
+
+                                    LOK SABHA
+                                
+
+
+
+
+
+UNSTARRED 
+
+
+                                    QUESTION NO:
+                                
+
+3379
+
+
+
+
+
+
+                                    ANSWERED ON: 
+                                
+
+13.03.2020
+
+
+
+
+
+
+Muddling of Electronic Medical Records
+
+
+
+
+Sajda Ahmed
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        Will the Minister of
+
+
+
+
+
+HEALTH AND FAMILY WELFARE
+
+
+                        be pleased to state:-
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                    Will the Minister of HEALTH AND FAMILY WELFARE be pleased to state:(a) whether the Government has taken note of the fact that health data taken in Public health establishment is being supplied to corporates;(b) if so, the details thereof and the corrective steps taken in this regard;(c) whether the Government has formulated any robust system to protect data of patients being taken in public health data system, if so, the details thereof; and(d) whether any system is being adopted for interoperability of data between State and centre, if so, the details thereof and if not, the reasons therefor?
+
+
+
+
+
+
+ANSWER
+
+
+
+
+                                                        ANSWERTHE MINISTER OF STATE IN THE MINISTRY OF HEALTH AND FAMILY WELFARE(SHRI ASHWINI KUMAR CHOUBEY)(a) & (b):	No instance of sharing of health data created in Public Health establishment with corporates has come to the notice of Government in recent past.(c):	Government of India has proposed for an architectural framework for Digital health in India in National Digital Health Blueprint (NDHB).National Digital Health Blueprint (NDHB) proposes for regulatory requirements to be built into the design of Digital Health Ecosystem a priori, rather than being retrofitted.The Blueprint proposes to achieve complex and mandatory requirements through a combination of building blocks, particularly Consent Manager, Anonymizer and Security and Privacy Operations Centre. Besides these building blocks, application-specific features and relevant international standards defined in the Blueprint fortify the privacy regime.National Digital Health Blueprint (NDHB) also advocates for “Ensure security and privacy by design” and proposed for a National Policy on Security of Health Systems and Privacy of Personal Health Records which will be developed under NDHB. All the building blocks that require handling personal health records will be designed to comply with such policy ab-initio.The National Digital Health Mission (NDHM) will facilitate the anonymization of data and Consent Framework through appropriate software, utilities, hardware etc. ensuring conformance to NDHB principles.(d):	Ministry of Health & Family Welfare (MoHFW) has notified the Electronic Health Record (EHR) Standards in December 2016 with an intent to bring standardization and homogeneity, interoperability in capture, storage, transmission of healthcare information across various Information Technology (IT) systems. All the States/Union Territories Governments, Central Government and autonomous Hospitals have been advised to adopt the Electronic Health Record (EHR) standards in all Information Technology (IT) applications in Healthcare.Metadata and Data Standards (MDDS) for health has been notified in 2018 to enable semantic interoperability among healthcare applications.The key objective of National Digital Health Blueprint (NDHB) includes “data capture at once”; creation of strong facility registry for use by several actors in the ecosystem; creation of Electronic Health Record (EHR) across health facilities to ensure interoperability amongst digital health solutions. create a strong facility registry for use by several actors in the ecosystem.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+HomeArchiveIndex to Select Questions (1984-1999)Ballot ListStatistical Statements Relating to QuestionsUploading of Questions - Status QueryProcedure for Sending Text of Questions & AnswersDemarcation of responsibilities in Govt. of IndiaBrochure on Statutory Corporations, Companies and Other Bodies in Which the Government of India have financial or controlling interestHighlights pertaining to questions of 17th Lok Sabha
+
+
+
+
+
+
+Contact Us 
+Disclaimer
+
+
+
+
+
+
+
+
+
+
+
+        Developed and Hosted by National Informatics Centre (NIC)
+
+Content on this website is published,
+            managed & maintained by Software Unit, Computer (HW & SW) Management. Branch,
+            Lok Sabha Secretariat
+
+
+
+
+
+HomeMembersBusinessQuestionsDebatesPapers Laid
+
+
+LegislationCommitteesSANSAD TVIntranetSecretariatPRIDE
+
+
+RecruitmentSC/ST ReservationConferenceParliament Library
+
+
+About ParliamentPhoto GalleryRelated LinksRTITendersFAQ
+
+
+SpeakerDy. SpeakerLeader of the HousePanel of ChairpersonsContact UsFeedback
+
+
+Council of MinistersPublications of MinistriesParliamentry ProceduresJournal of Parliamentary Information
+Visitor's Counter:113183053
+
+
+
+
+
+
+
+Copyright
+Privacy Policy
+Disclaimer
+Terms &
+                Conditions
+
+                Accessibility Statement
+Accessibility
+                Options
+Feedback
+Site Map
+
+
+
+
+
+
+

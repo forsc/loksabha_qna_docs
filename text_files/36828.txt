@@ -1,0 +1,383 @@
+
+
+
+
+	Questions : Lok Sabha
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Screen Reader Access
+Skip to Main Content
+Skip to Navigation
+
+
+
+Text Size
+
+                                A
+
+                                A
+A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+हिन्दी मे
+
+
+
+
+
+
+
+
+Parliament of India Lok Sabha House of the
+                        People
+
+
+
+
+
+
+* Special Characters not allowed
+
+
+
+
+
+
+
+
+
+
+
+
+India Time 
+
+
+Your Time 
+
+
+                        Tuesday,
+                        12 April 2022
+
+
+
+
+
+
+
+
+
+HomeMembersSitting MembersMembers Home PageMembers' PortalContact DetailsMembers SearchStatistical AnalysisAttendance of MembersHandbook Members Since 1952Digitized Who's WhoOthers BusinessProvisional CalendarList of BusinessPapers to be LaidList of Private Members' BusinessBulletin-IDigitized Lok Sabha Bulletin Part IBulletin-IIStatement of WorkSpecial Mentions (ZERO HOUR)Resume of WorkDigitized Resume of Work done by Lok Sabha QuestionsHomeQuestion ListStatus of notices of questionQuestions CalendarGrouping of Ministries - AlphabeticalOfficers in Min./Dept. Dealing with Parliamentary WorkQuestion SearchSupplementary Questions DebatesIntroductionSynopsisUncorrected DebateText of DebateDigitized DebatesConstituent Assembly DebatesWit And HumourDebate SearchHindi FontsDisclaimer Papers LaidPapers Laid on the Table of the House LegislationIntroduction(How Bill Becomes Act)Bills IntroducedBills PassedBills PendingBills AssentedBills LapsedBills WithdrawnBills NegativedBills Search Disclaimer CommitteesIntroductionChairpersonSummary of WorkCommittee Meetings ScheduleBills Referred to CommitteesReports PresentedDigitized ReportsPress ReleaseMembership SearchToday's Committee MeetingsCommittee Subject SelectedDepartment Related-RS Govt. AssurancesSANSAD TVIntranet
+
+
+
+
+
+HomeQuestion ListStatus of notices of questionQuestions CalendarGrouping of Ministries - AlphabeticalOfficers in Min./Dept. Dealing with Parliamentary WorkQuestion SearchSupplementary Questions
+
+
+
+
+
+
+
+
+
+
+
+Download as PDF
+
+
+
+
+Print
+
+
+
+
+
+
+
+
+
+
+
+
+PDF/WORD(Hindi)
+
+
+PDF/WORD
+
+
+
+
+                                    GOVERNMENT OF INDIA
+                                
+
+
+
+
+
+                                    MINISTRY OF
+                                    FINANCE
+
+
+
+
+
+
+                                    LOK SABHA
+                                
+
+
+
+
+
+UNSTARRED 
+
+
+                                    QUESTION NO:
+                                
+
+3979
+
+
+
+
+
+
+                                    ANSWERED ON: 
+                                
+
+28.03.2022
+
+
+
+
+
+
+Irregularities in NSE
+
+
+
+
+Dayanidhi Maran
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                    Rajiv Ranjan (Lalan) Singh
+                                                
+
+
+
+
+
+
+
+
+                                                    Manish Tewari
+                                                
+
+
+
+
+
+
+
+
+                                                    S. Venkatesan
+                                                
+
+
+
+
+
+
+
+
+
+
+
+
+                        Will the Minister of
+
+
+
+
+
+FINANCE
+
+
+                        be pleased to state:-
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                    (a) whether it is a fact that former National Stock Exchange (NSE) Managing Director allegedly abused the server architecture of the Exchange to provide biased and quicker access to a private company and quantum of the data illegally shared;(b) if so, the details thereof along with name of the private company that was allegedly favored;(c) whether the case was registered in 2018 and yet the investigation is being conducted only now in 2022 and if so, the reasons for the delay; (d) whether it is a fact that this fraud was caused by installation of a small device and if so, whether the security measures at the NSE are lax and susceptible to such and bigger threats like a cyber-attack in the future;(e) if so, whether any steps have been taken to harden the security of the trading platforms and if so, the details thereof along with the details of cyber- security teams engaged to identify and trace the leak of sensitive information including the people involved;(f) the details of other actions taken by the Government/ SEBI in the irregularities found in NSE and against those found involved therein; and (g) whether lot of foreign exchange involved in NSE and RBI roll is to be reviewed to avoid any such frauds in future and if so, the details thereof along with other measures taken in this regard?
+
+
+
+
+
+
+ANSWER
+
+
+
+
+                                                        THE MINISTER OF STATE IN THE MINISTRY OF FINANCE(a) and (b): SEBI received certain complaints in the year 2015 alleging certain irregularities in respect of co-location facility provided by NSE.  On examination/investigation by SEBI, it was noticed that due to lack of sufficient checks in the system architecture, a few stock brokers connected to the exchange market data feed system through secondary server and had latency advantage. For lapses in this regard, NSE’s former MD and CEOs have been held responsible for breaches of the relevant provisions of Securities Contracts (Regulations) (Stock Exchanges and Clearing Corporations) Regulations, 2012. Further, SEBI passed various order against M/s OPG Securities Private Limited and initiated adjudication proceedings against various entities in the matter of preferential access to Tick-By-Tick (TBT) data feed to certain trading members. (c): CBI has registered a case in the year 2018 under sections 120-B, 204 Indian Penal Code & Sections 7, 12, 13(2) read with 13(1)(d) of Prevention of Corruption Act, 1988 and Section 66 of Information Technology Act, 2000. CBI has informed that substantial progress has been made in the investigation of the case. (d) & (e): SEBI did not come across any instance to suggest that fraud was caused by installation of a small device. Co-location issue at NSE was caused by NSE not exercising the requisite due diligence while putting in place the TBT market data feed dissemination architecture. (f): SEBI after thorough examination initiated proceedings against NSE and other entities and consequently passed orders in the matter of NSE Colocation TBT data, NSE-Dark Fibre and NSE corporate governance. Further, Income Tax Department has conducted investigations to unearth the evasion of tax in case of a few individuals and entities who were alleged to be involved in the irregularities found in NSE. However, disclosure of information about specific cases is prohibited except as provided under Section 138 of the Income Tax Act, 1961.(g): Allegations in the co-location matter are in the nature of preferential access provided to certain trading members and not of involvement of foreign exchange. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+HomeArchiveIndex to Select Questions (1984-1999)Ballot ListStatistical Statements Relating to QuestionsUploading of Questions - Status QueryProcedure for Sending Text of Questions & AnswersDemarcation of responsibilities in Govt. of IndiaBrochure on Statutory Corporations, Companies and Other Bodies in Which the Government of India have financial or controlling interestHighlights pertaining to questions of 17th Lok Sabha
+
+
+
+
+
+
+Contact Us 
+Disclaimer
+
+
+
+
+
+
+
+
+
+
+
+        Developed and Hosted by National Informatics Centre (NIC)
+
+Content on this website is published,
+            managed & maintained by Software Unit, Computer (HW & SW) Management. Branch,
+            Lok Sabha Secretariat
+
+
+
+
+
+HomeMembersBusinessQuestionsDebatesPapers Laid
+
+
+LegislationCommitteesSANSAD TVIntranetSecretariatPRIDE
+
+
+RecruitmentSC/ST ReservationConferenceParliament Library
+
+
+About ParliamentPhoto GalleryRelated LinksRTITendersFAQ
+
+
+SpeakerDy. SpeakerLeader of the HousePanel of ChairpersonsContact UsFeedback
+
+
+Council of MinistersPublications of MinistriesParliamentry ProceduresJournal of Parliamentary Information
+Visitor's Counter:113262777
+
+
+
+
+
+
+
+Copyright
+Privacy Policy
+Disclaimer
+Terms &
+                Conditions
+
+                Accessibility Statement
+Accessibility
+                Options
+Feedback
+Site Map
+
+
+
+
+
+
+

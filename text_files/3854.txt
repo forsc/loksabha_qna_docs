@@ -1,0 +1,383 @@
+
+
+
+
+	Questions : Lok Sabha
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Screen Reader Access
+Skip to Main Content
+Skip to Navigation
+
+
+
+Text Size
+
+                                A
+
+                                A
+A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+हिन्दी मे
+
+
+
+
+
+
+
+
+Parliament of India Lok Sabha House of the
+                        People
+
+
+
+
+
+
+* Special Characters not allowed
+
+
+
+
+
+
+
+
+
+
+
+
+India Time 
+
+
+Your Time 
+
+
+                        Sunday,
+                        10 April 2022
+
+
+
+
+
+
+
+
+
+HomeMembersSitting MembersMembers Home PageMembers' PortalContact DetailsMembers SearchStatistical AnalysisAttendance of MembersHandbook Members Since 1952Digitized Who's WhoOthers BusinessProvisional CalendarList of BusinessPapers to be LaidList of Private Members' BusinessBulletin-IDigitized Lok Sabha Bulletin Part IBulletin-IIStatement of WorkSpecial Mentions (ZERO HOUR)Resume of WorkDigitized Resume of Work done by Lok Sabha QuestionsHomeQuestion ListStatus of notices of questionQuestions CalendarGrouping of Ministries - AlphabeticalOfficers in Min./Dept. Dealing with Parliamentary WorkQuestion SearchSupplementary Questions DebatesIntroductionSynopsisUncorrected DebateText of DebateDigitized DebatesConstituent Assembly DebatesWit And HumourDebate SearchHindi FontsDisclaimer Papers LaidPapers Laid on the Table of the House LegislationIntroduction(How Bill Becomes Act)Bills IntroducedBills PassedBills PendingBills AssentedBills LapsedBills WithdrawnBills NegativedBills Search Disclaimer CommitteesIntroductionChairpersonSummary of WorkCommittee Meetings ScheduleBills Referred to CommitteesReports PresentedDigitized ReportsPress ReleaseMembership SearchToday's Committee MeetingsCommittee Subject SelectedDepartment Related-RS Govt. AssurancesSANSAD TVIntranet
+
+
+
+
+
+HomeQuestion ListStatus of notices of questionQuestions CalendarGrouping of Ministries - AlphabeticalOfficers in Min./Dept. Dealing with Parliamentary WorkQuestion SearchSupplementary Questions
+
+
+
+
+
+
+
+
+
+
+
+Download as PDF
+
+
+
+
+Print
+
+
+
+
+
+
+
+
+
+
+
+
+PDF/WORD(Hindi)
+
+
+PDF/WORD
+
+
+
+
+                                    GOVERNMENT OF INDIA
+                                
+
+
+
+
+
+                                    MINISTRY OF
+                                    FINANCE
+
+
+
+
+
+
+                                    LOK SABHA
+                                
+
+
+
+
+
+UNSTARRED 
+
+
+                                    QUESTION NO:
+                                
+
+3613
+
+
+
+
+
+
+                                    ANSWERED ON: 
+                                
+
+15.07.2019
+
+
+
+
+
+
+Cross Border Transaction Data
+
+
+
+
+Gajanan Chandrakant Kirtikar
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                    Sanjay Sadashivrao Mandlik
+                                                
+
+
+
+
+
+
+
+
+                                                    Sudheer Gupta
+                                                
+
+
+
+
+
+
+
+
+                                                    Bidyut Baran Mahato
+                                                
+
+
+
+
+
+
+
+
+
+
+
+
+                        Will the Minister of
+
+
+
+
+
+FINANCE
+
+
+                        be pleased to state:-
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                    a)	whether the Reserve Bank of India (RBI) has said/clarified that for cross border transaction data consisting of a foreign component, a copy of the domestic component may also be stored abroad, if required and if so, the details along with the aims and objectives thereof;b)	whether the RBI clarification will change the data localisation norms and if so, the details thereof;c)	whether the RBI has asked payment system operators to store data released payment in India for transaction details and information pertaining to payment and settlement and if so, the details thereof; andd)	the extent to which these regulations are likely to affect companies?
+
+
+
+
+
+
+ANSWER
+
+
+
+
+                                                        MINISTER OF STATE (FINANCE)(SHRI ANURAG SINGH THAKUR)(a)  to (d): The Reserve Bank of India (RBI) issued a directive vide circular DPSS.CO.OD.No 2785 / 06.08.005/2017-18, dated April 06, 2018 on ‘Storage of Payment System Data’,  advising all system providers to ensure that the entire data relating to payment systems operated by them is stored in a system only in India, within a period of six months. It further provided that for the foreign leg of the transaction, if any, the data can also be stored in the foreign country, if required.   RBI, vide FAQs issued on June 26, 2019 have clarified that for cross border transaction data, consisting of a foreign component and a domestic component, a copy of the domestic component may also be stored abroad, if required.  In case the processing is done abroad, the data should be deleted from systems abroad and brought back to India not later than 24 hours from payment processing or 1 business day, whichever is earlier. However, there is no change in the data localization norms issued by RBI on April 06, 2018 on ‘Storage of Payment System Data’.The directions are applicable to all authorised / approved payment system providers, banks operating in India and also in respect of transactions through system participants, service providers, intermediaries, payment gateways, third party vendors and other entities in the payments ecosystem, who are retained or engaged by the authorised / approved entities for providing payment services. The responsibility to ensure compliance with the provisions of these directions would be on the authorised / approved PSOs.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+HomeArchiveIndex to Select Questions (1984-1999)Ballot ListStatistical Statements Relating to QuestionsUploading of Questions - Status QueryProcedure for Sending Text of Questions & AnswersDemarcation of responsibilities in Govt. of IndiaBrochure on Statutory Corporations, Companies and Other Bodies in Which the Government of India have financial or controlling interestHighlights pertaining to questions of 17th Lok Sabha
+
+
+
+
+
+
+Contact Us 
+Disclaimer
+
+
+
+
+
+
+
+
+
+
+
+        Developed and Hosted by National Informatics Centre (NIC)
+
+Content on this website is published,
+            managed & maintained by Software Unit, Computer (HW & SW) Management. Branch,
+            Lok Sabha Secretariat
+
+
+
+
+
+HomeMembersBusinessQuestionsDebatesPapers Laid
+
+
+LegislationCommitteesSANSAD TVIntranetSecretariatPRIDE
+
+
+RecruitmentSC/ST ReservationConferenceParliament Library
+
+
+About ParliamentPhoto GalleryRelated LinksRTITendersFAQ
+
+
+SpeakerDy. SpeakerLeader of the HousePanel of ChairpersonsContact UsFeedback
+
+
+Council of MinistersPublications of MinistriesParliamentry ProceduresJournal of Parliamentary Information
+Visitor's Counter:113093509
+
+
+
+
+
+
+
+Copyright
+Privacy Policy
+Disclaimer
+Terms &
+                Conditions
+
+                Accessibility Statement
+Accessibility
+                Options
+Feedback
+Site Map
+
+
+
+
+
+
+

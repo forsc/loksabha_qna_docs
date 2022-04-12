@@ -1,0 +1,350 @@
+
+
+
+
+	Questions : Lok Sabha
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Screen Reader Access
+Skip to Main Content
+Skip to Navigation
+
+
+
+Text Size
+
+                                A
+
+                                A
+A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+हिन्दी मे
+
+
+
+
+
+
+
+
+Parliament of India Lok Sabha House of the
+                        People
+
+
+
+
+
+
+* Special Characters not allowed
+
+
+
+
+
+
+
+
+
+
+
+
+India Time 
+
+
+Your Time 
+
+
+                        Tuesday,
+                        12 April 2022
+
+
+
+
+
+
+
+
+
+HomeMembersSitting MembersMembers Home PageMembers' PortalContact DetailsMembers SearchStatistical AnalysisAttendance of MembersHandbook Members Since 1952Digitized Who's WhoOthers BusinessProvisional CalendarList of BusinessPapers to be LaidList of Private Members' BusinessBulletin-IDigitized Lok Sabha Bulletin Part IBulletin-IIStatement of WorkSpecial Mentions (ZERO HOUR)Resume of WorkDigitized Resume of Work done by Lok Sabha QuestionsHomeQuestion ListStatus of notices of questionQuestions CalendarGrouping of Ministries - AlphabeticalOfficers in Min./Dept. Dealing with Parliamentary WorkQuestion SearchSupplementary Questions DebatesIntroductionSynopsisUncorrected DebateText of DebateDigitized DebatesConstituent Assembly DebatesWit And HumourDebate SearchHindi FontsDisclaimer Papers LaidPapers Laid on the Table of the House LegislationIntroduction(How Bill Becomes Act)Bills IntroducedBills PassedBills PendingBills AssentedBills LapsedBills WithdrawnBills NegativedBills Search Disclaimer CommitteesIntroductionChairpersonSummary of WorkCommittee Meetings ScheduleBills Referred to CommitteesReports PresentedDigitized ReportsPress ReleaseMembership SearchToday's Committee MeetingsCommittee Subject SelectedDepartment Related-RS Govt. AssurancesSANSAD TVIntranet
+
+
+
+
+
+HomeQuestion ListStatus of notices of questionQuestions CalendarGrouping of Ministries - AlphabeticalOfficers in Min./Dept. Dealing with Parliamentary WorkQuestion SearchSupplementary Questions
+
+
+
+
+
+
+
+
+
+
+
+Download as PDF
+
+
+
+
+Print
+
+
+
+
+
+
+
+
+
+
+
+
+PDF/WORD(Hindi)
+
+
+PDF/WORD
+
+
+
+
+                                    GOVERNMENT OF INDIA
+                                
+
+
+
+
+
+                                    MINISTRY OF
+                                    ELECTRONICS AND INFORMATION TECHNOLOGY
+
+
+
+
+
+
+                                    LOK SABHA
+                                
+
+
+
+
+
+UNSTARRED 
+
+
+                                    QUESTION NO:
+                                
+
+572
+
+
+
+
+
+
+                                    ANSWERED ON: 
+                                
+
+01.12.2021
+
+
+
+
+
+
+Schemes for increasing IT outreach
+
+
+
+
+Vijay Baghel
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        Will the Minister of
+
+
+
+
+
+ELECTRONICS AND INFORMATION TECHNOLOGY
+
+
+                        be pleased to state:-
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                    Will the Minister of ELECTRONICS & INFORMATION TECHNOLOGY be pleased to state: -(a).	the salient features of the schemes being implemented for increasing the outreach of information technology across the nation;(b).	whether the Government has made any efforts to extend the reach of information technology for the people residing in rural, hilly and remote areas;(c).	if so, the details thereof including Chhattisgarh;(d).	whether the Government has taken/propose to take effective steps for decentralization of information technology; and(e).	if so, the details thereof?
+
+
+
+
+
+
+ANSWER
+
+
+
+
+                                                        ): The Ministry of Electronics and Information Technology (MeitY), Government of India launched the ‘Digital India’ programme with the vision to transform India into a digitally empowered society and knowledge-based economy by ensuring digital access, digital inclusion, digital empowerment and bridging the digital divide. Digital India is an umbrella programme that covers multiple projects of various Central Ministries/Departments and States/UTs. The Digital India programme is centred on three key vision areas namely Digital Infrastructure as a Core Utility to Every Citizen, Governance and Services on Demand and Digital Empowerment of Citizens. Digital India has dramatically reduced distance between Government and citizens significantly. Further, Digital India has also helped in delivery of substantial services to citizens in corruption free manner and directly to the beneficiary.(b) and (c):Some of the key initiatives taken by the Government to make Information Technology accessible to the people living in rural, hilly and far flung areas of the country including Chhattisgarh are as follows: •	Common Services Centre (CSC): MeitY has initiated a project namely “Common Services Centre (CSC) 2.0” in August, 2015 under Digital India Programme, which envisages setting up of at least one CSC at Gram Panchayat (GP) to cover all the 2.5 lakh GPs across the country. Common Services Centres are internet enabled centres operated by local entrepreneur, called Village Level Entrepreneurs (VLEs) and provide eServices to rural citizens. Over 400 digital services are being offered by these CSCs. As on Oct, 2021, the number of functional CSCs (including urban & rural areas) across the Country is 4,18,436 CSCs, out of which, 3,25,781 CSCs are functional at Gram Panchayat level. In the state of Chhattisgarh, 17,400 CSCs are functional, out of them, 13,757 CSCs are functional at GP level.•	Digital Village: MeitY has also initiated the ’Digital Village Pilot Project” in October, 2018. 700 Gram Panchayats (GPs)/Village with atleast one Gram Panchayat/Village per District per State/UT are being covered under the project. The digital services being offered are Digital Health Services (Tele-Health & Tele-Veterinary consultation), Education Service, Financial Services, Skill Development, Solar panel powered street lights including Government to Citizens Services (G2C), Business to Citizen (B2C) Services. 27 villages from Chhattisgarh have been covered under the pilot project for Digital Village implementation.•	e-District Mission Mode Project (MMP): e-District project has been implemented at district and sub-district levels of all States/UTs, benefitting all citizens by delivering various e-Services such as Certificates (Birth, Caste, Death, Income and Local Resident), Pension (Old Age, Disability and Widow), Electoral, Consumer Court, Revenue Court, Land Record and services of various departments such as Commercial Tax, Agriculture, Labour, Employment Training & Skill Development etc. e-District services have been launched in 709 districts across 28 States/ 6 UTs. 129 e-services have been launched in all 28 districts of Chhattisgarh.•	Pradhan Mantri Gramin Digital Saksharta Abhiyaan (PMGDISHA): MeitY is implementing a scheme namely “Pradhan Mantri Gramin Digital Saksharta Abhiyan (PMGDISHA)” to usher in digital literacy in rural India by covering 6 Crore rural households (one person per household). The scheme is applicable to all rural areas of the country. So far, training has been imparted to 4.54+ crore candidates and out of this more than 3.37+ crore candidates have been certified. In the state of Chhattisgarh, training has been imparted to 21,54,260 candidates and out of this 16,29,621 candidates have been certified.(d) and (e):Digital India also actively advocate and works with State Governments for development of technology & entrepreneurship in various Tier-2 & Tier-3 towns of India led by organizations like Software Technology Park of India(STPI) & National Institute of Electronics & Information Technology (NIELIT). Further, National Informatics Centre (NIC), an attached office of Ministry of Electronics & Information Technology (MeitY), has its State Centres at State level and District level all over India. These State and District Centres continuously guide and assist various State & District level Government Offices in developing and implementing various ICT applications. NIC also provides various citizen centric services through its products and platforms such as e-Hospital, e-Counseling, Service plus, e-Transport, Jeevan Pramaan, National Scholarship Portal etc for fulfilling aspirations of the citizens. ******** 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+HomeArchiveIndex to Select Questions (1984-1999)Ballot ListStatistical Statements Relating to QuestionsUploading of Questions - Status QueryProcedure for Sending Text of Questions & AnswersDemarcation of responsibilities in Govt. of IndiaBrochure on Statutory Corporations, Companies and Other Bodies in Which the Government of India have financial or controlling interestHighlights pertaining to questions of 17th Lok Sabha
+
+
+
+
+
+
+Contact Us 
+Disclaimer
+
+
+
+
+
+
+
+
+
+
+
+        Developed and Hosted by National Informatics Centre (NIC)
+
+Content on this website is published,
+            managed & maintained by Software Unit, Computer (HW & SW) Management. Branch,
+            Lok Sabha Secretariat
+
+
+
+
+
+HomeMembersBusinessQuestionsDebatesPapers Laid
+
+
+LegislationCommitteesSANSAD TVIntranetSecretariatPRIDE
+
+
+RecruitmentSC/ST ReservationConferenceParliament Library
+
+
+About ParliamentPhoto GalleryRelated LinksRTITendersFAQ
+
+
+SpeakerDy. SpeakerLeader of the HousePanel of ChairpersonsContact UsFeedback
+
+
+Council of MinistersPublications of MinistriesParliamentry ProceduresJournal of Parliamentary Information
+Visitor's Counter:113223175
+
+
+
+
+
+
+
+Copyright
+Privacy Policy
+Disclaimer
+Terms &
+                Conditions
+
+                Accessibility Statement
+Accessibility
+                Options
+Feedback
+Site Map
+
+
+
+
+
+
+

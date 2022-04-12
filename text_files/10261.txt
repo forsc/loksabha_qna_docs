@@ -1,0 +1,363 @@
+
+
+
+
+	Questions : Lok Sabha
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Screen Reader Access
+Skip to Main Content
+Skip to Navigation
+
+
+
+Text Size
+
+                                A
+
+                                A
+A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+हिन्दी मे
+
+
+
+
+
+
+
+
+Parliament of India Lok Sabha House of the
+                        People
+
+
+
+
+
+
+* Special Characters not allowed
+
+
+
+
+
+
+
+
+
+
+
+
+India Time 
+
+
+Your Time 
+
+
+                        Monday,
+                        11 April 2022
+
+
+
+
+
+
+
+
+
+HomeMembersSitting MembersMembers Home PageMembers' PortalContact DetailsMembers SearchStatistical AnalysisAttendance of MembersHandbook Members Since 1952Digitized Who's WhoOthers BusinessProvisional CalendarList of BusinessPapers to be LaidList of Private Members' BusinessBulletin-IDigitized Lok Sabha Bulletin Part IBulletin-IIStatement of WorkSpecial Mentions (ZERO HOUR)Resume of WorkDigitized Resume of Work done by Lok Sabha QuestionsHomeQuestion ListStatus of notices of questionQuestions CalendarGrouping of Ministries - AlphabeticalOfficers in Min./Dept. Dealing with Parliamentary WorkQuestion SearchSupplementary Questions DebatesIntroductionSynopsisUncorrected DebateText of DebateDigitized DebatesConstituent Assembly DebatesWit And HumourDebate SearchHindi FontsDisclaimer Papers LaidPapers Laid on the Table of the House LegislationIntroduction(How Bill Becomes Act)Bills IntroducedBills PassedBills PendingBills AssentedBills LapsedBills WithdrawnBills NegativedBills Search Disclaimer CommitteesIntroductionChairpersonSummary of WorkCommittee Meetings ScheduleBills Referred to CommitteesReports PresentedDigitized ReportsPress ReleaseMembership SearchToday's Committee MeetingsCommittee Subject SelectedDepartment Related-RS Govt. AssurancesSANSAD TVIntranet
+
+
+
+
+
+HomeQuestion ListStatus of notices of questionQuestions CalendarGrouping of Ministries - AlphabeticalOfficers in Min./Dept. Dealing with Parliamentary WorkQuestion SearchSupplementary Questions
+
+
+
+
+
+
+
+
+
+
+
+Download as PDF
+
+
+
+
+Print
+
+
+
+
+
+
+
+
+
+
+
+
+PDF/WORD(Hindi)
+
+
+PDF/WORD
+
+
+
+
+                                    GOVERNMENT OF INDIA
+                                
+
+
+
+
+
+                                    MINISTRY OF
+                                    COMMUNICATIONS
+
+
+
+
+
+
+                                    LOK SABHA
+                                
+
+
+
+
+
+STARRED   
+
+
+                                    QUESTION NO:
+                                
+
+331
+
+
+
+
+
+
+                                    ANSWERED ON: 
+                                
+
+11.12.2019
+
+
+
+
+
+
+Services of BSNL
+
+
+
+
+Sujay Radhakrishna Vikhepatil
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                    Sambhajirao Mane Dhairyasheel
+                                                
+
+
+
+
+
+
+
+
+
+
+
+
+                        Will the Minister of
+
+
+
+
+
+COMMUNICATIONS
+
+
+                        be pleased to state:-
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                    (a) 	whether the condition of mobile, landline telephone and internet services of Bharat Sanchar Nigam Limited (BSNL) in rural and remote areas is poor and unsatisfactory and if so, the details thereof; (b) 	the details of the districts in Maharashtra in terms of poor service and the remedial measures taken/proposed by the Government to bring improvement in the services; (c) 	the details of proposed base tower stations to be established in less accessible areas in Maharashtra; (d) 	whether a large number of base tower stations in rural and remote areas are not functioning and there is no adequate power back up due to lack of fuel or theft of allocated diesel for electric generators; and (e) 	if so, the details thereof and the corrective steps taken/being taken by the Government to improve this condition?
+
+
+
+
+
+
+ANSWER
+
+
+
+
+                                                        MINISTER OF COMMUNICATIONS, LAW & JUSTICE AND ELECTRONICS AND INFORMATION TECHNOLOGY(SHRI RAVI SHANKAR PRASAD)(a) to (e)	 A statement is laid on the Table of the House. STATEMENT TO BE LAID ON THE TABLE OF LOK SABHA IN RESPECT OF PARTS (a) to (e) OF LOK SABHA STARRED QUESTION NO. *331 FOR 11TH DECEMBER, 2019  ON “SERVICES OF BSNL”.(a) & (b)	Telecom Regulatory Authority of India (TRAI) has been monitoring the performance of service providers including Bharat Sanchar Nigam Limited (BSNL) against the benchmark for various Quality of Service (QoS) parameters laid down by TRAI through QoS regulations issued from time to time. This monitoring of performance on QoS parameters is done by way of reporting of performances to TRAI by service providers through quarterly Performance Monitoring Reports (PMRs) and the performance is assessed for the service area as a whole.  As per PMR issued by TRAI for the quarter ending September 2019, BSNL is meeting all the benchmarks for basic (wireline), Cellular Mobile and broadband services in all of its Licensed Service Areas (LSAs) including Maharashtra, except for the parameter for call drops in West Bengal LSA.(c)	As per data collected from Telecom Service Providers (TSPs) and Department of Telecom (DoT) field units in 2019, out of total 40,959 inhabited villages (as per census 2011) in Maharashtra State, 37,970 inhabited villages are covered by mobile services. Mobile coverage in the uncovered villages is being provided by the Government and TSPs in a phased manner. The following projects are approved/ implemented by the Government for improving mobile connectivity in rural and remote areas in the country including Maharashtra State:i.	Under Left Wing Extremism (LWE) affected areas Phase-I project, 65 mobile towers in Maharashtra state (Gadchiroli -42, Gondia- 17 and Chandrapur- 06) have been installed.ii.	Under LWE affected areas Phase-II project, the Government has approved installation of 125 mobile towers (Gadchiroli – 100, Gondia- 22 and Chandrapur – 03) in Maharashtra state. iii.	Under BharatNet Project, out of 27,909 Gram Panchayats (GPs) in Maharashtra state, 18,059 GPs have been connected by laying 46,906 Kilometers of Optical Fiber Cable (OFC), out of which 15,245 GPs have been made service ready. Additionally, BSNL has informed that in Maharashtra circle, 15,400 Base Transceiver Stations (BTSs) are presently working. Additional 555 2G, 640 3G and 123 4G BTSs will be installed by 31.03.2020. (d) & (e)	BSNL has informed that due to poor financial condition and paucity of funds in BSNL, some BTSs get affected due to disconnection of electric supply and shortage of diesel. No case of theft is reported. BSNL always endeavours to improve its services and measures including round the clock maintenance of network, drive tests, data analysis and other corrective measures are undertaken.Further, the Cabinet in the meeting held on 23.10.2019 approved the revival plan for BSNL. With the revival plan, it is expected that BSNL will turn around and will be able to further improve services. The revival plan also includes administrative allotment of spectrum to BSNL for providing 4G services. ************
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+HomeArchiveIndex to Select Questions (1984-1999)Ballot ListStatistical Statements Relating to QuestionsUploading of Questions - Status QueryProcedure for Sending Text of Questions & AnswersDemarcation of responsibilities in Govt. of IndiaBrochure on Statutory Corporations, Companies and Other Bodies in Which the Government of India have financial or controlling interestHighlights pertaining to questions of 17th Lok Sabha
+
+
+
+
+
+
+Contact Us 
+Disclaimer
+
+
+
+
+
+
+
+
+
+
+
+        Developed and Hosted by National Informatics Centre (NIC)
+
+Content on this website is published,
+            managed & maintained by Software Unit, Computer (HW & SW) Management. Branch,
+            Lok Sabha Secretariat
+
+
+
+
+
+HomeMembersBusinessQuestionsDebatesPapers Laid
+
+
+LegislationCommitteesSANSAD TVIntranetSecretariatPRIDE
+
+
+RecruitmentSC/ST ReservationConferenceParliament Library
+
+
+About ParliamentPhoto GalleryRelated LinksRTITendersFAQ
+
+
+SpeakerDy. SpeakerLeader of the HousePanel of ChairpersonsContact UsFeedback
+
+
+Council of MinistersPublications of MinistriesParliamentry ProceduresJournal of Parliamentary Information
+Visitor's Counter:113166334
+
+
+
+
+
+
+
+Copyright
+Privacy Policy
+Disclaimer
+Terms &
+                Conditions
+
+                Accessibility Statement
+Accessibility
+                Options
+Feedback
+Site Map
+
+
+
+
+
+
+

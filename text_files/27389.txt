@@ -1,0 +1,350 @@
+
+
+
+
+	Questions : Lok Sabha
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Screen Reader Access
+Skip to Main Content
+Skip to Navigation
+
+
+
+Text Size
+
+                                A
+
+                                A
+A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+हिन्दी मे
+
+
+
+
+
+
+
+
+Parliament of India Lok Sabha House of the
+                        People
+
+
+
+
+
+
+* Special Characters not allowed
+
+
+
+
+
+
+
+
+
+
+
+
+India Time 
+
+
+Your Time 
+
+
+                        Tuesday,
+                        12 April 2022
+
+
+
+
+
+
+
+
+
+HomeMembersSitting MembersMembers Home PageMembers' PortalContact DetailsMembers SearchStatistical AnalysisAttendance of MembersHandbook Members Since 1952Digitized Who's WhoOthers BusinessProvisional CalendarList of BusinessPapers to be LaidList of Private Members' BusinessBulletin-IDigitized Lok Sabha Bulletin Part IBulletin-IIStatement of WorkSpecial Mentions (ZERO HOUR)Resume of WorkDigitized Resume of Work done by Lok Sabha QuestionsHomeQuestion ListStatus of notices of questionQuestions CalendarGrouping of Ministries - AlphabeticalOfficers in Min./Dept. Dealing with Parliamentary WorkQuestion SearchSupplementary Questions DebatesIntroductionSynopsisUncorrected DebateText of DebateDigitized DebatesConstituent Assembly DebatesWit And HumourDebate SearchHindi FontsDisclaimer Papers LaidPapers Laid on the Table of the House LegislationIntroduction(How Bill Becomes Act)Bills IntroducedBills PassedBills PendingBills AssentedBills LapsedBills WithdrawnBills NegativedBills Search Disclaimer CommitteesIntroductionChairpersonSummary of WorkCommittee Meetings ScheduleBills Referred to CommitteesReports PresentedDigitized ReportsPress ReleaseMembership SearchToday's Committee MeetingsCommittee Subject SelectedDepartment Related-RS Govt. AssurancesSANSAD TVIntranet
+
+
+
+
+
+HomeQuestion ListStatus of notices of questionQuestions CalendarGrouping of Ministries - AlphabeticalOfficers in Min./Dept. Dealing with Parliamentary WorkQuestion SearchSupplementary Questions
+
+
+
+
+
+
+
+
+
+
+
+Download as PDF
+
+
+
+
+Print
+
+
+
+
+
+
+
+
+
+
+
+
+PDF/WORD(Hindi)
+
+
+PDF/WORD
+
+
+
+
+                                    GOVERNMENT OF INDIA
+                                
+
+
+
+
+
+                                    MINISTRY OF
+                                    SCIENCE AND TECHNOLOGY
+
+
+
+
+
+
+                                    LOK SABHA
+                                
+
+
+
+
+
+UNSTARRED 
+
+
+                                    QUESTION NO:
+                                
+
+3097
+
+
+
+
+
+
+                                    ANSWERED ON: 
+                                
+
+06.08.2021
+
+
+
+
+
+
+Development of Electrically Configured Nanochannels
+
+
+
+
+Midhun Reddy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        Will the Minister of
+
+
+
+
+
+SCIENCE AND TECHNOLOGY
+
+
+                        be pleased to state:-
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                    (a)     whether the Government has recently been able to develop electrically configured nano-channels which can eradicate wastage of energy and bring in wave-based computing;(b)       if so, the details thereof;(c)      whether this technology has the potential to transform the on-chip data communication and processing in future and if so, the details thereof;(d)      whether the nano-channels can be designed/equipped to transfer specific bands of frequencies through parallel channels for the development of on-chip multiplexing devices in future based on the progress achieved so far in the field of spintronics and voltage-controlled magnetic anisotropy; and(e)     if so, the details thereof along with the benefits of this technology?
+
+
+
+
+
+
+ANSWER
+
+
+
+
+                                                        MINISTER OF STATE (INDEPENDENT CHARGE) OF SCIENCE AND TECHNOLOGY AND EARTH SCIENCES(DR. JITENDRA SINGH)??????? ?? ???????????? ??? ?????? ??????? ??  ????? ?????? (???????? ??????)  (??. ???????? ????)(a) Yes Sir. The Department of Science & Technology under its Nano Mission Programme had supported a Thematic Unit of Excellence on Nano Devices Technology in financial Year 2011-12 at SN Bose National Centre for Basic Sciences, Kolkata (SNBNCBS-K) focussing on building various Nano Devices Technologies. Professor Anjan Barman was the Coordinator for this Unit. He had simultaneously taken an International Collaborative project with Japan under International bi-lateral scheme of DST. Professor Anjan Barman and his research group members at the SNB NCBS had collaboration with University of Tokyo, RIKEN Labs and Hitachi Labs, in Japan, under which Professor Barman has developed electrically reconfigurable spin-wave nano-channels, that has the potential to remarkably reduce the energy waste and lead to wave-based computing. (b) Conventional electronic devices have logic circuits, that consist of a large number of transistors fabricated on the surface of a semiconductor wafer and interconnected by metallic wires. In electronic devices, data is carried by electric charges, which creates undesirable Joule heating and limits the integration density. As an alternative, spintronic devices offer to harness electron spins, instead of charge. The ferromagnetic materials possess a permanent magnetic moment as the neighbouring electronic spins get aligned parallel to each other. Perturbing one spin in a ferromagnetic material can set-off a wave, known as spin wave, due to the collective processional motion of spins. Like other waves (e.g., sound waves, light waves), the spin waves can be employed to carry an information encoded in its amplitude, phase, wavelength and frequency. The spin waves can propagate through the magnetic media without moving any charge particles, which eliminates unwanted heating and offers for the development of an alternative wave-based technology. In addition to this, the transmitted data can be retained within the spins after transmission without supplying any external power thereby reducing the energy wastage. Another advantage of spin wave is that they may have much smaller wavelength as opposed to sound wave and light wave which makes them compatible with nanoscale devices.(c)  Yes Sir. This technology has the potential for the development of on-chip data communication and processing. The field of magnonics deals with spin waves (quanta of which is called magnons), through periodic magnetic media. It is analogous to photonics or phononics but has many advantages over the above two fields. These have lower energy consumption, easier integrability and compatibility with CMOS structure, re-programmability and re-configurability, smaller device features, anisotropic properties, non-reciprocity and efficient tunability by various external stimuli to name a few. It has applications in magnonic memory, logic devices, transistors, transducers, on-chip RF components (filters, attenuators, diodes, circulators, directional couplers, splitters, demultiplexers, etc.), all-magnon circuits and neuromorphic & wave-based computing.(d)  Yes, Sir. It is a technology for current and future challenges. (e)  In this study, Professor Barman and his team has experimentally demonstrated the formation of fully reconfigurable nano-channels by applying electric field at the surface of ferromagnet for the first time. This research study will have many implications and future perspectives. The present study, can be extended, to form a number of parallel channels by applying different electric fields to each channel. In that case, each channel, can be utilized to send spin waves with a band of frequencies. This will be particularly important for the development of spin wave based parallel computing devices. In addition to that, the study of the interaction among the propagating spin waves through nano-channels will be a subject of intense research. This will be particularly important when widths of the nano-channels and their separations are significantly reduced to increase the integration density of devices. The interaction among spin waves propagating through nano-channels can significantly modify the spin wave band-widths and band gaps. If nano-channels are formed in two dimensions, instead of one dimension as in the present study, then the spin wave frequency bands may show complex behaviour, i.e., a number of bands with varying band width and band gap may be observed, which can even be tuned by changing widths of gate electrodes and strength of applied electric field. This can be very useful to develop various types of on-chip multiplexing devices, microwave filters (e.g., low pass, band pass), attenuators for future applications. Overall, the current research opens up the possibilities of many future studies and potential applications.  *****
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+HomeArchiveIndex to Select Questions (1984-1999)Ballot ListStatistical Statements Relating to QuestionsUploading of Questions - Status QueryProcedure for Sending Text of Questions & AnswersDemarcation of responsibilities in Govt. of IndiaBrochure on Statutory Corporations, Companies and Other Bodies in Which the Government of India have financial or controlling interestHighlights pertaining to questions of 17th Lok Sabha
+
+
+
+
+
+
+Contact Us 
+Disclaimer
+
+
+
+
+
+
+
+
+
+
+
+        Developed and Hosted by National Informatics Centre (NIC)
+
+Content on this website is published,
+            managed & maintained by Software Unit, Computer (HW & SW) Management. Branch,
+            Lok Sabha Secretariat
+
+
+
+
+
+HomeMembersBusinessQuestionsDebatesPapers Laid
+
+
+LegislationCommitteesSANSAD TVIntranetSecretariatPRIDE
+
+
+RecruitmentSC/ST ReservationConferenceParliament Library
+
+
+About ParliamentPhoto GalleryRelated LinksRTITendersFAQ
+
+
+SpeakerDy. SpeakerLeader of the HousePanel of ChairpersonsContact UsFeedback
+
+
+Council of MinistersPublications of MinistriesParliamentry ProceduresJournal of Parliamentary Information
+Visitor's Counter:113220616
+
+
+
+
+
+
+
+Copyright
+Privacy Policy
+Disclaimer
+Terms &
+                Conditions
+
+                Accessibility Statement
+Accessibility
+                Options
+Feedback
+Site Map
+
+
+
+
+
+
+

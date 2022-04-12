@@ -1,0 +1,350 @@
+
+
+
+
+	Questions : Lok Sabha
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Screen Reader Access
+Skip to Main Content
+Skip to Navigation
+
+
+
+Text Size
+
+                                A
+
+                                A
+A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+हिन्दी मे
+
+
+
+
+
+
+
+
+Parliament of India Lok Sabha House of the
+                        People
+
+
+
+
+
+
+* Special Characters not allowed
+
+
+
+
+
+
+
+
+
+
+
+
+India Time 
+
+
+Your Time 
+
+
+                        Monday,
+                        11 April 2022
+
+
+
+
+
+
+
+
+
+HomeMembersSitting MembersMembers Home PageMembers' PortalContact DetailsMembers SearchStatistical AnalysisAttendance of MembersHandbook Members Since 1952Digitized Who's WhoOthers BusinessProvisional CalendarList of BusinessPapers to be LaidList of Private Members' BusinessBulletin-IDigitized Lok Sabha Bulletin Part IBulletin-IIStatement of WorkSpecial Mentions (ZERO HOUR)Resume of WorkDigitized Resume of Work done by Lok Sabha QuestionsHomeQuestion ListStatus of notices of questionQuestions CalendarGrouping of Ministries - AlphabeticalOfficers in Min./Dept. Dealing with Parliamentary WorkQuestion SearchSupplementary Questions DebatesIntroductionSynopsisUncorrected DebateText of DebateDigitized DebatesConstituent Assembly DebatesWit And HumourDebate SearchHindi FontsDisclaimer Papers LaidPapers Laid on the Table of the House LegislationIntroduction(How Bill Becomes Act)Bills IntroducedBills PassedBills PendingBills AssentedBills LapsedBills WithdrawnBills NegativedBills Search Disclaimer CommitteesIntroductionChairpersonSummary of WorkCommittee Meetings ScheduleBills Referred to CommitteesReports PresentedDigitized ReportsPress ReleaseMembership SearchToday's Committee MeetingsCommittee Subject SelectedDepartment Related-RS Govt. AssurancesSANSAD TVIntranet
+
+
+
+
+
+HomeQuestion ListStatus of notices of questionQuestions CalendarGrouping of Ministries - AlphabeticalOfficers in Min./Dept. Dealing with Parliamentary WorkQuestion SearchSupplementary Questions
+
+
+
+
+
+
+
+
+
+
+
+Download as PDF
+
+
+
+
+Print
+
+
+
+
+
+
+
+
+
+
+
+
+PDF/WORD(Hindi)
+
+
+PDF/WORD
+
+
+
+
+                                    GOVERNMENT OF INDIA
+                                
+
+
+
+
+
+                                    MINISTRY OF
+                                    COMMUNICATIONS
+
+
+
+
+
+
+                                    LOK SABHA
+                                
+
+
+
+
+
+STARRED   
+
+
+                                    QUESTION NO:
+                                
+
+21
+
+
+
+
+
+
+                                    ANSWERED ON: 
+                                
+
+03.02.2021
+
+
+
+
+
+
+Services of BSNL in North Eastern States
+
+
+
+
+Naba (Hira) Kumar Sarania
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        Will the Minister of
+
+
+
+
+
+COMMUNICATIONS
+
+
+                        be pleased to state:-
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                    (a) 	the number of mobile and landline subscribers of Bharat Sanchar Nigam Limited (BSNL) in the North Eastern States of the country, State-wise; (b) 	the details of the schemes proposed and being worked out by the Government to strengthen the BSNL’s network in the said States; (c) 	whether the Government proposes to increase the BSNL’s broadband speed in the region and if so, the details thereof; (d) 	whether there are some areas in these States where landlines are not used; (e) 	whether BSNL landlines are functional in those areas; (f) 	the alternates available to the people residing in those areas; and (g) 	whether the Government proposes to lay down optical fibre in the North-Eastern region to increase the internet speed and if so, the details thereof along with the extent to which the people of these States are likely to be benefited by it?
+                                                
+
+
+
+
+
+ANSWER
+
+
+
+
+                                                        MINISTER OF COMMUNICATIONS, LAW & JUSTICE AND ELECTRONICS AND INFORMATION TECHNOLOGY(SHRI RAVI SHANKAR PRASAD)(a) to (g)	 A statement is laid on the Table of the House.STATEMENT TO BE LAID ON THE TABLE OF LOK SABHA IN RESPECT OF PARTS (a) to (g) OF LOK SABHA STARRED QUESTION NO. 21 FOR 3RD FEBRUARY, 2021  REGARDING “SERVICES OF BSNL IN NORTH EASTERN STATES”.(a)	State wise details of mobile and landline subscribers of Bharat Sanchar Nigam Limited (BSNL) in the North Eastern States of the country are as under:<pre>S. No.	State	Number of BSNL subscribers as on 30.09.2020		Land Line subscribers	Mobile subscribers1.	Assam	88,179	28,88,1112.	Meghalaya	13,927	3,21,1493.	Mizoram	10,102	2,33,8614.	Tripura	16,683	4,33,0635.	Arunachal Pradesh	20,984	1,93,6476.	Manipur	8,907	99,5097.	Nagaland	5,546	86,3778.	Sikkim	5,060	65,513</pre>(b) 	BSNL has informed that following projects have been undertaken to expand its network in the North-Eastern States of the country:For Broadband:1.	BSNL has signed an agreement with Universal Service Obligation Fund (USOF) to provide internet connectivity through 680 Wi-Fi Hotspots to rural & remote areas of North Eastern States. 2.	Additional Broadband Network Gateway (BNG) added in Shillong & Itanagar to enhance Broadband speed in the North Eastern States.3.	5 High Capacity MPLS-TP, MNG-PAN (Multi Protocol Label Switching-Transport Profile based Next Generation Packet Aggregation Network) technology-based nodes installed in Nagaland, 15 Nodes installed in Tripura and 36 nodes installed in Assam which improved the traffic handling capacity of the Access network in the North Eastern States.4.	New Domain Name Servers (DNS) have been deployed at Agartala, Tripura to improve the customer experience of NE States while connecting to DNS servers.5.	Backhaul of DSLAM (Digital Subscriber Line Access Multiplexer), OCLAN (Other City Local Area Network), OLT (Optical Line Terminal) have been upgraded.For Landline: 	BSNL is migrating all Landline customers from Old Technology Exchanges to Server technology based Soft-Switches for better quality of service and more effective monitoring. For Mobile: Under phase VIII.4 project, mobile network in North Eastern States has been strengthened. State- wise status of BTSs/e-NodeBs commissioned under the project is tabulated below:<pre>S. No.	State	Commissioned under Phase VIII.4		2G	3G	4G	Total1.	Assam	436	665	284	13852.	Meghalaya	5	83	108	1963.	Mizoram	13	34	58	1054.	Tripura	7	125	120	2525.	Arunachal Pradesh	45	55	50	1506.	Manipur	75	99	74	2487.	Nagaland	18	18	17	538.	Sikkim	90	45	40	175</pre>On the basis of techno-commercial viability and availability of funds & equipment, BSNL is progressively adding more sites in rural as well as urban areas under various network expansion phases and thereby increasing mobile coverage and data connectivity in more villages and urban areas across all its Licensed Service Areas (LSAs) including North Eastern States.	For expansion of 4G services, BSNL has invited EOI (Express of Interest) for PoC (Proof of Concept) on 1st January 2021.(c) 	BSNL has informed that it is providing Fibre to the Home (FTTH) connections for high-speed Broadband in all North Eastern States. 32,266 FTTH connections have been provided. Further, after expansion of 4G services in North Eastern States, BSNL’s broadband speed in the region will improve significantly.(d) to (f) 	521 Landline Telephone Exchanges of BSNL including 342 rural Telephone Exchanges are operational in the North Eastern States and BSNL is providing landline services within 5 Kms vicinity of these Telephone Exchanges. The breakup of telephone exchanges in North Eastern States is as below:<pre>Sl. No.	State 	Urban 	Rural 	Total 1.	Assam	179	342	5212.	Meghalaya	20	25	453.	Mizoram	25	25	504.	Tripura	31	48	795.	Arunachal Pradesh	28	40	686.	Manipur	18	23	417.	Nagaland	20	12	328.	Sikkim	9	23	32</pre>Based on the technical feasibility and commercial viability, endeavours to provide telecom connectivity including in rural and remote areas. BSNL always endeavours to maintain high uptime of its telecom network. BSNL has informed that it is meeting most of the Quality of Service (QoS) parameters fixed by Telecom Regulatory Authority of India (TRAI) for both landline and mobile consumers.Besides, with the increasing proliferation of mobile towers and expansion of mobile network of BSNL and other telecom service providers, there is increase in use of mobile services. More people in the country including North Eastern States have now started using mobile services.(g)  Under BharatNet project to provide broadband connectivity to all the Gram Panchayats (approx. 2.5 lakh) in the country including in the North Eastern States, a total of 5,154 Gram Panchayats (GPs) including Block Headquarters (BHQs) (2,954 GPs on OFC and 2,200 GPs on Satellite media) have been made Service Ready in the North Eastern Region (NER) as on 15.01.2021. The State-wise list is attached as below:<pre>S. No. 	State	Total No. of GPs(Including BHQs)	On OFC media	On Satellite media	Total Service Ready GPs 			Target	Service Ready GPs	Target	Service Ready GPs	1	Assam	2750	2745	1627	5	0	16272	Meghalaya	1791	1194	122	597	237	3593	Mizoram	763	262	41	501	262	3034	Tripura	1006	864	595	142	135	7305	Arunachal Pradesh	1796	717	88	1079	422	5106	Manipur	2785	1566	326	1219	1091	14177	Nagaland	994	874	127	120	53	1808	Sikkim	176	163	28	13	0	28Total	1206183852954367622005154</pre>Further, as part of the BharatNet project, the Last Mile connectivity is being provided through Wi-Fi or any other suitable broadband technology.  Fiber to the Home (FTTH) connections to access broadband/internet services at Public/Government Institutions such as school, hospital, post offices, Aanganwadi, Police Stations, etc. is also being provided. As on 15.01.2021, Wi-Fi hotspots have been installed at 51 GPs and 8,942 FTTH connections have been provided in the North Eastern States.DoT has been proactively working towards improving the telecom connectivity in the NE region. The number of Base Transceiver Stations (BTSs) have increased from 62,516 as on 01.04.2019 to 82,500 as on 31.12.2020 i.e. by 32 per cent. With the efforts made, the tele-density in Assam has improved to 68.33 per cent and in other North East States to 78.89 per cent against All India average of 86.38 per cent. The data usage per subscriber per month as on 31.12.2020 is 14.02 GB for Assam and 12.10 GB for other NE States against All India average of 12.15 GB. ************
+                                                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+HomeArchiveIndex to Select Questions (1984-1999)Ballot ListStatistical Statements Relating to QuestionsUploading of Questions - Status QueryProcedure for Sending Text of Questions & AnswersDemarcation of responsibilities in Govt. of IndiaBrochure on Statutory Corporations, Companies and Other Bodies in Which the Government of India have financial or controlling interestHighlights pertaining to questions of 17th Lok Sabha
+
+
+
+
+
+
+Contact Us 
+Disclaimer
+
+
+
+
+
+
+
+
+
+
+
+        Developed and Hosted by National Informatics Centre (NIC)
+
+Content on this website is published,
+            managed & maintained by Software Unit, Computer (HW & SW) Management. Branch,
+            Lok Sabha Secretariat
+
+
+
+
+
+HomeMembersBusinessQuestionsDebatesPapers Laid
+
+
+LegislationCommitteesSANSAD TVIntranetSecretariatPRIDE
+
+
+RecruitmentSC/ST ReservationConferenceParliament Library
+
+
+About ParliamentPhoto GalleryRelated LinksRTITendersFAQ
+
+
+SpeakerDy. SpeakerLeader of the HousePanel of ChairpersonsContact UsFeedback
+
+
+Council of MinistersPublications of MinistriesParliamentry ProceduresJournal of Parliamentary Information
+Visitor's Counter:113199378
+
+
+
+
+
+
+
+Copyright
+Privacy Policy
+Disclaimer
+Terms &
+                Conditions
+
+                Accessibility Statement
+Accessibility
+                Options
+Feedback
+Site Map
+
+
+
+
+
+
+

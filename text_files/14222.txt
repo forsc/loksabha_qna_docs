@@ -1,0 +1,350 @@
+
+
+
+
+	Questions : Lok Sabha
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Screen Reader Access
+Skip to Main Content
+Skip to Navigation
+
+
+
+Text Size
+
+                                A
+
+                                A
+A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+हिन्दी मे
+
+
+
+
+
+
+
+
+Parliament of India Lok Sabha House of the
+                        People
+
+
+
+
+
+
+* Special Characters not allowed
+
+
+
+
+
+
+
+
+
+
+
+
+India Time 
+
+
+Your Time 
+
+
+                        Monday,
+                        11 April 2022
+
+
+
+
+
+
+
+
+
+HomeMembersSitting MembersMembers Home PageMembers' PortalContact DetailsMembers SearchStatistical AnalysisAttendance of MembersHandbook Members Since 1952Digitized Who's WhoOthers BusinessProvisional CalendarList of BusinessPapers to be LaidList of Private Members' BusinessBulletin-IDigitized Lok Sabha Bulletin Part IBulletin-IIStatement of WorkSpecial Mentions (ZERO HOUR)Resume of WorkDigitized Resume of Work done by Lok Sabha QuestionsHomeQuestion ListStatus of notices of questionQuestions CalendarGrouping of Ministries - AlphabeticalOfficers in Min./Dept. Dealing with Parliamentary WorkQuestion SearchSupplementary Questions DebatesIntroductionSynopsisUncorrected DebateText of DebateDigitized DebatesConstituent Assembly DebatesWit And HumourDebate SearchHindi FontsDisclaimer Papers LaidPapers Laid on the Table of the House LegislationIntroduction(How Bill Becomes Act)Bills IntroducedBills PassedBills PendingBills AssentedBills LapsedBills WithdrawnBills NegativedBills Search Disclaimer CommitteesIntroductionChairpersonSummary of WorkCommittee Meetings ScheduleBills Referred to CommitteesReports PresentedDigitized ReportsPress ReleaseMembership SearchToday's Committee MeetingsCommittee Subject SelectedDepartment Related-RS Govt. AssurancesSANSAD TVIntranet
+
+
+
+
+
+HomeQuestion ListStatus of notices of questionQuestions CalendarGrouping of Ministries - AlphabeticalOfficers in Min./Dept. Dealing with Parliamentary WorkQuestion SearchSupplementary Questions
+
+
+
+
+
+
+
+
+
+
+
+Download as PDF
+
+
+
+
+Print
+
+
+
+
+
+
+
+
+
+
+
+
+PDF/WORD(Hindi)
+
+
+PDF/WORD
+
+
+
+
+                                    GOVERNMENT OF INDIA
+                                
+
+
+
+
+
+                                    MINISTRY OF
+                                    ELECTRONICS AND INFORMATION TECHNOLOGY
+
+
+
+
+
+
+                                    LOK SABHA
+                                
+
+
+
+
+
+UNSTARRED 
+
+
+                                    QUESTION NO:
+                                
+
+2867
+
+
+
+
+
+
+                                    ANSWERED ON: 
+                                
+
+11.03.2020
+
+
+
+
+
+
+Digital Payments
+
+
+
+
+Sumedhanand Saraswati
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        Will the Minister of
+
+
+
+
+
+ELECTRONICS AND INFORMATION TECHNOLOGY
+
+
+                        be pleased to state:-
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                    Will the Minister of Electronics and Information Technology be pleased to state:(a) whether the number of digital payments in the country has increased significantly and if so, the details thereof; (b) the number of digital payments made during each of the last three years, State/UT-wise; (c) whether the Union Government has conducted any comparative study with regard to digital payments in other countries; (d) if so, the details and the outcome thereof;(e) whether appropriate steps have been taken by the Government for security and safety of various platforms for digital transactions in the country; and(f) if so, the details thereof and if not, the reasons therefor? 
+
+
+
+
+
+
+ANSWER
+
+
+
+
+                                                        (a)	and(b): Yes, Sir. Digital payment transactions have observed a significant growth over the last three years. State/UT-wise transaction details are not maintained, however total number of Digital transactions undertaken in the country during the last three years and current year is as underFinancial Year (FY)	Total number of Digital Transactions (Crores)FY 2016-17	1004 FY 2017-18	2071FY 2018-19	3134FY 2019-20 (till 27th Feb 2020)*	3649* Final data for January and February 2020 is yet to be published by RBI(c) and (d): The Reserve Bank of India (RBI) released a report on “Benchmarking India’s Payment Systems”, which provides a comparative position of the payment system ecosystem in India relative to comparable payment systems and usage trends in other major countries  (ref. URL: https://www.rbi.org.in/Scripts/BS_PressReleaseDisplay.aspx?prid=47222 for Press Release dated 04.06.2019 by RBI and aforesaid report).The study found that India has a strong regulatory system and robust large value and retail payment systems which have contributed to the rapid growth in the volume of transactions in these payment systems. There has been substantial growth in e-payments by Government and also in digital infrastructure in terms of mobile networks. The report, however, notes that India is required to take further efforts to bring down the volume of paper clearing and increase acceptance infrastructure to enhance digital payments.(e): Yes, Sir.(f):  Government has taken following measures to enhance the cyber security posture of digital payment systems:•	The Indian Computer Emergency Response Team (CERT-In) issues alerts and advisories regarding latest cyber threats and countermeasures on regular basis to ensure safe usage of digital technologies. Regarding securing digital payments, 28 advisories have been issued for users and institutions.•	All authorized entities/ banks issuing PPIs (Pre Paid Instruments) in the country have been advised by CERT-In through Reserve Bank of India to carry out special audit by empanelled auditors of CERT-In on a priority basis and to take immediate steps thereafter to comply with the findings of the audit report and ensure implementation of security best practices.•	Government has issued guidelines for Chief Information Security Officers (CISOs) regarding their key roles and responsibilities for securing applications / infrastructure and compliance.•	Government has empanelled 90 security auditing organisations to support and audit implementation of Information Security Best Practices. •	Government has formulated Crisis Management Plan for countering cyber attacks and cyber terrorism for implementation by all Ministries/ Departments of Central Government, State Governments and their organizations and critical sectors. •	Cyber security mock drills are being conducted regularly to enable assessment of cyber security posture and preparedness of organizations in Government and critical sectors. 44 such drills have so far been conducted by CERT-In where 265 organizations from different States and sectors such as Finance, Defence, Power, Telecom, Transport, Energy, Space, IT/ITeS, etc participated. Out of these drills, 9 drills were conducted in coordination with the Reserve Bank of India and The Institute for Development and Research in Banking Technology for financial sector organizations. •	CERT-In conducts regular training programmes for network / system administrators and Chief Information Security Officers (CISOs) of Government and critical sector organisations regarding securing the IT infrastructure and mitigating cyber attacks. •	Government has launched the Cyber Swachhta Kendra (Botnet Cleaning and Malware Analysis Centre). The centre is providing detection of malicious programs and free tools to remove the same.•	Under the Information Security Education and Awareness (ISEA) Project Phase-I (2005-2014), more than 44,000 candidates were trained in various formal/non-formal courses in Information Security through 40 institutions. Around 100 Government officials were trained as Master Trainers in the area of Information Security******* 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+HomeArchiveIndex to Select Questions (1984-1999)Ballot ListStatistical Statements Relating to QuestionsUploading of Questions - Status QueryProcedure for Sending Text of Questions & AnswersDemarcation of responsibilities in Govt. of IndiaBrochure on Statutory Corporations, Companies and Other Bodies in Which the Government of India have financial or controlling interestHighlights pertaining to questions of 17th Lok Sabha
+
+
+
+
+
+
+Contact Us 
+Disclaimer
+
+
+
+
+
+
+
+
+
+
+
+        Developed and Hosted by National Informatics Centre (NIC)
+
+Content on this website is published,
+            managed & maintained by Software Unit, Computer (HW & SW) Management. Branch,
+            Lok Sabha Secretariat
+
+
+
+
+
+HomeMembersBusinessQuestionsDebatesPapers Laid
+
+
+LegislationCommitteesSANSAD TVIntranetSecretariatPRIDE
+
+
+RecruitmentSC/ST ReservationConferenceParliament Library
+
+
+About ParliamentPhoto GalleryRelated LinksRTITendersFAQ
+
+
+SpeakerDy. SpeakerLeader of the HousePanel of ChairpersonsContact UsFeedback
+
+
+Council of MinistersPublications of MinistriesParliamentry ProceduresJournal of Parliamentary Information
+Visitor's Counter:113181884
+
+
+
+
+
+
+
+Copyright
+Privacy Policy
+Disclaimer
+Terms &
+                Conditions
+
+                Accessibility Statement
+Accessibility
+                Options
+Feedback
+Site Map
+
+
+
+
+
+
+

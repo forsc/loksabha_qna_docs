@@ -1,0 +1,350 @@
+
+
+
+
+	Questions : Lok Sabha
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Screen Reader Access
+Skip to Main Content
+Skip to Navigation
+
+
+
+Text Size
+
+                                A
+
+                                A
+A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+हिन्दी मे
+
+
+
+
+
+
+
+
+Parliament of India Lok Sabha House of the
+                        People
+
+
+
+
+
+
+* Special Characters not allowed
+
+
+
+
+
+
+
+
+
+
+
+
+India Time 
+
+
+Your Time 
+
+
+                        Tuesday,
+                        12 April 2022
+
+
+
+
+
+
+
+
+
+HomeMembersSitting MembersMembers Home PageMembers' PortalContact DetailsMembers SearchStatistical AnalysisAttendance of MembersHandbook Members Since 1952Digitized Who's WhoOthers BusinessProvisional CalendarList of BusinessPapers to be LaidList of Private Members' BusinessBulletin-IDigitized Lok Sabha Bulletin Part IBulletin-IIStatement of WorkSpecial Mentions (ZERO HOUR)Resume of WorkDigitized Resume of Work done by Lok Sabha QuestionsHomeQuestion ListStatus of notices of questionQuestions CalendarGrouping of Ministries - AlphabeticalOfficers in Min./Dept. Dealing with Parliamentary WorkQuestion SearchSupplementary Questions DebatesIntroductionSynopsisUncorrected DebateText of DebateDigitized DebatesConstituent Assembly DebatesWit And HumourDebate SearchHindi FontsDisclaimer Papers LaidPapers Laid on the Table of the House LegislationIntroduction(How Bill Becomes Act)Bills IntroducedBills PassedBills PendingBills AssentedBills LapsedBills WithdrawnBills NegativedBills Search Disclaimer CommitteesIntroductionChairpersonSummary of WorkCommittee Meetings ScheduleBills Referred to CommitteesReports PresentedDigitized ReportsPress ReleaseMembership SearchToday's Committee MeetingsCommittee Subject SelectedDepartment Related-RS Govt. AssurancesSANSAD TVIntranet
+
+
+
+
+
+HomeQuestion ListStatus of notices of questionQuestions CalendarGrouping of Ministries - AlphabeticalOfficers in Min./Dept. Dealing with Parliamentary WorkQuestion SearchSupplementary Questions
+
+
+
+
+
+
+
+
+
+
+
+Download as PDF
+
+
+
+
+Print
+
+
+
+
+
+
+
+
+
+
+
+
+PDF/WORD(Hindi)
+
+
+PDF/WORD
+
+
+
+
+                                    GOVERNMENT OF INDIA
+                                
+
+
+
+
+
+                                    MINISTRY OF
+                                    ELECTRONICS AND INFORMATION TECHNOLOGY
+
+
+
+
+
+
+                                    LOK SABHA
+                                
+
+
+
+
+
+UNSTARRED 
+
+
+                                    QUESTION NO:
+                                
+
+1638
+
+
+
+
+
+
+                                    ANSWERED ON: 
+                                
+
+08.12.2021
+
+
+
+
+
+
+India Enterprise Architecture
+
+
+
+
+Ritesh Pandey
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        Will the Minister of
+
+
+
+
+
+ELECTRONICS AND INFORMATION TECHNOLOGY
+
+
+                        be pleased to state:-
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                    Will the Minister of ELECTRONICS & INFORMATION TECHNOLOGY be pleased to state:(a)	the details of status of implementation of India Enterprise Architecture and various State Enterprise Architecture systems;(b)	the details of the accountability measures employed to ensure these digital systems adopt laws of the land; and(c)	whether the Ministry is working with Estonia and its agencies to build e-government systems; and if so, the details thereof?
+
+
+
+
+
+
+ANSWER
+
+
+
+
+                                                        ):   Ministry of Electronics and Information Technology (MeitY) has notified India Enterprise Architecture (IndEA) Framework and Adoption Guide on October 09, 2018. Ownership of IndEA implementation lies with the respective Ministry/State and MeitY.  National e-Governance Division (NeGD) is providing technical support for preparation of blueprints. A project was initiated by MeitY in March, 2019 for pilot implementation of IndEA by NeGD wherein two ministries (Education and Agriculture) and one State (Meghalaya) were selected. Current status of implementation is given as under:(i)	Ministry of Education - Department of School Education & Literacy: MeitY provided technical support for the preparation of National Digital Education Architecture (NDEAR), which was launched by Hon’ble Prime Minister on July 28, 2021. (ii)	Ministry of Agriculture & Farmers Welfare (MoA&FW):MeitY has provided technical support for preparation of India Digital Ecosystem of Agriculture (IDEA) blueprint for agriculture domain. The blueprint has been released by MoA&FW for public and stakeholder consultations. (iii)	Meghalaya State Enterprise Architecture: MeitY provided handholding assistance to the Meghalaya State Government for preparation of Meghalaya Enterprise Architecture (MeghEA) blueprint and its implementation for the Finance Department. Phase-I implementation of MeghEA was launched by Hon’ble Minister of Electronics & Information Technology and Hon’ble Chief Minister, Meghalaya jointly on September 17, 2021. Under the project, API based integrations have been undertaken amongst existing financial systems of the State and a scheme management system is implemented for timely approval of Department proposals by the Finance Department.In addition, some of the Ministries are implementing IndEA on their own with technical assistance from MeitY. Their brief status is as below:(i)	Ayushman Bharat Digital Mission:MeitY provided technical support for the preparation of National Digital Health Blueprint (NDHB), which was launched by Hon’ble Prime Minister on August 15, 2020. As per the National Health Stack defined in NDHB, the implementation of National Digital Health Mission has been undertaken, currently named as Ayushman Bharat Digital Mission (ABDM). National Health Authority (NHA) is the implementing agency for ABDM, which has been rolled across 6 UTs. (ii)	Labour, Skills & Employment Enterprise Architecture:NeGD also provides such technical support to the Working Group of Ministry of Labour & Employment for preparation of enterprise architecture report for Labor, Skills and Employment.(iii)	Tourism: NeGD provides technical support for preparation of blueprint to the Working Group and Steering Committee constituted for the National Digital Tourism Mission.(iv)	Urban Development: The Ministry of Housing and Urban Affairs has prepared the National Urban Innovation Stack, launched some of the building blocks and prepared related standards in consultation with MeitY.(b)	:   All digital systems and platforms ensure that they are compliant with the laws of the land.  (c)	:    No, Sir.********* 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+HomeArchiveIndex to Select Questions (1984-1999)Ballot ListStatistical Statements Relating to QuestionsUploading of Questions - Status QueryProcedure for Sending Text of Questions & AnswersDemarcation of responsibilities in Govt. of IndiaBrochure on Statutory Corporations, Companies and Other Bodies in Which the Government of India have financial or controlling interestHighlights pertaining to questions of 17th Lok Sabha
+
+
+
+
+
+
+Contact Us 
+Disclaimer
+
+
+
+
+
+
+
+
+
+
+
+        Developed and Hosted by National Informatics Centre (NIC)
+
+Content on this website is published,
+            managed & maintained by Software Unit, Computer (HW & SW) Management. Branch,
+            Lok Sabha Secretariat
+
+
+
+
+
+HomeMembersBusinessQuestionsDebatesPapers Laid
+
+
+LegislationCommitteesSANSAD TVIntranetSecretariatPRIDE
+
+
+RecruitmentSC/ST ReservationConferenceParliament Library
+
+
+About ParliamentPhoto GalleryRelated LinksRTITendersFAQ
+
+
+SpeakerDy. SpeakerLeader of the HousePanel of ChairpersonsContact UsFeedback
+
+
+Council of MinistersPublications of MinistriesParliamentry ProceduresJournal of Parliamentary Information
+Visitor's Counter:113225648
+
+
+
+
+
+
+
+Copyright
+Privacy Policy
+Disclaimer
+Terms &
+                Conditions
+
+                Accessibility Statement
+Accessibility
+                Options
+Feedback
+Site Map
+
+
+
+
+
+
+

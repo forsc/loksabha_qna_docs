@@ -1,0 +1,350 @@
+
+
+
+
+	Questions : Lok Sabha
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Screen Reader Access
+Skip to Main Content
+Skip to Navigation
+
+
+
+Text Size
+
+                                A
+
+                                A
+A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+हिन्दी मे
+
+
+
+
+
+
+
+
+Parliament of India Lok Sabha House of the
+                        People
+
+
+
+
+
+
+* Special Characters not allowed
+
+
+
+
+
+
+
+
+
+
+
+
+India Time 
+
+
+Your Time 
+
+
+                        Monday,
+                        11 April 2022
+
+
+
+
+
+
+
+
+
+HomeMembersSitting MembersMembers Home PageMembers' PortalContact DetailsMembers SearchStatistical AnalysisAttendance of MembersHandbook Members Since 1952Digitized Who's WhoOthers BusinessProvisional CalendarList of BusinessPapers to be LaidList of Private Members' BusinessBulletin-IDigitized Lok Sabha Bulletin Part IBulletin-IIStatement of WorkSpecial Mentions (ZERO HOUR)Resume of WorkDigitized Resume of Work done by Lok Sabha QuestionsHomeQuestion ListStatus of notices of questionQuestions CalendarGrouping of Ministries - AlphabeticalOfficers in Min./Dept. Dealing with Parliamentary WorkQuestion SearchSupplementary Questions DebatesIntroductionSynopsisUncorrected DebateText of DebateDigitized DebatesConstituent Assembly DebatesWit And HumourDebate SearchHindi FontsDisclaimer Papers LaidPapers Laid on the Table of the House LegislationIntroduction(How Bill Becomes Act)Bills IntroducedBills PassedBills PendingBills AssentedBills LapsedBills WithdrawnBills NegativedBills Search Disclaimer CommitteesIntroductionChairpersonSummary of WorkCommittee Meetings ScheduleBills Referred to CommitteesReports PresentedDigitized ReportsPress ReleaseMembership SearchToday's Committee MeetingsCommittee Subject SelectedDepartment Related-RS Govt. AssurancesSANSAD TVIntranet
+
+
+
+
+
+HomeQuestion ListStatus of notices of questionQuestions CalendarGrouping of Ministries - AlphabeticalOfficers in Min./Dept. Dealing with Parliamentary WorkQuestion SearchSupplementary Questions
+
+
+
+
+
+
+
+
+
+
+
+Download as PDF
+
+
+
+
+Print
+
+
+
+
+
+
+
+
+
+
+
+
+PDF/WORD(Hindi)
+
+
+PDF/WORD
+
+
+
+
+                                    GOVERNMENT OF INDIA
+                                
+
+
+
+
+
+                                    MINISTRY OF
+                                    COMMUNICATIONS
+
+
+
+
+
+
+                                    LOK SABHA
+                                
+
+
+
+
+
+STARRED   
+
+
+                                    QUESTION NO:
+                                
+
+358
+
+
+
+
+
+
+                                    ANSWERED ON: 
+                                
+
+18.03.2020
+
+
+
+
+
+
+Problem of Call Drops
+
+
+
+
+Sukhbir Singh Jaunapuria
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        Will the Minister of
+
+
+
+
+
+COMMUNICATIONS
+
+
+                        be pleased to state:-
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                    (a) the measures taken by the Government to ensure better network and address the problem of call drops in affected areas, State-wise;(b) whether the Government is aware of the problem of call drops and poor network connectivity in various areas especially in the villages of districts Tonk and Sawai Madhopur in Rajasthan;(c) if so, the details thereof;(d) whether the Government proposes to allow spectrum sharing and trading so that connectivity may be improved; and(e) if so, the details thereof?
+                                                
+
+
+
+
+
+ANSWER
+
+
+
+
+                                                        MINISTER OF COMMUNICATIONS, LAW & JUSTICE AND ELECTRONICS AND INFORMATION TECHNOLOGY(SHRI RAVI SHANKAR PRASAD)(a) to (e)	 A statement is laid on the Table of the House.STATEMENT TO BE LAID ON THE TABLE OF LOK SABHA IN RESPECT OF PARTS (a) to (e) OF LOK SABHA STARRED QUESTION NO. *358 FOR 18TH MARCH, 2020  REGARDING “PROBLEM OF CALL DROPS ”.(a) to (c) 	The Government is aware of the problem of call drops in the country. Department of Telecommunications (DoT) has taken several policy initiatives to facilitate infrastructure growth for delivery of quality services. These include- 	•	Permitting trading/sharing/ liberalisation of spectrum, 	•	Permitting passive & active infrastructure sharing, 	•	Notification of Right of Way Rules 2016, 	•	Making available government land/buildings for installations of towers etc. 	•	  Carrying out Electro Magnetic Field (EMF) awareness campaign to dispel the misgivings to the public regarding EMF radiations emission from mobile towers through print and electronic media.	As a result, around 15.37 lakh additional BTSs for 2G/3G/4G-LTE services have been added by TSPs during the period from March, 2014 (6.49 lakh BTS) to 11th March 2020 (21.87 lakh BTS) across the country. Moreover, around 1.78 lakh mobile towers have been added during the period from December 2015 (4.15 lakh mobile towers) to 11th March 2020 (5.94 lakh mobile towers) across the country. 	The call drop in a mobile network can happen due to many reasons including characteristics of radio propagation for wireless communications, non-availability of sites due to acquisition problems etc. The number of incidents of Call Drops/ Improper Network Coverage reported through Centralised Public Grievance Redressal And Monitoring System (CPGRAMS) to Department of Telecommunications (DoT) for the last three years & current year (upto 31st January, 2020) State/UT-wise is given at Annexure. Telecom Service Providers (TSPs) in India are required to ensure that the call-drop rate in their mobile networks remain within the benchmarks laid down by Telecom Regulatory Authority of India (TRAI).TRAI has issued “The Standards for Quality of Service for Basic (Wireline) and Cellular Mobile Telephone Services (Fifth Amendment) Regulations, 2017” effective from 1st October 2017. These Regulations have prescribed two revised parameters for assessing call drop in mobile network, viz. Call drop-rate Spatial distribution measure (benchmark = 2%) implies that at-least 90% of Cells in the network should perform better than specified 2% benchmark on at-least 90% of days. Similarly, another new parameter, Call drop-rate Temporal distribution measure (benchmark = 3%) will give confidence that on at-least 90% of Days, network performed better than specified 3% benchmark for at-least 97% of the Cells.  As per Performance Monitoring Reports (PMR) for Cellular Mobile Telephone Services for the quarter ending December 2019 of TRAI, all TSPs are complying to both Drop Call Rate (DCR) benchmarks except M/s BSNL in one License Service Area (LSA) (West Bengal), M/s VIL(Idea) in two LSA (Himachal Pradesh, UP West) & M/s VIL(Vodafone) in one LSA (Himachal Pradesh).TRAI monitors performance against various benchmarks quarterly through PMR submitted by service providers for LSA as a whole. District-wise/specific area-wise performance is not assessed. However, as on 29.02.2020 around 1808 Base Transceiver Stations (BTSs) in Sawai Madhopur and 2138 BTSs in Tonk Districts in Rajasthan are providing mobile network connectivity. Further, new Mobile Towers/ BTSs are also installed by TSPs to improve coverage and/or capacity of their networks based on their techno-commercial assessments.In order to obtain direct feedback from subscribers, DoT has launched an Interactive Voice Response System (IVRS) wherein, around 3.53 Crore subscribers have been individually contacted since December 2016, out of which 49.46 lakh subscribers have participated in the survey. The feedback is shared with the TSPs for taking corrective actions in a time bound manner. As a result, about 1.21 lakh individual cases of call drops have been resolved so far.(d) & (e)	TRAI had given its recommendations on “Guidelines on Spectrum Sharing” and “Working Guidelines for Spectrum Trading” on 21.07.2014 and 28.01.2014 respectively. Subsequently, Department of Telecommunications allowed sharing of Access Spectrum vide guidelines dated 24.09.2015 and trading of Access Spectrum vide guidelines dated 12.10.2015. 
+                                                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+HomeArchiveIndex to Select Questions (1984-1999)Ballot ListStatistical Statements Relating to QuestionsUploading of Questions - Status QueryProcedure for Sending Text of Questions & AnswersDemarcation of responsibilities in Govt. of IndiaBrochure on Statutory Corporations, Companies and Other Bodies in Which the Government of India have financial or controlling interestHighlights pertaining to questions of 17th Lok Sabha
+
+
+
+
+
+
+Contact Us 
+Disclaimer
+
+
+
+
+
+
+
+
+
+
+
+        Developed and Hosted by National Informatics Centre (NIC)
+
+Content on this website is published,
+            managed & maintained by Software Unit, Computer (HW & SW) Management. Branch,
+            Lok Sabha Secretariat
+
+
+
+
+
+HomeMembersBusinessQuestionsDebatesPapers Laid
+
+
+LegislationCommitteesSANSAD TVIntranetSecretariatPRIDE
+
+
+RecruitmentSC/ST ReservationConferenceParliament Library
+
+
+About ParliamentPhoto GalleryRelated LinksRTITendersFAQ
+
+
+SpeakerDy. SpeakerLeader of the HousePanel of ChairpersonsContact UsFeedback
+
+
+Council of MinistersPublications of MinistriesParliamentry ProceduresJournal of Parliamentary Information
+Visitor's Counter:113185812
+
+
+
+
+
+
+
+Copyright
+Privacy Policy
+Disclaimer
+Terms &
+                Conditions
+
+                Accessibility Statement
+Accessibility
+                Options
+Feedback
+Site Map
+
+
+
+
+
+
+

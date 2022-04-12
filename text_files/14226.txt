@@ -1,0 +1,350 @@
+
+
+
+
+	Questions : Lok Sabha
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Screen Reader Access
+Skip to Main Content
+Skip to Navigation
+
+
+
+Text Size
+
+                                A
+
+                                A
+A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+हिन्दी मे
+
+
+
+
+
+
+
+
+Parliament of India Lok Sabha House of the
+                        People
+
+
+
+
+
+
+* Special Characters not allowed
+
+
+
+
+
+
+
+
+
+
+
+
+India Time 
+
+
+Your Time 
+
+
+                        Monday,
+                        11 April 2022
+
+
+
+
+
+
+
+
+
+HomeMembersSitting MembersMembers Home PageMembers' PortalContact DetailsMembers SearchStatistical AnalysisAttendance of MembersHandbook Members Since 1952Digitized Who's WhoOthers BusinessProvisional CalendarList of BusinessPapers to be LaidList of Private Members' BusinessBulletin-IDigitized Lok Sabha Bulletin Part IBulletin-IIStatement of WorkSpecial Mentions (ZERO HOUR)Resume of WorkDigitized Resume of Work done by Lok Sabha QuestionsHomeQuestion ListStatus of notices of questionQuestions CalendarGrouping of Ministries - AlphabeticalOfficers in Min./Dept. Dealing with Parliamentary WorkQuestion SearchSupplementary Questions DebatesIntroductionSynopsisUncorrected DebateText of DebateDigitized DebatesConstituent Assembly DebatesWit And HumourDebate SearchHindi FontsDisclaimer Papers LaidPapers Laid on the Table of the House LegislationIntroduction(How Bill Becomes Act)Bills IntroducedBills PassedBills PendingBills AssentedBills LapsedBills WithdrawnBills NegativedBills Search Disclaimer CommitteesIntroductionChairpersonSummary of WorkCommittee Meetings ScheduleBills Referred to CommitteesReports PresentedDigitized ReportsPress ReleaseMembership SearchToday's Committee MeetingsCommittee Subject SelectedDepartment Related-RS Govt. AssurancesSANSAD TVIntranet
+
+
+
+
+
+HomeQuestion ListStatus of notices of questionQuestions CalendarGrouping of Ministries - AlphabeticalOfficers in Min./Dept. Dealing with Parliamentary WorkQuestion SearchSupplementary Questions
+
+
+
+
+
+
+
+
+
+
+
+Download as PDF
+
+
+
+
+Print
+
+
+
+
+
+
+
+
+
+
+
+
+PDF/WORD(Hindi)
+
+
+PDF/WORD
+
+
+
+
+                                    GOVERNMENT OF INDIA
+                                
+
+
+
+
+
+                                    MINISTRY OF
+                                    ELECTRONICS AND INFORMATION TECHNOLOGY
+
+
+
+
+
+
+                                    LOK SABHA
+                                
+
+
+
+
+
+UNSTARRED 
+
+
+                                    QUESTION NO:
+                                
+
+2895
+
+
+
+
+
+
+                                    ANSWERED ON: 
+                                
+
+11.03.2020
+
+
+
+
+
+
+Cyber Crime
+
+
+
+
+Mitesh Rameshbhai (Bakabhai) Patel
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        Will the Minister of
+
+
+
+
+
+ELECTRONICS AND INFORMATION TECHNOLOGY
+
+
+                        be pleased to state:-
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                    Will the Minister of Electronics & Information Technology be pleased to state:-(a)    the number of Cyber Crimes reported in the country during each of last three years; State/UT-wise;(b)    whether in view of the increasing number of cyber crimes  the Government is working on developing any technology which can curb various crimes besides enhancing monitoring skills of the authority dealing with the same and if so, the details thereof; and (c)   the mechanism formulated by the Government to compensate the bank account holders in case of occurrence of economic frauds by way of cyber crime?
+
+
+
+
+
+
+ANSWER
+
+
+
+
+                                                        a):	As per the data maintained by National Crime Records Bureau (NCRB), Ministry of Home Affairs, a total of 12317, 21796 and 27248 cybercrime cases were registered during the years 2016,2017 and 2018 respectively. The details of cases registered, cases charge-sheeted, cases convicted, and persons convicted under cyber-crime during 2016 to 2018 is enclosed at Annexure-I. These include cases registered under the Information Technology (IT) Act, 2000 and related sections of Indian Penal Code and Special & Local Laws involving computer as medium/ target. Latest data pertains to the year 2018.(b) and (c): With the growth of number of users on Internet, rise in cyber crime is a global phenomenon. Government has taken a number of legal, technical and administrative measures to prevent cyber crimes.  These inter alia, include:(i)	Enactment of the Information Technology Act, 2000 which has provisions to deal with prevalent cybercrimes. (ii)	Ministry of Home Affairs (MHA) has launched acomprehensive online national cybercrime reporting portal, (www.cybercrime.gov.in) to enable complainants to report complaints pertaining to all types of cybercrimes with special focus on cybercrimes against women and children.(iii)	To spread awareness on cybercrime, Ministry of Home Affairs (MHA) has taken several steps that include dissemination of messages on cybercrime through Twitter handle @cyberDost, radio campaign, publishing of Handbook for Adolescents / Students, publishing of ‘Information Security Best practices’ for the benefit of Govt. Officials/ Officers. Organizing of cyber Safety and Security Awareness weeks, in association with police department in different States/UTs etc., issuing alerts/advisories on cyber crimes, capacity building/training of law enforcement personnel/ prosecutors/ judicial officers, improving cyber forensics facilities etc. (iv)	Ministry of Electronics and Information Technology through a program, namely, Information Security Education & Awareness (ISEA), has been creating awareness among users highlighting the importance of following the ethics while using Internet and advising them not to share rumors/fake news. A dedicated website for information security awareness (https://www.infosecawareness.in) provides the relevant awareness material.(v)	Reserve Bank of India (RBI) has issued various instructions in respect of security and risk mitigation measures related to electronic/digital transactions which includes Securing Card Transactions, Securing Payments through Internet Banking / Electronic Payments, ATM Transactions, Prepaid Payment Instruments (PPIs), Limiting Customer Liability on Unauthorized Electronic Banking Transactions, Limiting Customer Liability in Unauthorized Electronic Banking Transactions in PPIs issued by Authorised Non-banks, Enhancing Security of Card Transactions etc. ********  ANNEXURE ISummary Report on Cases Registered (CR), Cases Chargesheeted (CCS), Cases Convicted (CON), Persons Arrested (PAR), Persons Chargesheeted (PCS) and Persons Convicted (PCV) under Cyber Crimes during 2016-2018SL	Crime Head	2016	2017	2018		CR	CCS	CON	PAR	PCS	PCV	CR	CCS	CON	PAR	PCS	PCV	CR	CCS	CON	PAR	PCS	PCV1	Tampering computer source documents	78	32	1	66	43	1	233	54	2	99	72	2	257	122	4	208	185	42	Computer Related Offences	6818	2018	134	4674	2579	172	10108	2091	50	4169	3319	59	14141	2730	404	4627	3570	4703	Cyber Terrorism	12	6	0	7	7	0	13	1	0	11	1	0	21	5	0	28	5	04	Publication/transmission of obscene / sexually explicit act in electronic form	957	409	10	829	484	12	1768	642	18	1443	1087	25	3076	1157	37	2322	1621	465	Interception or Monitoring or decryption of Information	0	0	0	1	0	0	4	1	1	2	1	1	6	1	0	24	4	06	Un-authorized access/attempt to  access to protected computer system	0	3	0	3	3	0	2	1	0	1	1	0	0	0	0	6	0	07	Abetment to Commit Offences	-	-	-	-	-	-	0	0	0	0	0	0	1	1	0	13	2	08	Attempt to Commit Offences	-	-	-	-	-	-	4	0	0	0	0	0	13	8	0	21	21	09	Other Sections of IT Act	748	242	14	384	298	17	1503	379	44	658	522	37	980	390	21	746	598	3210	Total Offences under I.T. Act	8613	2710	159	5964	3414	202	13635	3169	115	6383	5003	124	18495	4414	466	7995	6006	55211	Abetment of Suicide (Online)	-	-	-	-	-	-	0	0	0	0	0	0	7	5	0	8	8	012	Cyber Stalking/Bullying of Women/Children	-	-	-	-	-	-	542	233	6	397	296	6	739	390	4	618	480	413	Data theft	86	22	0	34	26	0	307	36	0	155	37	0	106	36	0	83	50	014	Fraud	-	-	-	-	-	-	3466	614	9	1971	1027	11	3353	844	6	1778	1467	1215	Cheating	2329	355	4	853	569	6	1896	301	2	806	621	2	2051	471	6	1007	817	716	Forgery	81	16	0	64	37	0	99	24	0	180	75	0	260	41	0	159	88	017	Defamation/Morphing	-	-	-	-	-	-	12	4	0	17	17	0	18	5	0	8	7	018	Fake Profile	-	-	-	-	-	-	86	31	0	90	52	0	78	49	1	71	54	119	Counterfeiting	10	12	0	17	19	0	1	1	0	9	1	0	2	1	0	1	1	020	Cyber Blackmailing/Threatening	-	-	-	-	-	-	311	103	2	214	127	2	223	102	1	189	143	221	Fake News on Social Media	-	-	-	-	-	-	170	51	1	115	85	1	97	34	2	61	48	222	Other Offences	1012	454	9	817	620	15	1086	518	12	1037	768	11	1713	788	9	1464	1040	2123	Total Offences under IPC	3518	859	13	1785	1271	21	7976	1916	32	4991	3106	33	8647	2766	29	5447	4203	4924	Gambling Act (Online Gambling)	-	-	-	-	-	-	45	28	0	102	101	0	20	19	0	38	49	025	Lotteries Act (Online Lotteries)	-	-	-	-	-	-	11	0	0	1	0	0	2	0	0	2	0	026	Copy Right Act	181	136	29	237	212	31	89	57	4	103	82	4	62	26	0	41	32	027	Trade Marks Act	2	0	0	0	0	0	11	1	0	5	1	0	0	0	0	0	0	028	Other SLL Crimes	3	7	0	4	16	0	29	9	1	16	13	1	22	9	0	46	16	029	Total Offences under SLL	186	143	29	241	228	31	185	95	5	227	197	5	106	54	0	127	97	0 	Total Cyber Crimes	12317	3712	201	7990	4913	254	21796	5180	152	11601	8306	162	27248	7234	495	13569	10306	601Source: Crime in India	Note: Clarifications are pending from West Bengal, Assam, Arunachal Pradesh, Meghalaya & Sikkim for the year 2018		 ***** 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+HomeArchiveIndex to Select Questions (1984-1999)Ballot ListStatistical Statements Relating to QuestionsUploading of Questions - Status QueryProcedure for Sending Text of Questions & AnswersDemarcation of responsibilities in Govt. of IndiaBrochure on Statutory Corporations, Companies and Other Bodies in Which the Government of India have financial or controlling interestHighlights pertaining to questions of 17th Lok Sabha
+
+
+
+
+
+
+Contact Us 
+Disclaimer
+
+
+
+
+
+
+
+
+
+
+
+        Developed and Hosted by National Informatics Centre (NIC)
+
+Content on this website is published,
+            managed & maintained by Software Unit, Computer (HW & SW) Management. Branch,
+            Lok Sabha Secretariat
+
+
+
+
+
+HomeMembersBusinessQuestionsDebatesPapers Laid
+
+
+LegislationCommitteesSANSAD TVIntranetSecretariatPRIDE
+
+
+RecruitmentSC/ST ReservationConferenceParliament Library
+
+
+About ParliamentPhoto GalleryRelated LinksRTITendersFAQ
+
+
+SpeakerDy. SpeakerLeader of the HousePanel of ChairpersonsContact UsFeedback
+
+
+Council of MinistersPublications of MinistriesParliamentry ProceduresJournal of Parliamentary Information
+Visitor's Counter:113181901
+
+
+
+
+
+
+
+Copyright
+Privacy Policy
+Disclaimer
+Terms &
+                Conditions
+
+                Accessibility Statement
+Accessibility
+                Options
+Feedback
+Site Map
+
+
+
+
+
+
+

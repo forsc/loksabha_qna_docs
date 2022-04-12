@@ -1,0 +1,350 @@
+
+
+
+
+	Questions : Lok Sabha
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Screen Reader Access
+Skip to Main Content
+Skip to Navigation
+
+
+
+Text Size
+
+                                A
+
+                                A
+A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+हिन्दी मे
+
+
+
+
+
+
+
+
+Parliament of India Lok Sabha House of the
+                        People
+
+
+
+
+
+
+* Special Characters not allowed
+
+
+
+
+
+
+
+
+
+
+
+
+India Time 
+
+
+Your Time 
+
+
+                        Tuesday,
+                        12 April 2022
+
+
+
+
+
+
+
+
+
+HomeMembersSitting MembersMembers Home PageMembers' PortalContact DetailsMembers SearchStatistical AnalysisAttendance of MembersHandbook Members Since 1952Digitized Who's WhoOthers BusinessProvisional CalendarList of BusinessPapers to be LaidList of Private Members' BusinessBulletin-IDigitized Lok Sabha Bulletin Part IBulletin-IIStatement of WorkSpecial Mentions (ZERO HOUR)Resume of WorkDigitized Resume of Work done by Lok Sabha QuestionsHomeQuestion ListStatus of notices of questionQuestions CalendarGrouping of Ministries - AlphabeticalOfficers in Min./Dept. Dealing with Parliamentary WorkQuestion SearchSupplementary Questions DebatesIntroductionSynopsisUncorrected DebateText of DebateDigitized DebatesConstituent Assembly DebatesWit And HumourDebate SearchHindi FontsDisclaimer Papers LaidPapers Laid on the Table of the House LegislationIntroduction(How Bill Becomes Act)Bills IntroducedBills PassedBills PendingBills AssentedBills LapsedBills WithdrawnBills NegativedBills Search Disclaimer CommitteesIntroductionChairpersonSummary of WorkCommittee Meetings ScheduleBills Referred to CommitteesReports PresentedDigitized ReportsPress ReleaseMembership SearchToday's Committee MeetingsCommittee Subject SelectedDepartment Related-RS Govt. AssurancesSANSAD TVIntranet
+
+
+
+
+
+HomeQuestion ListStatus of notices of questionQuestions CalendarGrouping of Ministries - AlphabeticalOfficers in Min./Dept. Dealing with Parliamentary WorkQuestion SearchSupplementary Questions
+
+
+
+
+
+
+
+
+
+
+
+Download as PDF
+
+
+
+
+Print
+
+
+
+
+
+
+
+
+
+
+
+
+PDF/WORD(Hindi)
+
+
+PDF/WORD
+
+
+
+
+                                    GOVERNMENT OF INDIA
+                                
+
+
+
+
+
+                                    MINISTRY OF
+                                    COMMUNICATIONS
+
+
+
+
+
+
+                                    LOK SABHA
+                                
+
+
+
+
+
+STARRED   
+
+
+                                    QUESTION NO:
+                                
+
+498
+
+
+
+
+
+
+                                    ANSWERED ON: 
+                                
+
+06.04.2022
+
+
+
+
+
+
+Problem of Call Drop
+
+
+
+
+Mahabali Singh
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        Will the Minister of
+
+
+
+
+
+COMMUNICATIONS
+
+
+                        be pleased to state:-
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                    (a) 	whether the problem of call drop is unprecedented across the country; (b) 	if so, the details thereof along with the steps proposed to be taken by the Government to address the said problem in near future; and(c) 	whether the Government proposes to cancel the licenses of the telecom companies in case of their failure in resolving the said problem?
+
+
+
+
+
+
+ANSWER
+
+
+
+
+                                                        MINISTER OF RAILWAYS, COMMUNICATIONS &ELECTRONICS AND INFORMATION TECHNOLOGY(SHRI ASHWINI VAISHNAW)(a) to (c)	 A statement is laid on the Table of the House.STATEMENT TO BE LAID ON THE TABLE OF LOK SABHA IN RESPECT OF PARTS (a) to (c) OF LOK SABHA STARRED QUESTION NO. 498 FOR 6TH APRIL, 2022 REGARDING “PROBLEM OF CALL DROP”.(a) & (b)	Telecom Regulatory Authority of India (TRAI) has been monitoring the performance of Telecom Service Providers (TSPs) for the License Service Area (LSA) as a whole, through Quarterly Performance Monitoring Reports (PMRs) submitted by them against the benchmarks for various Quality of Service parameters laid down by TRAI. TSPs in India are required to ensure that the call drop rate in their mobile networks remains within the benchmarks laid down by TRAI.		TRAI has issued “The Standards of Quality of Service of Basic Telephone Service (Wireline) and Cellular Mobile Telephone Service (Fifth Amendment) Regulations, 2017” effective from 1st October 2017. These Regulations have prescribed two revised stringent parameters for assessing call drop in mobile network, viz. Drop Call Rate (DCR) Spatial Distribution measure (benchmark = 2%) implies that at least 90% of cells in the network should perform better than specified 2% benchmark on at least 90% of days. Similarly, another new parameter, DCR Temporal Distribution measure (benchmark = 3%) will give confidence that on at least 90% of days, network performed better than specified 3% benchmark for at least 97% of the cells.		As per PMR for Cellular Mobile Telephone Services for the quarter ending December - 2021 of TRAI, all TSPs except M/s BSNL in one LSA (West Bengal) are complying to both the benchmarks related to Drop Call Rate (DCR).Wherever the benchmark is not met by service provider, the explanation of TSPs is called for. After considering the explanation submitted by TSPs, TRAI imposes financial disincentives for non-compliance with the benchmark. Effective from 1st October 2017, TRAI has introduced a revised graded Financial Disincentives (FD) structure for DCR parameters, based on the extent to which a TSP’s performance deviates from the specified DCR benchmark. Moreover, Department of Telecommunications (DoT) has taken several policy initiatives to facilitate infrastructure growth for delivery of quality services. These include permitting trading/sharing/ liberalisation of spectrum, permitting passive & active infrastructure sharing, making government land/buildings available for installations of towers, etc. Around 16.82 lakh additional Base Transceiver Stations (BTSs) for 2G/3G/4G-LTE services have been added by TSPs during the period from March 2014 to March 2022 across the country.Further, in order to obtain direct feedback from subscribers on call drop, DoT has launched an Interactive Voice Response System (IVRS) wherein around 5.67 crore subscribers have been individually contacted since December 2016. Out of these, 73.61 lakh subscribers have participated in the survey. The feedback is shared with the TSPs for taking corrective actions in a time bound manner. As a result, about 1.73 lakh individual cases of call drops have been resolved so far and around 7,956 BTSs have been installed by the TSPs specifically to resolve the call drop issues received through IVRS.(c)	There is no such proposal.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+HomeArchiveIndex to Select Questions (1984-1999)Ballot ListStatistical Statements Relating to QuestionsUploading of Questions - Status QueryProcedure for Sending Text of Questions & AnswersDemarcation of responsibilities in Govt. of IndiaBrochure on Statutory Corporations, Companies and Other Bodies in Which the Government of India have financial or controlling interestHighlights pertaining to questions of 17th Lok Sabha
+
+
+
+
+
+
+Contact Us 
+Disclaimer
+
+
+
+
+
+
+
+
+
+
+
+        Developed and Hosted by National Informatics Centre (NIC)
+
+Content on this website is published,
+            managed & maintained by Software Unit, Computer (HW & SW) Management. Branch,
+            Lok Sabha Secretariat
+
+
+
+
+
+HomeMembersBusinessQuestionsDebatesPapers Laid
+
+
+LegislationCommitteesSANSAD TVIntranetSecretariatPRIDE
+
+
+RecruitmentSC/ST ReservationConferenceParliament Library
+
+
+About ParliamentPhoto GalleryRelated LinksRTITendersFAQ
+
+
+SpeakerDy. SpeakerLeader of the HousePanel of ChairpersonsContact UsFeedback
+
+
+Council of MinistersPublications of MinistriesParliamentry ProceduresJournal of Parliamentary Information
+Visitor's Counter:113266825
+
+
+
+
+
+
+
+Copyright
+Privacy Policy
+Disclaimer
+Terms &
+                Conditions
+
+                Accessibility Statement
+Accessibility
+                Options
+Feedback
+Site Map
+
+
+
+
+
+
+

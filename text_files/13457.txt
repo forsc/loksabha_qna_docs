@@ -1,0 +1,350 @@
+
+
+
+
+	Questions : Lok Sabha
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Screen Reader Access
+Skip to Main Content
+Skip to Navigation
+
+
+
+Text Size
+
+                                A
+
+                                A
+A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+हिन्दी मे
+
+
+
+
+
+
+
+
+Parliament of India Lok Sabha House of the
+                        People
+
+
+
+
+
+
+* Special Characters not allowed
+
+
+
+
+
+
+
+
+
+
+
+
+India Time 
+
+
+Your Time 
+
+
+                        Monday,
+                        11 April 2022
+
+
+
+
+
+
+
+
+
+HomeMembersSitting MembersMembers Home PageMembers' PortalContact DetailsMembers SearchStatistical AnalysisAttendance of MembersHandbook Members Since 1952Digitized Who's WhoOthers BusinessProvisional CalendarList of BusinessPapers to be LaidList of Private Members' BusinessBulletin-IDigitized Lok Sabha Bulletin Part IBulletin-IIStatement of WorkSpecial Mentions (ZERO HOUR)Resume of WorkDigitized Resume of Work done by Lok Sabha QuestionsHomeQuestion ListStatus of notices of questionQuestions CalendarGrouping of Ministries - AlphabeticalOfficers in Min./Dept. Dealing with Parliamentary WorkQuestion SearchSupplementary Questions DebatesIntroductionSynopsisUncorrected DebateText of DebateDigitized DebatesConstituent Assembly DebatesWit And HumourDebate SearchHindi FontsDisclaimer Papers LaidPapers Laid on the Table of the House LegislationIntroduction(How Bill Becomes Act)Bills IntroducedBills PassedBills PendingBills AssentedBills LapsedBills WithdrawnBills NegativedBills Search Disclaimer CommitteesIntroductionChairpersonSummary of WorkCommittee Meetings ScheduleBills Referred to CommitteesReports PresentedDigitized ReportsPress ReleaseMembership SearchToday's Committee MeetingsCommittee Subject SelectedDepartment Related-RS Govt. AssurancesSANSAD TVIntranet
+
+
+
+
+
+HomeQuestion ListStatus of notices of questionQuestions CalendarGrouping of Ministries - AlphabeticalOfficers in Min./Dept. Dealing with Parliamentary WorkQuestion SearchSupplementary Questions
+
+
+
+
+
+
+
+
+
+
+
+Download as PDF
+
+
+
+
+Print
+
+
+
+
+
+
+
+
+
+
+
+
+PDF/WORD(Hindi)
+
+
+PDF/WORD
+
+
+
+
+                                    GOVERNMENT OF INDIA
+                                
+
+
+
+
+
+                                    MINISTRY OF
+                                    ELECTRONICS AND INFORMATION TECHNOLOGY
+
+
+
+
+
+
+                                    LOK SABHA
+                                
+
+
+
+
+
+UNSTARRED 
+
+
+                                    QUESTION NO:
+                                
+
+2225
+
+
+
+
+
+
+                                    ANSWERED ON: 
+                                
+
+04.03.2020
+
+
+
+
+
+
+BHIM Application
+
+
+
+
+Kirit Premjibhai Solanki
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        Will the Minister of
+
+
+
+
+
+ELECTRONICS AND INFORMATION TECHNOLOGY
+
+
+                        be pleased to state:-
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                    will the Minister of Electronics and Information Technology be pleased to state:(a)   the steps taken/being taken by the Government for encouragement of the use of State-run Bharat Interface for Money (BHIM) application for digital payment system;(b)   whether Government has taken any steps to improve the infrastructure of BHIM-UPI digital payment platforms;(c)   if so, the details thereof;(d)   if not, the reasons therefor; and(e)   the number of transactions undertaken using this BHIM-UPI interface during each of the last three years and the current year, State/UT-wise?
+
+
+
+
+
+
+ANSWER
+
+
+
+
+                                                        a):   In order to promote Bharat Interface for Money (BHIM) app, the following steps have been taken by Ministry of Electronics & Information Technology (MeitY):•	Government issued advisories to Central Ministries/Departments and States/UTs to improve payments acceptance infrastructure and thereby enable the citizens to pay by a variety of modes such as Internet banking, mobile banking, and mobile applications etc. including use of BHIM app.•	Government launched the scheme titled “Pradhan Mantri Gramin Digital Saksharta Abhiyan (PMGDISHA)” to usher in digital literacy in rural India. Special focus of the said Scheme is on training the beneficiaries on use of Electronic Payment Systems. The outcome measurement criteria include undertaking at least 5 electronic payments transactions by each beneficiary using UPI including BHIM app, USSD, PoS, AEPS, Cards, Internet Banking. Presently, more than 3.46 crore candidates have been enrolled and around 2.82 crore have been trained, out of which more than 2.07 crore candidates have been certified under the PMGDISHA Scheme.•	Awareness campaigns were organized in the Capital Cities of North East to promote digital payments including BHIM app. MeitY also ran Newspaper campaigns, Digital Theatre Campaigns, FM Radio campaigns and hoarding campaigns to promote BHIM app.•	Merchant Discount Rate (MDR) applicable on Debit Card/BHIM UPI/Aadhaar-Pay transactions less than or equal to Rs. 2000/- in value was reimbursed to banks for a period of two years with effect from 1st January, 2018. •	In order to make BHIM app more effective under BHIM 2.0, the following new features such as offers, donations, support for multiple accounts, local language support and limit enhancement etc have been incorporated alongwith enhancements in existing features(b): Yes, Sir.(c):   In order to improve the infrastructure of BHIM-UPI digital payment platforms, the following steps have been taken:•	Ministry is constantly monitoring the growth of Digital payments over BHIM-UPI platform including success rate of digital transactions so as to take necessary action.•	Ministry is also coordinating with Banks and National Payments Corporation of India (NPCI) to ensure proper uptime of BHIM-UPI switch and to upgrade server capacities to meet the increased transaction load.•	Ministry is coordinating with Central Ministries/Departments and States/UTs to enable all customer touch points with digital payment options including BHIM-UPI •	In order to increase digital payments, targets regarding acceptance infrastructure at merchant end are assigned to Banks and monitored•	BHIM-UPI platform has shown transaction growth of 589% in F.Y 18-19 (539.15 crore) as compared to F.Y 17-18 (91.52 crore). BHIM-UPI currently has 144 member Banks offering this service to their customers(d):    In view of  (c)above, does not arise.(e):    State/UT-wise transaction details are not maintained, however total number of Digital transactions over BHIM-UPI platform undertaken in the country during the last three years and the current year is as under:Financial Year (FY)	Total Digital Transactions over BHIM-UPI platformFY 2016-17	1.70 croreFY 2017-18	90.30 croreFY 2018-19	539.15 croreFY 2019-20 (till Jan 2020)	994.60 crore******** 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+HomeArchiveIndex to Select Questions (1984-1999)Ballot ListStatistical Statements Relating to QuestionsUploading of Questions - Status QueryProcedure for Sending Text of Questions & AnswersDemarcation of responsibilities in Govt. of IndiaBrochure on Statutory Corporations, Companies and Other Bodies in Which the Government of India have financial or controlling interestHighlights pertaining to questions of 17th Lok Sabha
+
+
+
+
+
+
+Contact Us 
+Disclaimer
+
+
+
+
+
+
+
+
+
+
+
+        Developed and Hosted by National Informatics Centre (NIC)
+
+Content on this website is published,
+            managed & maintained by Software Unit, Computer (HW & SW) Management. Branch,
+            Lok Sabha Secretariat
+
+
+
+
+
+HomeMembersBusinessQuestionsDebatesPapers Laid
+
+
+LegislationCommitteesSANSAD TVIntranetSecretariatPRIDE
+
+
+RecruitmentSC/ST ReservationConferenceParliament Library
+
+
+About ParliamentPhoto GalleryRelated LinksRTITendersFAQ
+
+
+SpeakerDy. SpeakerLeader of the HousePanel of ChairpersonsContact UsFeedback
+
+
+Council of MinistersPublications of MinistriesParliamentry ProceduresJournal of Parliamentary Information
+Visitor's Counter:113178798
+
+
+
+
+
+
+
+Copyright
+Privacy Policy
+Disclaimer
+Terms &
+                Conditions
+
+                Accessibility Statement
+Accessibility
+                Options
+Feedback
+Site Map
+
+
+
+
+
+
+

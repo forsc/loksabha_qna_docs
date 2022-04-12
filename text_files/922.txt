@@ -1,0 +1,350 @@
+
+
+
+
+	Questions : Lok Sabha
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Screen Reader Access
+Skip to Main Content
+Skip to Navigation
+
+
+
+Text Size
+
+                                A
+
+                                A
+A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+हिन्दी मे
+
+
+
+
+
+
+
+
+Parliament of India Lok Sabha House of the
+                        People
+
+
+
+
+
+
+* Special Characters not allowed
+
+
+
+
+
+
+
+
+
+
+
+
+India Time 
+
+
+Your Time 
+
+
+                        Sunday,
+                        10 April 2022
+
+
+
+
+
+
+
+
+
+HomeMembersSitting MembersMembers Home PageMembers' PortalContact DetailsMembers SearchStatistical AnalysisAttendance of MembersHandbook Members Since 1952Digitized Who's WhoOthers BusinessProvisional CalendarList of BusinessPapers to be LaidList of Private Members' BusinessBulletin-IDigitized Lok Sabha Bulletin Part IBulletin-IIStatement of WorkSpecial Mentions (ZERO HOUR)Resume of WorkDigitized Resume of Work done by Lok Sabha QuestionsHomeQuestion ListStatus of notices of questionQuestions CalendarGrouping of Ministries - AlphabeticalOfficers in Min./Dept. Dealing with Parliamentary WorkQuestion SearchSupplementary Questions DebatesIntroductionSynopsisUncorrected DebateText of DebateDigitized DebatesConstituent Assembly DebatesWit And HumourDebate SearchHindi FontsDisclaimer Papers LaidPapers Laid on the Table of the House LegislationIntroduction(How Bill Becomes Act)Bills IntroducedBills PassedBills PendingBills AssentedBills LapsedBills WithdrawnBills NegativedBills Search Disclaimer CommitteesIntroductionChairpersonSummary of WorkCommittee Meetings ScheduleBills Referred to CommitteesReports PresentedDigitized ReportsPress ReleaseMembership SearchToday's Committee MeetingsCommittee Subject SelectedDepartment Related-RS Govt. AssurancesSANSAD TVIntranet
+
+
+
+
+
+HomeQuestion ListStatus of notices of questionQuestions CalendarGrouping of Ministries - AlphabeticalOfficers in Min./Dept. Dealing with Parliamentary WorkQuestion SearchSupplementary Questions
+
+
+
+
+
+
+
+
+
+
+
+Download as PDF
+
+
+
+
+Print
+
+
+
+
+
+
+
+
+
+
+
+
+PDF/WORD(Hindi)
+
+
+PDF/WORD
+
+
+
+
+                                    GOVERNMENT OF INDIA
+                                
+
+
+
+
+
+                                    MINISTRY OF
+                                    ELECTRONICS AND INFORMATION TECHNOLOGY
+
+
+
+
+
+
+                                    LOK SABHA
+                                
+
+
+
+
+
+UNSTARRED 
+
+
+                                    QUESTION NO:
+                                
+
+838
+
+
+
+
+
+
+                                    ANSWERED ON: 
+                                
+
+26.06.2019
+
+
+
+
+
+
+Digital Transactions
+
+
+
+
+Sumedhanand Saraswati
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        Will the Minister of
+
+
+
+
+
+ELECTRONICS AND INFORMATION TECHNOLOGY
+
+
+                        be pleased to state:-
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Will the Minister of Electronics and Information Technology be pleased to state:(a)   whether the Government is taking any initiative for promoting the digital transactions across the Country;(b)   if so, the details of the efforts made by the Government in this regard;(c)  whether the Government is making efforts to check  frauds in digital transactions particularly those involving the bank account holders:(d)	  if so, the details thereof;(e)	 whether there is a provision of compensation for the victims of such type of frauds; and(f)     if not, whether the Government proposes to make such a provision and if so, the details thereof?
+
+
+
+
+
+
+ANSWER
+
+
+
+
+                                                        (a) and (b):  Yes, Sir.  Government of India has taken several steps to promote the digital payments. The details are placed in Annexure.(c) and (d):  Reserve Bank of India has set up a Central Fraud Registry (CFR), a web based searchable database of frauds reported by the banks, containing data for the last 13 years has been made operational with effect from January 20, 2016. The Registry is shared with the reporting entities and intended to serve as a tool for timely identification, control and mitigation of fraud risk. The CFR helps in carrying out due diligence during credit sanction process. Apart from CFR, RBI has issued several Caution Advices detailing names of fraudsters and their modus operandi, for instance, by misuse of SWIFT messaging system, ATM malware attack etc. in order to raise awareness among banks and NBFCs about perpetrators and the method they employ to commit frauds. Further all organizations providing digital services have been mandated to report cyber security incidents to CERT-In expeditiously.(e) and (f): There is no such provision of compensation for the victims of such types of frauds.******* ANNEXUREThe steps taken by the Government to promote digital payments in Ministries /Departments/States are as follows:a)	Digital Payments Dashboard (digipay.gov.in) launched on 13th February, 2018 during the conference of State IT Ministers and State IT Secretaries.b)	DigiVaarta was launched in Delhi on 28th September, 2018, with the express intention of spreading awareness on DigiDhan, and also to spread popularity of BHIM’s barcode-based merchant payment mode with merchants and traders at large. This launch has two components:A.  A SMS application which operates from NIC’s SMS Gateway on a special Short-code service allotted for this purpose by DoT with the number “14444”. Citizens will receive SMS messages which are pre-approved by experts and the response messages will be made available for further action, analysis and research. The Government proposes initially to pay for the citizen’s response so as to promote citizen’s engagement and make the awareness program completely free for the citizen.B. A Mobile application version of DigiVaarta, which can be accessed and used by smart phone users. This app can perform many more function beyond chat, offers audio-video tutorials etc.c)	A campaign was undertaken in 100 smart cities in coordination with 9 Ministries/ Departments for promotion of digital payments during the period from 1st July, 2018 to 31st October, 2018.  Smart Cities  are reporting total payment collection vs. digital collection from citizens on the Digidhan Dashboard.d)	An awareness campaign was organized in the SMART Cities of North East to promote digital payments.e)	Advisories are issued for the following: :i.	To enable online payment systems with BHIM/UPI, BHIM QR code and Rupay Card.ii.	To enable BHIM QR in their concerned physical payment receipt counters.iii.	Utilities (Electricity/Water/Gas/Telecom/DTH)   to on-board on Bharat Bill Payment System (BBPS and printing of BHIM QR code   on all utility bills f)	Government has waived off   Merchant Discount Rate (MDR) applicable on Debit Card/BHIM UPI/Aadhaar-Pay transactions less than or equal to Rs. 2000/- in value for a period of two years with effect from 1st January, 2018.   g)	Government of India has initiated incentive schemes such as BHIM cashback scheme for individuals, BHIM incentive scheme for merchants, BHIM Aadhaar merchant incentive scheme for promotion and wider adoption of digital payment.h)	Government is co-ordinating with Ministries/Departments/States to enable digital payment acceptance infrastructure:•	Utilities (Electricity/Water/Gas/Telecom/DTH) have been requested for on-boarding on   Bharat Bill Payment System (BBPS) for easy accessibility to digital payments.•	All Public transport operators have been requested to enable National Common Mobility Card (NCMC) for digital payments.Following steps has been taken by the Govt. to promote payments through BHIM UPI.i)	In order to promote and enable acceptance of UPI based payments at the small and micro merchants, Ministry of Electronics and Information Technology (MeitY) vide gazette notification No 6(19)/2017-DPD-1 dated 27th December 2017 has notified the reimbursement of MDR charges on Debit cards/BHIM-UPI and BHIM Aadhaar Pay transactions of value up-to Rs 2000 for two years effective from 1st Jan 2018.Promotion and Publicity in Digital Paymentj)	Meity is also working with IRCTC to promote digital payments into their websitek)	Meity is working with leading newspapers in India to promote digital payments across all the nook and corners of India.l)	Meity ran various FM campaigns and hoarding campaigns to promote digital payments in India.********
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+HomeArchiveIndex to Select Questions (1984-1999)Ballot ListStatistical Statements Relating to QuestionsUploading of Questions - Status QueryProcedure for Sending Text of Questions & AnswersDemarcation of responsibilities in Govt. of IndiaBrochure on Statutory Corporations, Companies and Other Bodies in Which the Government of India have financial or controlling interestHighlights pertaining to questions of 17th Lok Sabha
+
+
+
+
+
+
+Contact Us 
+Disclaimer
+
+
+
+
+
+
+
+
+
+
+
+        Developed and Hosted by National Informatics Centre (NIC)
+
+Content on this website is published,
+            managed & maintained by Software Unit, Computer (HW & SW) Management. Branch,
+            Lok Sabha Secretariat
+
+
+
+
+
+HomeMembersBusinessQuestionsDebatesPapers Laid
+
+
+LegislationCommitteesSANSAD TVIntranetSecretariatPRIDE
+
+
+RecruitmentSC/ST ReservationConferenceParliament Library
+
+
+About ParliamentPhoto GalleryRelated LinksRTITendersFAQ
+
+
+SpeakerDy. SpeakerLeader of the HousePanel of ChairpersonsContact UsFeedback
+
+
+Council of MinistersPublications of MinistriesParliamentry ProceduresJournal of Parliamentary Information
+Visitor's Counter:113073011
+
+
+
+
+
+
+
+Copyright
+Privacy Policy
+Disclaimer
+Terms &
+                Conditions
+
+                Accessibility Statement
+Accessibility
+                Options
+Feedback
+Site Map
+
+
+
+
+
+
+

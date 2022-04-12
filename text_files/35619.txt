@@ -1,0 +1,363 @@
+
+
+
+
+	Questions : Lok Sabha
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Screen Reader Access
+Skip to Main Content
+Skip to Navigation
+
+
+
+Text Size
+
+                                A
+
+                                A
+A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+हिन्दी मे
+
+
+
+
+
+
+
+
+Parliament of India Lok Sabha House of the
+                        People
+
+
+
+
+
+
+* Special Characters not allowed
+
+
+
+
+
+
+
+
+
+
+
+
+India Time 
+
+
+Your Time 
+
+
+                        Tuesday,
+                        12 April 2022
+
+
+
+
+
+
+
+
+
+HomeMembersSitting MembersMembers Home PageMembers' PortalContact DetailsMembers SearchStatistical AnalysisAttendance of MembersHandbook Members Since 1952Digitized Who's WhoOthers BusinessProvisional CalendarList of BusinessPapers to be LaidList of Private Members' BusinessBulletin-IDigitized Lok Sabha Bulletin Part IBulletin-IIStatement of WorkSpecial Mentions (ZERO HOUR)Resume of WorkDigitized Resume of Work done by Lok Sabha QuestionsHomeQuestion ListStatus of notices of questionQuestions CalendarGrouping of Ministries - AlphabeticalOfficers in Min./Dept. Dealing with Parliamentary WorkQuestion SearchSupplementary Questions DebatesIntroductionSynopsisUncorrected DebateText of DebateDigitized DebatesConstituent Assembly DebatesWit And HumourDebate SearchHindi FontsDisclaimer Papers LaidPapers Laid on the Table of the House LegislationIntroduction(How Bill Becomes Act)Bills IntroducedBills PassedBills PendingBills AssentedBills LapsedBills WithdrawnBills NegativedBills Search Disclaimer CommitteesIntroductionChairpersonSummary of WorkCommittee Meetings ScheduleBills Referred to CommitteesReports PresentedDigitized ReportsPress ReleaseMembership SearchToday's Committee MeetingsCommittee Subject SelectedDepartment Related-RS Govt. AssurancesSANSAD TVIntranet
+
+
+
+
+
+HomeQuestion ListStatus of notices of questionQuestions CalendarGrouping of Ministries - AlphabeticalOfficers in Min./Dept. Dealing with Parliamentary WorkQuestion SearchSupplementary Questions
+
+
+
+
+
+
+
+
+
+
+
+Download as PDF
+
+
+
+
+Print
+
+
+
+
+
+
+
+
+
+
+
+
+PDF/WORD(Hindi)
+
+
+PDF/WORD
+
+
+
+
+                                    GOVERNMENT OF INDIA
+                                
+
+
+
+
+
+                                    MINISTRY OF
+                                    FINANCE
+
+
+
+
+
+
+                                    LOK SABHA
+                                
+
+
+
+
+
+UNSTARRED 
+
+
+                                    QUESTION NO:
+                                
+
+2809
+
+
+
+
+
+
+                                    ANSWERED ON: 
+                                
+
+21.03.2022
+
+
+
+
+
+
+Technical Issues in Income Tax e-filing Portal
+
+
+
+
+Hibi Eden
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                    Rattan Lal Kataria
+                                                
+
+
+
+
+
+
+
+
+
+
+
+
+                        Will the Minister of
+
+
+
+
+
+FINANCE
+
+
+                        be pleased to state:-
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                    (a) the details of income tax collection during the last three years and the current year, year-wise along with the details of e-portal made by the Government to collect income tax;(b) whether the Government has noticed that website glitches have been delaying income tax refund processing and if so, the details thereof along with the other technical difficulties like login problem and past income tax returns being faced by the taxpayers;(c) whether the officials have asserted that the technical problems in the newly designed website had badly hit the process of income tax assessments as they were not able to smoothly access the data from back end and if so, the details thereof along with the measures taken to resolve the said technical issues; and(d) whether the Government or the service provider is answerable for the said website glitches if the service provider has failed to deliver the project for development of new website for income tax returns and if so, the details thereof along with the accountability fixed/action taken in this regard?
+
+
+
+
+
+
+ANSWER
+
+
+
+
+                                                        THE MINISTER OF STATE IN MINISTRY OF FINANCE(SHRI PANKAJ CHAUDHARY)(a)	Tax payments are made online through the tax payment portal maintained by NSDL on behalf of the Income Tax Department at the following address:https://onlineservices.tin.egov.nsdl.com/etaxnew/tdsnontds.jsp The details about tax collections during last three years and the current year are as under: Financial Year	Direct Tax Collection (Net)2018-19	1137718.482019-20	1050680.562020-21	947176.372021-22(up to 8.03.2022)	1191112.88(b)	Glitches were observed since the launch of the e-filing portal on 7th June 2021 and the Department has taken corrective measures through service provider, Infosys, based on feedback from taxpayers, tax professionals and representatives of ICAI. As a result of the same, the filing of ITRs has steadily increased. As on 15.03.2022 over 6.63 Cr ITRs have been e-filed by taxpayers. Processing of filed ITRs is done by Centralized Processing Centre (CPC) Bengaluru as a separate process. Duly verified valid ITRs are processed by CPC for determining the tax payable and amount of refund due, if any, to the taxpayer, and an electronic intimation is sent by e-mail to this effect. For AY 2021-22, CPC has processed more than 5.17 crore ITRs out of the 6.01 crore verified ITRs on the new system.(c)	The new e-filing portal www.incometax.gov.in is the interface for the taxpayer to view and respond to assessment notices issued by Departmental officers. E-proceeding notices may pertain to assessment, penalty or appeal etc. Till 13.03.2022, more than 29 lakh notices were posted on the e-filing portal by the department to taxpayers and around 15.62 lakh response to these notices were received through the e-filing portal. (d)	 There are specific provisions laid down in the Request for proposal (RFP) for Integrated E-filing and CPC 2.0 project and the contractual agreement between ITD and the Managed Service Provider (MSP) for failure to deliver the services as per agreed standards and timelines. Appropriate action is taken as per the provision of RFP and Contract between the department and MSP.-------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+HomeArchiveIndex to Select Questions (1984-1999)Ballot ListStatistical Statements Relating to QuestionsUploading of Questions - Status QueryProcedure for Sending Text of Questions & AnswersDemarcation of responsibilities in Govt. of IndiaBrochure on Statutory Corporations, Companies and Other Bodies in Which the Government of India have financial or controlling interestHighlights pertaining to questions of 17th Lok Sabha
+
+
+
+
+
+
+Contact Us 
+Disclaimer
+
+
+
+
+
+
+
+
+
+
+
+        Developed and Hosted by National Informatics Centre (NIC)
+
+Content on this website is published,
+            managed & maintained by Software Unit, Computer (HW & SW) Management. Branch,
+            Lok Sabha Secretariat
+
+
+
+
+
+HomeMembersBusinessQuestionsDebatesPapers Laid
+
+
+LegislationCommitteesSANSAD TVIntranetSecretariatPRIDE
+
+
+RecruitmentSC/ST ReservationConferenceParliament Library
+
+
+About ParliamentPhoto GalleryRelated LinksRTITendersFAQ
+
+
+SpeakerDy. SpeakerLeader of the HousePanel of ChairpersonsContact UsFeedback
+
+
+Council of MinistersPublications of MinistriesParliamentry ProceduresJournal of Parliamentary Information
+Visitor's Counter:113258654
+
+
+
+
+
+
+
+Copyright
+Privacy Policy
+Disclaimer
+Terms &
+                Conditions
+
+                Accessibility Statement
+Accessibility
+                Options
+Feedback
+Site Map
+
+
+
+
+
+
+

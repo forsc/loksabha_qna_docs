@@ -1,0 +1,350 @@
+
+
+
+
+	Questions : Lok Sabha
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Screen Reader Access
+Skip to Main Content
+Skip to Navigation
+
+
+
+Text Size
+
+                                A
+
+                                A
+A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+हिन्दी मे
+
+
+
+
+
+
+
+
+Parliament of India Lok Sabha House of the
+                        People
+
+
+
+
+
+
+* Special Characters not allowed
+
+
+
+
+
+
+
+
+
+
+
+
+India Time 
+
+
+Your Time 
+
+
+                        Tuesday,
+                        12 April 2022
+
+
+
+
+
+
+
+
+
+HomeMembersSitting MembersMembers Home PageMembers' PortalContact DetailsMembers SearchStatistical AnalysisAttendance of MembersHandbook Members Since 1952Digitized Who's WhoOthers BusinessProvisional CalendarList of BusinessPapers to be LaidList of Private Members' BusinessBulletin-IDigitized Lok Sabha Bulletin Part IBulletin-IIStatement of WorkSpecial Mentions (ZERO HOUR)Resume of WorkDigitized Resume of Work done by Lok Sabha QuestionsHomeQuestion ListStatus of notices of questionQuestions CalendarGrouping of Ministries - AlphabeticalOfficers in Min./Dept. Dealing with Parliamentary WorkQuestion SearchSupplementary Questions DebatesIntroductionSynopsisUncorrected DebateText of DebateDigitized DebatesConstituent Assembly DebatesWit And HumourDebate SearchHindi FontsDisclaimer Papers LaidPapers Laid on the Table of the House LegislationIntroduction(How Bill Becomes Act)Bills IntroducedBills PassedBills PendingBills AssentedBills LapsedBills WithdrawnBills NegativedBills Search Disclaimer CommitteesIntroductionChairpersonSummary of WorkCommittee Meetings ScheduleBills Referred to CommitteesReports PresentedDigitized ReportsPress ReleaseMembership SearchToday's Committee MeetingsCommittee Subject SelectedDepartment Related-RS Govt. AssurancesSANSAD TVIntranet
+
+
+
+
+
+HomeQuestion ListStatus of notices of questionQuestions CalendarGrouping of Ministries - AlphabeticalOfficers in Min./Dept. Dealing with Parliamentary WorkQuestion SearchSupplementary Questions
+
+
+
+
+
+
+
+
+
+
+
+Download as PDF
+
+
+
+
+Print
+
+
+
+
+
+
+
+
+
+
+
+
+PDF/WORD(Hindi)
+
+
+PDF/WORD
+
+
+
+
+                                    GOVERNMENT OF INDIA
+                                
+
+
+
+
+
+                                    MINISTRY OF
+                                    EARTH SCIENCES
+
+
+
+
+
+
+                                    LOK SABHA
+                                
+
+
+
+
+
+UNSTARRED 
+
+
+                                    QUESTION NO:
+                                
+
+1620
+
+
+
+
+
+
+                                    ANSWERED ON: 
+                                
+
+08.12.2021
+
+
+
+
+
+
+Rain Forecast
+
+
+
+
+Komati Reddy Venkat Reddy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        Will the Minister of
+
+
+
+
+
+EARTH SCIENCES
+
+
+                        be pleased to state:-
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                    (a)	whether the Indian Meteorological Department (IMD) can further improve its models to forecast shortfall as well as excess rains to help farmers and  others; and(b)	if so, the details thereof and the progress made so far in this direction and if not, the reasons therefor?
+
+
+
+
+
+
+ANSWER
+
+
+
+
+                                                        THE MINISTER OF STATE (INDEPENDENT CHARGE) FORMINISTRY OF SCIENCE AND TECHNOLOGYAND EARTH SCIENCES(DR. JITENDRA SINGH)(a)	– (b) 	Yes Sir. India Meteorological Department (IMD) in collaboration with its sister organisations in the Ministry of Earth Sciences (MoES) is continuously working on improving operational forecasting models for various weather and climate extreme events and there is always scope for further improvement.  Recognizing the urgent need for improving monsoon prediction capabilities in the country in a systematic and timely manner, the Ministry of Earth Sciences (MoES) had launched an ambitious and well-resourced research programme on mission mode, called the Monsoon Mission. The first phase of the mission was implemented during 2012-2017 and the second phase (2017-22) is underway. Through this mission, India also augmented its capability of High-Performance Computing (HPC) system, which is close to 10 petaflops capacity now and it is the backbone of the monsoon research and operational services in the country. India has the fourth best computing facilities in the world for weather and climate services.  The Monsoon Mission has helped in the significant improvement of monsoon forecasts in all time scales, right from short-range to seasonal. India is now proud of having one of the best prediction system for generating real time forecasts and warnings in all spatial scales from a location to Block, district, meteorological subdivisions and homogeneous regions and temporal scales of a few hours (nowcast), 3 days (short range forecast), 4-7 days (medium range forecast) 1-4 weeks (extended range forecast) and one month to a season (long range forecast). For preparing the long range forecast, currently, latest state of the art statistical models, Monsoon Mission Coupled Atmosphere Ocean Model (MMCFS) and Multi Model Ensemble (MME) method are used. And these models have shown useful skill. For example, the operational forecast for the monsoon onset over Kerala has been correct (within the forecast limits) during 16 of the 17 years (2005-2021) since issuing of operational forecast for the event started in 2005. Weather Forecasting – (Long range, Extended Range, Short to Medium Range and Nowcast)Due to demands from different users and government authorities for forecasts of spatial distribution of seasonal rainfall along with the regionally averaged rainfall forecasts for better regional level planning of activities, IMD has now developed a Multi-Model Ensemble (MME) forecasting system based on coupled global climate models (CGCMs) from different global climate prediction and research centres including IMD’s Monsoon Mission CFS (MMCFS). Multimodal Ensemble (MME) is a universally accepted technique, which is used to improve skill of forecasts and reduce forecast errors when compared to a single model-based approach. The performance improvements are completely attributed to the collective information of all models used in the MME forecasting system. This year onwards, IMD has adopted a new forecasting strategy for issuing monthly and seasonal operational forecasts for the southwest monsoon rainfall over the country by modifying the existing two stage forecasting strategy.  Accordingly, forecasts are issued in different stages.   The first stage forecasts issued in the mid-April consist of forecast for the southwest monsoon seasonal (June to September) rainfall over the country as a whole and the spatial distribution of probabilistic forecasts for tercile categories (above normal, normal and below normal) for the seasonal rainfall (June to September) over the country. The second stage forecasts issued in the end of May or early June, consists of (i) update for the April forecasts, (ii) Probabilistic forecasts for the seasonal rainfall over the four homogenous regions of India (northwest India, central India, south India and northeast India) and the Monsoon Core Zone (MCZ) and (iii) probabilistic forecast for the June rainfall over the country as a whole and spatial distribution of the probabilistic forecasts for the June rainfall over the country. It may be noted that MCZ the newly introduced geographical region is essentially the central India plus some additional areas covering most of the rain fed agriculture region in the country. A separate forecast for the MCZ will be more useful for agricultural planning and crop yield estimation etc. Subsequently, the forecasts for the July month rainfall is issued in the end of June/ early July and forecast for the second half of the monsoon season and monthly forecast for August month are issued in the end of July/ early August. The monthly forecast for the September is issued in the end of August/ early September.India Meteorological Department follows a seamless forecasting strategy. The long-range forecasts (for the whole season) issued are being followed with extended range forecast issued on every Thursday with a validity period of four weeks. To follow up the extended range forecast, IMD issues short to medium range forecast and warnings at 36 meteorological sub-divisions levels daily four times by the National Weather Forecasting Centre (NWFC), New Delhi valid up to next five days with an outlook for subsequent two days. The short to medium range forecast and warning at district and station level are issued by state level Meteorological Centres (MCs)/Regional Meteorological Centres (RMCs) with a validity of next five days and are updated twice a day. The short to medium range forecast is followed by very short range forecast of severe weather up to three hours (nowcast) for all the districts and 1085 cities and towns. These nowcasts are updated every three hours.While issuing the warning suitable colour code is used to bring out the impact of the severe weather expected and to signal the Disaster Management about the course of action to be taken with respect to impending disaster weather event.  Green color corresponds to no warning hence no action is needed, yellow color corresponds to be watchful and get updated information, orange color to be alert and be prepared to take action whereas red color signals to take action.IMD is issuing Impact Based Forecast (IBF) which give details of what the weather will do rather than what the weather will be. It contains the details of impacts expected from the severe weather elements and guidelines to general public about do''s and don''ts while getting exposed to severe weather. These guidelines are finalised in collaboration with National Disaster Management Authority (NDMA) and is already implemented successfully for cyclone, heat wave, thunderstorm and heavy rainfall. Work is in progress to implement the same for other severe weather elements.Agromet Advisories for FarmersIMD runs an operational Agrometeorological Advisory Services (AAS) viz., GraminKrishiMausamSewa (GKMS) scheme for the benefit of farming community in the country. Under the scheme, medium range weather forecast at district level is generated and based on the forecast, Agromet Advisories are prepared and communicated by the Agromet Field Units (AMFUs) located at State Agricultural Universities, institutes of Indian Council of Agricultural Research (ICAR), IIT, etc and also by District Agromet Units (DAMUs) located at KrishiVigyanKendras (KVKs), to the farmers on every Tuesday and Friday to take decision on agricultural operations. AAS rendered by IMD is a step towards weather-based crop and livestock management strategies and operations dedicated to enhancing crop production and food security besides reducing crop damage and loss due to deficient rainfall situation.Agromet Advisories are communicated to the farmers through multichannel dissemination system like print and electronic media, Door Darshan, radio, internet, social media etc. including SMS using mobile phones through Kisan Portal launched by Ministry of Agriculture and Farmers’ Welfare and also through private companies under Public Private Partnership (PPP) mode. KrishiVigyanKendras (KVKs) of ICAR have also given link to the respective district level advisory in their web portal. A mobile App viz.,‘Meghdoot’ has been launched by Ministry of Earth Sciences, Government of India, to help the farmers to get the weather information including alerts and related agromet advisories specific to their districts.IMD also monitors rainfall situation & weather aberrations and issues alerts & warnings along with suitable Agromet Advisories to the farmers from time to time under GKMS scheme.For modernization, expansion and improvement in Weather & Climate services, various activities are underway in IMD under the Central Sector umbrella Scheme ACROSS. There are 4 sub-schemes of IMD under Atmosphere & Climate Research-Modelling Observing Systems & Services (ACROSS) namely, Atmospheric Observation Network (AON), Upgradation of Forecast System (UFS), Weather & Climate Services (WCS) and Commissioning of Polarimetric Doppler Weather Radars (PDWR). Moreover, various new initiatives, as mentioned below, have been undertaken by IMD, MoES for betterment of prediction and dissemination of warnings of extreme weather events that may cause natural disasters.1.	The observational network of the department is being enhanced across the country.2.	29 Doppler Weather Radars are operational across the country to provide adequate warning in the event of approach of Cyclonic Storms, Monsoon Depressions, Thunderstorms etc. DWR network also provides vital information for nowcasting purposes on mesoscale convective weather developments anywhere in the country.3.	Multi-Mission Meteorological Data Receiving & Processing System has been established and dedicated to the nation for augmentation of satellite derived products.4.	Location specific forecast for 7 days within the capital cities and nowcast for next 3 hours have been extended to 526 and 1084 stations respectively covering 739 districts in the country.5.	NWP Model based gridded rainfall data are provided to Central Water Commission for their flood forecasting model for all 153 river catchments and Extended Range model products for 10 river basins.6.	With operationalization of Flash Flood Guidance system, generation and issue of Flash Flood Guidance has commenced for all watersheds of the country. 7.	Impact based forecast is already in practice for cyclone. The same is extended to heavy rainfall and heatwaves. Efforts are on to extend the same to all types of severe weather.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+HomeArchiveIndex to Select Questions (1984-1999)Ballot ListStatistical Statements Relating to QuestionsUploading of Questions - Status QueryProcedure for Sending Text of Questions & AnswersDemarcation of responsibilities in Govt. of IndiaBrochure on Statutory Corporations, Companies and Other Bodies in Which the Government of India have financial or controlling interestHighlights pertaining to questions of 17th Lok Sabha
+
+
+
+
+
+
+Contact Us 
+Disclaimer
+
+
+
+
+
+
+
+
+
+
+
+        Developed and Hosted by National Informatics Centre (NIC)
+
+Content on this website is published,
+            managed & maintained by Software Unit, Computer (HW & SW) Management. Branch,
+            Lok Sabha Secretariat
+
+
+
+
+
+HomeMembersBusinessQuestionsDebatesPapers Laid
+
+
+LegislationCommitteesSANSAD TVIntranetSecretariatPRIDE
+
+
+RecruitmentSC/ST ReservationConferenceParliament Library
+
+
+About ParliamentPhoto GalleryRelated LinksRTITendersFAQ
+
+
+SpeakerDy. SpeakerLeader of the HousePanel of ChairpersonsContact UsFeedback
+
+
+Council of MinistersPublications of MinistriesParliamentry ProceduresJournal of Parliamentary Information
+Visitor's Counter:113225525
+
+
+
+
+
+
+
+Copyright
+Privacy Policy
+Disclaimer
+Terms &
+                Conditions
+
+                Accessibility Statement
+Accessibility
+                Options
+Feedback
+Site Map
+
+
+
+
+
+
+

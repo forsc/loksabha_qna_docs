@@ -1,0 +1,383 @@
+
+
+
+
+	Questions : Lok Sabha
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Screen Reader Access
+Skip to Main Content
+Skip to Navigation
+
+
+
+Text Size
+
+                                A
+
+                                A
+A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+हिन्दी मे
+
+
+
+
+
+
+
+
+Parliament of India Lok Sabha House of the
+                        People
+
+
+
+
+
+
+* Special Characters not allowed
+
+
+
+
+
+
+
+
+
+
+
+
+India Time 
+
+
+Your Time 
+
+
+                        Monday,
+                        11 April 2022
+
+
+
+
+
+
+
+
+
+HomeMembersSitting MembersMembers Home PageMembers' PortalContact DetailsMembers SearchStatistical AnalysisAttendance of MembersHandbook Members Since 1952Digitized Who's WhoOthers BusinessProvisional CalendarList of BusinessPapers to be LaidList of Private Members' BusinessBulletin-IDigitized Lok Sabha Bulletin Part IBulletin-IIStatement of WorkSpecial Mentions (ZERO HOUR)Resume of WorkDigitized Resume of Work done by Lok Sabha QuestionsHomeQuestion ListStatus of notices of questionQuestions CalendarGrouping of Ministries - AlphabeticalOfficers in Min./Dept. Dealing with Parliamentary WorkQuestion SearchSupplementary Questions DebatesIntroductionSynopsisUncorrected DebateText of DebateDigitized DebatesConstituent Assembly DebatesWit And HumourDebate SearchHindi FontsDisclaimer Papers LaidPapers Laid on the Table of the House LegislationIntroduction(How Bill Becomes Act)Bills IntroducedBills PassedBills PendingBills AssentedBills LapsedBills WithdrawnBills NegativedBills Search Disclaimer CommitteesIntroductionChairpersonSummary of WorkCommittee Meetings ScheduleBills Referred to CommitteesReports PresentedDigitized ReportsPress ReleaseMembership SearchToday's Committee MeetingsCommittee Subject SelectedDepartment Related-RS Govt. AssurancesSANSAD TVIntranet
+
+
+
+
+
+HomeQuestion ListStatus of notices of questionQuestions CalendarGrouping of Ministries - AlphabeticalOfficers in Min./Dept. Dealing with Parliamentary WorkQuestion SearchSupplementary Questions
+
+
+
+
+
+
+
+
+
+
+
+Download as PDF
+
+
+
+
+Print
+
+
+
+
+
+
+
+
+
+
+
+
+PDF/WORD(Hindi)
+
+
+PDF/WORD
+
+
+
+
+                                    GOVERNMENT OF INDIA
+                                
+
+
+
+
+
+                                    MINISTRY OF
+                                    EARTH SCIENCES
+
+
+
+
+
+
+                                    LOK SABHA
+                                
+
+
+
+
+
+UNSTARRED 
+
+
+                                    QUESTION NO:
+                                
+
+825
+
+
+
+
+
+
+                                    ANSWERED ON: 
+                                
+
+05.02.2021
+
+
+
+
+
+
+Automated Weather Stations
+
+
+
+
+Kapil Moreshwar Patil
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                    Nama Nageswara Rao
+                                                
+
+
+
+
+
+
+
+
+                                                    Raksha Nikhil Khadse
+                                                
+
+
+
+
+
+
+
+
+                                                    Anubhav Mohanty
+                                                
+
+
+
+
+
+
+
+
+
+
+
+
+                        Will the Minister of
+
+
+
+
+
+EARTH SCIENCES
+
+
+                        be pleased to state:-
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                    GOVERNMENT OF INDIAMINISTRY OF EARTH SCIENCESLOK SABHAUNSTARRED QUESTION NO.825TO BE ANSWERED ON FRIDAY, FEBRUARY 05, 2021AUTOMATED WEATHER STATIONS825. SHRI KAPIL MORESHWAR PATIL:         SHRI ANUBHAV MOHANTY:        SHRI NAMA NAGESWARA RAO:         SHRIMATI RAKSHA NIKHIL KHADSE:Will the Minister of EARTH SCIENCES be pleased to state:(a) 	the salient features of the Automated Weather Stations (AWSs) being installed by the India Meteorological Department (IMD) in the country; (b) 	the number of AWSs indicating functional and non function AWSs across the country as on date, state/UT-wise and location-wise including Telangana; (c) 	whether the Government proposes to establish more institutes for proper and accurate predictions for weather forecast in addition to the presently working two institutes and to add new advanced technology instruments for augmenting weather forecast, if so, the details thereof; (d) 	whether the Government has received proposal from the state Government of Telangana seeking the installation of AWSs and if so the details and response of the Government thereto; (e) 	the details of monitoring agency responsible for the maintenance of such AWSs; and (f) 	the other steps being taken by the Government to improve weather broadcast which plays very vital role in predictions?
+
+
+
+
+
+
+ANSWER
+
+
+
+
+                                                        ANSWER              MINISTER FOR MINISTRY OF SCIENCE AND TECHNOLOGY AND                                              MINISTRY OF EARTH SCIENCES                                                           (DR. HARSH VARDHAN)(a)	The salient features of the Automated Weather Stations (AWSs) being installed by the India Meteorological Department (IMD) in the country are:1.	Acquiring and sampling the weather parameters (Pressure, Temperature, Relative Humidity, Wind Speed/Direction).2.	Agro AWSs acquiring and sampling soil temperature and moisture in addition to the above weather parameters. 3.	Processing and disseminating real time Weather data every hourly / every 10 min to the IMD AWS web server for its view/ download and use in Weather Forecasting.(b)	The number of AWSs indicating functional and non-function AWSs across the country as on date, state/UT-wise including Telangana follow;S NO.	STATE	TOTAL	WORKING	Non-Functional 1	ANDAMAN_AND_NICOBAR	2	1	12	ANDHRA_PRADESH	23	15	83	ARUNACHAL_PRADESH	16	1	154	ASSAM	27	15	125	BIHAR	29	15	146	CHANDIGARH	2	2	07	CHHATTISGARH	19	3	168	DAMAN_AND_DIU	2	0	29	DELHI	11	8	310	GOA	3	3	011	GUJARAT	36	15	2112	HARYANA	26	15	1113	HIMACHAL_PRADESH	23	17	614	JAMMU_AND_KASHMIR	23	17	615	JHARKHAND	16	6	1016	KARNATAKA	27	18	917	KERALA	30	21	918	LADAKH	4	4	019	LAKSHADWEEP	1	0	120	MADHYA_PRADESH	52	7	4521	MAHARASHTRA	50	26	2422	MANIPUR	10	1	923	MEGHALAYA	7	5	224	MIZORAM	8	1	725	NAGALAND	10	1	926	ODISHA	37	25	1227	PUDUCHERRY	2	2	028	PUNJAB	25	12	1329	RAJASTHAN	41	15	2630	SIKKIM	4	2	231	TAMIL_NADU	38	26	1232	TELANGANA	12	7	533	TRIPURA	4	1	334	UTTARAKHAND	25	13	1235	UTTAR_PRADESH	52	15	3736	WEST_BENGAL	27	15	12 	TOTAL	724	350	374        IMD is already replacing some of the old and non-functional AWS.		(c)	No Sir. There is no proposal to establish more institutions. For augmenting the weather forecasting capabilities throughout the country, various programs are being implemented in IMD under the umbrella scheme "Atmosphere & Climate Research-Modelling Observing Systems & Services (ACROSS)" of the ministry. The projects under ACROSS encompasses various activities in an integrated manner to ensure the sustenance & augmentation of observations & enhancement of facilities required for the weather forecasting services. The programs are being implemented by various Offices/Divisions across the country and the outcome of majority of the programs is for the benefit of the entire country and all segments of the society.(d)   No Sir.(e)   IMD is responsible for monitoring and maintenance of the AWSs installed by IMD.(f)  Improvement in weather broadcasting / dissemination is a continuous process in IMD. At present the forecasts and warnings are broadcasted or disseminated to users including disaster managers by e-mail on regular basis. In addition to this, WhatsApp groups are created including disaster managers and IMD officials through which these forecasts & warnings are disseminated. The forecasts & warnings are uploaded in social media & IMD website (https://mausam.imd.gov.in/ ) for reference by all concerned. The nowcasts related to Severe Weathers are also disseminated through SMS to the registered users and are uploaded in Nowcast page of the website.In addition to this, as and when the situation arises, Press Releases are issued by IMD and the same is also disseminated by all the platforms mentioned above. Moreover, in 2020, India Meteorological Department had developed mobile App ‘MAUSAM’ for weather forecasting, ‘Meghdoot’ for Agromet advisory dissemination and ‘Damini’ for lightning alert.In addition to above, IMD has recently launched seven its services with UMANG mobile App for the use by general public.*****
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+HomeArchiveIndex to Select Questions (1984-1999)Ballot ListStatistical Statements Relating to QuestionsUploading of Questions - Status QueryProcedure for Sending Text of Questions & AnswersDemarcation of responsibilities in Govt. of IndiaBrochure on Statutory Corporations, Companies and Other Bodies in Which the Government of India have financial or controlling interestHighlights pertaining to questions of 17th Lok Sabha
+
+
+
+
+
+
+Contact Us 
+Disclaimer
+
+
+
+
+
+
+
+
+
+
+
+        Developed and Hosted by National Informatics Centre (NIC)
+
+Content on this website is published,
+            managed & maintained by Software Unit, Computer (HW & SW) Management. Branch,
+            Lok Sabha Secretariat
+
+
+
+
+
+HomeMembersBusinessQuestionsDebatesPapers Laid
+
+
+LegislationCommitteesSANSAD TVIntranetSecretariatPRIDE
+
+
+RecruitmentSC/ST ReservationConferenceParliament Library
+
+
+About ParliamentPhoto GalleryRelated LinksRTITendersFAQ
+
+
+SpeakerDy. SpeakerLeader of the HousePanel of ChairpersonsContact UsFeedback
+
+
+Council of MinistersPublications of MinistriesParliamentry ProceduresJournal of Parliamentary Information
+Visitor's Counter:113200384
+
+
+
+
+
+
+
+Copyright
+Privacy Policy
+Disclaimer
+Terms &
+                Conditions
+
+                Accessibility Statement
+Accessibility
+                Options
+Feedback
+Site Map
+
+
+
+
+
+
+

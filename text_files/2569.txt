@@ -1,0 +1,350 @@
+
+
+
+
+	Questions : Lok Sabha
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Screen Reader Access
+Skip to Main Content
+Skip to Navigation
+
+
+
+Text Size
+
+                                A
+
+                                A
+A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+हिन्दी मे
+
+
+
+
+
+
+
+
+Parliament of India Lok Sabha House of the
+                        People
+
+
+
+
+
+
+* Special Characters not allowed
+
+
+
+
+
+
+
+
+
+
+
+
+India Time 
+
+
+Your Time 
+
+
+                        Sunday,
+                        10 April 2022
+
+
+
+
+
+
+
+
+
+HomeMembersSitting MembersMembers Home PageMembers' PortalContact DetailsMembers SearchStatistical AnalysisAttendance of MembersHandbook Members Since 1952Digitized Who's WhoOthers BusinessProvisional CalendarList of BusinessPapers to be LaidList of Private Members' BusinessBulletin-IDigitized Lok Sabha Bulletin Part IBulletin-IIStatement of WorkSpecial Mentions (ZERO HOUR)Resume of WorkDigitized Resume of Work done by Lok Sabha QuestionsHomeQuestion ListStatus of notices of questionQuestions CalendarGrouping of Ministries - AlphabeticalOfficers in Min./Dept. Dealing with Parliamentary WorkQuestion SearchSupplementary Questions DebatesIntroductionSynopsisUncorrected DebateText of DebateDigitized DebatesConstituent Assembly DebatesWit And HumourDebate SearchHindi FontsDisclaimer Papers LaidPapers Laid on the Table of the House LegislationIntroduction(How Bill Becomes Act)Bills IntroducedBills PassedBills PendingBills AssentedBills LapsedBills WithdrawnBills NegativedBills Search Disclaimer CommitteesIntroductionChairpersonSummary of WorkCommittee Meetings ScheduleBills Referred to CommitteesReports PresentedDigitized ReportsPress ReleaseMembership SearchToday's Committee MeetingsCommittee Subject SelectedDepartment Related-RS Govt. AssurancesSANSAD TVIntranet
+
+
+
+
+
+HomeQuestion ListStatus of notices of questionQuestions CalendarGrouping of Ministries - AlphabeticalOfficers in Min./Dept. Dealing with Parliamentary WorkQuestion SearchSupplementary Questions
+
+
+
+
+
+
+
+
+
+
+
+Download as PDF
+
+
+
+
+Print
+
+
+
+
+
+
+
+
+
+
+
+
+PDF/WORD(Hindi)
+
+
+PDF/WORD
+
+
+
+
+                                    GOVERNMENT OF INDIA
+                                
+
+
+
+
+
+                                    MINISTRY OF
+                                    FINANCE
+
+
+
+
+
+
+                                    LOK SABHA
+                                
+
+
+
+
+
+UNSTARRED 
+
+
+                                    QUESTION NO:
+                                
+
+2274
+
+
+
+
+
+
+                                    ANSWERED ON: 
+                                
+
+08.07.2019
+
+
+
+
+
+
+Income Tax Department
+
+
+
+
+P.R. Natarajan
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        Will the Minister of
+
+
+
+
+
+FINANCE
+
+
+                        be pleased to state:-
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                    (a) whether the Government has taken any measures/steps to enhance the technology backbone of the Income Tax Department;(b) if so, the details thereof;(c) whether any time frame has been stipulated in this regard; and(d) if so, the details thereof?
+
+
+
+
+
+
+ANSWER
+
+
+
+
+                                                        MINISTER OF STATE IN THE MINISTRY OF FINANCE(SHRI ANURAG SINGH THAKUR)(a) & (b): Yes sir. The Government is continuously taking several initiatives to enhance the technology back bone of the Income Tax Department (ITD). ITD is having a dedicated directorate called ‘Directorate of System’ which handles the technology aspects of the various functions of the Department. A brief highlight of the technological developments which are being currently implemented include Centralised Processing Centres for Income Tax Returns and  TDS returns namely CPC(ITR)  and CPC(TDS) respectively, Centralised selection of cases for scrutiny through CASS(Computer Assisted Scrutiny Selection), Non-filer Monitoring System for managing the non-filers with potential tax liabilities, System driven process for credit of tax refunds directly to the bank accounts of the taxpayers, E-nivaran module for resolving  the tax-payers’ grievances on priority, Centralised receipt of applications of tax-payers through Sevottam Application of Aayakar Seva Kendras etc. In addition to this, the Government has also initiated/proposed to initiate the following projects, as elaborated in the annexure, towards further improving the technology back bone of the ITD which would result in enhanced time bound services to the tax payers in addition to increasing the voluntary compliance of the tax-payers.(c) & (d): As improving the technology backbone of the ITD is a continuous process and various initiatives are being taken from time to time, no time frame can be specified.                                         ****                                                                                   Annexure:A brief highlight of the few technology-oriented projects being implemented/proposed to be implemented by the Government are as follows:1.Project Insight :  It  aims to strengthen the non–intrusive information driven approach for improving compliance and effective utilization of information in all areas of tax administration.  Under Project Insight, an integrated data warehousing and business intelligence platform is being rolled out in phased manner to enable ITD in meeting the three goals namely (i) to promote voluntary compliance and deter noncompliance; (ii) to impart confidence that all eligible persons pay appropriate tax; and (iii) to promote fair and judicious tax administration. The current status of implementation is as under:i.  A State-of-the-Art Data warehouse has been implemented under Project Insight with end-of-day integration of key projects/data sources of ITD. Income Tax Transaction Analysis Centre (INTRAC) has also been operationalized for handling data integration, data warehousing, data quality management, data enrichment and data analytics. The new platform is being used for identifying high risk non-filers, selection of cases for scrutiny and processing of information received under Automatic Exchange of Information (AEOI), FATCA etc.ii.  A dedicated reporting portal (https://report.insight.gov.in) has been rolled out to provide a comprehensive interface between Reporting Entities and the ITD. The Reporting Portal enables seamless data processing, data quality monitoring and report rectification.iii.  A dedicated compliance portal (https://compliance.insight.gov.in) has been rolled out to capture response on compliance issues in a structured manner for effective compliance monitoring and evaluation. Compliance Management Central Processing Centre (CMCPC) has also been operationalized for leveraging campaign management approach (consisting of emails, SMS, reminders, outbound calls, letters) to support voluntary compliance and resolution of compliance issues.iv. The complete roll out of the Project Insight will be in 2019.2.  Real Time PAN-TAN centre:  Real Time PAN/TAN Processing Centre (RTPC) is being contemplated for future with the objective of allotment of e-PAN through Aadhaar based e-KYC on near to real time basis (in less than 10 minutes).Presently, steps are being taken by the ITD to further reduce the time required to allot PAN, particularly for the applicant’s applying through ‘Aadhaar based e-KYC’ route, by bringing suitable upgradation in the allotment processes and infrastructure.3.  E- proceeding facility for the conduct of scrutiny assessment proceedings:  In a significant step, in 2017, ITD developed an Integrated platform i.e. Income Tax Business Application (ITBA) for electronic conduct of various functions/proceedings including assessments. This is integrated with the ‘E-filing’ portal which is used by the tax payers to electronically communicate with the ITD. During the course of assessment proceeding, Assessing Officer is required to send communications through the ‘Assessment Module’ of ITBA which is delivered in the ‘E-filing’ account of concerned tax-payer. Upon receipt of departmental communication, the tax-payer is able to submit the response along with attachments by uploading the same through his ‘E-filing’ account on the ‘E-filing’ portal (www.incometaxindiaefiling.gov.in). The response submitted by the tax-payer is viewed by the Assessing Officer electronically in ITBA. This has minimised the interface between the assessing officer and the tax payers and has made the process of assessment non-intrusive and tax-payer friendly. Further, vide Instruction No.1/2018 dated 12.02.2018 and Instruction No.3/2018 dated 20.08.2018, CBDT has directed that assessment proceedings are to be conducted electronically compulsorily through ‘E-proceeding’ during the financial year 2018-19 in all type of cases barring a few exceptions specified therein. Steps are being taken  to deepen this process this year. 4. CPC(TDS) 2.0: CPC(TDS) project has undertaken end-to-end processing of TDS statements through a rule-based technology enabled system for seamless flow of data for tax-credits. In the next phase of CPC (TDS) i.e. CPC (TDS) 2.0, focus has been made on recognizing technology led innovations with respect to emerging technologies such as Artificial Intelligence, Analytics and Blockchain to bring further improvement in service delivery.5. CPC (ITR 2.0): The Government has  approved Integrated E-filing & Centralized Processing Centre (CPC) 2.0 Project of the Income Tax Department.   CPC 2.0 Project envisages pre-filling of ITRs by the Income-tax Department and its acceptance by the taxpayer so as to improve accuracy of information contained in the Return and drastically reduce the existing turnaround time taken in processing of Returns and issuance of refunds. CPC 2.0 Project besides promoting the Government objective of promoting voluntary tax-compliance culture would also smoothen the process of e-filing and processing of ITRs and will  also  bring about a significant enhancement in services to the taxpayers.                                           *************
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+HomeArchiveIndex to Select Questions (1984-1999)Ballot ListStatistical Statements Relating to QuestionsUploading of Questions - Status QueryProcedure for Sending Text of Questions & AnswersDemarcation of responsibilities in Govt. of IndiaBrochure on Statutory Corporations, Companies and Other Bodies in Which the Government of India have financial or controlling interestHighlights pertaining to questions of 17th Lok Sabha
+
+
+
+
+
+
+Contact Us 
+Disclaimer
+
+
+
+
+
+
+
+
+
+
+
+        Developed and Hosted by National Informatics Centre (NIC)
+
+Content on this website is published,
+            managed & maintained by Software Unit, Computer (HW & SW) Management. Branch,
+            Lok Sabha Secretariat
+
+
+
+
+
+HomeMembersBusinessQuestionsDebatesPapers Laid
+
+
+LegislationCommitteesSANSAD TVIntranetSecretariatPRIDE
+
+
+RecruitmentSC/ST ReservationConferenceParliament Library
+
+
+About ParliamentPhoto GalleryRelated LinksRTITendersFAQ
+
+
+SpeakerDy. SpeakerLeader of the HousePanel of ChairpersonsContact UsFeedback
+
+
+Council of MinistersPublications of MinistriesParliamentry ProceduresJournal of Parliamentary Information
+Visitor's Counter:113083383
+
+
+
+
+
+
+
+Copyright
+Privacy Policy
+Disclaimer
+Terms &
+                Conditions
+
+                Accessibility Statement
+Accessibility
+                Options
+Feedback
+Site Map
+
+
+
+
+
+
+

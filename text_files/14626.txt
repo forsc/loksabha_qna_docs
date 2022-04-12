@@ -1,0 +1,403 @@
+
+
+
+
+	Questions : Lok Sabha
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Screen Reader Access
+Skip to Main Content
+Skip to Navigation
+
+
+
+Text Size
+
+                                A
+
+                                A
+A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+हिन्दी मे
+
+
+
+
+
+
+
+
+Parliament of India Lok Sabha House of the
+                        People
+
+
+
+
+
+
+* Special Characters not allowed
+
+
+
+
+
+
+
+
+
+
+
+
+India Time 
+
+
+Your Time 
+
+
+                        Monday,
+                        11 April 2022
+
+
+
+
+
+
+
+
+
+HomeMembersSitting MembersMembers Home PageMembers' PortalContact DetailsMembers SearchStatistical AnalysisAttendance of MembersHandbook Members Since 1952Digitized Who's WhoOthers BusinessProvisional CalendarList of BusinessPapers to be LaidList of Private Members' BusinessBulletin-IDigitized Lok Sabha Bulletin Part IBulletin-IIStatement of WorkSpecial Mentions (ZERO HOUR)Resume of WorkDigitized Resume of Work done by Lok Sabha QuestionsHomeQuestion ListStatus of notices of questionQuestions CalendarGrouping of Ministries - AlphabeticalOfficers in Min./Dept. Dealing with Parliamentary WorkQuestion SearchSupplementary Questions DebatesIntroductionSynopsisUncorrected DebateText of DebateDigitized DebatesConstituent Assembly DebatesWit And HumourDebate SearchHindi FontsDisclaimer Papers LaidPapers Laid on the Table of the House LegislationIntroduction(How Bill Becomes Act)Bills IntroducedBills PassedBills PendingBills AssentedBills LapsedBills WithdrawnBills NegativedBills Search Disclaimer CommitteesIntroductionChairpersonSummary of WorkCommittee Meetings ScheduleBills Referred to CommitteesReports PresentedDigitized ReportsPress ReleaseMembership SearchToday's Committee MeetingsCommittee Subject SelectedDepartment Related-RS Govt. AssurancesSANSAD TVIntranet
+
+
+
+
+
+HomeQuestion ListStatus of notices of questionQuestions CalendarGrouping of Ministries - AlphabeticalOfficers in Min./Dept. Dealing with Parliamentary WorkQuestion SearchSupplementary Questions
+
+
+
+
+
+
+
+
+
+
+
+Download as PDF
+
+
+
+
+Print
+
+
+
+
+
+
+
+
+
+
+
+
+PDF/WORD(Hindi)
+
+
+PDF/WORD
+
+
+
+
+                                    GOVERNMENT OF INDIA
+                                
+
+
+
+
+
+                                    MINISTRY OF
+                                    SCIENCE AND TECHNOLOGY
+
+
+
+
+
+
+                                    LOK SABHA
+                                
+
+
+
+
+
+UNSTARRED 
+
+
+                                    QUESTION NO:
+                                
+
+3433
+
+
+
+
+
+
+                                    ANSWERED ON: 
+                                
+
+13.03.2020
+
+
+
+
+
+
+Enterprise Resource Planning
+
+
+
+
+Raja Amareshwara Naik
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                    Sukanta Majumdar
+                                                
+
+
+
+
+
+
+
+
+                                                    Jayanta Kumar Roy
+                                                
+
+
+
+
+
+
+
+
+                                                    Sangeeta Kumari Singh Deo
+                                                
+
+
+
+
+
+
+
+
+                                                    Bhola Singh
+                                                
+
+
+
+
+
+
+
+
+                                                    Vinod Kumar Sonkar
+                                                
+
+
+
+
+
+
+
+
+
+
+
+
+                        Will the Minister of
+
+
+
+
+
+SCIENCE AND TECHNOLOGY
+
+
+                        be pleased to state:-
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                    (a) 	whether Council of Scientific and Industrial Research (CSIR) has developed Enterprise Resource Planning (ERP) and if so, the details thereof along with the expenditure incurred on ERP since inception and project cost overrun; (b) 	whether ERP could not be implemented all across CSIR Labs even after nine years of development and if so, the reasons therefor; (c)    	the details of actions initiated against persons responsible for delayed implementation of ERP; (d) 	whether CAG certified CSIR Annual accounts 2012-13 with negative disclaimers and 2013-14 with negative certification and if so, the details thereof; (e) 	the details of the students whose fellowship is pending for more than one month under DBT; and (f) 	the status of the accounting software developed by the in-house team and the steps being taken by the Government to strengthen the accounting system in CSIR?
+
+
+
+
+
+
+ANSWER
+
+
+
+
+                                                        MINISTER OF HEALTH AND FAMILY WELFARE; MINISTER OF SCIENCE AND TECHNOLOGY; AND MINISTER OF EARTH SCIENCES(DR. HARSH VARDHAN)(a)	Yes Sir. (i)	During 2009 CSIR proposed to computerize all processes adopted in Administration, Stores & Purchase, Finance, R&D Projects, Office File System, etc. followed in CSIR HQ and in Labs, in accordance with the Government policy in bringing transparency and electronic governance co-terminus with CVC guidelines.(ii)	The implementation of above idea was processed as per requirements and the plan funds under the National Laboratory Scheme were used for making the above mentioned facility functional.(iii)	The ERP solution is a bespoke application designed and developed, adapted to CSIR needs with a high degree of customization and involvement of the domain experts and users.(iv)	One CSIR project was undertaken to transform  the enterprise and transition to electronic modes of carrying out various operations and transactions minimizing paper work.  Electronic workplaces and desktops enable users to perform their day to day tasks and carrying out various transactions in their laboratories. The system enables enhanced levels of transparency, accountability and quality-of-service across the enterprise.  Expenditure incurred on development of Software Portal/ Applications:     Development cost of the Software Modules  :  Rs. 12.51 Crores including Software Support cost for Four years            	   There is no cost overrun.(b)	Currently, the application is being used in all the CSIR Laboratories in a progressive manner since it was launched in 2012.(c)	The software was implemented in all the labs in a progressive manner, immediately after development, testing and acceptance and was launched in 2012. As such there is no delay in implementation. (d)	Information is at Annexure-I.(e)	The fellowship payment to CSIR research fellows is directly credited into the individual beneficiary account by the CSIR using a software developed by software team of CSIR-National Chemical Laboratory (NCL), Pune. The monthly fellowship payment to CSIR research scholars is linked with timely submission of fellowship claim bill along with the attendance by the host institutes of the CSIR research fellows. Regular instructions are issued by CSIR to the host institutes to submit the monthly fellowship claim bills latest by 10th day of every month in respect of the preceding month by email. On receipt of the monthly fellowship claim bills/ extension tenure /progress report, etc. from the host institutes, CSIR process the bills for release of stipend to the individual beneficiary. Further, as per fellowship rules, no payment can be released to the research fellows without receiving the attendance and the claim bill from the host institute. There is a delay in case of about 5% cases in the absence of claim bills from host institutes/extension tenure papers/ progress reports, etc.(f)	CSIR is presently using an in house developed accounting software i.e. IMPACT. CSIR is in the process of implementing ERP for strengthening the accounting system.***** Annexure-IInformation with regard to para (d) of the Lok Sabha Unstarred Q. No.3433 for answer on 13.03.2020.Extract /concluding comments in the Audit Report (SAR 2012-13) in respect of CSIR are reproduced as under: “(v) 	Based on our observation in preceding paragraphs, we report that Balance sheet and Income & Expenditure accounts/Receipt and payment accounts dealt with by this report are in agreement with the books of accounts, except for the areas stated in this report. (vi)      We are unable to form an opinion about correctness of the valuation of the following line items as reported in the Financial Statements: (a)	Capital Fund : Other adjustment Entries of Rs. 30418.72 lakh in other adjustment-LC (refer to Para 1.1) (b)	Current Assets : •	Deposits in margin money difference of Rs 3922.26 lakh (refer to Para 2.2.1(a); and •	Saving Bank Account with difference of Rs. 2849.25 lakh (refer to Para 2.2.1(b) (c)	Prior period adjustments : Adjustment made for prior period items for Rs. 345.59 lakh (refer to Para 3) due to insufficient information, absence of records, inadequate explanations and discrepancies in the independent third party confirmation. (i)	In our opinion and to the best of our information and according to the explanations given to us, the said financial statements read together with the Accounting Policies and Notes on Accounts, and subject to significant matters stated above [specifically in para (ii) above] and other matters mentioned in Annexure to this Audit Report, gives a true and fair view in conformity with the accounting principles generally accepted in India. (a) 	In so far as it relates to the Balance Sheet and the state of affairs of the Council of Scientific and Industrial Research as at 31 March 2013. (b)  In so far as it relates to Income and Expenditure account of the deficit for the year ended on that day”.Extract /concluding comments in the Audit Report (SAR 2013-14) in r/o CSIR are reproduced as under: “(v) 	Based to our observations in the preceding paragraphs, we report that the Balance Sheet and Income & Expenditure accounts/ Receipt & Payment account dealt with by this report are in agreement with the books of accounts, except for the areas stated in this report. (vi)     In our opinion and to the best of our information and according to the explanations given to us, because of the effects of the observations discussed in the preceeding paragraph and other matters mentioned in Annexure to this Audit Report, the financial statements read together with accounting policies and Notes on accounts do not give a true and fair view in conformity with the accounting principles generally accepted in India. (a) In so far as it relates to the Balance Sheet and the state of affairs of the Council of Scientific and Industrial Research as at 31 March 2014. (b) In so far as it relates to Income and Expenditure account of the deficit for the year ended on that day.Remedial Actions Taken by CSIR :CSIR has taken various corrective steps with respect to Audit observations, like issuance of necessary instructions to the labs., revision in formats of records, constitution of committee of experts and appropriate training of officers of Finance & Accounts Cadre. As a result of the efforts, the Audit Reports of the years 2014-15 to 2017-18 do not contain negative comments.*****
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+HomeArchiveIndex to Select Questions (1984-1999)Ballot ListStatistical Statements Relating to QuestionsUploading of Questions - Status QueryProcedure for Sending Text of Questions & AnswersDemarcation of responsibilities in Govt. of IndiaBrochure on Statutory Corporations, Companies and Other Bodies in Which the Government of India have financial or controlling interestHighlights pertaining to questions of 17th Lok Sabha
+
+
+
+
+
+
+Contact Us 
+Disclaimer
+
+
+
+
+
+
+
+
+
+
+
+        Developed and Hosted by National Informatics Centre (NIC)
+
+Content on this website is published,
+            managed & maintained by Software Unit, Computer (HW & SW) Management. Branch,
+            Lok Sabha Secretariat
+
+
+
+
+
+HomeMembersBusinessQuestionsDebatesPapers Laid
+
+
+LegislationCommitteesSANSAD TVIntranetSecretariatPRIDE
+
+
+RecruitmentSC/ST ReservationConferenceParliament Library
+
+
+About ParliamentPhoto GalleryRelated LinksRTITendersFAQ
+
+
+SpeakerDy. SpeakerLeader of the HousePanel of ChairpersonsContact UsFeedback
+
+
+Council of MinistersPublications of MinistriesParliamentry ProceduresJournal of Parliamentary Information
+Visitor's Counter:113183392
+
+
+
+
+
+
+
+Copyright
+Privacy Policy
+Disclaimer
+Terms &
+                Conditions
+
+                Accessibility Statement
+Accessibility
+                Options
+Feedback
+Site Map
+
+
+
+
+
+
+

@@ -1,0 +1,350 @@
+
+
+
+
+	Questions : Lok Sabha
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Screen Reader Access
+Skip to Main Content
+Skip to Navigation
+
+
+
+Text Size
+
+                                A
+
+                                A
+A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+हिन्दी मे
+
+
+
+
+
+
+
+
+Parliament of India Lok Sabha House of the
+                        People
+
+
+
+
+
+
+* Special Characters not allowed
+
+
+
+
+
+
+
+
+
+
+
+
+India Time 
+
+
+Your Time 
+
+
+                        Monday,
+                        11 April 2022
+
+
+
+
+
+
+
+
+
+HomeMembersSitting MembersMembers Home PageMembers' PortalContact DetailsMembers SearchStatistical AnalysisAttendance of MembersHandbook Members Since 1952Digitized Who's WhoOthers BusinessProvisional CalendarList of BusinessPapers to be LaidList of Private Members' BusinessBulletin-IDigitized Lok Sabha Bulletin Part IBulletin-IIStatement of WorkSpecial Mentions (ZERO HOUR)Resume of WorkDigitized Resume of Work done by Lok Sabha QuestionsHomeQuestion ListStatus of notices of questionQuestions CalendarGrouping of Ministries - AlphabeticalOfficers in Min./Dept. Dealing with Parliamentary WorkQuestion SearchSupplementary Questions DebatesIntroductionSynopsisUncorrected DebateText of DebateDigitized DebatesConstituent Assembly DebatesWit And HumourDebate SearchHindi FontsDisclaimer Papers LaidPapers Laid on the Table of the House LegislationIntroduction(How Bill Becomes Act)Bills IntroducedBills PassedBills PendingBills AssentedBills LapsedBills WithdrawnBills NegativedBills Search Disclaimer CommitteesIntroductionChairpersonSummary of WorkCommittee Meetings ScheduleBills Referred to CommitteesReports PresentedDigitized ReportsPress ReleaseMembership SearchToday's Committee MeetingsCommittee Subject SelectedDepartment Related-RS Govt. AssurancesSANSAD TVIntranet
+
+
+
+
+
+HomeQuestion ListStatus of notices of questionQuestions CalendarGrouping of Ministries - AlphabeticalOfficers in Min./Dept. Dealing with Parliamentary WorkQuestion SearchSupplementary Questions
+
+
+
+
+
+
+
+
+
+
+
+Download as PDF
+
+
+
+
+Print
+
+
+
+
+
+
+
+
+
+
+
+
+PDF/WORD(Hindi)
+
+
+PDF/WORD
+
+
+
+
+                                    GOVERNMENT OF INDIA
+                                
+
+
+
+
+
+                                    MINISTRY OF
+                                    ELECTRONICS AND INFORMATION TECHNOLOGY
+
+
+
+
+
+
+                                    LOK SABHA
+                                
+
+
+
+
+
+UNSTARRED 
+
+
+                                    QUESTION NO:
+                                
+
+1419
+
+
+
+
+
+
+                                    ANSWERED ON: 
+                                
+
+10.02.2021
+
+
+
+
+
+
+Cyber Crimes
+
+
+
+
+Nalin Kumar Kateel
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        Will the Minister of
+
+
+
+
+
+ELECTRONICS AND INFORMATION TECHNOLOGY
+
+
+                        be pleased to state:-
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                    Will the Minister of Electronics and Information Technology be pleased to state:(a)	whether borderless cyberspace coupled with the anonymity along with rapid growth in proliferation of mobile telephone and connectivity have led to increased level of cyber crimes during the last three years;(b)	if so, the details thereof and the steps taken by the Government in this regard;(c)	whether the Government has taken note of the fact that miscreants are using mobile phones and internet for committing crimes;(d)	if so, the details thereof and the number of such instances registered during the last three years, State/UT-wise; and(e)	whether the Government has put any effective measures to curb the said menace and if so, the details thereof?
+
+
+
+
+
+
+ANSWER
+
+
+
+
+                                                        (a)	to (e): With the borderless cyberspace coupled with the anonymity along with rapid growth of mobile telephone and connectivity including growth of number of users on Internet and smartphone as well as ease of committing cyber crime by anyone, anytime from anywhere in the world, rise in cyber crime is a global phenomenon. As per the data maintained by National Crime Records Bureau (NCRB), Ministry of Home Affairs, a total of 21796, 27248 and 44546 cybercrime cases were registered during the years 2017, 2018 and 2019 respectively. Latest data pertains to 2019. The  State/UT wise cybercrime data for 2017, 2018 and 2019, as reported by NCRB, is at Annexure-I.“Police” and “Public Order” are State subjects as per the Constitution of India; and prevention, detection, investigation and prosecution of crimes; and capacity building of police personnel are primarily responsibility of States. The Law Enforcement Agencies (LEAs) take legal action as per provisions of law against the cyber crime offenders. However, Government of India helps States in combating cyber crimes by assisting them through advisories and funds under various schemes. In this regard, Government has taken a number of legal, technical and administrative measures to prevent cyber crimes.  These inter alia, include:(i)	Enactment of the Information Technology Act, 2000 which has provisions to deal with prevalent cybercrimes. (ii)   The Indian Computer Emergency Response Team (CERT-In) issues alerts and advisories regarding latest cyber threats/vulnerabilities and countermeasures to protect computers and networks on regular basis.(iii)     National Cyber Crime Reporting Portal, www.cybercrime.gov.in launched by Ministry of Home Affairs (MHA) enables citizens to online report complaints pertaining to all types of cyber crimes with special focus on cyber crimes against women and children. Complaints reported on this portal are attended by the respective Law Enforcement Authorities of States. A nation-wide helpline number [155260] is also made functional to help the public in filing complaints through the portal.(iv)	To spread awareness on cybercrime, MHA has taken several steps that include dissemination of messages on cybercrime through Twitter handle @cyberDost, radio campaign, publishing of Handbook for Adolescents / Students, publishing of ‘Information Security Best practices’ for the benefit of Govt. Officials/ Officers. Organizing of cyber Safety and Security Awareness weeks, in association with police department in different States/UTs etc., issuing alerts/advisories on cyber crimes, capacity building/training of law enforcement personnel/ prosecutors/ judicial officers, improving cyber forensics facilities etc. (v)	MeitY through a program, namely, Information Security Education & Awareness (ISEA), has been creating awareness among users highlighting the importance of following the ethics while using Internet and advising them not to share rumors/fake news. A dedicated website for information security awareness (https://www.infosecawareness.in) provides the relevant awareness material.(vi)	Reserve Bank of India (RBI) has issued various instructions in respect of security and risk mitigation measures related to electronic/digital transactions which includes Securing Card Transactions, Securing Payments through Internet Banking / Electronic Payments, ATM Transactions, Prepaid Payment Instruments (PPIs), Limiting Customer Liability on Unauthorized Electronic Banking Transactions, Limiting Customer Liability in Unauthorized Electronic Banking Transactions in PPIs issued by Authorised Non-banks, Enhancing Security of Card Transactions etc. (vii)	Under Cyber Crime Prevention against Women and Children (CCPWC) Scheme, the financial assistance has been given to States/UTs for setting up Cyber Forensic Cum Training Laboratories, hiring of Junior Cyber Consultants and training/capacity building to provide hands-on training to LEAs personnel, prosecutors and judicial officers. (viii)	‘Indian Cyber Crime Coordination Centre (I4C)’ has been set up to deal with cybercrimes in coordinated and effective manner and it has a component namely National Cybercrime Training Centre for capacity building in the field of cyber crime investigation.(ix)	Cyber Coordination Centre (CyCord) portal has been launched to provide a platform to the Law Enforcement Agencies and other stakeholders to collaborate and coordinate their efforts to resolve cyber crime, and for other cyber related issues like sharing case studies / research findings, experience sharing, formulation of research problems, finding solutions to complex cyber issues, etc.(x)	Issue of alerts/advisories to States/UTs about cyber crimes. Various advisories issued to States are available on www.mha.gov.in. (xi)	Training curriculum prepared for LEAs personnel, prosecutors and judicial officers for better handling of investigation and prosecution. So far, more than 8500 LEA personnel, judicial officers and prosecutors have been provided training on cyber crime awareness, investigation, forensics etc. under CCPWC Scheme.********   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+HomeArchiveIndex to Select Questions (1984-1999)Ballot ListStatistical Statements Relating to QuestionsUploading of Questions - Status QueryProcedure for Sending Text of Questions & AnswersDemarcation of responsibilities in Govt. of IndiaBrochure on Statutory Corporations, Companies and Other Bodies in Which the Government of India have financial or controlling interestHighlights pertaining to questions of 17th Lok Sabha
+
+
+
+
+
+
+Contact Us 
+Disclaimer
+
+
+
+
+
+
+
+
+
+
+
+        Developed and Hosted by National Informatics Centre (NIC)
+
+Content on this website is published,
+            managed & maintained by Software Unit, Computer (HW & SW) Management. Branch,
+            Lok Sabha Secretariat
+
+
+
+
+
+HomeMembersBusinessQuestionsDebatesPapers Laid
+
+
+LegislationCommitteesSANSAD TVIntranetSecretariatPRIDE
+
+
+RecruitmentSC/ST ReservationConferenceParliament Library
+
+
+About ParliamentPhoto GalleryRelated LinksRTITendersFAQ
+
+
+SpeakerDy. SpeakerLeader of the HousePanel of ChairpersonsContact UsFeedback
+
+
+Council of MinistersPublications of MinistriesParliamentry ProceduresJournal of Parliamentary Information
+Visitor's Counter:113202933
+
+
+
+
+
+
+
+Copyright
+Privacy Policy
+Disclaimer
+Terms &
+                Conditions
+
+                Accessibility Statement
+Accessibility
+                Options
+Feedback
+Site Map
+
+
+
+
+
+
+

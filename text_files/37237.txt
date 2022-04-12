@@ -1,0 +1,363 @@
+
+
+
+
+	Questions : Lok Sabha
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Screen Reader Access
+Skip to Main Content
+Skip to Navigation
+
+
+
+Text Size
+
+                                A
+
+                                A
+A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+हिन्दी मे
+
+
+
+
+
+
+
+
+Parliament of India Lok Sabha House of the
+                        People
+
+
+
+
+
+
+* Special Characters not allowed
+
+
+
+
+
+
+
+
+
+
+
+
+India Time 
+
+
+Your Time 
+
+
+                        Tuesday,
+                        12 April 2022
+
+
+
+
+
+
+
+
+
+HomeMembersSitting MembersMembers Home PageMembers' PortalContact DetailsMembers SearchStatistical AnalysisAttendance of MembersHandbook Members Since 1952Digitized Who's WhoOthers BusinessProvisional CalendarList of BusinessPapers to be LaidList of Private Members' BusinessBulletin-IDigitized Lok Sabha Bulletin Part IBulletin-IIStatement of WorkSpecial Mentions (ZERO HOUR)Resume of WorkDigitized Resume of Work done by Lok Sabha QuestionsHomeQuestion ListStatus of notices of questionQuestions CalendarGrouping of Ministries - AlphabeticalOfficers in Min./Dept. Dealing with Parliamentary WorkQuestion SearchSupplementary Questions DebatesIntroductionSynopsisUncorrected DebateText of DebateDigitized DebatesConstituent Assembly DebatesWit And HumourDebate SearchHindi FontsDisclaimer Papers LaidPapers Laid on the Table of the House LegislationIntroduction(How Bill Becomes Act)Bills IntroducedBills PassedBills PendingBills AssentedBills LapsedBills WithdrawnBills NegativedBills Search Disclaimer CommitteesIntroductionChairpersonSummary of WorkCommittee Meetings ScheduleBills Referred to CommitteesReports PresentedDigitized ReportsPress ReleaseMembership SearchToday's Committee MeetingsCommittee Subject SelectedDepartment Related-RS Govt. AssurancesSANSAD TVIntranet
+
+
+
+
+
+HomeQuestion ListStatus of notices of questionQuestions CalendarGrouping of Ministries - AlphabeticalOfficers in Min./Dept. Dealing with Parliamentary WorkQuestion SearchSupplementary Questions
+
+
+
+
+
+
+
+
+
+
+
+Download as PDF
+
+
+
+
+Print
+
+
+
+
+
+
+
+
+
+
+
+
+PDF/WORD(Hindi)
+
+
+PDF/WORD
+
+
+
+
+                                    GOVERNMENT OF INDIA
+                                
+
+
+
+
+
+                                    MINISTRY OF
+                                    ELECTRONICS AND INFORMATION TECHNOLOGY
+
+
+
+
+
+
+                                    LOK SABHA
+                                
+
+
+
+
+
+UNSTARRED 
+
+
+                                    QUESTION NO:
+                                
+
+4407
+
+
+
+
+
+
+                                    ANSWERED ON: 
+                                
+
+30.03.2022
+
+
+
+
+
+
+Blockchain Engineering
+
+
+
+
+Ravneet Singh
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                    Vijayakumar (alias) Vijay Vasanth
+                                                
+
+
+
+
+
+
+
+
+
+
+
+
+                        Will the Minister of
+
+
+
+
+
+ELECTRONICS AND INFORMATION TECHNOLOGY
+
+
+                        be pleased to state:-
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Will the Minister of Electronics and Information Technology be pleased to state:(a) whether the Government is aware that there is a huge demand of blockchain engineering talent in the country;(b) if so, the details thereof and if not, the reasons therefor; (c) whether the Government is taking any steps to promote blockchain engineering which can lead to generation of a large number of jobs in the country; (d) if so, the details thereof and if not, the reasons therefor; and (e) the details of the training programmes and dedicated programmes in the blockchain technology being conducted and likely to be conducted by the Government in future?
+
+
+
+
+
+
+ANSWER
+
+
+
+
+                                                        (a): Yes, Sir. Government of India has issued National Strategy on Blockchain in Dec 2021, which focuses on R&D, innovation, Technology which in turn creates Blockchain talent and capabilities in Tech workforce. The strategy document is available at https://www.meity.gov.in/content/national-strategy-on-Blockchain.(b): The Government has facilitated rollout of Blockchain based courses in the educational/academic and Research & Development institutions including engineering & higher education institutions in the country as given below:•	Ministry of Electronics & IT (MeitY)& NASSCOM has jointly initiated a programme titled FutureSkills PRIME (www.futureskillsprime.in), a B2C framework for re-skilling/ up-skilling of IT professionals in 10 Emerging area includingBlockchain, Cloud Computing and Artificial Intelligence. •	Government has initiated ‘Visvesvaraya PhD Scheme’ with an objective to enhance the number of PhDs in Electronics System Design & Manufacturing (ESDM) and IT/IT Enabled Services (IT/ITES) sectors including AI in the country. The research areas under the scheme inter-alia include Blockchain Technology, Artificial Intelligence, Machine Learning, Image Processing, etc. Presently, 908 Full time & 308 part-time PhD candidates are enrolled under the scheme at 97 academic institutions across the country. •	IITs / IIITs and government & private universities are offering course curriculum in the Blockchain. •	Indian Institute of Information Technology & Management (IIITM-K) has started Kerala Block Chain Academy, a unique initiative for offering Blockchain training, research, and consultancy in multiple domains.  •	The Academic {Blockchain} Documents (ABCD) has been implemented by CBSE, which presently hosts 97.6 lakh Class X & Class XII certificates on the chain for academic session 2018-19, 2019-20 and 2020-21.•	MeitY has also established Centres of Excellence in Blockchain to facilitate start-ups and entrepreneurs working on Blockchain based solutions.(c) and (d): Yes, Sir. Government is taking several steps to promote Blockchain through the courses offered by various institutions leading to generation of many jobs in the country. (e):  The training programmes in Emerging Technologies including Blockchain are as below:•	The adoption of Blockchain based solutions are promoted using Digital India Dialogues, a series of 100 knowledge sharing sessions on emerging technologies. •	Under the progarmme so far, around 3.46 lakh candidates have enrolled for various courses, out of which, around 1.2 Lakh candidates have completed their course. In addition, 524 Trainers and 4292 Government Officials have been trained on these technologies by NIELIT/C-DAC Resource Centres, out of which,186 Government Officials and 26 Trainers have been certified under the Blockchain technology. Further, around 1.27 lakh unique learners have collectively earned 8.89 lakh badges in recognition of having completed bite-sized digital fluency content, out of which, around 2100 unique learners have completed around 13,500 badges under Blockchain technology.•	C-DAC is also offering a skill based online course on Blockchain Technology & Application Development through “C-DAC’s HARmonized Industry skilling program through Online Training - CHARIOT”. (https://vikaspedia.in/events/c-dac-s-harmonized-industry-skilling-program-through-online-training).•	Blockchain courses are offered at SWAYAM Portal of Ministry of Education. *******
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+HomeArchiveIndex to Select Questions (1984-1999)Ballot ListStatistical Statements Relating to QuestionsUploading of Questions - Status QueryProcedure for Sending Text of Questions & AnswersDemarcation of responsibilities in Govt. of IndiaBrochure on Statutory Corporations, Companies and Other Bodies in Which the Government of India have financial or controlling interestHighlights pertaining to questions of 17th Lok Sabha
+
+
+
+
+
+
+Contact Us 
+Disclaimer
+
+
+
+
+
+
+
+
+
+
+
+        Developed and Hosted by National Informatics Centre (NIC)
+
+Content on this website is published,
+            managed & maintained by Software Unit, Computer (HW & SW) Management. Branch,
+            Lok Sabha Secretariat
+
+
+
+
+
+HomeMembersBusinessQuestionsDebatesPapers Laid
+
+
+LegislationCommitteesSANSAD TVIntranetSecretariatPRIDE
+
+
+RecruitmentSC/ST ReservationConferenceParliament Library
+
+
+About ParliamentPhoto GalleryRelated LinksRTITendersFAQ
+
+
+SpeakerDy. SpeakerLeader of the HousePanel of ChairpersonsContact UsFeedback
+
+
+Council of MinistersPublications of MinistriesParliamentry ProceduresJournal of Parliamentary Information
+Visitor's Counter:113263988
+
+
+
+
+
+
+
+Copyright
+Privacy Policy
+Disclaimer
+Terms &
+                Conditions
+
+                Accessibility Statement
+Accessibility
+                Options
+Feedback
+Site Map
+
+
+
+
+
+
+

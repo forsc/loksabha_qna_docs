@@ -1,0 +1,393 @@
+
+
+
+
+	Questions : Lok Sabha
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Screen Reader Access
+Skip to Main Content
+Skip to Navigation
+
+
+
+Text Size
+
+                                A
+
+                                A
+A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+हिन्दी मे
+
+
+
+
+
+
+
+
+Parliament of India Lok Sabha House of the
+                        People
+
+
+
+
+
+
+* Special Characters not allowed
+
+
+
+
+
+
+
+
+
+
+
+
+India Time 
+
+
+Your Time 
+
+
+                        Monday,
+                        11 April 2022
+
+
+
+
+
+
+
+
+
+HomeMembersSitting MembersMembers Home PageMembers' PortalContact DetailsMembers SearchStatistical AnalysisAttendance of MembersHandbook Members Since 1952Digitized Who's WhoOthers BusinessProvisional CalendarList of BusinessPapers to be LaidList of Private Members' BusinessBulletin-IDigitized Lok Sabha Bulletin Part IBulletin-IIStatement of WorkSpecial Mentions (ZERO HOUR)Resume of WorkDigitized Resume of Work done by Lok Sabha QuestionsHomeQuestion ListStatus of notices of questionQuestions CalendarGrouping of Ministries - AlphabeticalOfficers in Min./Dept. Dealing with Parliamentary WorkQuestion SearchSupplementary Questions DebatesIntroductionSynopsisUncorrected DebateText of DebateDigitized DebatesConstituent Assembly DebatesWit And HumourDebate SearchHindi FontsDisclaimer Papers LaidPapers Laid on the Table of the House LegislationIntroduction(How Bill Becomes Act)Bills IntroducedBills PassedBills PendingBills AssentedBills LapsedBills WithdrawnBills NegativedBills Search Disclaimer CommitteesIntroductionChairpersonSummary of WorkCommittee Meetings ScheduleBills Referred to CommitteesReports PresentedDigitized ReportsPress ReleaseMembership SearchToday's Committee MeetingsCommittee Subject SelectedDepartment Related-RS Govt. AssurancesSANSAD TVIntranet
+
+
+
+
+
+HomeQuestion ListStatus of notices of questionQuestions CalendarGrouping of Ministries - AlphabeticalOfficers in Min./Dept. Dealing with Parliamentary WorkQuestion SearchSupplementary Questions
+
+
+
+
+
+
+
+
+
+
+
+Download as PDF
+
+
+
+
+Print
+
+
+
+
+
+
+
+
+
+
+
+
+PDF/WORD(Hindi)
+
+
+PDF/WORD
+
+
+
+
+                                    GOVERNMENT OF INDIA
+                                
+
+
+
+
+
+                                    MINISTRY OF
+                                    FINANCE
+
+
+
+
+
+
+                                    LOK SABHA
+                                
+
+
+
+
+
+UNSTARRED 
+
+
+                                    QUESTION NO:
+                                
+
+3552
+
+
+
+
+
+
+                                    ANSWERED ON: 
+                                
+
+16.03.2020
+
+
+
+
+
+
+Cyber Attack on Banking Network
+
+
+
+
+Hemant Patil
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                    Unmesh Bhaiyyasaheb Patil
+                                                
+
+
+
+
+
+
+
+
+                                                    Sambhajirao Mane Dhairyasheel
+                                                
+
+
+
+
+
+
+
+
+                                                    Sujay Radhakrishna Vikhepatil
+                                                
+
+
+
+
+
+
+
+
+                                                    Shrikant Eknath Shinde
+                                                
+
+
+
+
+
+
+
+
+
+
+
+
+                        Will the Minister of
+
+
+
+
+
+FINANCE
+
+
+                        be pleased to state:-
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                    (a) the number of cases of cyber attacks on banking and other cashless networks that have been reported in the country during each of the last three years, State/UT-wise;(b) the steps taken/being taken by the Government to check cyber crimes, hacking of transactions involving credit cards and to organise campaigns for building and regaining confidence of citizens; and(c) whether the Government has proposed sufficient/ additional budgetary provisions to provide technological support to curb cyber crimes, if so, the details thereof and if not, the reasons therefor?
+
+
+
+
+
+
+ANSWER
+
+
+
+
+                                                        (MINISTER OF STATE IN THE MINISTRY OF FINANCE)(a) The State-wise data on frauds reported by Scheduled Commercial Banks and Select Financial Institutions under the category ''Card/Internet - ATM/Debit card, Credit Card and Internet Banking Frauds'' for the last three financial years and period ended December 2019 of the current financial year based on date of reporting, where the amount involved is Rupees 1.00 lakh or above is enclosed as Annexure-I. The State-wise data on frauds reported by Scheduled Commercial Banks and Select Financial Institutions under the category ''Card/Internet - ATM/Debit card, Credit Card and Internet Banking Frauds'' for the last two financial years and period ended December 2019 of the current financial year based on date of reporting, where the amount Involved is less than Rupees 1.00 lakh is enclosed as Annexure-II. (b) & (c) In order to strengthen the security of digital transactions, Reserve Bank of India (RBI) reviews the cyber security developments and threats on an ongoing basis and necessary measures are taken to strengthen the cyber resilience of banks. Cyber incidents are analyzed from the point of view of sophistication of attack as well as systemic impact and are categorized as critical, high, medium and low categories. Wherever required, advisories/alerts are issued to all banks to avoid occurrence of similar incident in other banks. Reserve Bank of India has also issued circulars dated February 28, 2013 and June 24, 2013 for securing electronic (online and e-banking) transactions advising banks to introduce additional security measures, as under:1)	All new debit and credit cards to be issued only for domestic usage unless international use is specifically sought by the customers. Such cards enabling international usage will have to be essentially EMV Chip and PIN enabled.2)	Issuing banks should convert all existing MagStripe cards to EMV Chip card for all customers who have used their card internationally at least once (for/through                                    e – commerce/ATM/POS).3)	All the active MagStripe International cards used by banks should have threshold limit for international usage which is to be determined by the bank based on the risk profile of the customer and accepted by the customer. Till such time this process is completed, an omnibus threshold limit (say, not exceeding USD 500) as determined by each bank may be put in place for all debit cards and all credit cards that have not been used for international transactions in the past.Further, the Information Technology Act, 2000 has provisions for dealing with various types of cyber crime. Sections 43, 43A, 66, 66B, 66C, 66D, 66E, 66F, 67, 67A, 67B, 71, 72, 72A, 73 and 74 provides punishment/penalty for various cyber crimes. The Indian Computer Emergency Response Team (CERT-In) issues alerts and advisories regarding latest cyber threats and countermeasures on regular basis to ensure safe usage of digital technologies. To spread awareness on cybercrime, Ministry of Home Affairs (MHA) has taken several steps that include dissemination of messages on cybercrime through MHA Twitter handle @cyberDost, radio campaign, publishing of Handbook for Adolescents/Students, publishing of ‘Information Security Best practices’ for the benefit of Government Officials/ Officers. Organizing of cyber Safety and Security Awareness weeks, in association with police department in different States/UTs etc.MHA is also implementing a scheme, namely Cyber Crime Prevention against Women and Children (CCPWC) from Nirbhaya Fund of Ministry of Women and Child Development. Under this Scheme, Ministry has provided financial assistance to all States/UTs to set up cyber forensic cum training laboratories, hiring of Junior Cyber Consultant and training/capacity building to provide hands-on training to Law Enforcement Agencies (LEAs) personnel, prosecutors and judicial officers.***** 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+HomeArchiveIndex to Select Questions (1984-1999)Ballot ListStatistical Statements Relating to QuestionsUploading of Questions - Status QueryProcedure for Sending Text of Questions & AnswersDemarcation of responsibilities in Govt. of IndiaBrochure on Statutory Corporations, Companies and Other Bodies in Which the Government of India have financial or controlling interestHighlights pertaining to questions of 17th Lok Sabha
+
+
+
+
+
+
+Contact Us 
+Disclaimer
+
+
+
+
+
+
+
+
+
+
+
+        Developed and Hosted by National Informatics Centre (NIC)
+
+Content on this website is published,
+            managed & maintained by Software Unit, Computer (HW & SW) Management. Branch,
+            Lok Sabha Secretariat
+
+
+
+
+
+HomeMembersBusinessQuestionsDebatesPapers Laid
+
+
+LegislationCommitteesSANSAD TVIntranetSecretariatPRIDE
+
+
+RecruitmentSC/ST ReservationConferenceParliament Library
+
+
+About ParliamentPhoto GalleryRelated LinksRTITendersFAQ
+
+
+SpeakerDy. SpeakerLeader of the HousePanel of ChairpersonsContact UsFeedback
+
+
+Council of MinistersPublications of MinistriesParliamentry ProceduresJournal of Parliamentary Information
+Visitor's Counter:113184020
+
+
+
+
+
+
+
+Copyright
+Privacy Policy
+Disclaimer
+Terms &
+                Conditions
+
+                Accessibility Statement
+Accessibility
+                Options
+Feedback
+Site Map
+
+
+
+
+
+
+

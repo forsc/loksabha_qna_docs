@@ -1,0 +1,363 @@
+
+
+
+
+	Questions : Lok Sabha
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Screen Reader Access
+Skip to Main Content
+Skip to Navigation
+
+
+
+Text Size
+
+                                A
+
+                                A
+A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+हिन्दी मे
+
+
+
+
+
+
+
+
+Parliament of India Lok Sabha House of the
+                        People
+
+
+
+
+
+
+* Special Characters not allowed
+
+
+
+
+
+
+
+
+
+
+
+
+India Time 
+
+
+Your Time 
+
+
+                        Tuesday,
+                        12 April 2022
+
+
+
+
+
+
+
+
+
+HomeMembersSitting MembersMembers Home PageMembers' PortalContact DetailsMembers SearchStatistical AnalysisAttendance of MembersHandbook Members Since 1952Digitized Who's WhoOthers BusinessProvisional CalendarList of BusinessPapers to be LaidList of Private Members' BusinessBulletin-IDigitized Lok Sabha Bulletin Part IBulletin-IIStatement of WorkSpecial Mentions (ZERO HOUR)Resume of WorkDigitized Resume of Work done by Lok Sabha QuestionsHomeQuestion ListStatus of notices of questionQuestions CalendarGrouping of Ministries - AlphabeticalOfficers in Min./Dept. Dealing with Parliamentary WorkQuestion SearchSupplementary Questions DebatesIntroductionSynopsisUncorrected DebateText of DebateDigitized DebatesConstituent Assembly DebatesWit And HumourDebate SearchHindi FontsDisclaimer Papers LaidPapers Laid on the Table of the House LegislationIntroduction(How Bill Becomes Act)Bills IntroducedBills PassedBills PendingBills AssentedBills LapsedBills WithdrawnBills NegativedBills Search Disclaimer CommitteesIntroductionChairpersonSummary of WorkCommittee Meetings ScheduleBills Referred to CommitteesReports PresentedDigitized ReportsPress ReleaseMembership SearchToday's Committee MeetingsCommittee Subject SelectedDepartment Related-RS Govt. AssurancesSANSAD TVIntranet
+
+
+
+
+
+HomeQuestion ListStatus of notices of questionQuestions CalendarGrouping of Ministries - AlphabeticalOfficers in Min./Dept. Dealing with Parliamentary WorkQuestion SearchSupplementary Questions
+
+
+
+
+
+
+
+
+
+
+
+Download as PDF
+
+
+
+
+Print
+
+
+
+
+
+
+
+
+
+
+
+
+PDF/WORD(Hindi)
+
+
+PDF/WORD
+
+
+
+
+                                    GOVERNMENT OF INDIA
+                                
+
+
+
+
+
+                                    MINISTRY OF
+                                    COMMUNICATIONS
+
+
+
+
+
+
+                                    LOK SABHA
+                                
+
+
+
+
+
+UNSTARRED 
+
+
+                                    QUESTION NO:
+                                
+
+1497
+
+
+
+
+
+
+                                    ANSWERED ON: 
+                                
+
+28.07.2021
+
+
+
+
+
+
+Utilization of Optical Fibre Network
+
+
+
+
+Bharatiben Dhirubhai Shyal
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                    Arvind Kumar Sharma
+                                                
+
+
+
+
+
+
+
+
+
+
+
+
+                        Will the Minister of
+
+
+
+
+
+COMMUNICATIONS
+
+
+                        be pleased to state:-
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                    (a) 	whether utilization of large and high capacity optical fibre network laid down under BharatNet project is not optimum and if so, the details thereof and the reasons therefor along with the remedial steps taken by the Government to prevent under utilisation of the said infrastructure; (b) 	whether the steps taken by the Government to ensure optimum utilisation of optical fibre network have yielded any outcomes and if so, the details thereof; and (c) 	whether the Government is taking any efforts to improve internet speed and quality in view of poor performance of the country in the global mobile internet speed ranking and if so, the details thereof?
+
+
+
+
+
+
+ANSWER
+
+
+
+
+                                                        MINISTER OF STATE FOR COMMUNICATIONS (SHRI DEVUSINH CHAUHAN)(a) & (b)	BharatNet project is being implemented in a phased manner to create network to connect all the Gram Panchayats (GPs) with broadband in the country. The scope of BharatNet has been recently extended upto all inhabited villages beyond GPs. The infrastructure created under BharatNet is accessible on non-discriminatory basis to all Service Providers. These Service Providers may utilize the BharatNet network for provisioning of broadband/internet services through Wi-Fi Hotspots, Fibre to the Home (FTTH) connections, leased line, backhaul to mobile towers, etc. Further, the following steps have been taken to increase the utilization of BharatNet network in Country:•	As proper functioning of Network is required for its effective utilization, the network is being monitored through Network Operating Centre (NOC) and its reports are being monitored on a regular basis. Since 01.07.2019, the work of Operations & Maintenance of the BharatNet Phase-I is being carried out by CSC e-Governance Services India Limited (a Special Purpose Vehicle under Ministry of Electronics & Information Technology).•	The provisioning of Wi-Fi Services in about 1.10 lakh GPs has been assigned to CSC e-Governance Services India Limited (a Special Purpose Vehicle under Ministry of Electronics & Information Technology), and in about 10,000 GPs to Government of  Rajasthan/Raj COMP Info Services Ltd. (RISL), etc. Out of the aforesaid GPs assigned to CSC e-Governance Services India Limited (CSC-SPV), it is also providing FTTH connections to 5 Government Institutions per GP in 77,000 (approx.) GPs.•	CSC-SPV has also been assigned to provide one Wi-Fi hotspot and 5 FTTH connections in each of about 39,000 villages (including GPs) of Bihar.•	Under State-led model of BharatNet Phase-II, the States are made responsible for utilization of the BharatNet Network.•	BharatNet infrastructure is leased to all Services Providers on non-discriminatory manner for provision of Broadband connectivity in GPs/rural areas by Bharat Broadband Network Limited (BBNL). The dark fibre and bandwidth of BharatNet is offered at attractive rates to the Service Providers.Over the last two years (i.e. from 21.06.19 to 09.07.2021), utilization of BharatNet has increased substantially. For example, GPs with installed Wi-Fi hotspots have increased from 43,643 to 1,04,310, FTTH connections have increased from 29,335 to 5,10,730, data usage per month has increased from 78.53 TB to 3,747 TB and leasing of Dark Fibre has increased from 1,829 km to 27,833 km, through BharatNet.  (c)	The Union Cabinet, on 30.06.2021 accorded approval for a revised strategy for implementation of BharatNet through Public-Private Partnership (PPP) model in 16 States which will harness private sector capabilities for execution, maintenance and utilization of network for delivery of services. Under National Broadband Mission (NBM), various initiatives, including Fiberisation of Towers, Increase in Tower Density and Increase of laying of Optical Fiber are being taken to enhance broadband speed and Quality of Service.******
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+HomeArchiveIndex to Select Questions (1984-1999)Ballot ListStatistical Statements Relating to QuestionsUploading of Questions - Status QueryProcedure for Sending Text of Questions & AnswersDemarcation of responsibilities in Govt. of IndiaBrochure on Statutory Corporations, Companies and Other Bodies in Which the Government of India have financial or controlling interestHighlights pertaining to questions of 17th Lok Sabha
+
+
+
+
+
+
+Contact Us 
+Disclaimer
+
+
+
+
+
+
+
+
+
+
+
+        Developed and Hosted by National Informatics Centre (NIC)
+
+Content on this website is published,
+            managed & maintained by Software Unit, Computer (HW & SW) Management. Branch,
+            Lok Sabha Secretariat
+
+
+
+
+
+HomeMembersBusinessQuestionsDebatesPapers Laid
+
+
+LegislationCommitteesSANSAD TVIntranetSecretariatPRIDE
+
+
+RecruitmentSC/ST ReservationConferenceParliament Library
+
+
+About ParliamentPhoto GalleryRelated LinksRTITendersFAQ
+
+
+SpeakerDy. SpeakerLeader of the HousePanel of ChairpersonsContact UsFeedback
+
+
+Council of MinistersPublications of MinistriesParliamentry ProceduresJournal of Parliamentary Information
+Visitor's Counter:113217357
+
+
+
+
+
+
+
+Copyright
+Privacy Policy
+Disclaimer
+Terms &
+                Conditions
+
+                Accessibility Statement
+Accessibility
+                Options
+Feedback
+Site Map
+
+
+
+
+
+
+

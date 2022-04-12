@@ -1,0 +1,350 @@
+
+
+
+
+	Questions : Lok Sabha
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Screen Reader Access
+Skip to Main Content
+Skip to Navigation
+
+
+
+Text Size
+
+                                A
+
+                                A
+A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+हिन्दी मे
+
+
+
+
+
+
+
+
+Parliament of India Lok Sabha House of the
+                        People
+
+
+
+
+
+
+* Special Characters not allowed
+
+
+
+
+
+
+
+
+
+
+
+
+India Time 
+
+
+Your Time 
+
+
+                        Tuesday,
+                        12 April 2022
+
+
+
+
+
+
+
+
+
+HomeMembersSitting MembersMembers Home PageMembers' PortalContact DetailsMembers SearchStatistical AnalysisAttendance of MembersHandbook Members Since 1952Digitized Who's WhoOthers BusinessProvisional CalendarList of BusinessPapers to be LaidList of Private Members' BusinessBulletin-IDigitized Lok Sabha Bulletin Part IBulletin-IIStatement of WorkSpecial Mentions (ZERO HOUR)Resume of WorkDigitized Resume of Work done by Lok Sabha QuestionsHomeQuestion ListStatus of notices of questionQuestions CalendarGrouping of Ministries - AlphabeticalOfficers in Min./Dept. Dealing with Parliamentary WorkQuestion SearchSupplementary Questions DebatesIntroductionSynopsisUncorrected DebateText of DebateDigitized DebatesConstituent Assembly DebatesWit And HumourDebate SearchHindi FontsDisclaimer Papers LaidPapers Laid on the Table of the House LegislationIntroduction(How Bill Becomes Act)Bills IntroducedBills PassedBills PendingBills AssentedBills LapsedBills WithdrawnBills NegativedBills Search Disclaimer CommitteesIntroductionChairpersonSummary of WorkCommittee Meetings ScheduleBills Referred to CommitteesReports PresentedDigitized ReportsPress ReleaseMembership SearchToday's Committee MeetingsCommittee Subject SelectedDepartment Related-RS Govt. AssurancesSANSAD TVIntranet
+
+
+
+
+
+HomeQuestion ListStatus of notices of questionQuestions CalendarGrouping of Ministries - AlphabeticalOfficers in Min./Dept. Dealing with Parliamentary WorkQuestion SearchSupplementary Questions
+
+
+
+
+
+
+
+
+
+
+
+Download as PDF
+
+
+
+
+Print
+
+
+
+
+
+
+
+
+
+
+
+
+PDF/WORD(Hindi)
+
+
+PDF/WORD
+
+
+
+
+                                    GOVERNMENT OF INDIA
+                                
+
+
+
+
+
+                                    MINISTRY OF
+                                    ELECTRONICS AND INFORMATION TECHNOLOGY
+
+
+
+
+
+
+                                    LOK SABHA
+                                
+
+
+
+
+
+UNSTARRED 
+
+
+                                    QUESTION NO:
+                                
+
+4486
+
+
+
+
+
+
+                                    ANSWERED ON: 
+                                
+
+30.03.2022
+
+
+
+
+
+
+Digital India Programme in the Country
+
+
+
+
+Sunil Kumar Singh
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        Will the Minister of
+
+
+
+
+
+ELECTRONICS AND INFORMATION TECHNOLOGY
+
+
+                        be pleased to state:-
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                    Will the Minister of ELECTRONICS & INFORMATION TECHNOLOGY be pleased to state:-(a)	whether the Government is aware that the Digital India Programme is delivering good governance to the common citizens in the country and if so, the details thereof;(b)	the details of the steps taken by the Government to ensure coordination among different agencies involved in the aforesaid programme;(c)	the details of the Information Technology (IT) Support provided toAtmaNirbhar Bharat Abhiyan; and(d)	the details of the contribution of Digital India in tackling COVID-19?
+
+
+
+
+
+
+ANSWER
+
+
+
+
+                                                        (a): Yes, Sir. The Ministry of Electronics and Information Technology (MeitY), Government of India launched the ‘Digital India’ programme with the vision to transform India into a digitally empowered society and knowledge-based economy by ensuring digital access, digital inclusion, digital empowerment and bridging the digital divide. In summary, our mission is to ensure that the digital technologies improve the life of every citizen; expand India’s digital economy, create investment & employment opportunities and global digital technological capabilities in the country.Digital India has dramatically reduced distance between Government and citizens significantly. Further, Digital India has also helped in delivery of substantial services directly to the beneficiary in a transparent and corruption free manner. The rollout of various e-Governance initiatives under Digital India programme has led to delivery of 4020+ services as on February, 2022. The eGovernance applications for Pradhan Mantri Jan-DhanYojana, Subsidy delivery schemes, Unified Payments Interface (UPI), Bharat Interface for Money (BHIM), Passport, Income Tax, Road Transport, MCA21, Agriculture, e-District, e-Courts, Land Records, Treasuries, Public Distribution System(PDS), etc showcased the transformational capability of ICT and improved the service delivery significantly. (b):Following steps have been taken by the Government to ensure coordination among different agencies involved in this programme.  •	Close monitoring of various initiatives under Digital India.•	Inter-ministerial meetings to create synergy and collaboration.•	Regular meeting and workshops with States and UTs especially with the State IT Depts.•	Departments Regular meetings and workshops with Industries(c):Government of India has implemented National Public Digital Platforms in strategic areas through indigenous means, which is making the country self-reliant under the initiative of AatmaNirbhar Bharat Abhiyan. Few of these platforms are described as below:•	Unified Payment Interface (UPI) is the leading digital payment platform. It is integrated with 304 banks and facilitated over 452 crore monthly transactions worth Rs 8.26 lakh crore in February 2022.•	DigiLocker is the paperless platform. It has more than 10 crore users. and it is offering 494 crore documents from 1,783 issuer organisations.•	Unified Mobile Application for New-Age Governance (UMANG) is made operational to provide government services through a single mobile app. At present, 1,488 services from 279 departments of Central Government departments and Government departments of 32 States/UTs along with the 20,552 – Bharat Bill Payment Services (BBPS) utility services are available on UMANG. About 4.3 crore users are registered with UMANG and they have availed 2.4 crore transactions. The language localisation support has been extended to 23 Indian languages.•	API Setu has been implemented to facilitate data exchange among the systems and databases. As 28 Feb 2022, 1447 APIs; 641 Publisher organization and 235 Consumer organizations are on API Setu Platform. Over 15.04 crore transactions have been reported in FY 2021-2022 on API Setu Platform.•	Government e-Marketplace is the public procurement platform. As on March 24, 2022, it has facilitated 59,296 buyer organisations, 40 lakh sellers, 96.6 lakh orders worth Rs 2.19 lakh crore.Further, National Informatics Centre (NIC), an attached office of Ministry of Electronics & Information Technology (MeitY), has started working towards development of indigenous products such as SANDES (Government Instant Messaging System), LokSamvaad (A Micro blogging Platform), TEJAS (A Data Analytics Platform), CollabFiles (A Web-based platform to provide a Suite of Office Services), etc.(d):Digital India has played a significant role in our country’s response to the globally disruptive Covid-19 Pandemic. It has played a role in the healthcare & vaccination efforts on one hand and on the other hand ensured that our economy & Govt. keeps functioning and bounced back strongly post lockdown in the first quarter due to remote working, capabilities, platforms etc.  Some of the key platforms are as follows: •	AarogyaSetu App: The App works based on contact tracing method and helps the Government in identifying, monitoring and mitigating the spread of COVID-19 across the country. The App also augments the COVID-19 initiatives of the Government in proactively reaching out to and informing the users of the app regarding risks, best practices and relevant advisories pertaining to the containment of COVID-19. •	Co-WIN: It is a platform for the citizens of India to register for COVID-19 vaccination and schedule their vaccination slots at the nearest vaccination centers. •	RT-PCR Mobile App: A Covid-19 Sample Collection Management System used by collection Centre technicians to enter details of the samples being collected for Covid-19 RT-PCR test.•	eHospital/ Online Registration System (ORS): e-Hospital is a cloud-based Hospital Management information system that acts as one-stop solution to bring hospitals, patients and doctors on single platform. •	eSanjeevani: eSanjeevani is indigenously developed telemedicine solution with in-built video conferencing & wireless import of test results & physiological parameters. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+HomeArchiveIndex to Select Questions (1984-1999)Ballot ListStatistical Statements Relating to QuestionsUploading of Questions - Status QueryProcedure for Sending Text of Questions & AnswersDemarcation of responsibilities in Govt. of IndiaBrochure on Statutory Corporations, Companies and Other Bodies in Which the Government of India have financial or controlling interestHighlights pertaining to questions of 17th Lok Sabha
+
+
+
+
+
+
+Contact Us 
+Disclaimer
+
+
+
+
+
+
+
+
+
+
+
+        Developed and Hosted by National Informatics Centre (NIC)
+
+Content on this website is published,
+            managed & maintained by Software Unit, Computer (HW & SW) Management. Branch,
+            Lok Sabha Secretariat
+
+
+
+
+
+HomeMembersBusinessQuestionsDebatesPapers Laid
+
+
+LegislationCommitteesSANSAD TVIntranetSecretariatPRIDE
+
+
+RecruitmentSC/ST ReservationConferenceParliament Library
+
+
+About ParliamentPhoto GalleryRelated LinksRTITendersFAQ
+
+
+SpeakerDy. SpeakerLeader of the HousePanel of ChairpersonsContact UsFeedback
+
+
+Council of MinistersPublications of MinistriesParliamentry ProceduresJournal of Parliamentary Information
+Visitor's Counter:113264013
+
+
+
+
+
+
+
+Copyright
+Privacy Policy
+Disclaimer
+Terms &
+                Conditions
+
+                Accessibility Statement
+Accessibility
+                Options
+Feedback
+Site Map
+
+
+
+
+
+
+

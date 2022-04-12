@@ -1,0 +1,383 @@
+
+
+
+
+	Questions : Lok Sabha
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Screen Reader Access
+Skip to Main Content
+Skip to Navigation
+
+
+
+Text Size
+
+                                A
+
+                                A
+A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+हिन्दी मे
+
+
+
+
+
+
+
+
+Parliament of India Lok Sabha House of the
+                        People
+
+
+
+
+
+
+* Special Characters not allowed
+
+
+
+
+
+
+
+
+
+
+
+
+India Time 
+
+
+Your Time 
+
+
+                        Sunday,
+                        10 April 2022
+
+
+
+
+
+
+
+
+
+HomeMembersSitting MembersMembers Home PageMembers' PortalContact DetailsMembers SearchStatistical AnalysisAttendance of MembersHandbook Members Since 1952Digitized Who's WhoOthers BusinessProvisional CalendarList of BusinessPapers to be LaidList of Private Members' BusinessBulletin-IDigitized Lok Sabha Bulletin Part IBulletin-IIStatement of WorkSpecial Mentions (ZERO HOUR)Resume of WorkDigitized Resume of Work done by Lok Sabha QuestionsHomeQuestion ListStatus of notices of questionQuestions CalendarGrouping of Ministries - AlphabeticalOfficers in Min./Dept. Dealing with Parliamentary WorkQuestion SearchSupplementary Questions DebatesIntroductionSynopsisUncorrected DebateText of DebateDigitized DebatesConstituent Assembly DebatesWit And HumourDebate SearchHindi FontsDisclaimer Papers LaidPapers Laid on the Table of the House LegislationIntroduction(How Bill Becomes Act)Bills IntroducedBills PassedBills PendingBills AssentedBills LapsedBills WithdrawnBills NegativedBills Search Disclaimer CommitteesIntroductionChairpersonSummary of WorkCommittee Meetings ScheduleBills Referred to CommitteesReports PresentedDigitized ReportsPress ReleaseMembership SearchToday's Committee MeetingsCommittee Subject SelectedDepartment Related-RS Govt. AssurancesSANSAD TVIntranet
+
+
+
+
+
+HomeQuestion ListStatus of notices of questionQuestions CalendarGrouping of Ministries - AlphabeticalOfficers in Min./Dept. Dealing with Parliamentary WorkQuestion SearchSupplementary Questions
+
+
+
+
+
+
+
+
+
+
+
+Download as PDF
+
+
+
+
+Print
+
+
+
+
+
+
+
+
+
+
+
+
+PDF/WORD(Hindi)
+
+
+PDF/WORD
+
+
+
+
+                                    GOVERNMENT OF INDIA
+                                
+
+
+
+
+
+                                    MINISTRY OF
+                                    COMMUNICATIONS
+
+
+
+
+
+
+                                    LOK SABHA
+                                
+
+
+
+
+
+UNSTARRED 
+
+
+                                    QUESTION NO:
+                                
+
+2817
+
+
+
+
+
+
+                                    ANSWERED ON: 
+                                
+
+10.07.2019
+
+
+
+
+
+
+Revival Plans for BSNL
+
+
+
+
+Pritam Gopinath Munde
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                    Girish Bhalchandra Bapat
+                                                
+
+
+
+
+
+
+
+
+                                                    Shrikant Eknath Shinde
+                                                
+
+
+
+
+
+
+
+
+                                                    S. Venkatesan
+                                                
+
+
+
+
+
+
+
+
+
+
+
+
+                        Will the Minister of
+
+
+
+
+
+COMMUNICATIONS
+
+
+                        be pleased to state:-
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                    (a) 	whether the landline, mobile and internet services provided by the Bharat Sanchar Nigam Limited (BSNL) and Mahanagar Telephone Nigam Limited (MTNL) are deteriorating day by day resulting in shifting of consumers to other service providers, if so, the facts thereof; (b) 	whether both the companies are running in heavy loss despite having huge infrastructure and if so, the steps taken to provide revival package to BSNL; (c) 	whether BSNL is unable to make/ has not made payments for their electricity bills for energy utilised for their towers resulting in disruption and collapse of telecom services in various part of the country, particularly in Maharashtra; (d) 	if so, the details thereof including the number of non-functional telephone exchanges and mobile towers, if any, due to non-payment of the said electricity bills, State/UT-wise; and (e) 	whether the Government has received any representations/letters from the Members of Parliament with regard to the revival of BSNL during the last three years and if so, the details thereof and the action taken by the Government thereon?
+
+
+
+
+
+
+ANSWER
+
+
+
+
+                                                        MINISTER OF COMMUNICATIONS, LAW & JUSTICE AND ELECTRONICS AND INFORMATION TECHNOLOGY(SHRI RAVI SHANKAR PRASAD)(a) 	No Sir, Telecom Regulatory Authority of India (TRAI) monitors the performance of telecom service providers including Bharat Sanchar Nigam Limited (BSNL) and Mahanagar Telephone Nigam Limited (MTNL) against the benchmark for various Quality of Service (QoS) parameters laid down by TRAI by way of QoS regulations issued from time to time, through Quarterly Performance Monitoring Reports (PMRs).  As per latest PMR issued by TRAI for the quarter ending March 2019, BSNL is meeting all the benchmarks for Basic (Wireline) and Broadband Services.  For Cellular Mobile Telephone Service, BSNL is meeting the benchmark for all the parameters in all of its Licensed Service Areas (LSAs) except for the parameter “Network QoS DCR Spatial distribution measure or DCR Network_QSD (90,90) (benchmark 2%)” and “Network QoS DCR temporal distribution measure or DCR Network_QTD (97,90) (benchmark < 3%)” in West Bengal Service area only.  MTNL is meeting all QoS parameters of Basic (Wireline), Cellular Mobile and Broadband Services in both of its LSAs i.e. Delhi and Mumbai except for the parameter “% of faults repaired within 5 days” (benchmark 100%) in wireline Service in Delhi LSA only.Total market share (wireline and mobile) of BSNL and MTNL during last three years are as under:<pre>Market Share (in %age) as onPSU	31.03.2017	31.03.2018	31.03.2019BSNL	9.63	10.26	10.72MTNL*	7.37	7.16	6.95</pre>	* Market share of MTNL in its Licensed Service Areas only.Detail of port-in and port-out mobile consumers of BSNL and MTNL is as under:<pre>Year	BSNL	MTNL	Port in	Port out	Port in 	Port out2016-17	27,77,935	20,61,542	17,886	97,2492017-18	41,32,600	34,96,128	8,702	1,81,1602018-19	53,64,649	28,27,440	10,195	1,35,104</pre>(b) 	BSNL and MTNL have been incurring losses continuously since financial year 2009-10.  Indian Institute of Management, Ahmedabad and a private consultant were engaged to facilitate the preparation of revival/restructuring plan of BSNL and MTNL.  Pursuant to their recommendations and approval by their respective Boards, a comprehensive revival plan for BSNL and MTNL is under preparation.(c) & (d) 	State/circle wise details of non-functional telephone exchanges and mobile towers of BSNL due to non-payment of electricity bills is at Annexure.(e) 	Department of Telecommunications has received several representations/ letters regarding revival of BSNL from Members of Parliament (MPs).  Action has already been initiated by the DoT and a comprehensive revival plan for BSNL and MTNL is under preparation.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+HomeArchiveIndex to Select Questions (1984-1999)Ballot ListStatistical Statements Relating to QuestionsUploading of Questions - Status QueryProcedure for Sending Text of Questions & AnswersDemarcation of responsibilities in Govt. of IndiaBrochure on Statutory Corporations, Companies and Other Bodies in Which the Government of India have financial or controlling interestHighlights pertaining to questions of 17th Lok Sabha
+
+
+
+
+
+
+Contact Us 
+Disclaimer
+
+
+
+
+
+
+
+
+
+
+
+        Developed and Hosted by National Informatics Centre (NIC)
+
+Content on this website is published,
+            managed & maintained by Software Unit, Computer (HW & SW) Management. Branch,
+            Lok Sabha Secretariat
+
+
+
+
+
+HomeMembersBusinessQuestionsDebatesPapers Laid
+
+
+LegislationCommitteesSANSAD TVIntranetSecretariatPRIDE
+
+
+RecruitmentSC/ST ReservationConferenceParliament Library
+
+
+About ParliamentPhoto GalleryRelated LinksRTITendersFAQ
+
+
+SpeakerDy. SpeakerLeader of the HousePanel of ChairpersonsContact UsFeedback
+
+
+Council of MinistersPublications of MinistriesParliamentry ProceduresJournal of Parliamentary Information
+Visitor's Counter:113088781
+
+
+
+
+
+
+
+Copyright
+Privacy Policy
+Disclaimer
+Terms &
+                Conditions
+
+                Accessibility Statement
+Accessibility
+                Options
+Feedback
+Site Map
+
+
+
+
+
+
+

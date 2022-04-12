@@ -1,0 +1,363 @@
+
+
+
+
+	Questions : Lok Sabha
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Screen Reader Access
+Skip to Main Content
+Skip to Navigation
+
+
+
+Text Size
+
+                                A
+
+                                A
+A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+हिन्दी मे
+
+
+
+
+
+
+
+
+Parliament of India Lok Sabha House of the
+                        People
+
+
+
+
+
+
+* Special Characters not allowed
+
+
+
+
+
+
+
+
+
+
+
+
+India Time 
+
+
+Your Time 
+
+
+                        Tuesday,
+                        12 April 2022
+
+
+
+
+
+
+
+
+
+HomeMembersSitting MembersMembers Home PageMembers' PortalContact DetailsMembers SearchStatistical AnalysisAttendance of MembersHandbook Members Since 1952Digitized Who's WhoOthers BusinessProvisional CalendarList of BusinessPapers to be LaidList of Private Members' BusinessBulletin-IDigitized Lok Sabha Bulletin Part IBulletin-IIStatement of WorkSpecial Mentions (ZERO HOUR)Resume of WorkDigitized Resume of Work done by Lok Sabha QuestionsHomeQuestion ListStatus of notices of questionQuestions CalendarGrouping of Ministries - AlphabeticalOfficers in Min./Dept. Dealing with Parliamentary WorkQuestion SearchSupplementary Questions DebatesIntroductionSynopsisUncorrected DebateText of DebateDigitized DebatesConstituent Assembly DebatesWit And HumourDebate SearchHindi FontsDisclaimer Papers LaidPapers Laid on the Table of the House LegislationIntroduction(How Bill Becomes Act)Bills IntroducedBills PassedBills PendingBills AssentedBills LapsedBills WithdrawnBills NegativedBills Search Disclaimer CommitteesIntroductionChairpersonSummary of WorkCommittee Meetings ScheduleBills Referred to CommitteesReports PresentedDigitized ReportsPress ReleaseMembership SearchToday's Committee MeetingsCommittee Subject SelectedDepartment Related-RS Govt. AssurancesSANSAD TVIntranet
+
+
+
+
+
+HomeQuestion ListStatus of notices of questionQuestions CalendarGrouping of Ministries - AlphabeticalOfficers in Min./Dept. Dealing with Parliamentary WorkQuestion SearchSupplementary Questions
+
+
+
+
+
+
+
+
+
+
+
+Download as PDF
+
+
+
+
+Print
+
+
+
+
+
+
+
+
+
+
+
+
+PDF/WORD(Hindi)
+
+
+PDF/WORD
+
+
+
+
+                                    GOVERNMENT OF INDIA
+                                
+
+
+
+
+
+                                    MINISTRY OF
+                                    CIVIL AVIATION
+
+
+
+
+
+
+                                    LOK SABHA
+                                
+
+
+
+
+
+UNSTARRED 
+
+
+                                    QUESTION NO:
+                                
+
+867
+
+
+
+
+
+
+                                    ANSWERED ON: 
+                                
+
+02.12.2021
+
+
+
+
+
+
+Facial Recognition Technology
+
+
+
+
+Feroze Varun Gandhi
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                    (Dr.) Ram Shankar Katheria
+                                                
+
+
+
+
+
+
+
+
+
+
+
+
+                        Will the Minister of
+
+
+
+
+
+CIVIL AVIATION
+
+
+                        be pleased to state:-
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                    (a) the details of the airports in the country where facial recognition technology (FRT) has been introduced;(b) whether any timeline has been fixed by the Government to implement the system;(c) the details of private companies providing FRT services at the airports;(d) whether the selection of the companies was done through tendering and if so, the details thereof;(e) whether passengers have been given the option to opt out of FRT processing and if so, the details thereof;(f) the safegaurds taken by the Government to prevent the leakage of passenger data; and(g) the facilities that will come up with the implementation of the system?
+
+
+
+
+
+
+ANSWER
+
+
+
+
+                                                        Minister of State in the Ministry of CIVIL AVIATION      (GEN. (DR) V. K. SINGH (RETD))(a) Facial Recognition Technology (FRT) has not yet been introduced at any of the Airport in India. However, Airports Authority of India is working on a project of Facial Recognition Technology based Biometric Boarding System as part of 1st phase of Digi Yatra Implementation at 04 Airports (Varanasi, Pune, Kolkata and Vijayawada).;(b) The proposed Digi Yatra Central Eco-system is planned to go live in March 2022. It is to be scaled up in a phased manner for adoption across various airports of the country.;(c) AAI has engaged M/s NEC Corporation Private Limited for implementation of Facial Recognition Technology based Biometric Boarding System (BBS) at Varanasi, Pune, Kolkata and Vijayawada airports as part of DigiYatra.;(d) Yes Sir, the selection of the vendor was done through open tender process. An open tender was floated on NIC CPP portal. Name of tender is "Selection of Managed Service Provider (MSP) for Designing, Development, Testing, Implementation, and O&M of E-Boarding - Biometric Boarding System (BBS)"  with tender id 2018_AAI_16909_1.;(e) Yes Sir, as per the Digi Yatra policy, registering for the Digi Yatra Central Ecosystem is optional to the passenger. For availing the Digi Yatra services, passenger would send the travel details (Pax details, PNR and Facial Biometrics) through an app to the Biometric Boarding System of the respective departing airport. Moreover, if for a particular journey, the passenger does not want to avail the Digi Yatra services then the passenger has an option to not send the data and use existing manual process at airports.;(f) The Digi Yatra Central Ecosystem envisages assessments (by independent teams to assess the level of security and system resilience to protect PII) and periodic audits by governing/regulatory bodies e.g. CERT-IN and/or STQC etc., twice every year.Facial recognition is as per Industry ISO standards with best in class NIST listed algorithms complying to Data Privacy and Data protection requirement as laid down by Government. Data shared by the Passenger is to be used for the purpose defined and would not be shared with any other external stakeholders. It is important to note that data shared by passenger is to be retained during the transit of the passenger at the airport and will not be retained for more than 24 hours after Take-off / departure of the flight.;(g) With the implementation of Digi Yatra, a seamless travel for passenger is being envisaged. Further, it will facilitate optimized utilization of resources of airports, airlines etc. Digi Yatra Central Eco-system is aligned to the global processes of IATA Travel Pass for interoperability for a seamless international travel.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+HomeArchiveIndex to Select Questions (1984-1999)Ballot ListStatistical Statements Relating to QuestionsUploading of Questions - Status QueryProcedure for Sending Text of Questions & AnswersDemarcation of responsibilities in Govt. of IndiaBrochure on Statutory Corporations, Companies and Other Bodies in Which the Government of India have financial or controlling interestHighlights pertaining to questions of 17th Lok Sabha
+
+
+
+
+
+
+Contact Us 
+Disclaimer
+
+
+
+
+
+
+
+
+
+
+
+        Developed and Hosted by National Informatics Centre (NIC)
+
+Content on this website is published,
+            managed & maintained by Software Unit, Computer (HW & SW) Management. Branch,
+            Lok Sabha Secretariat
+
+
+
+
+
+HomeMembersBusinessQuestionsDebatesPapers Laid
+
+
+LegislationCommitteesSANSAD TVIntranetSecretariatPRIDE
+
+
+RecruitmentSC/ST ReservationConferenceParliament Library
+
+
+About ParliamentPhoto GalleryRelated LinksRTITendersFAQ
+
+
+SpeakerDy. SpeakerLeader of the HousePanel of ChairpersonsContact UsFeedback
+
+
+Council of MinistersPublications of MinistriesParliamentry ProceduresJournal of Parliamentary Information
+Visitor's Counter:113222884
+
+
+
+
+
+
+
+Copyright
+Privacy Policy
+Disclaimer
+Terms &
+                Conditions
+
+                Accessibility Statement
+Accessibility
+                Options
+Feedback
+Site Map
+
+
+
+
+
+
+

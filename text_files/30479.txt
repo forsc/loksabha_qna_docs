@@ -1,0 +1,363 @@
+
+
+
+
+	Questions : Lok Sabha
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Screen Reader Access
+Skip to Main Content
+Skip to Navigation
+
+
+
+Text Size
+
+                                A
+
+                                A
+A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+हिन्दी मे
+
+
+
+
+
+
+
+
+Parliament of India Lok Sabha House of the
+                        People
+
+
+
+
+
+
+* Special Characters not allowed
+
+
+
+
+
+
+
+
+
+
+
+
+India Time 
+
+
+Your Time 
+
+
+                        Tuesday,
+                        12 April 2022
+
+
+
+
+
+
+
+
+
+HomeMembersSitting MembersMembers Home PageMembers' PortalContact DetailsMembers SearchStatistical AnalysisAttendance of MembersHandbook Members Since 1952Digitized Who's WhoOthers BusinessProvisional CalendarList of BusinessPapers to be LaidList of Private Members' BusinessBulletin-IDigitized Lok Sabha Bulletin Part IBulletin-IIStatement of WorkSpecial Mentions (ZERO HOUR)Resume of WorkDigitized Resume of Work done by Lok Sabha QuestionsHomeQuestion ListStatus of notices of questionQuestions CalendarGrouping of Ministries - AlphabeticalOfficers in Min./Dept. Dealing with Parliamentary WorkQuestion SearchSupplementary Questions DebatesIntroductionSynopsisUncorrected DebateText of DebateDigitized DebatesConstituent Assembly DebatesWit And HumourDebate SearchHindi FontsDisclaimer Papers LaidPapers Laid on the Table of the House LegislationIntroduction(How Bill Becomes Act)Bills IntroducedBills PassedBills PendingBills AssentedBills LapsedBills WithdrawnBills NegativedBills Search Disclaimer CommitteesIntroductionChairpersonSummary of WorkCommittee Meetings ScheduleBills Referred to CommitteesReports PresentedDigitized ReportsPress ReleaseMembership SearchToday's Committee MeetingsCommittee Subject SelectedDepartment Related-RS Govt. AssurancesSANSAD TVIntranet
+
+
+
+
+
+HomeQuestion ListStatus of notices of questionQuestions CalendarGrouping of Ministries - AlphabeticalOfficers in Min./Dept. Dealing with Parliamentary WorkQuestion SearchSupplementary Questions
+
+
+
+
+
+
+
+
+
+
+
+Download as PDF
+
+
+
+
+Print
+
+
+
+
+
+
+
+
+
+
+
+
+PDF/WORD(Hindi)
+
+
+PDF/WORD
+
+
+
+
+                                    GOVERNMENT OF INDIA
+                                
+
+
+
+
+
+                                    MINISTRY OF
+                                    LAW AND JUSTICE
+
+
+
+
+
+
+                                    LOK SABHA
+                                
+
+
+
+
+
+STARRED   
+
+
+                                    QUESTION NO:
+                                
+
+185
+
+
+
+
+
+
+                                    ANSWERED ON: 
+                                
+
+10.12.2021
+
+
+
+
+
+
+e-Courts Mission Mode Project
+
+
+
+
+Jyotirmay Singh Mahato
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                    Manoj Rajoria
+                                                
+
+
+
+
+
+
+
+
+
+
+
+
+                        Will the Minister of
+
+
+
+
+
+LAW AND JUSTICE
+
+
+                        be pleased to state:-
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                    (a) whether the Government is implementing e-Courts Mission Mode Project and if so, the details of targets set and the achievements made in this regard including the number of courts digitalized under the said project, State-wise including West Bengal; (b) the status of progress made in digitalization of subordinate courts, State/UT-wise including West Bengal; and (c) the steps taken by the Union and State Governments and further plans to accelerate the adoption of e-courts system across the country including West Bengal?
+
+
+
+
+
+
+ANSWER
+
+
+
+
+                                                        MINISTER OF LAW AND JUSTICE	(SHRI KIREN RIJIJU)	(a)	to (c)  :  A  Statement is laid on the Table of the HouseSTATEMENT REFERRED TO IN REPLY TO PART (a) TO (c)OF LOK SABHA STARRED QUESTION NO. *185 FOR 10TH DECEMBER 2021 REGARDING e-COURTS MISSION MODE PROJECT(a) to (b): The eCourts Integrated Mission Mode Project is one of the National e-Governance projects being implemented in District and Subordinate Courts of the country.The eCommittee of Supreme Court of India, headed by a Supreme Court Judge, is responsible for the policy planning, strategic direction and guidance for implementation of eCourts project and works in collaborative partnership with Department of Justice in this regard.The eCourts Mission Mode Project (MMP) Phase-I was implemented during 2011-15.The Government approved the ongoing Phase II of the eCourts MMP in July 2015. A total18,735 courts have been computerized till date.List of computerized courts including West Bengalis attached at Annexure-I. Against the financial outlay of Rs.1670 crore in the phase II of the project, the Government has released a sum of Rs. 1611.19 crore as on 03.12.2021 to various agencies involved in the implementation of the project. This includes a sum of Rs. 1151.84 crore released to various High Courts for this purpose.The Phase-II of the Project seeks to ensure enhancement of ICT enablement of Courts and the salient initiatives are as enlisted:i.	The Wide Area Network (WAN) Project under eCourts project is aimed at connecting all District and Subordinate court complexes, spread across the country using various technologies like OFC (Optical Fiber Cable), RF (Radio Frequency), VSAT (Very Small Aperture Terminal). So far, 2956 sites have been commissioned out of 2992 sites with 10 Mbps to 100 Mbps bandwidth speed (completing 98.7% sites). This forms the backbone for the eCourts project ensuring data connectivity in courts across the length and breadth of the country. ii.	Case Information Software (CIS) which forms the basis for the e court services is based on customized Free and Open Source Software (FOSS) which has been developed by NIC.Currently CIS National Core Version 3.2 is being implemented in District Courts and the CIS National Core Version 1.0 is being implemented for the High Courts.iii.	A new software patch and user manual for COVID-19 management has also been developed.This tool helps in smart scheduling of cases.iv.	7 platforms have been created to provide real time information on case status, cause lists, judgements etc. to lawyers/ litigants through SMS Push and Pull (2,00,000 SMS sent daily), Email (2,50,000 sent daily), multilingual and tactile ECourts services Portal (35 lakh hits daily), JSC (Judicial Service centres) and Info Kiosks.  In addition, Electronic Case Management Tools (ECMT) have been created with Mobile App for lawyers (total 68.04 lakh downloads till 1st November 2021) and JustIS app for judges (16,751 downloads till 2nd December 2021).v.	National Service and Tracking of Electronic Processes (NSTEP) has been launched for technology enabled process serving and issuing of summons.It has currently been implemented in 17 High Courts.vi.	National Judicial Data Grid (NJDG) is a database of orders, judgments and case details of 18,735 computerised District & Subordinate Courts created as an online platform under the eCourts Project. It provides information relating to judicial proceedings/decisions of all computerized district and subordinate courts of the country. Through the eCourts services platform currently litigants can access case status information in respect of over 19.76crore cases and more than 15.99 crore orders/ judgments pertaining to these computerized courts (as on 03.12.2021). Open APIs has been introduced in 2020 to allow Central and State Governments and institutional litigants to access NJDG data to help tracking of government litigation and improve pendency monitoring and compliance.Recently, reasons for delay have been included in NJDG. vii.	15 Virtual Courts in 11 States/UTs have been operationalized to handle traffic challan cases. More than 1.07 Crore cases have been handled by 15 virtual courts and online fine of Rs. 201 Crore has been realised till 03.12.2021.The Delhi High Court has set up 34 Digital Courts dealing with Negotiable Instruments Act cases.viii.	The Supreme Court of India emerged as a global leader by conducting 1,50,692 virtual hearings (as on 29.10.2021 since the beginning of lockdown period).The High Courts (55,24,021 hearings) and Subordinate Courts (1,01,77,289 hearings) have conducted 1.57 crore virtual hearings till 31st October 2021. Funds for 2506 Video Conferencing (VC) cabins and VC equipment for 14,443 court rooms have also been released. 1500 VC licenses have been procured to promote virtual hearings.ix.	Live Streaming of video conferencing of proceedings has been started in High Courts of Gujarat, Orissa and Karnataka. The Model Live Streaming Ruleshave been circulated amongst all the High Courts across the country for their suggestions, inputs and insights for better implementation of live streaming of court proceedings.x.	New eFiling system (version 3.0) has been rolled out for the electronic filing of legal papers with advanced features like online submission of Vakalatnama, eSigning, online video recording of oath, online payment, filing of multiple IAs/application, Portfolio Management and bilingual mode etc. xi.	To bridge the digital divide, funds have been released for setting up 235 eSewa Kendras at all High Courts and one District Court in every state. India''s first e-Resource Center was inaugurated at Nagpur in Maharashtra. The e-Resource Centre "Nyay Kaushal" will facilitate e-filing and VC of cases in Supreme Court India, High Courts and District Courts across the country. Mobile e-Courts vehicles equipped with Wi-Fi and computers have started in Telangana and Uttarakhand.xii.	A ‘Judgment & Order Search’ portal has been inaugurated for the convenience of its stakeholders in searching judgments easily. The new portal for judgments search is set to provide a repository for Judgments and Final Orders of the High Courts.xiii.	To make effective use of database created through National Judicial Data Grid (NJDG) and to make the information available to public 29 LED Display Message Sign Board System called Justice Clocks, have been installed in 19 High Courts.(c): Various steps have been taken by the Government and eCommittee of the Supreme Court to accelerate the adoption of e-Courts system across the country including West Bengal which include:i.	Towards creating widespread awareness and familiarization of eFiling and eCourts services and to address issues of skill divide, a manual on E filing and a Brochure on “How to register for E Filing” has been made available in English, Hindi and 12 regional languages including Bengali for the use of the lawyers. ii.	A YouTube channel has been created in the name of the e Court services with video tutorials on e-filing. This channel has garnered 15,300 subscribers with 1,70,881 views. This has helped advocates to acquire skills required for operating digital platforms with ease. iii.	The eCommittee of the Supreme Court of India has conducted trainings and awareness programmes on the ICT services. These programmes have covered nearly 3,02,614 stakeholders, including High Court Judges, Judges of the District Judiciary, Court Staff, Master Trainers among Judges/District System Administrator (DSA), Technical Staff of High Courts, and Advocates through the 67 training/outreach programmes from May 2020 to November 2021. iv.	A professional communication consultant agency was engaged in 2018-19 for assisting the eCourts PMU in developing and implementing an effective communication strategy and a coherent media plan for action, to effectively use various publicity tools and improve awareness about project outputs and eCourts Services. Posters, brochures and user manuals were designed, printed and distributed to all stakeholders across the country.v.	Four eCourts campaigns were conducted through eSampark, NIC’s platform for sharing informational and public service messages, on the NICNET email database during July – November 2018.vi.	Two newsprint campaigns in English and Hindi were completed in November 2018. Newsprint campaigns in English, Hindi and 16 regional languages were completed during November 2018 – January 2019.vii.	Radio campaign in Hindi and 10 regional languages disseminating awareness on eCourts Services through 30 seconds audio jingles were completed during January – March 2019.viii.	Approximately 3.90 lakhs posters were printed in 20 different languages and dispatched to Common Service Centers during financial year 2019-20 for spreading information about the e court services. SMS campaign was undertaken to reach about 32 crore citizens in order to inform them about eCourts services on app and portal in October 2019. Approximately 35,000 posters were put for litigants and lawyers to register their email and mobile number with eCourts were printed in 20 Indian languages. They were displayed at subordinate Courts for the information of the general public as well as the lawyers who visit these premises. Annexure-IStatement referred to in reply of Lok Sabha Starred Question No.*185 for 10/12/2021 regarding e-Courts Mission Mode Project.The High Court wise and State-wise list of digitized courts is as under:Sr.No.	High Court	State	Court Complexes	Courts1	Allahabad	Uttar Pradesh	180	22222	Andhra Pradesh	Andhra Pradesh	218	6173	Bombay	Dadra and Nagar Haveli	1	3		Daman and Diu	2	2		Goa	17	39		Maharashtra	471	21574	Calcutta	Andaman & Nicobar Islands	4	14		West Bengal	89	8275	Chhattisgarh	Chhattisgarh	93	4346	Delhi	Delhi	6	6817	Gauhati	Arunachal Pradesh	14	28		Assam	74	408		Mizoram	8	69		Nagaland	11	378	Gujarat	Gujarat	376	12689	Himachal Pradesh	Himachal Pradesh	50	16210	Jammu & Kashmir	Jammu and Kashmir	86	21811	Jharkhand	Jharkhand	28	44712	Karnataka	Karnataka	207	103113	Kerala	Kerala	158	484		Lakshadweep	1	314	Madhya Pradesh	Madhya Pradesh	213	136315	Madras	Puducherry	4	24		Tamil Nadu	263	112416	Manipur	Manipur	17	3817	Meghalaya	Meghalaya	7	4218	Orissa	Odisha	185	68619	Patna	Bihar	84	114220	Punjab & Haryana	Chandigarh	1	30		Haryana	53	500		Punjab	64	54121	Rajasthan	Rajasthan	247	124022	Sikkim	Sikkim	8	2323	Telangana	Telangana	129	47624	Tripura	Tripura	14	8425	Uttarakhand	Uttarakhand	69	271	Total		3452	18735
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+HomeArchiveIndex to Select Questions (1984-1999)Ballot ListStatistical Statements Relating to QuestionsUploading of Questions - Status QueryProcedure for Sending Text of Questions & AnswersDemarcation of responsibilities in Govt. of IndiaBrochure on Statutory Corporations, Companies and Other Bodies in Which the Government of India have financial or controlling interestHighlights pertaining to questions of 17th Lok Sabha
+
+
+
+
+
+
+Contact Us 
+Disclaimer
+
+
+
+
+
+
+
+
+
+
+
+        Developed and Hosted by National Informatics Centre (NIC)
+
+Content on this website is published,
+            managed & maintained by Software Unit, Computer (HW & SW) Management. Branch,
+            Lok Sabha Secretariat
+
+
+
+
+
+HomeMembersBusinessQuestionsDebatesPapers Laid
+
+
+LegislationCommitteesSANSAD TVIntranetSecretariatPRIDE
+
+
+RecruitmentSC/ST ReservationConferenceParliament Library
+
+
+About ParliamentPhoto GalleryRelated LinksRTITendersFAQ
+
+
+SpeakerDy. SpeakerLeader of the HousePanel of ChairpersonsContact UsFeedback
+
+
+Council of MinistersPublications of MinistriesParliamentry ProceduresJournal of Parliamentary Information
+Visitor's Counter:113226485
+
+
+
+
+
+
+
+Copyright
+Privacy Policy
+Disclaimer
+Terms &
+                Conditions
+
+                Accessibility Statement
+Accessibility
+                Options
+Feedback
+Site Map
+
+
+
+
+
+
+

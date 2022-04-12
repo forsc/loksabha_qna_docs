@@ -1,0 +1,350 @@
+
+
+
+
+	Questions : Lok Sabha
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Screen Reader Access
+Skip to Main Content
+Skip to Navigation
+
+
+
+Text Size
+
+                                A
+
+                                A
+A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+हिन्दी मे
+
+
+
+
+
+
+
+
+Parliament of India Lok Sabha House of the
+                        People
+
+
+
+
+
+
+* Special Characters not allowed
+
+
+
+
+
+
+
+
+
+
+
+
+India Time 
+
+
+Your Time 
+
+
+                        Monday,
+                        11 April 2022
+
+
+
+
+
+
+
+
+
+HomeMembersSitting MembersMembers Home PageMembers' PortalContact DetailsMembers SearchStatistical AnalysisAttendance of MembersHandbook Members Since 1952Digitized Who's WhoOthers BusinessProvisional CalendarList of BusinessPapers to be LaidList of Private Members' BusinessBulletin-IDigitized Lok Sabha Bulletin Part IBulletin-IIStatement of WorkSpecial Mentions (ZERO HOUR)Resume of WorkDigitized Resume of Work done by Lok Sabha QuestionsHomeQuestion ListStatus of notices of questionQuestions CalendarGrouping of Ministries - AlphabeticalOfficers in Min./Dept. Dealing with Parliamentary WorkQuestion SearchSupplementary Questions DebatesIntroductionSynopsisUncorrected DebateText of DebateDigitized DebatesConstituent Assembly DebatesWit And HumourDebate SearchHindi FontsDisclaimer Papers LaidPapers Laid on the Table of the House LegislationIntroduction(How Bill Becomes Act)Bills IntroducedBills PassedBills PendingBills AssentedBills LapsedBills WithdrawnBills NegativedBills Search Disclaimer CommitteesIntroductionChairpersonSummary of WorkCommittee Meetings ScheduleBills Referred to CommitteesReports PresentedDigitized ReportsPress ReleaseMembership SearchToday's Committee MeetingsCommittee Subject SelectedDepartment Related-RS Govt. AssurancesSANSAD TVIntranet
+
+
+
+
+
+HomeQuestion ListStatus of notices of questionQuestions CalendarGrouping of Ministries - AlphabeticalOfficers in Min./Dept. Dealing with Parliamentary WorkQuestion SearchSupplementary Questions
+
+
+
+
+
+
+
+
+
+
+
+Download as PDF
+
+
+
+
+Print
+
+
+
+
+
+
+
+
+
+
+
+
+PDF/WORD(Hindi)
+
+
+PDF/WORD
+
+
+
+
+                                    GOVERNMENT OF INDIA
+                                
+
+
+
+
+
+                                    MINISTRY OF
+                                    EARTH SCIENCES
+
+
+
+
+
+
+                                    LOK SABHA
+                                
+
+
+
+
+
+UNSTARRED 
+
+
+                                    QUESTION NO:
+                                
+
+1085
+
+
+
+
+
+
+                                    ANSWERED ON: 
+                                
+
+07.02.2020
+
+
+
+
+
+
+System for Forecast of Cyclone and Flood
+
+
+
+
+Vijay Kumar
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        Will the Minister of
+
+
+
+
+
+EARTH SCIENCES
+
+
+                        be pleased to state:-
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                    (a) 	whether the Government has developed any system/mechanism which could accurately forecast natural disasters like, flood and cyclone so that adequate measures could be taken to save lives and property; (b) 	if so, the details thereof; and(c) 	the details of forecast system developed by the Government so far along with the funds allocated and utilised for this purpose?
+
+
+
+
+
+
+ANSWER
+
+
+
+
+                                                        THE MINISTER OF MINISTRY OF SCIENCE AND TECHNOLOGY AND MINISTRY OF EARTH SCIENCES (DR. HARSH VARDHAN)(a) to (c)	India Meteorological Department (IMD) is dedicated for monitoring, detection and weather forecasts including early warnings for severe weather events such as cyclones, floods etc. The weather forecasting and early warning systems in the country are comparable to those of most of the developed countries in the world in terms of accuracy, lead time and associated impact. IMD continuously expands its infrastructure for meteorological observations, data exchange, monitoring & analysis, forecasting and warning services using contemporary technology. IMD uses a suite of quality observations from satellites, radars and conventional & automatic weather stations for monitoring of cyclones developing over the Bay of Bengal and Arabian Sea. It includes INSAT 3D, 3DR and SCATSAT satellites, Doppler Weather Radars (DWRs) along the coast and coastal Automated Weather Stations (AWS), Automatic Rain Gauges (ARGs), meteorological buoys and ships. The High Performance Computing (HPC) systems have been upgraded with 6.8petaflops recently to support the ongoing efforts on modelling. Operational implementation of improved suite of prediction models has enhanced the weather forecasting capability through assimilation of all available global satellite radiance and Radar data for the generation of forecast products at 12 km grid globally and 3 km grid over India/regional/mega city domains.Heavy rainfall events lead to floods over different river basins of the country. River basin floods are dealt by the Central Water Commission (CWC) under the Ministry of Jal Shakti. In order to meet specific requirements of flood forecasting, which is provided by CWC, Ministry of Jal Shakti, IMD operates Flood Meteorological Offices (FMOs) at thirteen locations viz., Agra, Ahmedabad, Asansol, Bhubaneswar, Guwahati, Hyderabad, Jalpaiguri, Lucknow, New Delhi, Patna, Srinagar, Bengaluru and Chennai. Apart from this, IMD also supports Damodar Valley Corporation (DVC) by providing Quantitative Precipitation Forecast (QPF) for Damodar river basin areas for their flood forecasting activities. Central Water Commission is working in close association with IMD and State Governments for timely flood forecast whenever the river water level rises above warning level. FMOs operated by the IMD provide meteorological support to the CWC for issuing flood warnings well in advance in respect of the 43 rivers of India covering 146 river basins. CWC issues flood forecasts 6 hrs. to 30 hrs. in advance for 176 stations using QPF received from FMOs of IMD and in-situ hydrometeorological data. During recent years, IMD has consistently given an accurate prediction for cyclones like Phailin (2013), HudHud (2014), Vardha (2016), Mekunu (2018), Sagar (2018), Titli (2018), Luban (2018), Fani (2019), Hikaa (2019) and Bulbul (2019) thereby helping disaster managers to minimise loss of lives to less than 100 due to tropical cyclones in recent years. IMD has also earned worldwide accolades in the field of cyclone forecasting including appreciations from United Nations, World Meteorological Organisation, President and Prime Minister of India, Parliamentary Standing Committee, Indian Science Congress etc. The following programs have been approved during 2017-20 under the ‘Umbrella’ scheme “Atmospheric & Climate Research-Modeling Observing Systems & Services (ACROSS) of MoES for betterment of weather services along with funds allocated:•	‘Atmospheric Observation Network’	 Rs. 220 Cr.•	‘Upgradation of Forecasting Services’    Rs. 158 Cr.•	‘Weather & Climate Services’		 Rs. 241 Cr.•	‘Commissioning of DWR’			 Rs. 44 Cr. 				           TOTAL Rs. 663 Cr.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+HomeArchiveIndex to Select Questions (1984-1999)Ballot ListStatistical Statements Relating to QuestionsUploading of Questions - Status QueryProcedure for Sending Text of Questions & AnswersDemarcation of responsibilities in Govt. of IndiaBrochure on Statutory Corporations, Companies and Other Bodies in Which the Government of India have financial or controlling interestHighlights pertaining to questions of 17th Lok Sabha
+
+
+
+
+
+
+Contact Us 
+Disclaimer
+
+
+
+
+
+
+
+
+
+
+
+        Developed and Hosted by National Informatics Centre (NIC)
+
+Content on this website is published,
+            managed & maintained by Software Unit, Computer (HW & SW) Management. Branch,
+            Lok Sabha Secretariat
+
+
+
+
+
+HomeMembersBusinessQuestionsDebatesPapers Laid
+
+
+LegislationCommitteesSANSAD TVIntranetSecretariatPRIDE
+
+
+RecruitmentSC/ST ReservationConferenceParliament Library
+
+
+About ParliamentPhoto GalleryRelated LinksRTITendersFAQ
+
+
+SpeakerDy. SpeakerLeader of the HousePanel of ChairpersonsContact UsFeedback
+
+
+Council of MinistersPublications of MinistriesParliamentry ProceduresJournal of Parliamentary Information
+Visitor's Counter:113173615
+
+
+
+
+
+
+
+Copyright
+Privacy Policy
+Disclaimer
+Terms &
+                Conditions
+
+                Accessibility Statement
+Accessibility
+                Options
+Feedback
+Site Map
+
+
+
+
+
+
+

@@ -1,0 +1,350 @@
+
+
+
+
+	Questions : Lok Sabha
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Screen Reader Access
+Skip to Main Content
+Skip to Navigation
+
+
+
+Text Size
+
+                                A
+
+                                A
+A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+हिन्दी मे
+
+
+
+
+
+
+
+
+Parliament of India Lok Sabha House of the
+                        People
+
+
+
+
+
+
+* Special Characters not allowed
+
+
+
+
+
+
+
+
+
+
+
+
+India Time 
+
+
+Your Time 
+
+
+                        Tuesday,
+                        12 April 2022
+
+
+
+
+
+
+
+
+
+HomeMembersSitting MembersMembers Home PageMembers' PortalContact DetailsMembers SearchStatistical AnalysisAttendance of MembersHandbook Members Since 1952Digitized Who's WhoOthers BusinessProvisional CalendarList of BusinessPapers to be LaidList of Private Members' BusinessBulletin-IDigitized Lok Sabha Bulletin Part IBulletin-IIStatement of WorkSpecial Mentions (ZERO HOUR)Resume of WorkDigitized Resume of Work done by Lok Sabha QuestionsHomeQuestion ListStatus of notices of questionQuestions CalendarGrouping of Ministries - AlphabeticalOfficers in Min./Dept. Dealing with Parliamentary WorkQuestion SearchSupplementary Questions DebatesIntroductionSynopsisUncorrected DebateText of DebateDigitized DebatesConstituent Assembly DebatesWit And HumourDebate SearchHindi FontsDisclaimer Papers LaidPapers Laid on the Table of the House LegislationIntroduction(How Bill Becomes Act)Bills IntroducedBills PassedBills PendingBills AssentedBills LapsedBills WithdrawnBills NegativedBills Search Disclaimer CommitteesIntroductionChairpersonSummary of WorkCommittee Meetings ScheduleBills Referred to CommitteesReports PresentedDigitized ReportsPress ReleaseMembership SearchToday's Committee MeetingsCommittee Subject SelectedDepartment Related-RS Govt. AssurancesSANSAD TVIntranet
+
+
+
+
+
+HomeQuestion ListStatus of notices of questionQuestions CalendarGrouping of Ministries - AlphabeticalOfficers in Min./Dept. Dealing with Parliamentary WorkQuestion SearchSupplementary Questions
+
+
+
+
+
+
+
+
+
+
+
+Download as PDF
+
+
+
+
+Print
+
+
+
+
+
+
+
+
+
+
+
+
+PDF/WORD(Hindi)
+
+
+PDF/WORD
+
+
+
+
+                                    GOVERNMENT OF INDIA
+                                
+
+
+
+
+
+                                    MINISTRY OF
+                                    ELECTRONICS AND INFORMATION TECHNOLOGY
+
+
+
+
+
+
+                                    LOK SABHA
+                                
+
+
+
+
+
+UNSTARRED 
+
+
+                                    QUESTION NO:
+                                
+
+3336
+
+
+
+
+
+
+                                    ANSWERED ON: 
+                                
+
+23.03.2022
+
+
+
+
+
+
+SSDG and e-Governance
+
+
+
+
+ Dr. T. Sumathy (a) Thamizhachi Thangapandian
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        Will the Minister of
+
+
+
+
+
+ELECTRONICS AND INFORMATION TECHNOLOGY
+
+
+                        be pleased to state:-
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Will the Minister of ELECTRONICS & INFORMATION TECHNOLOGY be pleased to state: -(a)	the details regarding the current status of the National e-Governance Plan (NeGP) including the 27 Mission Mode Projects and 8 components of the project; State-wise;(b)	whether the Government has taken any steps to provide technical and financial assistance for effective management and functioning of State Data Centres during the last five years in the State of Tamil Nadu;(c)	if so, the details thereof and if not, the reasons therefor;(d)	whether the State e-Governance Service Delivery Gateway (SSDG) used during COVID-19 pandemic for exchange of data and if so, the details thereof, year and State-wise; and(e)	the details of the Government services provided through mobile devices under the Mobile e-governance Service Delivery Gateway; year and state-wise?
+
+
+
+
+
+
+ANSWER
+
+
+
+
+(a): The National e-Governance Plan (NeGP) was approved on 18th May, 2006 to implement              e-Governance projects in the country. Subsequent to increase in devolution from 32% to 42% pursuant to the recommendations of the Fourteenth Finance Commission, NeGP has been delinked from Union support since FY 2015-16. The Ministry of Electronics and Information Technology (MeitY), Government of India has launched Digital India Programme on July 1, 2015 with the vision to transform India into a digitally empowered society and knowledge-based economy by ensuring digital access, digital inclusion, digital empowerment and bridging the digital divide. National e-Governance Plan has led to establishment of necessary digital infrastructure namely State Data Centre (SDC for application development hosting), State-wide Area Network (SWAN for connectivity), State Portal, State Service Delivery Gateway (for integrated services in a State), and Common Services Centres (CSCs for services near locality) across the country. 34 State-Wide Area Network (SWAN) and 30 State Data Centre (SDC) have been made operational.                     State e-Governance Service Delivery Gateway (SSDG) has been successfully implemented across the States/UTs. For making public services available to citizens on anytime, anywhere basis, MeitY has established 4.63 lakh CSCs (including urban & rural areas) across the country for enabling the people to access e-Governance services. Over 400 digital services are being offered by these CSCs. Under Capacity building scheme, more than 12,900 government officials from Centre, State/UTs have been trained (policy, programme and project level) in Digital India/ e-Governance programmes. The rollout of Mission Mode Projects(MMPs) and e-Governance initiatives under NeGP have led to delivery of 4020+ services as on February, 2022. The Passport, Income Tax, Road Transport, MCA21, Agriculture, e-Courts, Land Records, PDS, etc showcased the transformational capability of ICT and improved the service delivery significantly. E-District Mission Mode Project and Common Services Centres have resulted in the bouquet of basic services becoming available to common citizens in their locality in rural areas and in villages. (b) and (c):Tamil Nadu State Government has not sought any assistance from the Union Government for management and functioning of State Data Centres during the last five years.(d):The Objective of State Service Delivery Gateway (SSDG) project has been to fulfill the vision of NeGP by providing easy and convenient e-Services to the citizens through Common Service Centres (CSC) and not for exchange of data. The project has been successfully completed in March 2017.(e):Mobile e-governance Service Delivery Gateway(MSDG) is an integrated platform aimed at mobile governance by enabling all Government Departments to offer citizen centric services through mobile based delivery channels such as SMS, IVRS, mobile applications, etc. The year-wise or State-wise details (wherever possible) for the various services are given at annexure. ******** AnnexureMobile e-governance Service Delivery Gateway (MSDG):Yearly SMS sent:S. No.	Year	Push SMS Sent1.		2012	1,70,97,5982.		2013	55,34,77,8893.		2014	1,67,73,02,3874.		2015	4,87,85,07,7375.		2016	5,52,12,35,2346.		2017	7,18,43,68,1977.		2018	6,08,01,46,6198.		2019	66,1,51,52,8929.		2020	6,19,70,22,20210.		2021	4,83,67,68,830No. of departments and Sent SMS (State-wise):S. No	Central/State/UT	No. of accounts of departments	No. of Push SMS1.		Maharashtra	1307	8,27,65,10,812.		Central	413	167,98,48,4933.		Madhya Pradesh	248	2,35,42,96,9274.		Rajsthan	163	2,10,62,78,3785.		Bihar	147	3,21,17,63,2346.		   Karnataka	138    	2,67,79,82167.		   PSU (Central & State)	139    	72,90,51,064    8.		   West Bengal	50    	53,40,37,840    9.		   Gujarat	115    	39,96,93,276    10.		   Odisha	60    	39,63,40,135    11.		   Jharkhand	87    	38,59,42,372    12.		   Delhi	10    	32,83,37,200    13.		   Haryana	87    	30,12,40,357    14.		   Himachal Pradesh	384    	27,82,26,063    15.		   Karnataka	138    	26,77,98,216    16.		   Chhattisgarh	83    	25,71,58,621    17.		   Uttar Pradesh	17    	9,98,79,949    18.		   Chandigarh	60    	4,95,07,156    19.		   Lakshadeep	2    	2,57,68,264    20.		   Mizoram	2    	83,74,397    21.		   Andaman and Nicobar	31    	80,43,342    22.		   Pondicherry	9    	54,10,015    23.		   Uttaranchal	10    	42,61,056    24.		   Meghalaya	7    	21,72,745    25.		   Nagaland	21    	18,67,065    26.		   Arunachal Pradesh	1    	5,21,048    27.		   Goa	1    	3,03,699    28.		   Dadar and Nagar Haveli	1    	2,42,096    29.		   Jammu and Kashmir	6    	2,23,374    30.		   Sikkim	3    	2,02,526    31.		   Manipur	4    	1,40,908    32.		   Assam	5    	13,842    33.		   Daman and Diu	1    	7,944    34.		   Ladakh	1    	12    No. of Apps (State-wise):S. No.	State	Number of Apps1.		 All State (Not dedicated to any of the state service)    	      817 2.		 Andaman and Nicobar 	        6 3.		 Andhra Pradesh      	       17 4.		 Arunachal Pradesh   	        3 5.		 Bihar               	       32 6.		 Chandigarh          	        3 7.		 Chhattisgarh        	        3 8.		 Delhi               	       11 9.		 Goa                 	        6 10.		 Gujarat             	        3 11.		 Haryana             	        7 12.		 Himachal Pradesh    	       34 13.		 Jharkhand           	        6 14.		 Karnataka           	        5 15.		 Kerala              	        8 16.		 Madhya Pradesh      	        7 17.		 Maharashtra         	       34 18.		 Manipur             	        6 19.		 Meghalaya           	        6 20.		 Mizoram             	        2 21.		 Nagaland            	        1 22.		 Odisha              	        5 23.		Pondichary	        3 24.		 Punjab              	       19 25.		 Rajasthan           	       14 26.		 Sikkim              	       13 27.		 Tamil Nadu          	       10 28.		 Telangana           	        1 29.		 Uttar Pradesh       	        930.		 West Bengal         	       14 IVRS count (Department-wise): S No.	Department Name	IVRS Count1	Mobile Seva IVRS Services	79,35,7892	Mobile Seva Technical Support Call Center	4,9273	Commissionerate of Health, Medical Services, Gujarat	4,87,4014	Ministry of Agriculture, Government of India	13,81,4975	Department of IT&C,Govt. of Rajasthan	4,84,1436	Media Lab Asia	16,32,3877	Police Department, Bhopal, Madhya Pradesh	1,5808	Regional State Board of Tech Education, Aurangabad	3079	Department of food,civil supplies and consumer affairs,Himachal Pradesh	4,21,03510	Madhya Pradesh State Employment Guarantee Council	73,75211	State Agency for Public Services, Bhopal, MP	11,08,38912	Vikaspedia Centre For Development of Advance Computing Hyderabad	3,46,05713	Collector Office Dhar	7,04414	Center for developement of advance computing, Pune	315	Excise and Taxation Department, Haryana	1,42,03316	Intelligent Communication Systems India Ltd	317	District Magistrate & Collector, Malda	318	CDAC Kolkata	519	ICAR-Indian Institute of Oilseeds Research	79420	Department of Animal Husbandry	121	Disaster Management	3,42,89922	State Agency for Public Services	1023	Vasai Virar City Municipal Corporation	3724	Department of Information Technology, Haryana	1,76325	Information Technology Electronics & Communications	37826	home department ,howrah police	61,97827	Natinal Informatics Centre	128	Bihar State Disaster Management Authority	529	Directorate of Information and Publicity	1,91,38,355******** 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+HomeArchiveIndex to Select Questions (1984-1999)Ballot ListStatistical Statements Relating to QuestionsUploading of Questions - Status QueryProcedure for Sending Text of Questions & AnswersDemarcation of responsibilities in Govt. of IndiaBrochure on Statutory Corporations, Companies and Other Bodies in Which the Government of India have financial or controlling interestHighlights pertaining to questions of 17th Lok Sabha
+
+
+
+
+
+
+Contact Us 
+Disclaimer
+
+
+
+
+
+
+
+
+
+
+
+        Developed and Hosted by National Informatics Centre (NIC)
+
+Content on this website is published,
+            managed & maintained by Software Unit, Computer (HW & SW) Management. Branch,
+            Lok Sabha Secretariat
+
+
+
+
+
+HomeMembersBusinessQuestionsDebatesPapers Laid
+
+
+LegislationCommitteesSANSAD TVIntranetSecretariatPRIDE
+
+
+RecruitmentSC/ST ReservationConferenceParliament Library
+
+
+About ParliamentPhoto GalleryRelated LinksRTITendersFAQ
+
+
+SpeakerDy. SpeakerLeader of the HousePanel of ChairpersonsContact UsFeedback
+
+
+Council of MinistersPublications of MinistriesParliamentry ProceduresJournal of Parliamentary Information
+Visitor's Counter:113260542
+
+
+
+
+
+
+
+Copyright
+Privacy Policy
+Disclaimer
+Terms &
+                Conditions
+
+                Accessibility Statement
+Accessibility
+                Options
+Feedback
+Site Map
+
+
+
+
+
+
+

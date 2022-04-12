@@ -1,0 +1,350 @@
+
+
+
+
+	Questions : Lok Sabha
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Screen Reader Access
+Skip to Main Content
+Skip to Navigation
+
+
+
+Text Size
+
+                                A
+
+                                A
+A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+हिन्दी मे
+
+
+
+
+
+
+
+
+Parliament of India Lok Sabha House of the
+                        People
+
+
+
+
+
+
+* Special Characters not allowed
+
+
+
+
+
+
+
+
+
+
+
+
+India Time 
+
+
+Your Time 
+
+
+                        Sunday,
+                        10 April 2022
+
+
+
+
+
+
+
+
+
+HomeMembersSitting MembersMembers Home PageMembers' PortalContact DetailsMembers SearchStatistical AnalysisAttendance of MembersHandbook Members Since 1952Digitized Who's WhoOthers BusinessProvisional CalendarList of BusinessPapers to be LaidList of Private Members' BusinessBulletin-IDigitized Lok Sabha Bulletin Part IBulletin-IIStatement of WorkSpecial Mentions (ZERO HOUR)Resume of WorkDigitized Resume of Work done by Lok Sabha QuestionsHomeQuestion ListStatus of notices of questionQuestions CalendarGrouping of Ministries - AlphabeticalOfficers in Min./Dept. Dealing with Parliamentary WorkQuestion SearchSupplementary Questions DebatesIntroductionSynopsisUncorrected DebateText of DebateDigitized DebatesConstituent Assembly DebatesWit And HumourDebate SearchHindi FontsDisclaimer Papers LaidPapers Laid on the Table of the House LegislationIntroduction(How Bill Becomes Act)Bills IntroducedBills PassedBills PendingBills AssentedBills LapsedBills WithdrawnBills NegativedBills Search Disclaimer CommitteesIntroductionChairpersonSummary of WorkCommittee Meetings ScheduleBills Referred to CommitteesReports PresentedDigitized ReportsPress ReleaseMembership SearchToday's Committee MeetingsCommittee Subject SelectedDepartment Related-RS Govt. AssurancesSANSAD TVIntranet
+
+
+
+
+
+HomeQuestion ListStatus of notices of questionQuestions CalendarGrouping of Ministries - AlphabeticalOfficers in Min./Dept. Dealing with Parliamentary WorkQuestion SearchSupplementary Questions
+
+
+
+
+
+
+
+
+
+
+
+Download as PDF
+
+
+
+
+Print
+
+
+
+
+
+
+
+
+
+
+
+
+PDF/WORD(Hindi)
+
+
+PDF/WORD
+
+
+
+
+                                    GOVERNMENT OF INDIA
+                                
+
+
+
+
+
+                                    MINISTRY OF
+                                    COMMUNICATIONS
+
+
+
+
+
+
+                                    LOK SABHA
+                                
+
+
+
+
+
+UNSTARRED 
+
+
+                                    QUESTION NO:
+                                
+
+678
+
+
+
+
+
+
+                                    ANSWERED ON: 
+                                
+
+26.06.2019
+
+
+
+
+
+
+Radiation Norms for Mobile Towers
+
+
+
+
+Gitaben Vajesingbhai Rathva
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        Will the Minister of
+
+
+
+
+
+COMMUNICATIONS
+
+
+                        be pleased to state:-
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                    (a) 	the number of mobile towers in the country, State/UT-wise and the radiation norms for the same;(b) 	whether cases of violation of the said norms by Telecom Service Providers (TSPs) have come to the notice of the Government and if so, the details thereof during each of the last three years and the current year, State/UT-wise along with the amount of penalty imposed on them, TSP-wise;(c) 	whether the Government has doubled the penalty for violation of such norms in recent past and if so, the details thereof; and(d) 	the other corrective steps taken by the Government to keep a check on the erring TSPs?
+
+
+
+
+
+
+ANSWER
+
+
+
+
+                                                        MINISTER OF COMMUNICATIONS, LAW & JUSTICE AND ELECTRONICS AND INFORMATION TECHNOLOGY(SHRI RAVI SHANKAR PRASAD)(a)	Licensed Service Area wise (LSA-wise) details of number of mobile towers is provided at Annexure-I. The present EMF emission norms as laid down for BTSs installed at various mobile towers in India are as follows:<pre>Frequency Range	E-Field Strength   (Volt/Meter)	H-Field Strength (Amp/Meter)	Power Density (Watt/Sq.Meter)400 MHz  to 2000 MHz	0.434 f ½	0.0011 f ½	f / 20002 GHz to 300 GHz	19.29	0.05	1</pre>	 (f is frequency in MHz) (b) 	The Licensed Service Area wise (LSA-wise) details of number of Base Transceiver Stations (BTSs) found exceeding the prescribed EMF radiation limits on actual testing during each of the last three years and the current year is provided at Annexure-II. Telecom Service Provider (TSP) wise details of penalty imposed on BTSs found exceeding the prescribed EMF radiation limits on actual testing during each of the last three years and the current year is provided at Annexure-III.(c) 	On 20.11.2013, the penalty has been increased from Rs. 5 lakh per BTS to Rs 10 lakh per BTS per incidence in case of non-compliance to actual EMF norms. Further, on 29.03.2019, in case of a shared site, a penalty of Rs 20 lakh per BTS per incidence has been prescribed to be imposed on rogue BTS(s) (BTS whose exposure ratio/index is more than ‘1’) if the site becomes compliant removing contribution of that rogue BTS(s). However, if the site is not compliant even after removing the contribution of that rogue BTS (s), then a penalty in proportion to the exposure ratio (Rs. 20 lakh x Exposure Ratio) is prescribed to be imposed on all the remaining participating BTSs.(d)  	In addition to levy of financial penalty as mentioned above, if the BTS is not made compliant to the EMF radiation norms within 30 days by the erring TSP, the same is required to be shut down as per prescribed procedure. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+HomeArchiveIndex to Select Questions (1984-1999)Ballot ListStatistical Statements Relating to QuestionsUploading of Questions - Status QueryProcedure for Sending Text of Questions & AnswersDemarcation of responsibilities in Govt. of IndiaBrochure on Statutory Corporations, Companies and Other Bodies in Which the Government of India have financial or controlling interestHighlights pertaining to questions of 17th Lok Sabha
+
+
+
+
+
+
+Contact Us 
+Disclaimer
+
+
+
+
+
+
+
+
+
+
+
+        Developed and Hosted by National Informatics Centre (NIC)
+
+Content on this website is published,
+            managed & maintained by Software Unit, Computer (HW & SW) Management. Branch,
+            Lok Sabha Secretariat
+
+
+
+
+
+HomeMembersBusinessQuestionsDebatesPapers Laid
+
+
+LegislationCommitteesSANSAD TVIntranetSecretariatPRIDE
+
+
+RecruitmentSC/ST ReservationConferenceParliament Library
+
+
+About ParliamentPhoto GalleryRelated LinksRTITendersFAQ
+
+
+SpeakerDy. SpeakerLeader of the HousePanel of ChairpersonsContact UsFeedback
+
+
+Council of MinistersPublications of MinistriesParliamentry ProceduresJournal of Parliamentary Information
+Visitor's Counter:113072561
+
+
+
+
+
+
+
+Copyright
+Privacy Policy
+Disclaimer
+Terms &
+                Conditions
+
+                Accessibility Statement
+Accessibility
+                Options
+Feedback
+Site Map
+
+
+
+
+
+
+

@@ -1,0 +1,363 @@
+
+
+
+
+	Questions : Lok Sabha
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Screen Reader Access
+Skip to Main Content
+Skip to Navigation
+
+
+
+Text Size
+
+                                A
+
+                                A
+A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+हिन्दी मे
+
+
+
+
+
+
+
+
+Parliament of India Lok Sabha House of the
+                        People
+
+
+
+
+
+
+* Special Characters not allowed
+
+
+
+
+
+
+
+
+
+
+
+
+India Time 
+
+
+Your Time 
+
+
+                        Tuesday,
+                        12 April 2022
+
+
+
+
+
+
+
+
+
+HomeMembersSitting MembersMembers Home PageMembers' PortalContact DetailsMembers SearchStatistical AnalysisAttendance of MembersHandbook Members Since 1952Digitized Who's WhoOthers BusinessProvisional CalendarList of BusinessPapers to be LaidList of Private Members' BusinessBulletin-IDigitized Lok Sabha Bulletin Part IBulletin-IIStatement of WorkSpecial Mentions (ZERO HOUR)Resume of WorkDigitized Resume of Work done by Lok Sabha QuestionsHomeQuestion ListStatus of notices of questionQuestions CalendarGrouping of Ministries - AlphabeticalOfficers in Min./Dept. Dealing with Parliamentary WorkQuestion SearchSupplementary Questions DebatesIntroductionSynopsisUncorrected DebateText of DebateDigitized DebatesConstituent Assembly DebatesWit And HumourDebate SearchHindi FontsDisclaimer Papers LaidPapers Laid on the Table of the House LegislationIntroduction(How Bill Becomes Act)Bills IntroducedBills PassedBills PendingBills AssentedBills LapsedBills WithdrawnBills NegativedBills Search Disclaimer CommitteesIntroductionChairpersonSummary of WorkCommittee Meetings ScheduleBills Referred to CommitteesReports PresentedDigitized ReportsPress ReleaseMembership SearchToday's Committee MeetingsCommittee Subject SelectedDepartment Related-RS Govt. AssurancesSANSAD TVIntranet
+
+
+
+
+
+HomeQuestion ListStatus of notices of questionQuestions CalendarGrouping of Ministries - AlphabeticalOfficers in Min./Dept. Dealing with Parliamentary WorkQuestion SearchSupplementary Questions
+
+
+
+
+
+
+
+
+
+
+
+Download as PDF
+
+
+
+
+Print
+
+
+
+
+
+
+
+
+
+
+
+
+PDF/WORD(Hindi)
+
+
+PDF/WORD
+
+
+
+
+                                    GOVERNMENT OF INDIA
+                                
+
+
+
+
+
+                                    MINISTRY OF
+                                    RURAL DEVELOPMENT
+
+
+
+
+
+
+                                    LOK SABHA
+                                
+
+
+
+
+
+STARRED   
+
+
+                                    QUESTION NO:
+                                
+
+130
+
+
+
+
+
+
+                                    ANSWERED ON: 
+                                
+
+07.12.2021
+
+
+
+
+
+
+Allocation of Digital IDs under DILRMP
+
+
+
+
+Aparajita Sarangi
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                    Dushyant Singh
+                                                
+
+
+
+
+
+
+
+
+
+
+
+
+                        Will the Minister of
+
+
+
+
+
+RURAL DEVELOPMENT
+
+
+                        be pleased to state:-
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                             LOK SABHA                     STARRED QUESTION No. 130                  TO BE ANSWERED ON 07.12.2021Allocation of Digital IDs under DILRMP*130	SHRIMATI APARAJITA SARANGI:         SHRI DUSHYANT SINGH:Will the Minister of RURAL DEVELOPMENT be pleased to state:(a)	whether the Government has begun allocating digital IDs to land plots under the Digital India Land Records Modernization Programme (DILRMP), if so, the progress made/targets achieved, State-wise;(b)	the details of funds allocated and utilized under the said programme so far along with the system or software used to record the digital IDs and other data under DILRMP;(c)	whether the Government has conducted any study to know the outcomes in implementation of this programme all over the country, if so, the details thereof;(d)	whether the Government has any proposal for conducting nationwide digital land survey to assess the total agricultural land in the country;(e)	if so, the details of the proposal, the methods to be used and agencies involved and if not, the details of the States which are conducting digital land surveys; and(f)	the details of benefits of implementation of DILRMP and initiatives under this programme?                             *****
+
+
+
+
+
+
+ANSWER
+
+
+
+
+                                                                                                     ANSWER                                  MINISTER OF RURAL DEVELOPMENT                                       (SHRI GIRIRAJ SINGH)(a)to(f): A statement is laid on the table of the House.                                             ***** Statement referred to in reply to parts (a) to (f) of Lok Sabha Starred Question No. 130 for answer on 07.12.2021(a) & (b) Land governance is a State subject listed at Sl. No.18 & 45 of State List (List-II) and at Sl. No.6 & 42 of Concurrent list (List-III) of the 7th Schedule of the Constitution wherein land revenue governance system is governed by State specific Acts/Rules/Regulations and certain Acts and Rules/Regulations of Central Government.        Government of India has been implementing a comprehensive programme for digitization/computerization of land records/registration process in the name of Digital India Land Records Modernization Programme (DILRMP) with 100% financial assistance from Central Government from 2016-17. The essential condition and to achieve the prime objective of effective Computerization /Digitization of land records is to have a unique identification number assigned to   each   land parcel. Department of Land Resources, in consultation with National Informatics Centre (NIC), National Remote Sensing Centre (NRSC) and Ministry of Science and Technology, has developed a software application known as Unique Land Parcel Identification Number (ULPIN) for Unique IDs to the land parcel and the same has been circulated to the States/UTs for adoption. It has already been adopted and rolled out by 13 States/UTs and State/UTs wise details are enclosed at (Annexure-I).      So far an amount of Rs.1835.21 Crore have been released to the States/UTs under DILRMP Programme. The details of the fund released and utilized by the States is enclosed at (Annexure-II). There is no specific or separate budget allocation for ULPIN and it is developed through NIC. There are four software applications developed by Central Government which were/are used by States/UTs to complete the process of computerization/digitization of land records/registration process and to provide services to the citizen under DILRMP. These software applications are:- (i)	Bhu-Abhilekh – A software application for computerization and hosting of Record of   Right (RoR) on the web portal;(ii)	BhuNaksha–a software application for digitization of cadastral maps/FMB and hosting the same on the web portal;(iii)	National Generic Document Registration System (NGDRS) – an advance software application for registration process; and(iv)	ULPIN – a software application for assigning unique IDs for the land parcel.(c)	The Government had got conducted Evaluation cum impact assessment studies under DILRMP in the year 2010-11 for the 7 States/UTs, in the year 2017-18 for the 8 States/UTs, in the year 2018-19 for the 8 States/UTs and 8 States in the year 2019-20 to know the outcomes of the implementation of the programme in all over the country. The details of the study conducted; the name of the Institutions conducted the studies; and major outcomes are mentioned in the (Annexure-III).(d)&(e) The Government of India has already sanctioned projects for the Survey-resurvey to the States/UTs of Andhra Pradesh, Arunachal Pradesh, Bihar, Chhattisgarh, Gujarat, Goa, Haryana, Himachal Pradesh, J&K, Jharkhand, Karnataka, Kerala, Madhya Pradesh, Maharashtra, Manipur, Meghalaya, Mizoram, Nagaland, Odisha, Punjab, Rajasthan, Sikkim, Tamil Nadu, Telangana, Tripura, Uttar Pradesh, Uttarakhand, West Bengal, A&N Islands, D&N Haveli, Daman & Diu, Lakshadweep and Puducherry in order to measure land parcels and conduct the ground truthing to ascertain the accurate mapping of the boundaries. After the Survey-resurvey process is completed, it is possible to assess the extent of different uses of the land including agriculture land in the country. For conducting survey-resurvey, modern technology options are used like (i) Electronic Total Station (ETS) & Differential Global Positioning System (DGPS) (ii) Hybrid Methodology using aerial photography and ground truthing by ETS and DGPS and (iii) High Resolution Satellite Imagery (HRSI) and ground truthing by ETS and DGPS by the respective States/UTs.(f)	As per the reports received from the evaluation cum impact studies and information received from state governments, substantial impact in the land governance system of the country have been reported which inter alia includes : (i) empowerment of the citizens for free access of land records related information; (ii) reduce land disputes; (iii) check on fraudulent/ benami transactions; (iv) obviate need of physical visits to Revenue/Registration offices; (v) enable sharing of information with various organizations/agencies; (vi) improve real-time information on land;(vii)	optimize use of land resources; (viii) assist in policy & planning; (ix) benefit both landowners & prospectors etc.The Department of Land Resources has undertaken/ initiated number of innovative initiatives in order to improve the efficiency and effectiveness of the land governance system and ease of living and ease of doing business in the country which inter alia includes the evolving and implementation of:-(i)	Integrated Land Information Management System (ILIMS) – A single window system for depicting land information of all sectors;(ii)	ULPIN – a software application for assigning unique IDs to the land parcels ;(iii)	NGDRS – an advance software application for registration process; and(iv)	Multilingual Records of Right – an initiative to provide an option for multilingual Records of Right in all the States/UTs in order to break the barrier of the languages , has been initiated .(Uploaded Question, Answer + Annexures-I-II-III).                                             ******
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+HomeArchiveIndex to Select Questions (1984-1999)Ballot ListStatistical Statements Relating to QuestionsUploading of Questions - Status QueryProcedure for Sending Text of Questions & AnswersDemarcation of responsibilities in Govt. of IndiaBrochure on Statutory Corporations, Companies and Other Bodies in Which the Government of India have financial or controlling interestHighlights pertaining to questions of 17th Lok Sabha
+
+
+
+
+
+
+Contact Us 
+Disclaimer
+
+
+
+
+
+
+
+
+
+
+
+        Developed and Hosted by National Informatics Centre (NIC)
+
+Content on this website is published,
+            managed & maintained by Software Unit, Computer (HW & SW) Management. Branch,
+            Lok Sabha Secretariat
+
+
+
+
+
+HomeMembersBusinessQuestionsDebatesPapers Laid
+
+
+LegislationCommitteesSANSAD TVIntranetSecretariatPRIDE
+
+
+RecruitmentSC/ST ReservationConferenceParliament Library
+
+
+About ParliamentPhoto GalleryRelated LinksRTITendersFAQ
+
+
+SpeakerDy. SpeakerLeader of the HousePanel of ChairpersonsContact UsFeedback
+
+
+Council of MinistersPublications of MinistriesParliamentry ProceduresJournal of Parliamentary Information
+Visitor's Counter:113225772
+
+
+
+
+
+
+
+Copyright
+Privacy Policy
+Disclaimer
+Terms &
+                Conditions
+
+                Accessibility Statement
+Accessibility
+                Options
+Feedback
+Site Map
+
+
+
+
+
+
+

@@ -1,0 +1,350 @@
+
+
+
+
+	Questions : Lok Sabha
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Screen Reader Access
+Skip to Main Content
+Skip to Navigation
+
+
+
+Text Size
+
+                                A
+
+                                A
+A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+हिन्दी मे
+
+
+
+
+
+
+
+
+Parliament of India Lok Sabha House of the
+                        People
+
+
+
+
+
+
+* Special Characters not allowed
+
+
+
+
+
+
+
+
+
+
+
+
+India Time 
+
+
+Your Time 
+
+
+                        Monday,
+                        11 April 2022
+
+
+
+
+
+
+
+
+
+HomeMembersSitting MembersMembers Home PageMembers' PortalContact DetailsMembers SearchStatistical AnalysisAttendance of MembersHandbook Members Since 1952Digitized Who's WhoOthers BusinessProvisional CalendarList of BusinessPapers to be LaidList of Private Members' BusinessBulletin-IDigitized Lok Sabha Bulletin Part IBulletin-IIStatement of WorkSpecial Mentions (ZERO HOUR)Resume of WorkDigitized Resume of Work done by Lok Sabha QuestionsHomeQuestion ListStatus of notices of questionQuestions CalendarGrouping of Ministries - AlphabeticalOfficers in Min./Dept. Dealing with Parliamentary WorkQuestion SearchSupplementary Questions DebatesIntroductionSynopsisUncorrected DebateText of DebateDigitized DebatesConstituent Assembly DebatesWit And HumourDebate SearchHindi FontsDisclaimer Papers LaidPapers Laid on the Table of the House LegislationIntroduction(How Bill Becomes Act)Bills IntroducedBills PassedBills PendingBills AssentedBills LapsedBills WithdrawnBills NegativedBills Search Disclaimer CommitteesIntroductionChairpersonSummary of WorkCommittee Meetings ScheduleBills Referred to CommitteesReports PresentedDigitized ReportsPress ReleaseMembership SearchToday's Committee MeetingsCommittee Subject SelectedDepartment Related-RS Govt. AssurancesSANSAD TVIntranet
+
+
+
+
+
+HomeQuestion ListStatus of notices of questionQuestions CalendarGrouping of Ministries - AlphabeticalOfficers in Min./Dept. Dealing with Parliamentary WorkQuestion SearchSupplementary Questions
+
+
+
+
+
+
+
+
+
+
+
+Download as PDF
+
+
+
+
+Print
+
+
+
+
+
+
+
+
+
+
+
+
+PDF/WORD(Hindi)
+
+
+PDF/WORD
+
+
+
+
+                                    GOVERNMENT OF INDIA
+                                
+
+
+
+
+
+                                    MINISTRY OF
+                                    ELECTRONICS AND INFORMATION TECHNOLOGY
+
+
+
+
+
+
+                                    LOK SABHA
+                                
+
+
+
+
+
+UNSTARRED 
+
+
+                                    QUESTION NO:
+                                
+
+2650
+
+
+
+
+
+
+                                    ANSWERED ON: 
+                                
+
+10.03.2021
+
+
+
+
+
+
+Aadhaar Authentication
+
+
+
+
+Srinivas Kesineni
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        Will the Minister of
+
+
+
+
+
+ELECTRONICS AND INFORMATION TECHNOLOGY
+
+
+                        be pleased to state:-
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                    Will the Minister of ELECTRONICS AND INFORMATION TECHNOLOGY be pleased to state: (a)   the details of Government authorities, non-Government entities and external private entities which were consulted before framing the Aadhaar Authentication for Good Governance (Social Welfare, Innovation, Knowledge) Rules, 2020; (b)  the list of companies which applied for Aadhaar authentication and have been granted permission under the aforementioned Rules; (c)   the list of private companies with access to Aadhaar APIs under various provisions; and (d)   the list of private firms that have been requesting for access to e-KYC authentication services to UIDAI under the Prevention of Money Laundering Act, 2002?
+
+
+
+
+
+
+ANSWER
+
+
+
+
+                                                        The Aadhaar Authentication for Good Governance (Social, Welfare, Innovation, Knowledge) Rules, 2020 were framed after consultation with Unique Identification Authority of India (UIDAI) and Ministry of Law and Justice. (b): As on date, following two proposals pertaining to companies have been received by the Ministry under Rule 4 of the Aadhaar Authentication for Good Governance (Social, Welfare, Innovation, Knowledge) Rules, 2020:(i)  Proposal of Ministry of Railways seeking Aadhaar authentication services, on voluntary basis, for authenticating the user IDs on E-Ticketing website IRCTC for booking e-tickets. The proposal has been approved and conveyed to Ministry of Railways on 23.12.2020.(ii) Proposal of Department of Industries, Govt. of National Capital Territory of Delhi seeking Aadhaar authentication services for its undertaking Delhi State Industrial and Infrastructure Development Corporation Ltd. (DSIIDC). The same is under examination.(c): Three types of Aadhaar authentication APIs are available in public domain to develop test applications in staging environment, namely (i) Authentication API (ii) eKYC API (iii) OTP API.  Any entity can test its Authentication/eKYC application using these.  However, for actual implementation, the prescribed on-boarding process is required to be followed.(d): Department of Revenue, Ministry of Finance has issued notifications dated 22.04.2020, 23.04.2020, 19.08.2020, 20.08.2020, 22.12.2020 and 28.01.2021 under section 11A of the Prevention of Money Laundering Act, 2002 permitting use of Aadhaar authentication services to 65 entities, out of which 57 entities approached UIDAI with request to appoint them as AUA/KUA.  Apart from these, 56 private banking companies, as reporting entities are also allowed Aadhaar authentication on voluntary basis under Section 11A(1)(a) of  PMLA Act, 2002.The list of such entities having requested for/ having access to e-KYC authentication services as aforementioned is enclosed at Annexure I.******Annexure-IList of private entities requested for/having access to e-KYC services of Aadhaar Under PMLA Act, 2002(1)	List of entities notified by Dept of RevenueS.No.	Name of the Organization1	Bajaj Allianz Life Insurance Company Limited2	Computer Age Management Services Private Limited3	CDSL Ventures Limited (CVL)4	National Payments Corporation of India (NPCI)5	NSDL e-Governance Infrastructure Limited (NSDL)6	Bharti AXA Life Insurance Company Limited7	ICICI Prudential Life Insurance Company Limited8	Max Life Insurance Company Limited9	PNB Metlife India Insurance Company Limited10	SBI Life Insurance Company Limited11	Pramerica Life Insurance Limited12	Kotak Mahindra Life Insurance Company Limited13	Star Union Dai-ichi Life Insurance Company Limited14	IDBI Federal Life Insurance Company Limited15	Canara HSBC Oriental Bank of Commerce Life Insurance Company Limited16	Royal Sundaram General Insurance Company Limited17	SBI General Insurance Company Limited18	HDFC Ergo General Insurance Company Limited19	Exide Life Insurance Company Limited20	HDFC Life Insurance Company Limited21	India First Life Insurance Company Limited22	Future Generali India Life Insurance Company Limited23	Reliance Nippon Life Insurance Company Limited24	Aegon Life Insurance Company Limited25	Shriram Life Insurance Company Limited26	Aditya Birla Sun Life Insurance Company Limited27	Edelweiss Tokio Life Insurance Company Limited28	Kotak Mahindra General Insurance Company Limited29	Future Generali India Insurance Company Limited30	Acko General Insurance Limited31	Manipal Cigna Health Insurance Company Limited32	Religare Health Insurance Company Limited33	Aviva Life Insurance Co. India Limited34	Bajaj Allianz General Insurance Company Limited35	TATA AIA Life Insurance Co Ltd36	Universal Sompo General Insurance Co. Ltd37	Max Bupa Health Insurance Company Limited38	National Insurance Company Limited39	Reliance General Insurance Company Limited (RGICL)40	Shriram General Insurance Company Limited41	Star Health and Allied Insurance Co Ltd.42	Edelweiss General Insurance Company Limited43	ICICI LOMBARD General Insurance Company Limited44	IFFCO TOKIO General Insurance Company Limited45	Liberty General Insurance Limited46	Aditya Birla Health Insurance Co. Limited47	Bharti AXA General Insurance Company Limited48	Navi General Insurance Limited (Formerly known as DHFL GeneralInsurance Limited)49	Go Digit General Insurance Limited50	The Oriental Insurance Company Ltd.51	Bombay Stock Exchange Limited52	National Securities Depository Limited53	NSE Data and Analytics Limited54	National Stock Exchange of India Limited55	CAMS Investor Services Private Limited56	NSDL Database Management Limited57	Central Depository Services (India) Limited58	Apollo Munich Health Insurance Company Limited59	Cholamandalam MS General Insurance Co Ltd60	TATA AIG General Insurance Company Limited61	United India Insurance Co. Limited62	LIC of India63	Magma HDI General Insurance Company Limited64	Raheja QBE General Insurance Company Limited65	Link Intime India Pvt. Ltd.Note: Entities at Sl. No. 1 to 57 have approached UIDAI with request to appoint them as AUA/KUA	(2)	List of private banking companies, as reporting entities under PMLA1	Abhyudaya Co-operative Bank Ltd2	AXIS Bank3	Catholic Syrian Bank4	City Union Bank Limited5	DBS Bank India Limited6	Deutsche Bank7	Development Credit Bank Limited (DCB Bank Limited)8	Gopinath Patil Parsik Janata Sahakari Bank Ltd.9	HDFC Bank10	ICICI Bank11	IDFC First Bank12	IndusInd Bank13	Jammu & Kashmir Bank14	Karnataka Bank Limited15	Kotak Mahindra Bank Ltd.16	Punjab & Maharashtra Co-operative Bank17	Ratnakar Bank (RBL Bank Limited)18	Shivalik Mercantile Co Operative Bank19	South Indian Bank Ltd20	Standard Chartered Bank21	The A.P. Mahesh Co-op Urban Bank Ltd.22	The Cosmos Co-Op Bank Ltd.23	The Federal Bank Ltd24	The Karur Vyasya Bank Limited25	The Lakshmi Vilas Bank Limited26	The Mehsana Urban Co-Operative Bank Ltd.27	The Rajasthan State Co-operative Bank Limited28	The Saraswat Co-operative Bank Ltd.29	SVC Co-operative Bank Limited30	Thrissur District Cooperative Bank31	Yes Bank32	Tamil Nadu Mercantile Bank Ltd.33	The Hongkong and Shanghai Banking Corporation Limited, India (HSBC)34	ESAF Small Finance Bank Limited35	Airtel Payments Bank Ltd.36	Bandhan Bank Limited37	Equitas Small Finance Bank Limited38	Paytm Payments Bank Limited39	Ujjivan Small Finance Bank Limited40	Utkarsh Small Finance Bank Limited41	Au Small Finance Bank Limited42	Suryoday Small Finance Bank Ltd.43	The Surat People''s Co-op. Bank Ltd.44	Jio Payments Bank Limited45	NSDL Payments Banks Limited46	India Post Payments Bank47	The Maharashtra State Co-operative Bank Limited48	Fino Payments Bank Limited49	Citi Bank50	The Nainital Bank Limited51	Fincare Small Finance Bank Limited52	Dhanlaxmi Bank Limited53	Tripura State Co-operative Bank Ltd.54	Jana Small Finance Bank Limited55	The Tamil Nadu State Apex Co-operative Bank Ltd.56	SBM Bank (India) Ltd.******** 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+HomeArchiveIndex to Select Questions (1984-1999)Ballot ListStatistical Statements Relating to QuestionsUploading of Questions - Status QueryProcedure for Sending Text of Questions & AnswersDemarcation of responsibilities in Govt. of IndiaBrochure on Statutory Corporations, Companies and Other Bodies in Which the Government of India have financial or controlling interestHighlights pertaining to questions of 17th Lok Sabha
+
+
+
+
+
+
+Contact Us 
+Disclaimer
+
+
+
+
+
+
+
+
+
+
+
+        Developed and Hosted by National Informatics Centre (NIC)
+
+Content on this website is published,
+            managed & maintained by Software Unit, Computer (HW & SW) Management. Branch,
+            Lok Sabha Secretariat
+
+
+
+
+
+HomeMembersBusinessQuestionsDebatesPapers Laid
+
+
+LegislationCommitteesSANSAD TVIntranetSecretariatPRIDE
+
+
+RecruitmentSC/ST ReservationConferenceParliament Library
+
+
+About ParliamentPhoto GalleryRelated LinksRTITendersFAQ
+
+
+SpeakerDy. SpeakerLeader of the HousePanel of ChairpersonsContact UsFeedback
+
+
+Council of MinistersPublications of MinistriesParliamentry ProceduresJournal of Parliamentary Information
+Visitor's Counter:113206580
+
+
+
+
+
+
+
+Copyright
+Privacy Policy
+Disclaimer
+Terms &
+                Conditions
+
+                Accessibility Statement
+Accessibility
+                Options
+Feedback
+Site Map
+
+
+
+
+
+
+

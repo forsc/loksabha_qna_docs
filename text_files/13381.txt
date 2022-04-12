@@ -1,0 +1,350 @@
+
+
+
+
+	Questions : Lok Sabha
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Screen Reader Access
+Skip to Main Content
+Skip to Navigation
+
+
+
+Text Size
+
+                                A
+
+                                A
+A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+हिन्दी मे
+
+
+
+
+
+
+
+
+Parliament of India Lok Sabha House of the
+                        People
+
+
+
+
+
+
+* Special Characters not allowed
+
+
+
+
+
+
+
+
+
+
+
+
+India Time 
+
+
+Your Time 
+
+
+                        Monday,
+                        11 April 2022
+
+
+
+
+
+
+
+
+
+HomeMembersSitting MembersMembers Home PageMembers' PortalContact DetailsMembers SearchStatistical AnalysisAttendance of MembersHandbook Members Since 1952Digitized Who's WhoOthers BusinessProvisional CalendarList of BusinessPapers to be LaidList of Private Members' BusinessBulletin-IDigitized Lok Sabha Bulletin Part IBulletin-IIStatement of WorkSpecial Mentions (ZERO HOUR)Resume of WorkDigitized Resume of Work done by Lok Sabha QuestionsHomeQuestion ListStatus of notices of questionQuestions CalendarGrouping of Ministries - AlphabeticalOfficers in Min./Dept. Dealing with Parliamentary WorkQuestion SearchSupplementary Questions DebatesIntroductionSynopsisUncorrected DebateText of DebateDigitized DebatesConstituent Assembly DebatesWit And HumourDebate SearchHindi FontsDisclaimer Papers LaidPapers Laid on the Table of the House LegislationIntroduction(How Bill Becomes Act)Bills IntroducedBills PassedBills PendingBills AssentedBills LapsedBills WithdrawnBills NegativedBills Search Disclaimer CommitteesIntroductionChairpersonSummary of WorkCommittee Meetings ScheduleBills Referred to CommitteesReports PresentedDigitized ReportsPress ReleaseMembership SearchToday's Committee MeetingsCommittee Subject SelectedDepartment Related-RS Govt. AssurancesSANSAD TVIntranet
+
+
+
+
+
+HomeQuestion ListStatus of notices of questionQuestions CalendarGrouping of Ministries - AlphabeticalOfficers in Min./Dept. Dealing with Parliamentary WorkQuestion SearchSupplementary Questions
+
+
+
+
+
+
+
+
+
+
+
+Download as PDF
+
+
+
+
+Print
+
+
+
+
+
+
+
+
+
+
+
+
+PDF/WORD(Hindi)
+
+
+PDF/WORD
+
+
+
+
+                                    GOVERNMENT OF INDIA
+                                
+
+
+
+
+
+                                    MINISTRY OF
+                                    RAILWAYS
+
+
+
+
+
+
+                                    LOK SABHA
+                                
+
+
+
+
+
+UNSTARRED 
+
+
+                                    QUESTION NO:
+                                
+
+2282
+
+
+
+
+
+
+                                    ANSWERED ON: 
+                                
+
+04.03.2020
+
+
+
+
+
+
+Online Ticket Tourists
+
+
+
+
+Gopal Chinayya Shetty
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        Will the Minister of
+
+
+
+
+
+RAILWAYS
+
+
+                        be pleased to state:-
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(a)	  whether a fraud gang has been unearthed which were booking 50% tickets under tatkal category in just forty seconds after opening of booking using a critical software;(b)	  if so, the details thereof along with the names and addresses of these offenders;(c)	  whether any action has been taken by the Government against these offenders;(d)	  if so, the details thereof; and(e)	  the steps taken by the Government to check such frauds in future under tatkal scheme? 
+
+
+
+
+
+
+ANSWER
+
+
+
+
+                                                        MINISTER OF RAILWAYS AND COMMERCE & INDUSTRY       (SHRI PIYUSH GOYAL)(a) to (e): A Statement is laid on the Table of the House.STATEMENT REFERRED TO IN REPLY TO PARTS (a) TO (e) OF UNSTARRED QUESTION NO. 2282 BY SHRI GOPAL CHINNAYA SHETTY TO BE ANSWERED IN LOK SABHA ON 04.03.2020 REGARDING ONLINE TICKET TOUTS(a) to (d): Railway Protection Force (RPF) arrested one accused person named Ghulam Mustafa suspected of selling illegal Railway ticket booking software ANMS on 08.01.2020 in course of enquiry into criminal case vide Crime No. 758/2019 dated 30.10.2019 under section 143 of “The Railways Act” registered at RPF Post, Yeshwantpur, Bengaluru City. He was found to have used certain illegal softwares, advanced hacking applications, crypto currency accounts for carrying out of this operation and further, during the course of enquiry, a list of 3000 bank branches were recovered from his laptop. On the basis of lead given by the arrested accused regarding operation of illegal software for e-Ticketing, several cases have been registered in RPF Posts across Indian Railways, wherein a total of 82 accused persons have been arrested till 25.02.2020 and are under investigation. Further, in this matter, several cases have been registered by State Police/Delhi police which are under investigation.The illegal software during its operation auto-fills the passenger details in form, auto reads the login and submit CAPTCHAs, bypasses bank OTP protection and pushes multiple numbers of fictitious IRCTC user IDs simultaneously, due to which it facilitates huge number of fictitious IRCTC user IDs to jump the queue when window of Tatkal/other booking starts and corner simultaneously several confirmed berths in trains. Due to pan India action by RPF, all these illegal softwares have been suspended and are not being used. In addition to cessation of functioning of the illegal softwares, various wings of railways like RPF, IRCTC and CRIS have worked together to upgrade the existing security features of the PRS system. This has also disrupted the functioning of other softwares. Situation is kept under close watch so that any upgradation of illegal softwares, still in operation, if any, is responded to in real time and even such softwares are not able to indulge in any such malpractices. --2/--2-(e): In order to prevent the activities of unscrupulous elements/ touts in booking of e-tickets including Tatkal tickets, several checks have been deployed by Indian Railway Catering and Tourism Corporation (IRCTC) including the following:i.	Restriction of only 2 Tatkal tickets per user from 1000 hours to 1200 hours.ii.	Introduction of Random Security Question for Tatkal ticket bookings.iii.	Restriction of only one tatkal ticket per day per train to retail service providers (agents).iv.	Restriction of creation of only one IRCTC User ID on a given mobile number and email ID.v.	A limit of booking 6 Railway tickets by an individual user in a month has been set. This has been enhanced to 12 Railway tickets per month, if users have linked their IRCTC user ID with their Aadhaar number, and at least one of the passengers in the passenger list is verifiable through Aadhaar.vi.	Restriction of only one booking in one user login session except for return/onward journey between 0800 and 1200 hours.vii.	Dynamic CAPTCHA introduced at three places- registration, login and booking page to check fraudulent booking through automation software. viii.	Checks on minimum time required to enter passenger details and display of CAPTCHA at the time of e-ticket booking by users. ix.	Restriction on authorized agents of IRCTC for booking tickets during first fifteen minutes of opening of Advance Reservation Period (ARP) booking and Tatkal booking.x.	Regular drives are being conducted by RPF against persons/agencies found involved in unauthorized carrying on of business of procuring and supplying of railway tickets. The offenders are booked under section 143 of the Railways Act.xi.	Use of PRABAL query based application for verification of IRCTC IDs to detect the cases of illegal E-ticketing with follow up action.*****
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+HomeArchiveIndex to Select Questions (1984-1999)Ballot ListStatistical Statements Relating to QuestionsUploading of Questions - Status QueryProcedure for Sending Text of Questions & AnswersDemarcation of responsibilities in Govt. of IndiaBrochure on Statutory Corporations, Companies and Other Bodies in Which the Government of India have financial or controlling interestHighlights pertaining to questions of 17th Lok Sabha
+
+
+
+
+
+
+Contact Us 
+Disclaimer
+
+
+
+
+
+
+
+
+
+
+
+        Developed and Hosted by National Informatics Centre (NIC)
+
+Content on this website is published,
+            managed & maintained by Software Unit, Computer (HW & SW) Management. Branch,
+            Lok Sabha Secretariat
+
+
+
+
+
+HomeMembersBusinessQuestionsDebatesPapers Laid
+
+
+LegislationCommitteesSANSAD TVIntranetSecretariatPRIDE
+
+
+RecruitmentSC/ST ReservationConferenceParliament Library
+
+
+About ParliamentPhoto GalleryRelated LinksRTITendersFAQ
+
+
+SpeakerDy. SpeakerLeader of the HousePanel of ChairpersonsContact UsFeedback
+
+
+Council of MinistersPublications of MinistriesParliamentry ProceduresJournal of Parliamentary Information
+Visitor's Counter:113178473
+
+
+
+
+
+
+
+Copyright
+Privacy Policy
+Disclaimer
+Terms &
+                Conditions
+
+                Accessibility Statement
+Accessibility
+                Options
+Feedback
+Site Map
+
+
+
+
+
+
+

@@ -1,0 +1,350 @@
+
+
+
+
+	Questions : Lok Sabha
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Screen Reader Access
+Skip to Main Content
+Skip to Navigation
+
+
+
+Text Size
+
+                                A
+
+                                A
+A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+हिन्दी मे
+
+
+
+
+
+
+
+
+Parliament of India Lok Sabha House of the
+                        People
+
+
+
+
+
+
+* Special Characters not allowed
+
+
+
+
+
+
+
+
+
+
+
+
+India Time 
+
+
+Your Time 
+
+
+                        Monday,
+                        11 April 2022
+
+
+
+
+
+
+
+
+
+HomeMembersSitting MembersMembers Home PageMembers' PortalContact DetailsMembers SearchStatistical AnalysisAttendance of MembersHandbook Members Since 1952Digitized Who's WhoOthers BusinessProvisional CalendarList of BusinessPapers to be LaidList of Private Members' BusinessBulletin-IDigitized Lok Sabha Bulletin Part IBulletin-IIStatement of WorkSpecial Mentions (ZERO HOUR)Resume of WorkDigitized Resume of Work done by Lok Sabha QuestionsHomeQuestion ListStatus of notices of questionQuestions CalendarGrouping of Ministries - AlphabeticalOfficers in Min./Dept. Dealing with Parliamentary WorkQuestion SearchSupplementary Questions DebatesIntroductionSynopsisUncorrected DebateText of DebateDigitized DebatesConstituent Assembly DebatesWit And HumourDebate SearchHindi FontsDisclaimer Papers LaidPapers Laid on the Table of the House LegislationIntroduction(How Bill Becomes Act)Bills IntroducedBills PassedBills PendingBills AssentedBills LapsedBills WithdrawnBills NegativedBills Search Disclaimer CommitteesIntroductionChairpersonSummary of WorkCommittee Meetings ScheduleBills Referred to CommitteesReports PresentedDigitized ReportsPress ReleaseMembership SearchToday's Committee MeetingsCommittee Subject SelectedDepartment Related-RS Govt. AssurancesSANSAD TVIntranet
+
+
+
+
+
+HomeQuestion ListStatus of notices of questionQuestions CalendarGrouping of Ministries - AlphabeticalOfficers in Min./Dept. Dealing with Parliamentary WorkQuestion SearchSupplementary Questions
+
+
+
+
+
+
+
+
+
+
+
+Download as PDF
+
+
+
+
+Print
+
+
+
+
+
+
+
+
+
+
+
+
+PDF/WORD(Hindi)
+
+
+PDF/WORD
+
+
+
+
+                                    GOVERNMENT OF INDIA
+                                
+
+
+
+
+
+                                    MINISTRY OF
+                                    FINANCE
+
+
+
+
+
+
+                                    LOK SABHA
+                                
+
+
+
+
+
+UNSTARRED 
+
+
+                                    QUESTION NO:
+                                
+
+1276
+
+
+
+
+
+
+                                    ANSWERED ON: 
+                                
+
+10.02.2020
+
+
+
+
+
+
+Publilc Financial Management System
+
+
+
+
+Vishnu Dayal Ram
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        Will the Minister of
+
+
+
+
+
+FINANCE
+
+
+                        be pleased to state:-
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                    (a)	the objectives of the Public Financial Management System;(b)	the details of functionalities that have been and are proposed to be built into it and its various functions; and (c)	the details of other expenditure reforms that have been implemented by the Government?
+
+
+
+
+
+
+ANSWER
+
+
+
+
+                                                        MINISTER OF STATE (Finance & Corporate Affairs)(Shri ANURAG SINGH THAKUR)(a)	The objective of Public Financial Management System (PFMS) is to facilitate sound public finance management for Government of India by establishing an efficient fund flow system as well as a receipt and payment cum accounting system. PFMS provides various stakeholders with reliable and meaningful management information and an effective decision support system(b)	Reply given in Annexure-I(c)	Reply given in Annexure-IIANNEXURE-I            For Lok Sabha Unstarred Question No. 1276(b)	FunctionalitiesModules developed /under development by Public Financial Management System (PFMS) for stakeholders as per the mandate above include:I.	Fund Flow Monitoring(a)	Agency Registration Module(b)	Expenditure, Advance and Transfer (EAT) module(c)	Accounting Module for registered agencies(d)	Treasury Interface Module(e)  Public Financial Management System – Panchayati Raj Institutions (PFMS-PRI) Fund Flow Interface(f)	Mechanism for State Scheme for fund tracking(g)	Monitoring of Externally Aided Projects (EAP)II.   Direct Benefit Transfer Modules(a)	Pay & Accounts Office(PAO) to Beneficiaries(b)	Agency to Beneficiaries(c)	State Treasuries to BeneficiariesIII.   Interfaces for Banking(a)	Core Banking Solution(CBS)(b)	lndia Post(c)	Reserve Bank of India (RBI)(d)	Regional Rural Banks (RRBs)(e)	Cooperative Banks.IV.   Pay & Accounts Office (PAO) module of PFMS covers payment and accounting of all Pay and Accounts Offices billsV.	Employees Information System (EIS) Module has been developed and made operational for processing of salary bills of all Drawing and Disbursing Officers(DDOs)VI.	Cheque Drawing and Disbursing Officers (CDDO) Module covers payment and accounting functions of CDDO bills. VII.	Non-Tax Receipt Portal (NTRP) as one-stop window to citizens/corporates/institutions/other users for making online deposits of Non-Tax receipts (NTR) which are payable to the Government of India (GOI)VIII.	Complete online processing of pension disbursal through integration of Bhavishya (Department of Pension) and Pension Authoritsation Retrieval & Accounting System (PARAS) software of Central Pension Accounting Organization (CPAO).IX.	General Provident Fund (GPF) Module covers all the functionalities of GPF like GPF advance, withdrawal, final payment, interest calculation etc.X.	Integration of PFMS with the following standalone applications. The sanction generated through the standalone application being captured in the PAO module of PFMS•	Government e-Marketplace (GeM)•	PRAHARI of Boarder Security Force (BSF)•	SELO of Central Reserve Police Force (CRPF)•	E-Wisdom of Lok Sabha•	Composite Financial Accounting System (CFAS) of UT Chandigarh•	Indian Customs Electronic Commerce Gateway (ICEGATE) of Central Board of Indirect Taxes and Customs (CBIC).•	Department of Atomic Energy•	Department of SpaceANNEXURE-II ( c) Other Expenditure Reformsi.	Majority of schemes/components being implemented across Ministries/Departments such as PAHAL, MGNREGS, PMAY (Gramin), Pensions and Scholarships, which involves cash transfer as well as in kind transfers such as food grains and Mid-Day Meals to school children, have been linked to Direct Benefit Transfer (DBT). Implementation of Aadhaar based DBT has resulted in significant savings due to removal of duplicate/fake beneficiaries.ii.	Government-e-Marketplace (GeM) portal has been launched by Department of Commerce (DGS&D) on 9th August, 2016 which is a complete end-to-end procurement solution for common use goods & services for Government buyers. More than 31000 products and 1215 service providers have been made available for purchase/hire by the Government users.iii.	Revised General Financial Rules (GFRs) 2017 has been released on 7th March, 2017 with updated limits and provision.*****
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+HomeArchiveIndex to Select Questions (1984-1999)Ballot ListStatistical Statements Relating to QuestionsUploading of Questions - Status QueryProcedure for Sending Text of Questions & AnswersDemarcation of responsibilities in Govt. of IndiaBrochure on Statutory Corporations, Companies and Other Bodies in Which the Government of India have financial or controlling interestHighlights pertaining to questions of 17th Lok Sabha
+
+
+
+
+
+
+Contact Us 
+Disclaimer
+
+
+
+
+
+
+
+
+
+
+
+        Developed and Hosted by National Informatics Centre (NIC)
+
+Content on this website is published,
+            managed & maintained by Software Unit, Computer (HW & SW) Management. Branch,
+            Lok Sabha Secretariat
+
+
+
+
+
+HomeMembersBusinessQuestionsDebatesPapers Laid
+
+
+LegislationCommitteesSANSAD TVIntranetSecretariatPRIDE
+
+
+RecruitmentSC/ST ReservationConferenceParliament Library
+
+
+About ParliamentPhoto GalleryRelated LinksRTITendersFAQ
+
+
+SpeakerDy. SpeakerLeader of the HousePanel of ChairpersonsContact UsFeedback
+
+
+Council of MinistersPublications of MinistriesParliamentry ProceduresJournal of Parliamentary Information
+Visitor's Counter:113174666
+
+
+
+
+
+
+
+Copyright
+Privacy Policy
+Disclaimer
+Terms &
+                Conditions
+
+                Accessibility Statement
+Accessibility
+                Options
+Feedback
+Site Map
+
+
+
+
+
+
+

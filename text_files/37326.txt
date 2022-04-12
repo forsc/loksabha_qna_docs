@@ -1,0 +1,350 @@
+
+
+
+
+	Questions : Lok Sabha
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Screen Reader Access
+Skip to Main Content
+Skip to Navigation
+
+
+
+Text Size
+
+                                A
+
+                                A
+A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+हिन्दी मे
+
+
+
+
+
+
+
+
+Parliament of India Lok Sabha House of the
+                        People
+
+
+
+
+
+
+* Special Characters not allowed
+
+
+
+
+
+
+
+
+
+
+
+
+India Time 
+
+
+Your Time 
+
+
+                        Tuesday,
+                        12 April 2022
+
+
+
+
+
+
+
+
+
+HomeMembersSitting MembersMembers Home PageMembers' PortalContact DetailsMembers SearchStatistical AnalysisAttendance of MembersHandbook Members Since 1952Digitized Who's WhoOthers BusinessProvisional CalendarList of BusinessPapers to be LaidList of Private Members' BusinessBulletin-IDigitized Lok Sabha Bulletin Part IBulletin-IIStatement of WorkSpecial Mentions (ZERO HOUR)Resume of WorkDigitized Resume of Work done by Lok Sabha QuestionsHomeQuestion ListStatus of notices of questionQuestions CalendarGrouping of Ministries - AlphabeticalOfficers in Min./Dept. Dealing with Parliamentary WorkQuestion SearchSupplementary Questions DebatesIntroductionSynopsisUncorrected DebateText of DebateDigitized DebatesConstituent Assembly DebatesWit And HumourDebate SearchHindi FontsDisclaimer Papers LaidPapers Laid on the Table of the House LegislationIntroduction(How Bill Becomes Act)Bills IntroducedBills PassedBills PendingBills AssentedBills LapsedBills WithdrawnBills NegativedBills Search Disclaimer CommitteesIntroductionChairpersonSummary of WorkCommittee Meetings ScheduleBills Referred to CommitteesReports PresentedDigitized ReportsPress ReleaseMembership SearchToday's Committee MeetingsCommittee Subject SelectedDepartment Related-RS Govt. AssurancesSANSAD TVIntranet
+
+
+
+
+
+HomeQuestion ListStatus of notices of questionQuestions CalendarGrouping of Ministries - AlphabeticalOfficers in Min./Dept. Dealing with Parliamentary WorkQuestion SearchSupplementary Questions
+
+
+
+
+
+
+
+
+
+
+
+Download as PDF
+
+
+
+
+Print
+
+
+
+
+
+
+
+
+
+
+
+
+PDF/WORD(Hindi)
+
+
+PDF/WORD
+
+
+
+
+                                    GOVERNMENT OF INDIA
+                                
+
+
+
+
+
+                                    MINISTRY OF
+                                    AGRICULTURE AND FARMERS WELFARE
+
+
+
+
+
+
+                                    LOK SABHA
+                                
+
+
+
+
+
+UNSTARRED 
+
+
+                                    QUESTION NO:
+                                
+
+4337
+
+
+
+
+
+
+                                    ANSWERED ON: 
+                                
+
+29.03.2022
+
+
+
+
+
+
+Payment to Ineligible Beneficiaries under PM-KISAN Scheme
+
+
+
+
+Ravneet Singh
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        Will the Minister of
+
+
+
+
+
+AGRICULTURE AND FARMERS WELFARE
+
+
+                        be pleased to state:-
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                    (a) whether a ‘physical verification module’ has been launched to remove ineligible individuals from the database for the PM-KISAN Scheme and if so, the details thereof;(b) whether the Government has rolled out a series of steps as well as guidelines to ensure tighter checks on disbursement of PM-KISAN funds and if so, the details thereof; (c) whether the Government has taken any measures to enable the recovery of the amount disbursed to noneligible PM-KISAN beneficiaries; and (d) if so, the details thereof and if not, the reasons therefor?
+
+
+
+
+
+
+ANSWER
+
+
+
+
+                                                        MINISTER OF AGRICULTURE AND FARMERS WELFARE ???? ??? ????? ?????? ??????	(SHRI NARENDRA SINGH TOMAR)(a) The physical verification module at PM-KISAN portal contains the details of the beneficiaries to be verified by all the States/Districts/Block Users. This module has the list of beneficiaries, who have been paid the installments successfully and are selected randomly (simple random sampling) by the system. The reports for the physical verifications exercises currently being undertaken are attached at Annexure 1.(b) The structure of the Scheme inherently comprises of mechanism for exclusion of errors on the basis of continuous verification and validation of data of beneficiaries by various authorities. At the first level, the data uploaded by States is verified by National Informatics Centre (NIC) on PM-KISAN portal. This verification envisages the completion of all mandatory fields and validation w.r.t. Columns and Rows including numbering of digits for Aadhaar and Bank details. Data which fails verification at this level is returned to States for rectification and fresh upload. The data is then sent for Aadhaar authentication for which the services of UIDAI are utilized. The Aadhaar rejected records are made available on the portal for correction.The second level verification is done by Public Finance Management System (PFMS) portal in association with banks which verifies the correctness of bank details. Data which fails at this level is also returned to States for further rectification and subsequent resubmission. All the rejected data post correction and validation is processed further. The States are then requested to sign the Request for Transfer (RFT) for their respective States.  The RFTs are signed by the State Nodal Officers (SNOs) and uploaded on the portal.  This bulk data is again sent to PFMS for generation of Fund Transfer Order (FTO).  After aforementioned levels of verification are done, Fund Transfer Order (FTO) is generated. PM-KISAN Portal is currently integrated with UIDAI, PFMS, Income tax portal and Pensioners & Employee Record for validation/weeding out of ineligible beneficiaries, and NTRP portal for refund of amount by ineligible beneficiaries. In addition, the following special measures have been taken by the Government to ensure that the funds are not being misused and the scheme is properly implemented in order to benefit genuine farmers:(i)	Standard Operational Guidelines for identification of Income Tax Payees have been prepared and circulated to the States.(ii)	Caution Advisory to the States to adopt measures during the registration and verification of farmers under the PM-KISAN scheme.(iii)	Standard Operational Guidelines for Physical Verification of PM-KISAN beneficiaries have been circulated to the State Governments.(iv)	States/UTs have been instructed to carry out Social audit of the list of beneficiaries in the Gram Sabha meeting.(v)	It has been decided that all payments from 01/04/2022 shall be Aadhaar based.(vi)	States/UTs have been instructed to undertake e-KYC verification of all PM-KISAN beneficiaries.(vii)	Further, SOPs have been issued regarding recovery of funds transferred to ineligible beneficiaries.(c) & (d) Government has devised and issued SOPs to States/UTs for recovery of benefit transferred to the ineligible beneficiaries. Further, the beneficiary marked ineligible by State/UT or found ineligible being income tax payee can also refund the amount in GoI account through Farmers’ Corner on the PM-KISAN portal. For this purpose, the PM-KISAN portal has been integrated with NTRP portal. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+HomeArchiveIndex to Select Questions (1984-1999)Ballot ListStatistical Statements Relating to QuestionsUploading of Questions - Status QueryProcedure for Sending Text of Questions & AnswersDemarcation of responsibilities in Govt. of IndiaBrochure on Statutory Corporations, Companies and Other Bodies in Which the Government of India have financial or controlling interestHighlights pertaining to questions of 17th Lok Sabha
+
+
+
+
+
+
+Contact Us 
+Disclaimer
+
+
+
+
+
+
+
+
+
+
+
+        Developed and Hosted by National Informatics Centre (NIC)
+
+Content on this website is published,
+            managed & maintained by Software Unit, Computer (HW & SW) Management. Branch,
+            Lok Sabha Secretariat
+
+
+
+
+
+HomeMembersBusinessQuestionsDebatesPapers Laid
+
+
+LegislationCommitteesSANSAD TVIntranetSecretariatPRIDE
+
+
+RecruitmentSC/ST ReservationConferenceParliament Library
+
+
+About ParliamentPhoto GalleryRelated LinksRTITendersFAQ
+
+
+SpeakerDy. SpeakerLeader of the HousePanel of ChairpersonsContact UsFeedback
+
+
+Council of MinistersPublications of MinistriesParliamentry ProceduresJournal of Parliamentary Information
+Visitor's Counter:113264228
+
+
+
+
+
+
+
+Copyright
+Privacy Policy
+Disclaimer
+Terms &
+                Conditions
+
+                Accessibility Statement
+Accessibility
+                Options
+Feedback
+Site Map
+
+
+
+
+
+
+

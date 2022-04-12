@@ -1,0 +1,363 @@
+
+
+
+
+	Questions : Lok Sabha
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Screen Reader Access
+Skip to Main Content
+Skip to Navigation
+
+
+
+Text Size
+
+                                A
+
+                                A
+A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+हिन्दी मे
+
+
+
+
+
+
+
+
+Parliament of India Lok Sabha House of the
+                        People
+
+
+
+
+
+
+* Special Characters not allowed
+
+
+
+
+
+
+
+
+
+
+
+
+India Time 
+
+
+Your Time 
+
+
+                        Monday,
+                        11 April 2022
+
+
+
+
+
+
+
+
+
+HomeMembersSitting MembersMembers Home PageMembers' PortalContact DetailsMembers SearchStatistical AnalysisAttendance of MembersHandbook Members Since 1952Digitized Who's WhoOthers BusinessProvisional CalendarList of BusinessPapers to be LaidList of Private Members' BusinessBulletin-IDigitized Lok Sabha Bulletin Part IBulletin-IIStatement of WorkSpecial Mentions (ZERO HOUR)Resume of WorkDigitized Resume of Work done by Lok Sabha QuestionsHomeQuestion ListStatus of notices of questionQuestions CalendarGrouping of Ministries - AlphabeticalOfficers in Min./Dept. Dealing with Parliamentary WorkQuestion SearchSupplementary Questions DebatesIntroductionSynopsisUncorrected DebateText of DebateDigitized DebatesConstituent Assembly DebatesWit And HumourDebate SearchHindi FontsDisclaimer Papers LaidPapers Laid on the Table of the House LegislationIntroduction(How Bill Becomes Act)Bills IntroducedBills PassedBills PendingBills AssentedBills LapsedBills WithdrawnBills NegativedBills Search Disclaimer CommitteesIntroductionChairpersonSummary of WorkCommittee Meetings ScheduleBills Referred to CommitteesReports PresentedDigitized ReportsPress ReleaseMembership SearchToday's Committee MeetingsCommittee Subject SelectedDepartment Related-RS Govt. AssurancesSANSAD TVIntranet
+
+
+
+
+
+HomeQuestion ListStatus of notices of questionQuestions CalendarGrouping of Ministries - AlphabeticalOfficers in Min./Dept. Dealing with Parliamentary WorkQuestion SearchSupplementary Questions
+
+
+
+
+
+
+
+
+
+
+
+Download as PDF
+
+
+
+
+Print
+
+
+
+
+
+
+
+
+
+
+
+
+PDF/WORD(Hindi)
+
+
+PDF/WORD
+
+
+
+
+                                    GOVERNMENT OF INDIA
+                                
+
+
+
+
+
+                                    MINISTRY OF
+                                    ELECTRONICS AND INFORMATION TECHNOLOGY
+
+
+
+
+
+
+                                    LOK SABHA
+                                
+
+
+
+
+
+UNSTARRED 
+
+
+                                    QUESTION NO:
+                                
+
+3699
+
+
+
+
+
+
+                                    ANSWERED ON: 
+                                
+
+11.12.2019
+
+
+
+
+
+
+Safety of Government’s Mobile Application
+
+
+
+
+Komati Reddy Venkat Reddy
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                    Raghu Ramakrishna Raju Kanumuru
+                                                
+
+
+
+
+
+
+
+
+
+
+
+
+                        Will the Minister of
+
+
+
+
+
+ELECTRONICS AND INFORMATION TECHNOLOGY
+
+
+                        be pleased to state:-
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                    Will the Minister of Electronics & Information Technology be pleased to state:-(a)	whether the popular Government’s mobile application is vulnerable to security threats as the accounts of the application can be hacked with just few basic programming skills; (b) 	if so, the details thereof and the reaction of the Government thereto;(c)	whether these application are unprotected and anyone can modify and make changes in these application just by simple knowledge; (d)	if so, the details thereof and the reaction of the Government thereto; and(e) 	the remedial measures being taken by the Government in this regard?
+
+
+
+
+
+
+ANSWER
+
+
+
+
+                                                        (a)	to (d):  Standardisation, Testing & Quality Certification Directorate (STQC) has undertaken security testing & evaluation of mobile applications as per Mobile Application Security Verification Standard (MASVS) and Open Web Application Security Project (OWASP). A total of 21 Mobile Applications have been evaluated as per MASVS/OWASP. Details of the 21 Mobile Applications is at Annexure.(e):	The Indian Computer Emergency Response Team (CERT-In) regularly issues alerts and advisories regarding latest cyber threats and countermeasures. CERT-In has also published advisories and security tips on its website to enable users to secure their mobile/smart phones. National Informatics Centre (NIC) provides IT/E-Governance related services to Government departments and protects the cyber resources from possible compromises through a layered security approach in the form of practices, procedures and technologies that are put in place.NIC has deployed state-of-the-art security solutions including firewalls, intrusion prevention systems, anti-virus solution for safe-guarding of hosted websites. Additionally, periodic security audits of resources are performed followed by subsequent hardenings. These are complemented by round-the-clock monitoring of security events. At NIC, Cyber Security is a continuous process and the protection elements are updated on a regular basis. A 24x7 security monitoring centre is in place at NIC, for detecting and responding to security incidents and countering to exigencies with remedial measures, including NIC-CERT and Centres of Excellence for Application Security.******** AnnexureMobile apps tested by STQCSerial No	Mobile App1.		Bipadsathi2.		Kanyashree3.		IRCTC Air4.		GreenE5.		UPCOP6.		UP Police PMS7.		IRCTC Rail Connect8.		iOSMS?eHRMS9.		Wbmdminspection10.		KoPT_HaldiaDock11.		Semitronik Instruments12.		Utkarsh Bangla Inspection mobile app13.		Utkarsh Bangla Training Centre Monitoring System Android App14.		NeMLePermit Generation by trader15.		NeMLePermit verification at checkpost16.		School Inspection and Monitoring System17.		Samvad android app version 14.018.		Samvad iOS app version 2.019.		IndiaPost android app version 1.020.		RDSO Pensioners'' android app version 2.10.021.		E-learning Mobile app version 1.0********
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+HomeArchiveIndex to Select Questions (1984-1999)Ballot ListStatistical Statements Relating to QuestionsUploading of Questions - Status QueryProcedure for Sending Text of Questions & AnswersDemarcation of responsibilities in Govt. of IndiaBrochure on Statutory Corporations, Companies and Other Bodies in Which the Government of India have financial or controlling interestHighlights pertaining to questions of 17th Lok Sabha
+
+
+
+
+
+
+Contact Us 
+Disclaimer
+
+
+
+
+
+
+
+
+
+
+
+        Developed and Hosted by National Informatics Centre (NIC)
+
+Content on this website is published,
+            managed & maintained by Software Unit, Computer (HW & SW) Management. Branch,
+            Lok Sabha Secretariat
+
+
+
+
+
+HomeMembersBusinessQuestionsDebatesPapers Laid
+
+
+LegislationCommitteesSANSAD TVIntranetSecretariatPRIDE
+
+
+RecruitmentSC/ST ReservationConferenceParliament Library
+
+
+About ParliamentPhoto GalleryRelated LinksRTITendersFAQ
+
+
+SpeakerDy. SpeakerLeader of the HousePanel of ChairpersonsContact UsFeedback
+
+
+Council of MinistersPublications of MinistriesParliamentry ProceduresJournal of Parliamentary Information
+Visitor's Counter:113166953
+
+
+
+
+
+
+
+Copyright
+Privacy Policy
+Disclaimer
+Terms &
+                Conditions
+
+                Accessibility Statement
+Accessibility
+                Options
+Feedback
+Site Map
+
+
+
+
+
+
+

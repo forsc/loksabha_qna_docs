@@ -1,0 +1,363 @@
+
+
+
+
+	Questions : Lok Sabha
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Screen Reader Access
+Skip to Main Content
+Skip to Navigation
+
+
+
+Text Size
+
+                                A
+
+                                A
+A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+हिन्दी मे
+
+
+
+
+
+
+
+
+Parliament of India Lok Sabha House of the
+                        People
+
+
+
+
+
+
+* Special Characters not allowed
+
+
+
+
+
+
+
+
+
+
+
+
+India Time 
+
+
+Your Time 
+
+
+                        Tuesday,
+                        12 April 2022
+
+
+
+
+
+
+
+
+
+HomeMembersSitting MembersMembers Home PageMembers' PortalContact DetailsMembers SearchStatistical AnalysisAttendance of MembersHandbook Members Since 1952Digitized Who's WhoOthers BusinessProvisional CalendarList of BusinessPapers to be LaidList of Private Members' BusinessBulletin-IDigitized Lok Sabha Bulletin Part IBulletin-IIStatement of WorkSpecial Mentions (ZERO HOUR)Resume of WorkDigitized Resume of Work done by Lok Sabha QuestionsHomeQuestion ListStatus of notices of questionQuestions CalendarGrouping of Ministries - AlphabeticalOfficers in Min./Dept. Dealing with Parliamentary WorkQuestion SearchSupplementary Questions DebatesIntroductionSynopsisUncorrected DebateText of DebateDigitized DebatesConstituent Assembly DebatesWit And HumourDebate SearchHindi FontsDisclaimer Papers LaidPapers Laid on the Table of the House LegislationIntroduction(How Bill Becomes Act)Bills IntroducedBills PassedBills PendingBills AssentedBills LapsedBills WithdrawnBills NegativedBills Search Disclaimer CommitteesIntroductionChairpersonSummary of WorkCommittee Meetings ScheduleBills Referred to CommitteesReports PresentedDigitized ReportsPress ReleaseMembership SearchToday's Committee MeetingsCommittee Subject SelectedDepartment Related-RS Govt. AssurancesSANSAD TVIntranet
+
+
+
+
+
+HomeQuestion ListStatus of notices of questionQuestions CalendarGrouping of Ministries - AlphabeticalOfficers in Min./Dept. Dealing with Parliamentary WorkQuestion SearchSupplementary Questions
+
+
+
+
+
+
+
+
+
+
+
+Download as PDF
+
+
+
+
+Print
+
+
+
+
+
+
+
+
+
+
+
+
+PDF/WORD(Hindi)
+
+
+PDF/WORD
+
+
+
+
+                                    GOVERNMENT OF INDIA
+                                
+
+
+
+
+
+                                    MINISTRY OF
+                                    COMMUNICATIONS
+
+
+
+
+
+
+                                    LOK SABHA
+                                
+
+
+
+
+
+STARRED   
+
+
+                                    QUESTION NO:
+                                
+
+253
+
+
+
+
+
+
+                                    ANSWERED ON: 
+                                
+
+15.12.2021
+
+
+
+
+
+
+Bharat Broadband Network
+
+
+
+
+Arvind Kumar Sharma
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                    Bharatiben Dhirubhai Shyal
+                                                
+
+
+
+
+
+
+
+
+
+
+
+
+                        Will the Minister of
+
+
+
+
+
+COMMUNICATIONS
+
+
+                        be pleased to state:-
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                    (a) 	whether capacity utilisation of large and high capacity optical fibre network created by Bharat Broadband Network, is still not optimal;(b) 	if so, the steps taken to address this;(c) 	the details of the outcome of efforts to increase capacity utilization;(d) 	whether efforts are being made by the Government to improve the internet speed and its quality in the country, as Ookla’s Speedtest Global Index, October 2021, highlights that India ranks 122, out of 141, in the global mobile internet speed rankings;(e) 	if so, the details thereof; and(f) 	if not, the reasons therefor?
+
+
+
+
+
+
+ANSWER
+
+
+
+
+                                                         MINISTER OF RAILWAYS, COMMUNICATIONS & ELECTRONICS AND INFORMATION TECHNOLOGY(SHRI ASHWINI VAISHNAW)(a) to (f)	 A statement is laid on the Table of the House. STATEMENT TO BE LAID ON THE TABLE OF THE LOK SABHA IN RESPECT OF PARTS (a) to (f) OF THE LOK SABHA STARRED QUESTION NO. 253 FOR 15TH DECEMBER, 2021 REGARDING “BHARAT BROADBAND NETWORK”(a) to (c)	BharatNet project is implemented in a phased manner to provide broadband connectivity to all Gram Panchayats (GPs) in the country. Bharat Broadband Network Limited (BBNL), a Special Purpose Vehicle (SPV) under the Department of Telecommunications, is the Executing Agency for the project. The scope of BharatNet on 30.06.2021 was extended upto all inhabited villages beyond GPs in the country and the Union Cabinet accorded approval for a revised strategy for implementation of BharatNet through Public-Private Partnership (PPP) model in 16 States of the country covering about 3.61 lakh villages, which will harness private sector capabilities for execution, maintenance and utilization of network for delivery of services. As proper functioning of Network is required for its effective utilization, the network is monitored through Network Operating Centre (NOC) and its reports are being monitored on a regular basis.The infrastructure created under BharatNet project is a national asset, accessible on a non-discriminatory basis to the Service Providers, and the same can be utilized for provisioning of broadband/internet services through    Wi-Fi Hotspots, Fibre to the Home (FTTH) connections, leased lines, dark fibre, backhaul to mobile towers, etc.  As on 30.11.2021, a total number of 1,67,156 GPs are made Service Ready in the country. 4218 Gbps of bandwidth and 31,144 km of dark fibre have been leased from BharatNet network.(d) to (f)	Telecom Regulatory Authority of India (TRAI) has been monitoring the performance of service providers against the benchmarks for various Quality of Service parameters, through Quarterly Performance Monitoring Reports (PMRs), submitted by Service Providers. Major steps taken by the Department to improve the internet speed, as envisioned in National Digital Communications Policy - 2018 issued in October 2018 with the missions which inter-alia includes provisioning of Universal Broadband connectivity at 50 Mbps to every citizen, as below:I.	The number of Base Transceiver Stations (BTSs) of 4G technology has increased to 16.47 lakh in November 2021 from almost negligible numbers in 2014.  II.	The Department has launched National Broadband Mission on 17.12.2019 with a vision to fast-track growth of digital communications infrastructure, through fiberisation of towers, raising the Telecom Tower density and thereby providing affordable and Universal access of broadband to all. III.	The Department is implementing various schemes for expansion of internet/broadband services in rural and remote areas, with funding from Universal Service Obligation Fund. The list of major schemes is given in Annexure-I.   Annexure-I Annexure referred to in Parts (d) to (f) of the Lok Sabha Starred Question No. 253 for answer on 15.12.2021The Government has the following major schemes for expansion of internet/broadband services in rural and remote areas of the country with support from Universal Service Obligation Fund:1.	BharatNet project to create network to connect all the Gram Panchayats (approximately 2.6 lakh) with broadband in the country. The scope of BharatNet on 30.06.2021 was extended upto all inhabited villages beyond GPs in the country.2.	Provision of 4G mobile services in Left Wing Extremism (LWE) affected areas under Phase-II3.	Provision of Mobile Services in Uncovered villages in Assam, Manipur, Mizoram, Nagaland, Tripura, Sikkim, and Arunachal Pradesh (National Highways only) of NER and seamless coverage along National Highway4.	Provision of 4G Mobile Services in Uncovered villages of Meghalaya and seamless coverage along National Highway5.	Provision of 4G Mobile Services in Uncovered Villages of Arunachal Pradesh and 2 Districts of Assam6.	Hiring of 10 Gbps International Bandwidth for Internet Connectivity to Agartala from BSCCL, Bangladesh via Cox Bazar7.	Provision of mobile connectivity in 354 uncovered villages of J&K, Ladakh, Himachal Pradesh, Uttar Pradesh, Bihar, Rajasthan, Gujarat, Uttarakhand, Border area & other priority areas 8.	Provision of 4G mobile connectivity in 502 uncovered villages of Aspirational Districts in four States (namely Uttar Pradesh, Bihar, Madhya Pradesh & Rajasthan)9.	Remaining 7,287 Aspirational District villages (Andhra Pradesh, Chhattisgarh, Jharkhand, Maharashtra and Odisha) for provision of mobile services 10.	Provision of 4G Mobile Coverage in 85 uncovered Villages and seamless 4G Mobile coverage of NH223 in Andaman & Nicobar Islands 11.	Laying of submarine optical fibre cable between Chennai and Andaman & Nicobar Islands 12.	Submarine OFC Connectivity between Mainland India (Kochi) and Lakshadweep Islands 13.	Public Wi-Fi hotspots at the 25,000 rural telephone exchanges of BSNL *******
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+HomeArchiveIndex to Select Questions (1984-1999)Ballot ListStatistical Statements Relating to QuestionsUploading of Questions - Status QueryProcedure for Sending Text of Questions & AnswersDemarcation of responsibilities in Govt. of IndiaBrochure on Statutory Corporations, Companies and Other Bodies in Which the Government of India have financial or controlling interestHighlights pertaining to questions of 17th Lok Sabha
+
+
+
+
+
+
+Contact Us 
+Disclaimer
+
+
+
+
+
+
+
+
+
+
+
+        Developed and Hosted by National Informatics Centre (NIC)
+
+Content on this website is published,
+            managed & maintained by Software Unit, Computer (HW & SW) Management. Branch,
+            Lok Sabha Secretariat
+
+
+
+
+
+HomeMembersBusinessQuestionsDebatesPapers Laid
+
+
+LegislationCommitteesSANSAD TVIntranetSecretariatPRIDE
+
+
+RecruitmentSC/ST ReservationConferenceParliament Library
+
+
+About ParliamentPhoto GalleryRelated LinksRTITendersFAQ
+
+
+SpeakerDy. SpeakerLeader of the HousePanel of ChairpersonsContact UsFeedback
+
+
+Council of MinistersPublications of MinistriesParliamentry ProceduresJournal of Parliamentary Information
+Visitor's Counter:113227645
+
+
+
+
+
+
+
+Copyright
+Privacy Policy
+Disclaimer
+Terms &
+                Conditions
+
+                Accessibility Statement
+Accessibility
+                Options
+Feedback
+Site Map
+
+
+
+
+
+
+

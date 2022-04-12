@@ -1,0 +1,350 @@
+
+
+
+
+	Questions : Lok Sabha
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Screen Reader Access
+Skip to Main Content
+Skip to Navigation
+
+
+
+Text Size
+
+                                A
+
+                                A
+A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+हिन्दी मे
+
+
+
+
+
+
+
+
+Parliament of India Lok Sabha House of the
+                        People
+
+
+
+
+
+
+* Special Characters not allowed
+
+
+
+
+
+
+
+
+
+
+
+
+India Time 
+
+
+Your Time 
+
+
+                        Monday,
+                        11 April 2022
+
+
+
+
+
+
+
+
+
+HomeMembersSitting MembersMembers Home PageMembers' PortalContact DetailsMembers SearchStatistical AnalysisAttendance of MembersHandbook Members Since 1952Digitized Who's WhoOthers BusinessProvisional CalendarList of BusinessPapers to be LaidList of Private Members' BusinessBulletin-IDigitized Lok Sabha Bulletin Part IBulletin-IIStatement of WorkSpecial Mentions (ZERO HOUR)Resume of WorkDigitized Resume of Work done by Lok Sabha QuestionsHomeQuestion ListStatus of notices of questionQuestions CalendarGrouping of Ministries - AlphabeticalOfficers in Min./Dept. Dealing with Parliamentary WorkQuestion SearchSupplementary Questions DebatesIntroductionSynopsisUncorrected DebateText of DebateDigitized DebatesConstituent Assembly DebatesWit And HumourDebate SearchHindi FontsDisclaimer Papers LaidPapers Laid on the Table of the House LegislationIntroduction(How Bill Becomes Act)Bills IntroducedBills PassedBills PendingBills AssentedBills LapsedBills WithdrawnBills NegativedBills Search Disclaimer CommitteesIntroductionChairpersonSummary of WorkCommittee Meetings ScheduleBills Referred to CommitteesReports PresentedDigitized ReportsPress ReleaseMembership SearchToday's Committee MeetingsCommittee Subject SelectedDepartment Related-RS Govt. AssurancesSANSAD TVIntranet
+
+
+
+
+
+HomeQuestion ListStatus of notices of questionQuestions CalendarGrouping of Ministries - AlphabeticalOfficers in Min./Dept. Dealing with Parliamentary WorkQuestion SearchSupplementary Questions
+
+
+
+
+
+
+
+
+
+
+
+Download as PDF
+
+
+
+
+Print
+
+
+
+
+
+
+
+
+
+
+
+
+PDF/WORD(Hindi)
+
+
+PDF/WORD
+
+
+
+
+                                    GOVERNMENT OF INDIA
+                                
+
+
+
+
+
+                                    MINISTRY OF
+                                    ELECTRONICS AND INFORMATION TECHNOLOGY
+
+
+
+
+
+
+                                    LOK SABHA
+                                
+
+
+
+
+
+UNSTARRED 
+
+
+                                    QUESTION NO:
+                                
+
+2633
+
+
+
+
+
+
+                                    ANSWERED ON: 
+                                
+
+10.03.2021
+
+
+
+
+
+
+Aarogya Setu App
+
+
+
+
+Gaurav Gogoi
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        Will the Minister of
+
+
+
+
+
+ELECTRONICS AND INFORMATION TECHNOLOGY
+
+
+                        be pleased to state:-
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                    Will the Minister of ELECTRONICS AND INFORMATION TECHNOLOGY   be pleased to State:(a)	 the data on the total number of downloads of the Aarogya Setu app State/UT-wise;(b)	whether  the Government can provide data on the success of Aarogya Setu app on the lines of quantification of success of such contract tracking apps by many countries;(c)	if so, the details thereof;(d)	the details of the maker of the app and data privacy practices  followed  thereunder; and(e)	whether the government can provide  details of government involvement and usage of the domain gov.in for the Aarogya Setu app and if so, the details thereof?
+
+
+
+
+
+
+ANSWER
+
+
+
+
+                                                        ): Yes, Sir. Aarogya Setu has 17.05 Cr. registered users. The state wise break-up of the users is attached in Annexure I. (a)	and (c):  Yes, Sir.  In a country with more than a billion people, testing (for COVID19) of the entire population is a humongous task. The testing of the individuals (who are at risk of infection) is something which needs to be done at the early stage and such individuals need to be quarantined so as to prevent the transmission of the infection to other people. Here Aarogya Setu played a key role by identifying the individuals of high risk at an early stage, thereby prioritizing their testing, and for taking necessary medical and administrative measures. Aarogya Setu has helped in identifying more than 1.00 Cr. individuals (at risk) through contact tracing. The positivity rate of Aarogya Setu is currently around 25%, which means that 25% of Aarogya Setu users (identified at risk through contact tracing) turned out to be COVID-19 positive, when tested for Covid-19.(d): Yes, Sir. The App has been developed by National Informatics Centre. Aarogya Setu has been developed with “privacy-first by design” as a key principle. Aarogya Setu has implemented some of the best and widely accepted privacy features and practices, including anonymization, data minimization, purpose & use limitation and data retention principles. The key privacy practices followed by the App are :i.	Personal information provided at the time of registration is immediately anonymized and all subsequent transactions are related to a specific Device Identification Number (DiD) that is assigned to the user by the Aarogya Setu server. ii.	By default, all contact tracing and location information that is collected, is stored locally on the user’s mobile device. This information is only uploaded to the Aarogya Setu server if the user tests positive for COVID-19. The location information is also recorded when the user takes the self-assessment and it is sent to the server along with the user’s response to self-assessment. iii.	All contact tracing and location information is stored on the user mobile device and not uploaded to the Aarogya Setu servers and is permanently deleted from the phone on a rolling 30-day cycle. All the contact tracing and location information that might have been uploaded to the Aarogya Setu server is permanently deleted after 45 days from the date of upload if the user has not tested positive for COVID-19 within that period of time. If the user is infected, all contact tracing and location information pertaining to the user is permanently deleted from the server after 60 days after the user is declared cured of COVID-19. iv.	Further, the privacy policy explicitly limits the purposes for which this data will be used i.e. only for assisting the user and generating insights to help the Government of India in its COVID-19 mitigation efforts.(e):   The App has been developed by NIC and the ownership of the Aarogya Setu rests with NIC under MeitY. The website ‘aarogyasetu.gov.in’ is also developed by NIC. As the Aarogya Setu is owned by Government, the website for Aarogya Setu has been registered with ‘gov.in’ domain.*******Annexure IStates/UTs wise total number of downloadsGeo_State	CountAndaman & Nicobar	66003Andhra Pradesh	6585668Arunachal Pradesh	190473Assam	1758160Bihar	8048790Chandigarh	557943Chhattisgarh	2519638Dadra & Nagar Have	148829Daman & Diu	99023Delhi	8580861Goa	510920Gujarat	8984196Haryana	6756916Himachal Pradesh	1559238Jammu & Kashmir	1267380Jharkhand	2946895Karnataka	9302512Kerala	2137293Ladakh	76934Lakshadweep	1981Madhya Pradesh	7442708Maharashtra	19367364Manipur	162069Meghalaya	140193Mizoram	61247Nagaland	137086Odisha	2909471Puducherry	138949Punjab	3459584Rajasthan	7472629Sikkim	165244Tamil Nadu	5110133Telangana	5407787Tripura	275631Uttar Pradesh	23702046Uttarakhand	2276842West Bengal	6986278Note: Some users have not provided their location information. So the counts of such users are not included in the detailed state wise breakup.********
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+HomeArchiveIndex to Select Questions (1984-1999)Ballot ListStatistical Statements Relating to QuestionsUploading of Questions - Status QueryProcedure for Sending Text of Questions & AnswersDemarcation of responsibilities in Govt. of IndiaBrochure on Statutory Corporations, Companies and Other Bodies in Which the Government of India have financial or controlling interestHighlights pertaining to questions of 17th Lok Sabha
+
+
+
+
+
+
+Contact Us 
+Disclaimer
+
+
+
+
+
+
+
+
+
+
+
+        Developed and Hosted by National Informatics Centre (NIC)
+
+Content on this website is published,
+            managed & maintained by Software Unit, Computer (HW & SW) Management. Branch,
+            Lok Sabha Secretariat
+
+
+
+
+
+HomeMembersBusinessQuestionsDebatesPapers Laid
+
+
+LegislationCommitteesSANSAD TVIntranetSecretariatPRIDE
+
+
+RecruitmentSC/ST ReservationConferenceParliament Library
+
+
+About ParliamentPhoto GalleryRelated LinksRTITendersFAQ
+
+
+SpeakerDy. SpeakerLeader of the HousePanel of ChairpersonsContact UsFeedback
+
+
+Council of MinistersPublications of MinistriesParliamentry ProceduresJournal of Parliamentary Information
+Visitor's Counter:113206573
+
+
+
+
+
+
+
+Copyright
+Privacy Policy
+Disclaimer
+Terms &
+                Conditions
+
+                Accessibility Statement
+Accessibility
+                Options
+Feedback
+Site Map
+
+
+
+
+
+
+

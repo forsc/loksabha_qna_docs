@@ -1,0 +1,350 @@
+
+
+
+
+	Questions : Lok Sabha
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Screen Reader Access
+Skip to Main Content
+Skip to Navigation
+
+
+
+Text Size
+
+                                A
+
+                                A
+A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+हिन्दी मे
+
+
+
+
+
+
+
+
+Parliament of India Lok Sabha House of the
+                        People
+
+
+
+
+
+
+* Special Characters not allowed
+
+
+
+
+
+
+
+
+
+
+
+
+India Time 
+
+
+Your Time 
+
+
+                        Monday,
+                        11 April 2022
+
+
+
+
+
+
+
+
+
+HomeMembersSitting MembersMembers Home PageMembers' PortalContact DetailsMembers SearchStatistical AnalysisAttendance of MembersHandbook Members Since 1952Digitized Who's WhoOthers BusinessProvisional CalendarList of BusinessPapers to be LaidList of Private Members' BusinessBulletin-IDigitized Lok Sabha Bulletin Part IBulletin-IIStatement of WorkSpecial Mentions (ZERO HOUR)Resume of WorkDigitized Resume of Work done by Lok Sabha QuestionsHomeQuestion ListStatus of notices of questionQuestions CalendarGrouping of Ministries - AlphabeticalOfficers in Min./Dept. Dealing with Parliamentary WorkQuestion SearchSupplementary Questions DebatesIntroductionSynopsisUncorrected DebateText of DebateDigitized DebatesConstituent Assembly DebatesWit And HumourDebate SearchHindi FontsDisclaimer Papers LaidPapers Laid on the Table of the House LegislationIntroduction(How Bill Becomes Act)Bills IntroducedBills PassedBills PendingBills AssentedBills LapsedBills WithdrawnBills NegativedBills Search Disclaimer CommitteesIntroductionChairpersonSummary of WorkCommittee Meetings ScheduleBills Referred to CommitteesReports PresentedDigitized ReportsPress ReleaseMembership SearchToday's Committee MeetingsCommittee Subject SelectedDepartment Related-RS Govt. AssurancesSANSAD TVIntranet
+
+
+
+
+
+HomeQuestion ListStatus of notices of questionQuestions CalendarGrouping of Ministries - AlphabeticalOfficers in Min./Dept. Dealing with Parliamentary WorkQuestion SearchSupplementary Questions
+
+
+
+
+
+
+
+
+
+
+
+Download as PDF
+
+
+
+
+Print
+
+
+
+
+
+
+
+
+
+
+
+
+PDF/WORD(Hindi)
+
+
+PDF/WORD
+
+
+
+
+                                    GOVERNMENT OF INDIA
+                                
+
+
+
+
+
+                                    MINISTRY OF
+                                    FINANCE
+
+
+
+
+
+
+                                    LOK SABHA
+                                
+
+
+
+
+
+UNSTARRED 
+
+
+                                    QUESTION NO:
+                                
+
+1710
+
+
+
+
+
+
+                                    ANSWERED ON: 
+                                
+
+02.03.2020
+
+
+
+
+
+
+Cyber Security of Banking Sector
+
+
+
+
+Devusinh Jesingbhai Chauhan
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        Will the Minister of
+
+
+
+
+
+FINANCE
+
+
+                        be pleased to state:-
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                    (a) whether the Government is concerned about the vulnerability of cyber attack on financial sector;(b) if so, the details thereof;(c) whether a number of cyber frauds on banking system have been reported during recent months;(d) if so, the details thereof; and(e) the action being taken/proposed to be taken by the Government to ensure cyber security in banking/ financial sector?
+
+
+
+
+
+
+ANSWER
+
+
+
+
+                                                        MINISTER OF STATE IN THE MINISTRY OF FINANCE)(a) to (e) Yes Sir. In order to strengthen the security of digital transactions, Reserve Bank of India (RBI) reviews the cyber security developments and threats on an ongoing basis and necessary measures are taken to strengthen the cyber resilience of banks. Cyber incidents are analysed from the point of view of sophistication of attack as well as systemic impact and are categorised as critical, high, medium and low categories. Wherever required, advisories/alerts are issued to all banks to avoid occurrence of similar incident in other banks. In order to focus more attention on IT related matters, Reserve Bank has set up a Cyber Security and IT Examination (CSITE) Cell within its Department of Banking Supervision in 2015 which carries out IT Examination of banks separately from the regular financial examination of the banks to assess their cyber resilience. The examination, inter-alia, evaluates the processes implemented by banks for security checks like Vulnerability Assessment/Penetration Testing etc. and their follow up action.RBI has also set up a Cyber Crisis Management Group to address any major incidents reported including suggesting ways to respond. Based on market intelligence and incidents reported by the banks, advisories are issued to the banks for sensitizing them about various threats and ensure prompt preventive/corrective action. RBI also conducts cyber security preparedness testing among banks on the basis of hypothetical scenarios with the help of CERT-In. An inter-disciplinary Standing Committee on Cyber Security has been constituted. The Committee, inter alia, reviews the threats inherent in the existing/emerging technology and suggests appropriate policy interventions to strengthen cyber security and resilience. RBI has set up an IT Subsidiary, which would focus, among other things, on cyber security within RBI as well as in regulated entities. RBI also issues circulars and advisories from time to time and one such comprehensive circular was issued on 2nd June, 2016.RBI has also informed that data on frauds reported under the category ‘Cyber Frauds’ is not available.  The data on frauds reported under the category ‘Card/Internet - ATM/Debit Cards, Credit Cards & Internet Banking for the recent months October 2019, November 2019 and December, 2019 is in attached Annexure.Further, Insurance Regulatory and Development Authority of India (IRDAI) has issued detailed guidelines vide its Guidelines on “Information and Cyber Security for insurers” No. IRDA/IT/GDL/MISC/ 082/04/2017 dated 07/04/2017, covering various steps to be taken by Insurance companies for effective management of cyber risks. The main objectives of these guidelines are to ensure that an in-built governance mechanism is in place for effective implementation of Information and cyber security frame work and to ensure that insurers are adequately prepared to mitigate cyber security related risks.Pension Fund Regulatory and Development Authority (PFRDA) has issued a detailed policy on cyber security for intermediaries and also for its own employees.Source: RBI/PFRDA/IRDAI***** 					AnnexureData on frauds reported by Scheduled Commercial Banks and Select Financial Institutions on the category ‘Card/Internet - ATM/Debit Cards, Credit Cards & Internet Banking for the recent months - October 2019, November 2019 & December 2019 Type of Cyber Fraud	Oct-19	Nov-19	Dec-19	No.of FMRs	Amount Involved in Crores	No.of FMRs	Amount Involved in Crores	No.of FMRs	Amount Involved in CroresCard/Internet - ATM/Debit Cards	3376	73.65	3533	10.55	4149	10.33Card/Internet - Credit Cards	1641	4.04	1711	4.77	2765	10.87Card/Internet - Internet Banking	360	7.01	2256	4.31	1250	2.27Grand Total	5377	84.70	7500	19.63	8164	23.47 FMR:- Fraud Management Reports					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+HomeArchiveIndex to Select Questions (1984-1999)Ballot ListStatistical Statements Relating to QuestionsUploading of Questions - Status QueryProcedure for Sending Text of Questions & AnswersDemarcation of responsibilities in Govt. of IndiaBrochure on Statutory Corporations, Companies and Other Bodies in Which the Government of India have financial or controlling interestHighlights pertaining to questions of 17th Lok Sabha
+
+
+
+
+
+
+Contact Us 
+Disclaimer
+
+
+
+
+
+
+
+
+
+
+
+        Developed and Hosted by National Informatics Centre (NIC)
+
+Content on this website is published,
+            managed & maintained by Software Unit, Computer (HW & SW) Management. Branch,
+            Lok Sabha Secretariat
+
+
+
+
+
+HomeMembersBusinessQuestionsDebatesPapers Laid
+
+
+LegislationCommitteesSANSAD TVIntranetSecretariatPRIDE
+
+
+RecruitmentSC/ST ReservationConferenceParliament Library
+
+
+About ParliamentPhoto GalleryRelated LinksRTITendersFAQ
+
+
+SpeakerDy. SpeakerLeader of the HousePanel of ChairpersonsContact UsFeedback
+
+
+Council of MinistersPublications of MinistriesParliamentry ProceduresJournal of Parliamentary Information
+Visitor's Counter:113176818
+
+
+
+
+
+
+
+Copyright
+Privacy Policy
+Disclaimer
+Terms &
+                Conditions
+
+                Accessibility Statement
+Accessibility
+                Options
+Feedback
+Site Map
+
+
+
+
+
+
+

@@ -1,0 +1,363 @@
+
+
+
+
+	Questions : Lok Sabha
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Screen Reader Access
+Skip to Main Content
+Skip to Navigation
+
+
+
+Text Size
+
+                                A
+
+                                A
+A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+हिन्दी मे
+
+
+
+
+
+
+
+
+Parliament of India Lok Sabha House of the
+                        People
+
+
+
+
+
+
+* Special Characters not allowed
+
+
+
+
+
+
+
+
+
+
+
+
+India Time 
+
+
+Your Time 
+
+
+                        Tuesday,
+                        12 April 2022
+
+
+
+
+
+
+
+
+
+HomeMembersSitting MembersMembers Home PageMembers' PortalContact DetailsMembers SearchStatistical AnalysisAttendance of MembersHandbook Members Since 1952Digitized Who's WhoOthers BusinessProvisional CalendarList of BusinessPapers to be LaidList of Private Members' BusinessBulletin-IDigitized Lok Sabha Bulletin Part IBulletin-IIStatement of WorkSpecial Mentions (ZERO HOUR)Resume of WorkDigitized Resume of Work done by Lok Sabha QuestionsHomeQuestion ListStatus of notices of questionQuestions CalendarGrouping of Ministries - AlphabeticalOfficers in Min./Dept. Dealing with Parliamentary WorkQuestion SearchSupplementary Questions DebatesIntroductionSynopsisUncorrected DebateText of DebateDigitized DebatesConstituent Assembly DebatesWit And HumourDebate SearchHindi FontsDisclaimer Papers LaidPapers Laid on the Table of the House LegislationIntroduction(How Bill Becomes Act)Bills IntroducedBills PassedBills PendingBills AssentedBills LapsedBills WithdrawnBills NegativedBills Search Disclaimer CommitteesIntroductionChairpersonSummary of WorkCommittee Meetings ScheduleBills Referred to CommitteesReports PresentedDigitized ReportsPress ReleaseMembership SearchToday's Committee MeetingsCommittee Subject SelectedDepartment Related-RS Govt. AssurancesSANSAD TVIntranet
+
+
+
+
+
+HomeQuestion ListStatus of notices of questionQuestions CalendarGrouping of Ministries - AlphabeticalOfficers in Min./Dept. Dealing with Parliamentary WorkQuestion SearchSupplementary Questions
+
+
+
+
+
+
+
+
+
+
+
+Download as PDF
+
+
+
+
+Print
+
+
+
+
+
+
+
+
+
+
+
+
+PDF/WORD(Hindi)
+
+
+PDF/WORD
+
+
+
+
+                                    GOVERNMENT OF INDIA
+                                
+
+
+
+
+
+                                    MINISTRY OF
+                                    FINANCE
+
+
+
+
+
+
+                                    LOK SABHA
+                                
+
+
+
+
+
+UNSTARRED 
+
+
+                                    QUESTION NO:
+                                
+
+862
+
+
+
+
+
+
+                                    ANSWERED ON: 
+                                
+
+07.02.2022
+
+
+
+
+
+
+Account Aggregators
+
+
+
+
+K. Shanmuga Sundaram
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                    P. Velusamy
+                                                
+
+
+
+
+
+
+
+
+
+
+
+
+                        Will the Minister of
+
+
+
+
+
+FINANCE
+
+
+                        be pleased to state:-
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                    (a) whether the Government is aware of the fact that Reserve Bank of India has given permission for Account Aggregators as a non-banking financial company under a contract for providing financial information to various persons;(b) if so, whether it is having any conflicting interest with CIBIL, CRISIL and other rating agencies and if so, the details thereof;(c) the kind of security provided by the Account Aggregators to protect the financial data of the individual; and(d) whether the application is having any facility to prevent multiple banking of individual and companies and if so, the details thereof?
+
+
+
+
+
+
+ANSWER
+
+
+
+
+                                                        THE MINISTER OF STATE IN THE MINISTRY OF FINANCE(a) and (b): RBI has apprised that with the objective of facilitating aggregation of all financial assets of an individual, RBI issued Master Direction – Non-Banking Financial Company - Account Aggregator (Reserve Bank) Directions, 2016 and subsequently a Gazette Notification in this regard was published on 26.11.2016 by the Government.Account Aggregator (AA) is an entity (company registered as an NBFC-AA with RBI) that undertakes the business of retrieving/collecting and consolidating information related to individual’s financial assets scattered across various financial instruments, with various financial intermediaries (Financial Information Providers (FIPs) spread across the purview of different financial sector regulators viz. RBI, SEBI, IRDA, PFRDA and such other entity as may be identified by the RBI), and presenting the same to the individual herself or specified/regulated Financial Information Users (FIUs). The transfer of such information is based on an explicit consent of the customer and with appropriate agreements/ authorisations between the NBFC-AA, the customer, and the FIPs.While the AA framework by allowing sharing of transaction data or bank statements from savings/deposit/current accounts, assists in decision making required for provision of various financial services, including lending, loan monitoring, personal finance / wealth management etc., the data collected and shared by credit information/rating companies like CIBIL, CRISIL etc. consolidate credit information of borrowers.(c): RBI has informed that to facilitate secured, duly authorised, seamless transfer of data, strict consent-based sharing of financial information and to protect the financial data of the individual, a set of core technical specifications for participants of NBFC-AA ecosystem has been framed by Reserve Bank Information Technology Pvt. Ltd. (ReBIT), a wholly owned subsidiary of RBI, in November 2019. The extant regulations mandated for NBFC-AAs on security and protection of financial data include, inter alia, the following:(i)	No financial information of the customer shall be retrieved, shared or transferred by the AA without the explicit consent of the customer, and such information accessed by the AA from the FIPs shall reside with the AA.(ii)	FIPs are required to implement interfaces that will allow an AA to submit consent artefacts and authenticate each other enabling secure flow of financial information to the AA, and such electronic consent artefacts be capable of being logged, audited and verified.(iii)	Data cannot be stored by account aggregators or used for any other purpose.(iv)	User authentication credentials of customers relating to accounts with various FIPs should not be accessed by the AA.(v)	AA should not to undertake any business other than the business of AA.(vi)	AA should not request or store customer credentials (like passwords, PINs, private keys) which may be used for authenticating customers to the FIPs and access by AAs to customer’s information to be based on consent-based authorisation.(vii)	Information System Audit of the internal systems and processes to be in place and be conducted at least once in two years by CISA certified external auditors.(viii)	Robust data security and customer grievance redressal mechanisms have been prescribed.(d): With regard to the application having any facility to prevent multiple banking of individual and companies, RBI has informed that the AA is a regulated entity mandated for sharing digitally signed and encrypted data, it does not support transactions by customers, and is just an interoperable data-blind consent manager who can selectively share and even revoke data once shared.*****
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+HomeArchiveIndex to Select Questions (1984-1999)Ballot ListStatistical Statements Relating to QuestionsUploading of Questions - Status QueryProcedure for Sending Text of Questions & AnswersDemarcation of responsibilities in Govt. of IndiaBrochure on Statutory Corporations, Companies and Other Bodies in Which the Government of India have financial or controlling interestHighlights pertaining to questions of 17th Lok Sabha
+
+
+
+
+
+
+Contact Us 
+Disclaimer
+
+
+
+
+
+
+
+
+
+
+
+        Developed and Hosted by National Informatics Centre (NIC)
+
+Content on this website is published,
+            managed & maintained by Software Unit, Computer (HW & SW) Management. Branch,
+            Lok Sabha Secretariat
+
+
+
+
+
+HomeMembersBusinessQuestionsDebatesPapers Laid
+
+
+LegislationCommitteesSANSAD TVIntranetSecretariatPRIDE
+
+
+RecruitmentSC/ST ReservationConferenceParliament Library
+
+
+About ParliamentPhoto GalleryRelated LinksRTITendersFAQ
+
+
+SpeakerDy. SpeakerLeader of the HousePanel of ChairpersonsContact UsFeedback
+
+
+Council of MinistersPublications of MinistriesParliamentry ProceduresJournal of Parliamentary Information
+Visitor's Counter:113255548
+
+
+
+
+
+
+
+Copyright
+Privacy Policy
+Disclaimer
+Terms &
+                Conditions
+
+                Accessibility Statement
+Accessibility
+                Options
+Feedback
+Site Map
+
+
+
+
+
+
+

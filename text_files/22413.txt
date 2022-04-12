@@ -1,0 +1,350 @@
+
+
+
+
+	Questions : Lok Sabha
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Screen Reader Access
+Skip to Main Content
+Skip to Navigation
+
+
+
+Text Size
+
+                                A
+
+                                A
+A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+हिन्दी मे
+
+
+
+
+
+
+
+
+Parliament of India Lok Sabha House of the
+                        People
+
+
+
+
+
+
+* Special Characters not allowed
+
+
+
+
+
+
+
+
+
+
+
+
+India Time 
+
+
+Your Time 
+
+
+                        Monday,
+                        11 April 2022
+
+
+
+
+
+
+
+
+
+HomeMembersSitting MembersMembers Home PageMembers' PortalContact DetailsMembers SearchStatistical AnalysisAttendance of MembersHandbook Members Since 1952Digitized Who's WhoOthers BusinessProvisional CalendarList of BusinessPapers to be LaidList of Private Members' BusinessBulletin-IDigitized Lok Sabha Bulletin Part IBulletin-IIStatement of WorkSpecial Mentions (ZERO HOUR)Resume of WorkDigitized Resume of Work done by Lok Sabha QuestionsHomeQuestion ListStatus of notices of questionQuestions CalendarGrouping of Ministries - AlphabeticalOfficers in Min./Dept. Dealing with Parliamentary WorkQuestion SearchSupplementary Questions DebatesIntroductionSynopsisUncorrected DebateText of DebateDigitized DebatesConstituent Assembly DebatesWit And HumourDebate SearchHindi FontsDisclaimer Papers LaidPapers Laid on the Table of the House LegislationIntroduction(How Bill Becomes Act)Bills IntroducedBills PassedBills PendingBills AssentedBills LapsedBills WithdrawnBills NegativedBills Search Disclaimer CommitteesIntroductionChairpersonSummary of WorkCommittee Meetings ScheduleBills Referred to CommitteesReports PresentedDigitized ReportsPress ReleaseMembership SearchToday's Committee MeetingsCommittee Subject SelectedDepartment Related-RS Govt. AssurancesSANSAD TVIntranet
+
+
+
+
+
+HomeQuestion ListStatus of notices of questionQuestions CalendarGrouping of Ministries - AlphabeticalOfficers in Min./Dept. Dealing with Parliamentary WorkQuestion SearchSupplementary Questions
+
+
+
+
+
+
+
+
+
+
+
+Download as PDF
+
+
+
+
+Print
+
+
+
+
+
+
+
+
+
+
+
+
+PDF/WORD(Hindi)
+
+
+PDF/WORD
+
+
+
+
+                                    GOVERNMENT OF INDIA
+                                
+
+
+
+
+
+                                    MINISTRY OF
+                                    COMMUNICATIONS
+
+
+
+
+
+
+                                    LOK SABHA
+                                
+
+
+
+
+
+UNSTARRED 
+
+
+                                    QUESTION NO:
+                                
+
+3504
+
+
+
+
+
+
+                                    ANSWERED ON: 
+                                
+
+17.03.2021
+
+
+
+
+
+
+Problem of Call Drop
+
+
+
+
+ Dharambir Singh
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        Will the Minister of
+
+
+
+
+
+COMMUNICATIONS
+
+
+                        be pleased to state:-
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                    (a) 	whether the Government is aware of the increasing problem of call drop;(b) 	if so, the details thereof and the reaction of the Government thereto along with the concrete steps taken by the Government to address the problem;(c) 	whether the Government is aware of the fact that telecom companies offer their plans for 27-28 days a month instead of 30-31 days; and(d) 	if so, details thereof and the reaction of the Government thereto along with the steps taken by the Government to stop this unfair trade practice?
+
+
+
+
+
+
+ANSWER
+
+
+
+
+                                                        MINISTER OF STATE FOR COMMUNICATIONS, EDUCATION AND ELECTRONICS & INFORMATION TECHNOLOGY (SHRI SANJAY DHOTRE)(a)	& (b)	 Telecom Service Providers (TSPs) in India are required to ensure that the call-drop rate in their mobile networks remains within the benchmarks laid down by Telecom Regulatory Authority of India (TRAI). The number of incidents of Call Drops/ Improper Network Coverage reported through Centralised Public Grievance Redressal And Monitoring System (CPGRAMS) to Department of Telecommunications (DoT) during the year 2018, 2019 & 2020 are 1678, 1162 & 298 respectively. 	Department of Telecommunications (DoT) has taken several policy initiatives to facilitate infrastructure growth for delivery of quality services. These include- (i)	Permitting trading/sharing/ liberalisation of spectrum, (ii)	Permitting passive & active infrastructure sharing, (iii)	Notification of Right of Way Rules 2016, (iv)	Making available government land/buildings for installations of towers etc. Nearly 15.77 lakh additional Base Transceiver Stations (BTSs) for 2G/3G/4G-LTE services have been added by TSPs during the period from March, 2014 (6.49 lakh BTS) to 10th March 2021 (22.27 lakh BTS) across the country. Moreover, around 2.24 lakh mobile towers have been added during the period from December 2015 (4.15 lakh mobile towers) to 10th March 2021 (6.39 lakh mobile towers) across the country. Moreover, in order to obtain direct feedback from subscribers, DoT has launched an Interactive Voice Response System (IVRS) wherein around 4.44 crore subscribers have been individually contacted since December 2016, out of which 61.65 lakh subscribers have participated in the survey. The feedback is shared with the TSPs for taking corrective actions in a time bound manner. As a result, about 1.51 lakh individual cases of call drops have been resolved so far and around 7,395 BTSs have been installed by the TSPs specifically to resolve the call drops issues received through IVRS. 	Further, TRAI has been monitoring the performance of TSPs for the License Service Area (LSA) as a whole, through Quarterly Performance Monitoring Reports (PMRs) submitted by them against the benchmarks for various Quality of Service parameters laid down by TRAI.TRAI has issued “The Standards of Quality of Service of Basic Telephone Service (Wireline) and Cellular Mobile Telephone Service (Fifth Amendment) Regulations, 2017” effective from 1st October 2017. These Regulations have prescribed two revised stringent parameters for assessing call drop in mobile network, viz. Drop Call Rate (DCR) Spatial distribution measure (benchmark = 2%) implies that at-least 90% of Cells in the network should perform better than specified 2% benchmark on at-least 90% of days. Similarly, another new parameter, DCR Temporal distribution measure (benchmark = 3%) will give confidence that on at-least 90% of Days, network performed better than specified 3% benchmark for at-least 97% of the Cells.Wherever the benchmark is not met by service provider, the explanation of the service providers is called for and after considering the explanation submitted by service providers in this regard, TRAI imposes financial disincentives for non-compliance with the benchmark. Effective from 1st October 2017, TRAI has introduced a revised graded Financial Disincentives (FD) structure for DCR parameters, based on the extent to which a TSP’s performance deviates from the specified DCR benchmark. (c) & (d) 	As per the existing tariff framework, the traffic for mobile services is under forbearance except for national roaming, rural fixed line services and leased circuits. The TSPs have full flexibility in deciding on the rates and conditions such as validity period. Tariffs are offered by TSPs taking into account several factors including input costs, level of competition and other commercial considerations. Moreover, billing of post-paid connection is on monthly basis and validity of prepaid recharge voucher is expressed in days and not in months.*****
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+HomeArchiveIndex to Select Questions (1984-1999)Ballot ListStatistical Statements Relating to QuestionsUploading of Questions - Status QueryProcedure for Sending Text of Questions & AnswersDemarcation of responsibilities in Govt. of IndiaBrochure on Statutory Corporations, Companies and Other Bodies in Which the Government of India have financial or controlling interestHighlights pertaining to questions of 17th Lok Sabha
+
+
+
+
+
+
+Contact Us 
+Disclaimer
+
+
+
+
+
+
+
+
+
+
+
+        Developed and Hosted by National Informatics Centre (NIC)
+
+Content on this website is published,
+            managed & maintained by Software Unit, Computer (HW & SW) Management. Branch,
+            Lok Sabha Secretariat
+
+
+
+
+
+HomeMembersBusinessQuestionsDebatesPapers Laid
+
+
+LegislationCommitteesSANSAD TVIntranetSecretariatPRIDE
+
+
+RecruitmentSC/ST ReservationConferenceParliament Library
+
+
+About ParliamentPhoto GalleryRelated LinksRTITendersFAQ
+
+
+SpeakerDy. SpeakerLeader of the HousePanel of ChairpersonsContact UsFeedback
+
+
+Council of MinistersPublications of MinistriesParliamentry ProceduresJournal of Parliamentary Information
+Visitor's Counter:113208896
+
+
+
+
+
+
+
+Copyright
+Privacy Policy
+Disclaimer
+Terms &
+                Conditions
+
+                Accessibility Statement
+Accessibility
+                Options
+Feedback
+Site Map
+
+
+
+
+
+
+

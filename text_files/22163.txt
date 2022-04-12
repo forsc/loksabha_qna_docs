@@ -1,0 +1,350 @@
+
+
+
+
+	Questions : Lok Sabha
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Screen Reader Access
+Skip to Main Content
+Skip to Navigation
+
+
+
+Text Size
+
+                                A
+
+                                A
+A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+हिन्दी मे
+
+
+
+
+
+
+
+
+Parliament of India Lok Sabha House of the
+                        People
+
+
+
+
+
+
+* Special Characters not allowed
+
+
+
+
+
+
+
+
+
+
+
+
+India Time 
+
+
+Your Time 
+
+
+                        Monday,
+                        11 April 2022
+
+
+
+
+
+
+
+
+
+HomeMembersSitting MembersMembers Home PageMembers' PortalContact DetailsMembers SearchStatistical AnalysisAttendance of MembersHandbook Members Since 1952Digitized Who's WhoOthers BusinessProvisional CalendarList of BusinessPapers to be LaidList of Private Members' BusinessBulletin-IDigitized Lok Sabha Bulletin Part IBulletin-IIStatement of WorkSpecial Mentions (ZERO HOUR)Resume of WorkDigitized Resume of Work done by Lok Sabha QuestionsHomeQuestion ListStatus of notices of questionQuestions CalendarGrouping of Ministries - AlphabeticalOfficers in Min./Dept. Dealing with Parliamentary WorkQuestion SearchSupplementary Questions DebatesIntroductionSynopsisUncorrected DebateText of DebateDigitized DebatesConstituent Assembly DebatesWit And HumourDebate SearchHindi FontsDisclaimer Papers LaidPapers Laid on the Table of the House LegislationIntroduction(How Bill Becomes Act)Bills IntroducedBills PassedBills PendingBills AssentedBills LapsedBills WithdrawnBills NegativedBills Search Disclaimer CommitteesIntroductionChairpersonSummary of WorkCommittee Meetings ScheduleBills Referred to CommitteesReports PresentedDigitized ReportsPress ReleaseMembership SearchToday's Committee MeetingsCommittee Subject SelectedDepartment Related-RS Govt. AssurancesSANSAD TVIntranet
+
+
+
+
+
+HomeQuestion ListStatus of notices of questionQuestions CalendarGrouping of Ministries - AlphabeticalOfficers in Min./Dept. Dealing with Parliamentary WorkQuestion SearchSupplementary Questions
+
+
+
+
+
+
+
+
+
+
+
+Download as PDF
+
+
+
+
+Print
+
+
+
+
+
+
+
+
+
+
+
+
+PDF/WORD(Hindi)
+
+
+PDF/WORD
+
+
+
+
+                                    GOVERNMENT OF INDIA
+                                
+
+
+
+
+
+                                    MINISTRY OF
+                                    RURAL DEVELOPMENT
+
+
+
+
+
+
+                                    LOK SABHA
+                                
+
+
+
+
+
+UNSTARRED 
+
+
+                                    QUESTION NO:
+                                
+
+3250
+
+
+
+
+
+
+                                    ANSWERED ON: 
+                                
+
+16.03.2021
+
+
+
+
+
+
+Upgrading Digital Infrastructure
+
+
+
+
+Dayanidhi Maran
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        Will the Minister of
+
+
+
+
+
+RURAL DEVELOPMENT
+
+
+                        be pleased to state:-
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                    (a) 	whether the Government has considered or reviewed any new schemes or proposals for upgrading digital infrastructure, last mile connectivity and increasing digital literacy in rural villages and if so, the details thereof;(b) 	whether the Government has considered or reviewed any partnerships with other ministries or nongovernmental organizations or private players for upgrading digital infrastructure, last mile connectivity and increasing digital literacy in rural villages and if so, the details thereof; and(c) 	the list of schemes and activities proposed by the Government towards this goal since 2014 and the details of their implementation and achievements?
+
+
+
+
+
+
+ANSWER
+
+
+
+
+                                                        MINISTER OF RURAL DEVELOPMENT (SHRI NARENDRA SINGH TOMAR)(a) to (c ). Yes Sir. The Department of Telecommunications, through Bharat Net, is providing broadband connectivity to all the Gram Panchayats ( approx. 2.5 lakhs) in the country. Some more schemes implemented by Ministry of  Communications for increasing Internet connectivity include  (i) Comprehensive Telecom Development Plan (CTDP) for the North-Eastern Region, (ii) Implementation of Comprehensive Telecom Development Plan for Islands, (iii) Scheme for Mobile Communication Services in Left Wing Extremism (LWE) Affected Areas,  (iv) 354 Uncovered villages Scheme for mobile services in 354 identified uncovered border villages, (v) Aspirational District Schemes for 4G coverage in identified uncovered villages of Aspirational Districts.National Broadband Mission (NBM) was launched on 17.12.2019 by the Department of Telecommunications with a vision to fast track growth of digital communication infrastructure. Some of the objectives of NBM are ‘Broadband access to all villages by 2022’, ‘Facilitating universal and equitable access to broadband services for across the country and especially in rural and remote areas’, ‘Laying of incremental 30 lakh route km of Optical Fiber Cable (OFC) and ‘increasing tower density from 0.42 to 1.0 tower per thousand of population by 2024’, ‘Significantly improving quality of services for mobile and internet’ etc.Ministry of Electronics & Information Technology (MeitY) implemented the National Digital Literacy Mission (NDLM) and Digital Saksharta Abhiyan (DISHA) from the year 2014-16 wherein, 53.67 lakhs beneficiaries were trained in Digital Literacy and 42% of these candidates were from rural areas. Under Pradhan Mantri Gramin Digital Saksharta Abhiyan (PMGDISHA), approved in 2017,  MeitY has targeted to provide digital literacy in rural India by covering six crore rural households (one person per household). The scheme envisages to cover each of the 2.5 lakhs Gram Panchayats across the country. Special focus of the scheme is to train beneficiaries on the use of electronic payment systems. So far, more than 4.53 crore candidates have been enrolled and around 3.69 crore have been trained. Other key initiatives undertaken by MeitY under Digital India programme are as follows:(i). The Government has approved the Scheme for establishing State Wide Area Networks (SWANs) across the country to connect all State/UT Headquarters (SHQ) up to the Block level via District/ sub-Divisional Headquarters (DHQ), in a vertical hierarchical structure with a minimum bandwidth capacity of 2 Mbps per link. Each of the State/UT can enhance the bandwidth up to 34 Mbps between SHQ and DHQ and upto 8 Mbps between DHQ and BHQ depending upon the utilization. Presently, SWANs have been made operational in 34 States/UTs.(ii). Under the State Data Center (SDC) scheme, Data Centres have been targeted in all the States/UTs to consolidate services, applications and infrastructure in order to provide efficient electronic delivery of Government to Government (G2G), Government to Citizen (G2C) and Government to Business (G2B) services. These services can be rendered by the States through common service delivery platforms seamlessly supported by core connectivity infrastructure, such as, SWAN and Common Service Centres (CSC) as the frontend delivery outlets at the village level. As on date, 29 SDCs have been made operational.(iii). The Common Services Centres (CSC), which are kiosks for delivery of G2C Services, are being opened at each of 2,50,000 Gram Panchayats(GP). So far, 3.73 Lakh Common Services Centres are functional including 2.78 lakh CSCs at Gram Panchayat levels. Over 300 digital services are offered by these CSCs.(iv). As part of the Digital India program, the Government of India embarked upon an ambitious initiative known as MeghRaj, to utilize and harness the benefits of Cloud Computing. This will ensure accelerating the delivery of e-services in the country. Under MeghRaj, the Government of India has already set up NIC National Cloud, which has been offering cloud services to the Government Departments since February 2014.(v). MeitY has also initiated the ‘Digital Village Pilot Project’ in October, 2018. 700 Gram Panchayats (GPs)/Village with at least one Gram Panchayat/Village per District per State/UT are covered under the project. The digital services offered are Digital Health Services, Education Service, Financial Services, Skill Development, Solar panel powered street lights including Government to Citizens Services (G2C), Business to Citizen (B2C) Services.(vi). Digital Locker provides an ecosystem with a collection of repositories and gateways for issuers to upload the documents in the digital repositories. So far, there are 5.5 crore registered users of DigiLocker.  (vii). e-District is a Mission Mode Project (MMP) that aims at electronic delivery of identified high volume citizen centric services at the district or sub- district level. Total 3,870 e-District services have been launched in 705 districts across 33 States/UTs.(viii). Open Government Data (OGD) Platform is a platform for supporting Open Data initiative of Government of India. It intends to increase transparency in the functioning of Government and also open avenues for many more innovative usages of Government Data to give different perspectives. (ix). Online Registration System (ORS) under eHospital includes online appointment and registration by new patients, viewing of lab reports, checking the status of blood availability and integration with payment gateway (PayGov). Till date, 36.56 lakh online appointments have been made in 260 Hospitals through ORS.(x). eSign is an initiative for easy, efficient, and secure signing of electronic documents by an Aadhaar holder. Aadhaar holders (individuals, Government officials, corporate executives, etc.) can digitally sign an electronic document without having a hardware cryptographic device. e-Sign service facilitates instant signing of documents online by citizens in a legally acceptable form. Over 12.50 crore eSigns have been issued.(xi). National Centre of Geo-informatics (NCoG) project, is a GIS platform developed for sharing, collaboration, location based analytics and decision support system for Departments. So far, 516 applications across various domains are operational.(xii). Unified Mobile Application for New-Age Governance (UMANG) has been developed as a single mobile platform to deliver major Government services with Core Platform integrated with Aadhaar, DigiLocker, PayGov, Rapid Assessment System (RAS) etc. It supports around 12 Indian languages, in addition to English and has been hosted on cloud. UMANG aims to bring power to the fingertips of citizens. About 20,525 services from 219 departments (Central & States) are  available on UMANG platform.(xiii). MyGov is a first-of-its-kind citizen engagement platform for participatory governance in India. MyGov aims to facilitate a dialogue between citizens and Government, bringing citizens closer to the Government and bringing the Government closer to the citizens it serves, via this platform. Presently, over 1.51 crore users are registered with MyGov, participating in various activities hosted on MyGov platform. The Union Cabinet has given approval to the Department of Telecommunications to proliferate Broadband through Public Wi-Fi networks under the Prime Minister’s Wi-Fi Access Network Interface (PM-WANI) framework. The PM-WANI framework envisages provision of Broadband through Public Wi-Fi Hotspot providers and will consist of the following elements:(i). Public Data Office (PDO): It  will establish, maintain, and operate PM-WANI compliant Wi-Fi Access Points and provide last-mile connectivity to deliver Broadband services to subscribers by procuring internet bandwidth from telecom service providers and/ or internet service providers.(ii). Public Data Office Aggregator (PDOA): Any Indian Company registered under Indian Company Act 2013 can become PDOA.  It will provide aggregation services such as authorization and accounting to PDOs, thereby facilitating PDOs in providing services to the end consumer.(iii). App Provider: It will develop an Application to register users and ‘discover’ and display PM-WANI compliant Wi-Fi hotspots in the proximity for accessing the internet service and also authenticate the potential Broadband users. The user experience and Quality of Service for Broadband would thus improve significantly. This service will be specially useful in rural areas where Public Wi-Fi Hotspots would be created under Bharat Net. The telecom and internet service providers will also benefit due to the sale of bandwidth to PDOs.The Ministry of Rural Development is implementing Shyama Prasad Mukherjee Rurban Mission(SPMRM) under which Digital literacy is one of the twenty one components taken up for cluster development.*******
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+HomeArchiveIndex to Select Questions (1984-1999)Ballot ListStatistical Statements Relating to QuestionsUploading of Questions - Status QueryProcedure for Sending Text of Questions & AnswersDemarcation of responsibilities in Govt. of IndiaBrochure on Statutory Corporations, Companies and Other Bodies in Which the Government of India have financial or controlling interestHighlights pertaining to questions of 17th Lok Sabha
+
+
+
+
+
+
+Contact Us 
+Disclaimer
+
+
+
+
+
+
+
+
+
+
+
+        Developed and Hosted by National Informatics Centre (NIC)
+
+Content on this website is published,
+            managed & maintained by Software Unit, Computer (HW & SW) Management. Branch,
+            Lok Sabha Secretariat
+
+
+
+
+
+HomeMembersBusinessQuestionsDebatesPapers Laid
+
+
+LegislationCommitteesSANSAD TVIntranetSecretariatPRIDE
+
+
+RecruitmentSC/ST ReservationConferenceParliament Library
+
+
+About ParliamentPhoto GalleryRelated LinksRTITendersFAQ
+
+
+SpeakerDy. SpeakerLeader of the HousePanel of ChairpersonsContact UsFeedback
+
+
+Council of MinistersPublications of MinistriesParliamentry ProceduresJournal of Parliamentary Information
+Visitor's Counter:113208251
+
+
+
+
+
+
+
+Copyright
+Privacy Policy
+Disclaimer
+Terms &
+                Conditions
+
+                Accessibility Statement
+Accessibility
+                Options
+Feedback
+Site Map
+
+
+
+
+
+
+

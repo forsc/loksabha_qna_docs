@@ -1,0 +1,403 @@
+
+
+
+
+	Questions : Lok Sabha
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Screen Reader Access
+Skip to Main Content
+Skip to Navigation
+
+
+
+Text Size
+
+                                A
+
+                                A
+A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+हिन्दी मे
+
+
+
+
+
+
+
+
+Parliament of India Lok Sabha House of the
+                        People
+
+
+
+
+
+
+* Special Characters not allowed
+
+
+
+
+
+
+
+
+
+
+
+
+India Time 
+
+
+Your Time 
+
+
+                        Tuesday,
+                        12 April 2022
+
+
+
+
+
+
+
+
+
+HomeMembersSitting MembersMembers Home PageMembers' PortalContact DetailsMembers SearchStatistical AnalysisAttendance of MembersHandbook Members Since 1952Digitized Who's WhoOthers BusinessProvisional CalendarList of BusinessPapers to be LaidList of Private Members' BusinessBulletin-IDigitized Lok Sabha Bulletin Part IBulletin-IIStatement of WorkSpecial Mentions (ZERO HOUR)Resume of WorkDigitized Resume of Work done by Lok Sabha QuestionsHomeQuestion ListStatus of notices of questionQuestions CalendarGrouping of Ministries - AlphabeticalOfficers in Min./Dept. Dealing with Parliamentary WorkQuestion SearchSupplementary Questions DebatesIntroductionSynopsisUncorrected DebateText of DebateDigitized DebatesConstituent Assembly DebatesWit And HumourDebate SearchHindi FontsDisclaimer Papers LaidPapers Laid on the Table of the House LegislationIntroduction(How Bill Becomes Act)Bills IntroducedBills PassedBills PendingBills AssentedBills LapsedBills WithdrawnBills NegativedBills Search Disclaimer CommitteesIntroductionChairpersonSummary of WorkCommittee Meetings ScheduleBills Referred to CommitteesReports PresentedDigitized ReportsPress ReleaseMembership SearchToday's Committee MeetingsCommittee Subject SelectedDepartment Related-RS Govt. AssurancesSANSAD TVIntranet
+
+
+
+
+
+HomeQuestion ListStatus of notices of questionQuestions CalendarGrouping of Ministries - AlphabeticalOfficers in Min./Dept. Dealing with Parliamentary WorkQuestion SearchSupplementary Questions
+
+
+
+
+
+
+
+
+
+
+
+Download as PDF
+
+
+
+
+Print
+
+
+
+
+
+
+
+
+
+
+
+
+PDF/WORD(Hindi)
+
+
+PDF/WORD
+
+
+
+
+                                    GOVERNMENT OF INDIA
+                                
+
+
+
+
+
+                                    MINISTRY OF
+                                    ELECTRONICS AND INFORMATION TECHNOLOGY
+
+
+
+
+
+
+                                    LOK SABHA
+                                
+
+
+
+
+
+UNSTARRED 
+
+
+                                    QUESTION NO:
+                                
+
+1431
+
+
+
+
+
+
+                                    ANSWERED ON: 
+                                
+
+28.07.2021
+
+
+
+
+
+
+Domestic Electronics Manufacturing Ecosystem
+
+
+
+
+Shrirang Appa Barne
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                    Sanjay Sadashivrao Mandlik
+                                                
+
+
+
+
+
+
+
+
+                                                    Chandra Sekhar Sahu
+                                                
+
+
+
+
+
+
+
+
+                                                    Sudheer Gupta
+                                                
+
+
+
+
+
+
+
+
+                                                    Bidyut Baran Mahato
+                                                
+
+
+
+
+
+
+
+
+                                                    Prataprao  Jadhav
+                                                
+
+
+
+
+
+
+
+
+
+
+
+
+                        Will the Minister of
+
+
+
+
+
+ELECTRONICS AND INFORMATION TECHNOLOGY
+
+
+                        be pleased to state:-
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                    Will the Minister of ELECTRONICS AND INFORMATION TECHNOLOGY be pleased to state:(a)	whether the absence of a robust domestic electronics ecosystem is adversely impacting the space programme targets of the country set by the Indian Space Research Organization(ISRO);(b)	if so, the details thereof and the reaction of the Government thereto;(c)	the details of the electronic imports by the country during each of the last three years and the current year;(d)	whether the Government proposes to promote local semi-conductor fabrication units in the country;(e)	if so, the details thereof along with the bene?ts provided by the Government for the said units, State/UT-wise; and(f)	further steps taken /being taken by the Government to boost the chip manufacturing in the country?
+
+
+
+
+
+
+ANSWER
+
+
+
+
+(a) and (b): Indian Space Research Organization (ISRO) uses highly-reliable space-grade electronics components speci?cally manufactured and quali?ed for use in complex space systems. Some of the electronic components that ISRO imports are ampli?ers, detectors, memory and RF devices, space-quali?ed solar cells, frequency synthesizers, space quali?ed resistors / capacitors /inductors, etc. In the absence of domestic electronics ecosystem for this grade of  components, most of the requirements are being met through imports from reliable vendors who supply space qualified components.(c): As per the Directorate General of Commercial Intelligence and Statistics (DGCIS), the total electronics imports by the country during each of the last three years and the current year are given below:Year	FY 2018-19	FY 2019-20	FY 2020-21	FY 2021-22 (Till May)ElectronicsImports (In INR Crore)	4,01,449.01	3,85,080.89	3,99,378.69	63,527.26(d), (e) and (f): Semiconductor Laboratory (SCL), an autonomous body under the Department of Space, and Gallium Arsenide Enabling Technology Centre (GAETEC), Hyderabad, a unit of Society for Integrated Circuit Technology and Applied Research (SITAR) have facilities for Design, Development, Fabrication, Assembly, Packaging, Testing and Quality Assurance of CMOS based semiconductor chips and GaAs monolithic microwave integrated circuits, RF sub systems, respectively, for various applications, and are meeting the strategic requirements. Semiconductor Technology and Applied Research Centre (STARC) Bengaluru is a pilot scale MEMS Foundry of DRDO operating with technological support from SSPL. STARC is mainly catering to the strategic MEMS sensors needs of DRDO.ISRO has progressively followed a systematic policy of indigenizing some of the critical components like16/32-bit processors, data converters, memories, etc. through its fab facility at Semiconductor Laboratory (SCL), Chandigarh over the last several years. Some of these components like processors and image detectors have already been inducted into ISRO''s launch vehicles and satellites. Other requirements such as connectors, transformers, relays, etc. are being realized and qualified at Indian industry to replace the respective imported components.Presently, SCL, GAETEC and STARC facilities are being used for strategic purposes. There is no commercial semiconductor manufacturing facility in the country.Following incentives are available to companies for setting up of Semiconductor Fabrication (FAB) facilities in India:(i)	A ?nancial incentive of 25% on capital expenditure is available for setting up of semiconductor fabrication units under the Scheme for Promotion of manufacturing of Electronic Components and Semiconductors (SPECS).(ii)	Capital goods for setting up of Semiconductor FAB are exempted from Basic Customs Duty (BCD).(iii)	Investment linked deduction is available under Section 35AD of the Income- tax Act.(iv)	Deduction of expenditure on research and development is allowed to the extent admissible under Section 35(2AB) of the Income-tax Act.(v)	New domestic companies making fresh investment in manufacturing and starting operations before March 31, 2023 have an option to pay corporate income tax at reduced rate of 15%. Such companies will also not be liable to pay Minimum Alternate Tax (MAT).The	Government	has	approved	the	following	projects	in	the	area	of semiconductors keeping in view the strategic nature of this sector and leading to chip manufacturing in the country:(i)	The project for “Establishment of Gallium Nitride (GaN) Ecosystem Enabling Centre and Incubator for High Power and High Frequency Electronics” is being implemented by Society for Innovation and Development (SID), under the auspices of Indian Institute of Science (IISc) at Centre for Nano Science and Engineering (CeNSE), Bengaluru at the total project cost of Rs. 298.66 crore. This facility will have a wafer line as well as a device line for RF and Power applications. (ii)	A project for setting up of Assembly, Testing, Marking and Packaging (ATMP) of NAND Flash memory has been approved under the Production Linked Incentive (PLI) Scheme for large scale electronics manufacturing. This shall provide semiconductor packaging facility for memory products including Chip on Board Memories, micro SD Cards and Solid State Drives.(iii)	Another project for discrete semiconductor devices, including transistors, diodes, thyristors, etc. and System in Package (SIP) has been approved under the Production Linked Incentive (PLI) Scheme for large scale electronics manufacturing.********
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+HomeArchiveIndex to Select Questions (1984-1999)Ballot ListStatistical Statements Relating to QuestionsUploading of Questions - Status QueryProcedure for Sending Text of Questions & AnswersDemarcation of responsibilities in Govt. of IndiaBrochure on Statutory Corporations, Companies and Other Bodies in Which the Government of India have financial or controlling interestHighlights pertaining to questions of 17th Lok Sabha
+
+
+
+
+
+
+Contact Us 
+Disclaimer
+
+
+
+
+
+
+
+
+
+
+
+        Developed and Hosted by National Informatics Centre (NIC)
+
+Content on this website is published,
+            managed & maintained by Software Unit, Computer (HW & SW) Management. Branch,
+            Lok Sabha Secretariat
+
+
+
+
+
+HomeMembersBusinessQuestionsDebatesPapers Laid
+
+
+LegislationCommitteesSANSAD TVIntranetSecretariatPRIDE
+
+
+RecruitmentSC/ST ReservationConferenceParliament Library
+
+
+About ParliamentPhoto GalleryRelated LinksRTITendersFAQ
+
+
+SpeakerDy. SpeakerLeader of the HousePanel of ChairpersonsContact UsFeedback
+
+
+Council of MinistersPublications of MinistriesParliamentry ProceduresJournal of Parliamentary Information
+Visitor's Counter:113217510
+
+
+
+
+
+
+
+Copyright
+Privacy Policy
+Disclaimer
+Terms &
+                Conditions
+
+                Accessibility Statement
+Accessibility
+                Options
+Feedback
+Site Map
+
+
+
+
+
+
+

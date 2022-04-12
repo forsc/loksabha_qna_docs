@@ -1,0 +1,363 @@
+
+
+
+
+	Questions : Lok Sabha
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Screen Reader Access
+Skip to Main Content
+Skip to Navigation
+
+
+
+Text Size
+
+                                A
+
+                                A
+A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+हिन्दी मे
+
+
+
+
+
+
+
+
+Parliament of India Lok Sabha House of the
+                        People
+
+
+
+
+
+
+* Special Characters not allowed
+
+
+
+
+
+
+
+
+
+
+
+
+India Time 
+
+
+Your Time 
+
+
+                        Monday,
+                        11 April 2022
+
+
+
+
+
+
+
+
+
+HomeMembersSitting MembersMembers Home PageMembers' PortalContact DetailsMembers SearchStatistical AnalysisAttendance of MembersHandbook Members Since 1952Digitized Who's WhoOthers BusinessProvisional CalendarList of BusinessPapers to be LaidList of Private Members' BusinessBulletin-IDigitized Lok Sabha Bulletin Part IBulletin-IIStatement of WorkSpecial Mentions (ZERO HOUR)Resume of WorkDigitized Resume of Work done by Lok Sabha QuestionsHomeQuestion ListStatus of notices of questionQuestions CalendarGrouping of Ministries - AlphabeticalOfficers in Min./Dept. Dealing with Parliamentary WorkQuestion SearchSupplementary Questions DebatesIntroductionSynopsisUncorrected DebateText of DebateDigitized DebatesConstituent Assembly DebatesWit And HumourDebate SearchHindi FontsDisclaimer Papers LaidPapers Laid on the Table of the House LegislationIntroduction(How Bill Becomes Act)Bills IntroducedBills PassedBills PendingBills AssentedBills LapsedBills WithdrawnBills NegativedBills Search Disclaimer CommitteesIntroductionChairpersonSummary of WorkCommittee Meetings ScheduleBills Referred to CommitteesReports PresentedDigitized ReportsPress ReleaseMembership SearchToday's Committee MeetingsCommittee Subject SelectedDepartment Related-RS Govt. AssurancesSANSAD TVIntranet
+
+
+
+
+
+HomeQuestion ListStatus of notices of questionQuestions CalendarGrouping of Ministries - AlphabeticalOfficers in Min./Dept. Dealing with Parliamentary WorkQuestion SearchSupplementary Questions
+
+
+
+
+
+
+
+
+
+
+
+Download as PDF
+
+
+
+
+Print
+
+
+
+
+
+
+
+
+
+
+
+
+PDF/WORD(Hindi)
+
+
+PDF/WORD
+
+
+
+
+                                    GOVERNMENT OF INDIA
+                                
+
+
+
+
+
+                                    MINISTRY OF
+                                    SCIENCE AND TECHNOLOGY
+
+
+
+
+
+
+                                    LOK SABHA
+                                
+
+
+
+
+
+UNSTARRED 
+
+
+                                    QUESTION NO:
+                                
+
+950
+
+
+
+
+
+
+                                    ANSWERED ON: 
+                                
+
+07.02.2020
+
+
+
+
+
+
+Digital Mapping of the Country
+
+
+
+
+P. Velusamy
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                    K. Shanmuga Sundaram
+                                                
+
+
+
+
+
+
+
+
+
+
+
+
+                        Will the Minister of
+
+
+
+
+
+SCIENCE AND TECHNOLOGY
+
+
+                        be pleased to state:-
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                    Will the Minister of SCIENCE AND TECHNOLOGY ??????? ?? ???????????? ?????? be pleased to state: (a) 	whether the Department of Science and Technology has taken up the task of digitally mapping the entire country; (b) 	if so, the details thereof; (c) 	whether the existing GPS system which is based on satellite-based navigation system cannot be used for digital mapping; (d) 	if not, the reasons for bringing drone based digital mapping system; (e) 	the number of States to be covered under the scheme and the accuracy of the digital mapping done by drones; and (f) 	the steps taken by the Government to preserve the data?
+
+
+
+
+
+
+ANSWER
+
+
+
+
+                                                        (a) & (b):  Yes Sir. Survey of India (SoI) under Department of Science & Technology (DST) has taken up the work of digitally mapping the entire country being done as per National Map Policy-2005 under "Generation of High Resolution National Topographic Database (HRNTDB)" scheme during next three financial years from 2020-2021, using:1)	High Resolution Satellite Imagery (HRSI) (Sub - meter Imagery): 22.5 lakh sq km.2)	Drone/Unmanned Aerial Vehicle (UAV) (Professional Survey Grade): 10 lakh sq km.Work components in the scheme are:i.	Ground Control Points provisioning/Data Capturing ii.	Geo-referencing/Data Processing iii.	Feature Extraction iv.	Ground validation/Attribute Collectionv.	Final Map PublishingDeliverables are:Topographic data layers (based on Spatial Data Model Structure (SDMS) on various scale) viz.i.	1:2,000/1000/500 scale data/maps for urban/semi urban/rural settlement (abadi) areas.ii.	1:10,000 scale data/maps for balance areas.(c)	The existing Global Positioning System (GPS) system being used for providing ground control points for data capturing, data processing, geo-referencing and ground validation cannot be directly used for digital mapping.(d)	Drone based Digital Mapping System has been introduced for large scale mapping and is not a referencing system as Global Positioning System (GPS).(e)	25 States and 7 Union Territories are covered under the scheme. The accuracy of Drone based Digital mapping is ±10 cm Horizontal (planimetry) of Ortho Rectified Image (ORI) and Spatial Resolution and 5 cm Ground Sampling Distance (GSD).(f)	Data is archived in Survey of India (SOI) directorates i.e. National Geo-spatial Data Centre, Dehradun and disaster recovery backup is being done at GIS (Geographic Information System) & Remote Sensing, Hyderabad.********
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+HomeArchiveIndex to Select Questions (1984-1999)Ballot ListStatistical Statements Relating to QuestionsUploading of Questions - Status QueryProcedure for Sending Text of Questions & AnswersDemarcation of responsibilities in Govt. of IndiaBrochure on Statutory Corporations, Companies and Other Bodies in Which the Government of India have financial or controlling interestHighlights pertaining to questions of 17th Lok Sabha
+
+
+
+
+
+
+Contact Us 
+Disclaimer
+
+
+
+
+
+
+
+
+
+
+
+        Developed and Hosted by National Informatics Centre (NIC)
+
+Content on this website is published,
+            managed & maintained by Software Unit, Computer (HW & SW) Management. Branch,
+            Lok Sabha Secretariat
+
+
+
+
+
+HomeMembersBusinessQuestionsDebatesPapers Laid
+
+
+LegislationCommitteesSANSAD TVIntranetSecretariatPRIDE
+
+
+RecruitmentSC/ST ReservationConferenceParliament Library
+
+
+About ParliamentPhoto GalleryRelated LinksRTITendersFAQ
+
+
+SpeakerDy. SpeakerLeader of the HousePanel of ChairpersonsContact UsFeedback
+
+
+Council of MinistersPublications of MinistriesParliamentry ProceduresJournal of Parliamentary Information
+Visitor's Counter:113173320
+
+
+
+
+
+
+
+Copyright
+Privacy Policy
+Disclaimer
+Terms &
+                Conditions
+
+                Accessibility Statement
+Accessibility
+                Options
+Feedback
+Site Map
+
+
+
+
+
+
+

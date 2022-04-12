@@ -1,0 +1,373 @@
+
+
+
+
+	Questions : Lok Sabha
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Screen Reader Access
+Skip to Main Content
+Skip to Navigation
+
+
+
+Text Size
+
+                                A
+
+                                A
+A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+हिन्दी मे
+
+
+
+
+
+
+
+
+Parliament of India Lok Sabha House of the
+                        People
+
+
+
+
+
+
+* Special Characters not allowed
+
+
+
+
+
+
+
+
+
+
+
+
+India Time 
+
+
+Your Time 
+
+
+                        Monday,
+                        11 April 2022
+
+
+
+
+
+
+
+
+
+HomeMembersSitting MembersMembers Home PageMembers' PortalContact DetailsMembers SearchStatistical AnalysisAttendance of MembersHandbook Members Since 1952Digitized Who's WhoOthers BusinessProvisional CalendarList of BusinessPapers to be LaidList of Private Members' BusinessBulletin-IDigitized Lok Sabha Bulletin Part IBulletin-IIStatement of WorkSpecial Mentions (ZERO HOUR)Resume of WorkDigitized Resume of Work done by Lok Sabha QuestionsHomeQuestion ListStatus of notices of questionQuestions CalendarGrouping of Ministries - AlphabeticalOfficers in Min./Dept. Dealing with Parliamentary WorkQuestion SearchSupplementary Questions DebatesIntroductionSynopsisUncorrected DebateText of DebateDigitized DebatesConstituent Assembly DebatesWit And HumourDebate SearchHindi FontsDisclaimer Papers LaidPapers Laid on the Table of the House LegislationIntroduction(How Bill Becomes Act)Bills IntroducedBills PassedBills PendingBills AssentedBills LapsedBills WithdrawnBills NegativedBills Search Disclaimer CommitteesIntroductionChairpersonSummary of WorkCommittee Meetings ScheduleBills Referred to CommitteesReports PresentedDigitized ReportsPress ReleaseMembership SearchToday's Committee MeetingsCommittee Subject SelectedDepartment Related-RS Govt. AssurancesSANSAD TVIntranet
+
+
+
+
+
+HomeQuestion ListStatus of notices of questionQuestions CalendarGrouping of Ministries - AlphabeticalOfficers in Min./Dept. Dealing with Parliamentary WorkQuestion SearchSupplementary Questions
+
+
+
+
+
+
+
+
+
+
+
+Download as PDF
+
+
+
+
+Print
+
+
+
+
+
+
+
+
+
+
+
+
+PDF/WORD(Hindi)
+
+
+PDF/WORD
+
+
+
+
+                                    GOVERNMENT OF INDIA
+                                
+
+
+
+
+
+                                    MINISTRY OF
+                                    COMMUNICATIONS
+
+
+
+
+
+
+                                    LOK SABHA
+                                
+
+
+
+
+
+UNSTARRED 
+
+
+                                    QUESTION NO:
+                                
+
+2085
+
+
+
+
+
+
+                                    ANSWERED ON: 
+                                
+
+04.03.2020
+
+
+
+
+
+
+Status of Internet and Communication Services
+
+
+
+
+Anil Firojiya
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                    Nand Kumar Singh Chauhan
+                                                
+
+
+
+
+
+
+
+
+                                                    Lallu Singh
+                                                
+
+
+
+
+
+
+
+
+
+
+
+
+                        Will the Minister of
+
+
+
+
+
+COMMUNICATIONS
+
+
+                        be pleased to state:-
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                    (a)	 the present condition of internet and telecom services in the country; (b) 	the steps being taken to improve postal services in Kashmir and ensure clearance of large backlog of letters besides ensuring timely delivery of the same; (c) 	whether the Government is considering to increase the manpower requirement once again or to increase the number of branch post office; and (d) 	if so, the details thereof?
+                                                
+
+
+
+
+
+ANSWER
+
+
+
+
+                                                        MINISTER OF STATE FOR COMMUNICATIONS,  HUMAN RESOURCE DEVELOPMENT AND ELECTRONICS & INFORMATION TECHNOLOGY (SHRI SANJAY DHOTRE)(a)	TRAI has been monitoring the performance of service providers against the benchmark for various Quality of Service parameters laid down by TRAI by way of Quality of Service regulations issued from time to time, through Quarterly Performance Monitoring Reports (PMRs) submitted by service providers. The performance is reported license area-wise and the performance is assessed for the service area as a whole.  Cellular Mobile Telephone Services (CMTS)As per PMR for the quarter ending September 2019, for Cellular Mobile Telephone Services all the service providers are largely complying with benchmark for all the parameters in all the service areas.  The number of instances of Non- Compliance is noticed in the network of M/s Vodafone Idea Limited -Brand Vodafone is 18, M/s Bharti Airtel Limited is 16, of M/s Vodafone Idea Limited - Brand Idea is 9 and M/s BSNL is 4 only.Basic Wireline ServicesAs per PMR for the quarter ending September 2019, for Basic Wireline Services all the service providers are largely complying with benchmark for all the parameters in all the service areas. The number of instances of Non- Compliance is noticed in the network M/s Tata is 8, M/s Bharti Airtel Limited is 15 each and M/s MTNL is 3. Broadband (wireline) ServicesAs per PMR for the quarter ending September 2019, for Broadband (wireline) Services all the service providers are largely complying with benchmark for all the parameters in all the service areas. The number of instances of Non- Compliance  noticed in the network of M/s MTNL is 1, M/s Atria Convergence and M/s You Broadband is 4, M/s City Online is 2, M/s Microscan Computers is 1 and M/s TTSL & TTSML is 2 each. Detailed report is available at https://main.trai.gov.in/release-publication/reports/performance-indicators-reports.(b)	I. Various steps have been taken by the Department of Posts to improve the postal services in Jammu & Kashmir Circle, which are as detailed below:i.	Core System Integrator (CSI) Project has been implemented in the Circle to provide for the seamless booking as well as online processing, transmission and delivery of the postal articles.ii.	Mail Network Optimization Project (MNOP) Plan funds have been provided to improve the infrastructure for mail processing in the Circle.iii.	In order to avoid the delay in delivery of second class mail in Leh & Ladakh area, Department has exempted second class mail for Leh & Ladakh from being transmitted by surface during the winter months.  Henceforth, all mail for these places are being provided air transmission during winter months from Delhi/Jammu/Srinagar.iv.	In order to expedite the transmission and delivery of Speed Post, Registered and Unregistered mail in Leh & Ladakh, Department has decided to create new National Level Speed Post Processing Hub, Registered mail processing Hub and Unregistered mail processing hub in Leh.v.	Department has introduced electronic clearance of letter boxes in the Circle through a mobile app based Nanyatha software. E-clearance of letter boxes while provides a mechanism of check on letter box clearance, the members of public can also track the status of letter box clearance by logging on to the web tool.  So far, the e-clearance of Letter Boxes have been implemented in 69 letter boxes in the Circle.vi.	Plastic seals have been introduced to prevent the instances of pilferage and abstraction from postal articles.               II.    There is no backlog of letters in the Jammu & Kashmir Circle.(c) & (d) Yes, Sir.  As an ongoing process, Branch post offices are opened through redeployment of posts to increase the number of Branch post offices in needy and justified areas. During the last three years, a total of 130 Branch post offices were opened by redeployment of posts in the country. In addition, during the year from 2017-18 to 2018-19, 1,773 number of Branch Post Offices have been opened at Panchayat Head Quarter where no post office exists, in Left Wing Extremism (LWE) affected areas in seven states of Andhra Pradesh, Bihar, Chhattisgarh, Jharkhand, Maharashtra, Orissa & Telangana, by creation of new posts.
+                                                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+HomeArchiveIndex to Select Questions (1984-1999)Ballot ListStatistical Statements Relating to QuestionsUploading of Questions - Status QueryProcedure for Sending Text of Questions & AnswersDemarcation of responsibilities in Govt. of IndiaBrochure on Statutory Corporations, Companies and Other Bodies in Which the Government of India have financial or controlling interestHighlights pertaining to questions of 17th Lok Sabha
+
+
+
+
+
+
+Contact Us 
+Disclaimer
+
+
+
+
+
+
+
+
+
+
+
+        Developed and Hosted by National Informatics Centre (NIC)
+
+Content on this website is published,
+            managed & maintained by Software Unit, Computer (HW & SW) Management. Branch,
+            Lok Sabha Secretariat
+
+
+
+
+
+HomeMembersBusinessQuestionsDebatesPapers Laid
+
+
+LegislationCommitteesSANSAD TVIntranetSecretariatPRIDE
+
+
+RecruitmentSC/ST ReservationConferenceParliament Library
+
+
+About ParliamentPhoto GalleryRelated LinksRTITendersFAQ
+
+
+SpeakerDy. SpeakerLeader of the HousePanel of ChairpersonsContact UsFeedback
+
+
+Council of MinistersPublications of MinistriesParliamentry ProceduresJournal of Parliamentary Information
+Visitor's Counter:113178389
+
+
+
+
+
+
+
+Copyright
+Privacy Policy
+Disclaimer
+Terms &
+                Conditions
+
+                Accessibility Statement
+Accessibility
+                Options
+Feedback
+Site Map
+
+
+
+
+
+
+

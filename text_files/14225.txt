@@ -1,0 +1,350 @@
+
+
+
+
+	Questions : Lok Sabha
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Screen Reader Access
+Skip to Main Content
+Skip to Navigation
+
+
+
+Text Size
+
+                                A
+
+                                A
+A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+हिन्दी मे
+
+
+
+
+
+
+
+
+Parliament of India Lok Sabha House of the
+                        People
+
+
+
+
+
+
+* Special Characters not allowed
+
+
+
+
+
+
+
+
+
+
+
+
+India Time 
+
+
+Your Time 
+
+
+                        Monday,
+                        11 April 2022
+
+
+
+
+
+
+
+
+
+HomeMembersSitting MembersMembers Home PageMembers' PortalContact DetailsMembers SearchStatistical AnalysisAttendance of MembersHandbook Members Since 1952Digitized Who's WhoOthers BusinessProvisional CalendarList of BusinessPapers to be LaidList of Private Members' BusinessBulletin-IDigitized Lok Sabha Bulletin Part IBulletin-IIStatement of WorkSpecial Mentions (ZERO HOUR)Resume of WorkDigitized Resume of Work done by Lok Sabha QuestionsHomeQuestion ListStatus of notices of questionQuestions CalendarGrouping of Ministries - AlphabeticalOfficers in Min./Dept. Dealing with Parliamentary WorkQuestion SearchSupplementary Questions DebatesIntroductionSynopsisUncorrected DebateText of DebateDigitized DebatesConstituent Assembly DebatesWit And HumourDebate SearchHindi FontsDisclaimer Papers LaidPapers Laid on the Table of the House LegislationIntroduction(How Bill Becomes Act)Bills IntroducedBills PassedBills PendingBills AssentedBills LapsedBills WithdrawnBills NegativedBills Search Disclaimer CommitteesIntroductionChairpersonSummary of WorkCommittee Meetings ScheduleBills Referred to CommitteesReports PresentedDigitized ReportsPress ReleaseMembership SearchToday's Committee MeetingsCommittee Subject SelectedDepartment Related-RS Govt. AssurancesSANSAD TVIntranet
+
+
+
+
+
+HomeQuestion ListStatus of notices of questionQuestions CalendarGrouping of Ministries - AlphabeticalOfficers in Min./Dept. Dealing with Parliamentary WorkQuestion SearchSupplementary Questions
+
+
+
+
+
+
+
+
+
+
+
+Download as PDF
+
+
+
+
+Print
+
+
+
+
+
+
+
+
+
+
+
+
+PDF/WORD(Hindi)
+
+
+PDF/WORD
+
+
+
+
+                                    GOVERNMENT OF INDIA
+                                
+
+
+
+
+
+                                    MINISTRY OF
+                                    ELECTRONICS AND INFORMATION TECHNOLOGY
+
+
+
+
+
+
+                                    LOK SABHA
+                                
+
+
+
+
+
+UNSTARRED 
+
+
+                                    QUESTION NO:
+                                
+
+2888
+
+
+
+
+
+
+                                    ANSWERED ON: 
+                                
+
+11.03.2020
+
+
+
+
+
+
+Aadhaar Database
+
+
+
+
+Devendrappa Y
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        Will the Minister of
+
+
+
+
+
+ELECTRONICS AND INFORMATION TECHNOLOGY
+
+
+                        be pleased to state:-
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                    Will the Minister of ELECTRONICS AND INFORMATION TECHNOLOGY be pleased to state: (a) whether the Aadhaar data contains both core biometric information and other demographic information of citizens and if so, the details thereof; (b) the instances of Aadhaar database breach including core biometric and other demographic information reported during each of the last three years and the current year, State/UT-wise; (c) the steps taken by the Government in this regard; and (d) whether the breach of Aadhaar demographic information is harmful for the citizens and if so, the details thereof and the reasons therefor?
+
+
+
+
+
+
+ANSWER
+
+
+
+
+                                                        (a):  As per Section 3(1) of the Aadhaar Act, 2016, every resident shall be entitled to obtain an Aadhaar number by submitting his demographic information and biometric information by undergoing the process of enrolment. During enrolment for Aadhaar, only following minimum information is collected as per regulations 3, 4 and 5 of Aadhaar (Enrolment and update) Regulations 2016:-1.	Biometric Information - (i) Facial image (ii) All ten fingerprints; and (iii) Scans of both irises.2.	Demographic Information: (i) Name (ii) Date of Birth (iii) Gender (iv) Residential Address (v) Mobile number (optional) and (vi) Email address (optional).(b), (c) and (d): There has not been any instance of data breach from Aadhaar database (Central Identities Data Repository). For security of Aadhaar data centres, Unique Identification Authority of India (UIDAI) has a well-designed, multi-layer robust security system in place and the same is being constantly upgraded to maintain highest level of data security and integrity.  The architecture of Aadhaar ecosystem has been designed to ensure security and privacy, which is an integral part of the system from the initial design to the final stage.Comprehensive Information Security Policy and Procedures are in place which are reviewed and updated regularly, ensuring appropriate monitoring and control on movement of people, material and data in and out of UIDAI premises, particularly the data centres. UIDAI data is fully secured/ encrypted at all times i.e. at rest, in transit and in storage. For further strengthening of security, security audits are conducted on regular basis.  Additionally, there are multiple layers of security at physical level in UIDAI Data Centres and is being managed by armed CISF personnel round the clock.The security assurance of Aadhaar ecosystem has been strengthened with enactment of the Aadhaar (Targeted Delivery of Financial and Other Subsidies, Benefits and Services) Act, 2016 and subsequently the Aadhaar and Other Laws (Amendment) Act, 2019, which has stringent penalties/punishments for offenders.   UIDAI has been declared ISO 27001:2013 certified with respect to information security which has added another layer of IT security assurance. In pursuance of sub-section (1) of Section 70 of the IT Act 2000, UIDAI has also been declared as Protected System by National Critical Information Infrastructure Protection Centre.Aadhaar database has only minimal information given at the time of enrolment and update by the resident to establish his identity. No information relating to bank account, shares, mutual funds, financial and property details, health records, family, caste, religion, education etc. is stored in Aadhaar database.****** 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+HomeArchiveIndex to Select Questions (1984-1999)Ballot ListStatistical Statements Relating to QuestionsUploading of Questions - Status QueryProcedure for Sending Text of Questions & AnswersDemarcation of responsibilities in Govt. of IndiaBrochure on Statutory Corporations, Companies and Other Bodies in Which the Government of India have financial or controlling interestHighlights pertaining to questions of 17th Lok Sabha
+
+
+
+
+
+
+Contact Us 
+Disclaimer
+
+
+
+
+
+
+
+
+
+
+
+        Developed and Hosted by National Informatics Centre (NIC)
+
+Content on this website is published,
+            managed & maintained by Software Unit, Computer (HW & SW) Management. Branch,
+            Lok Sabha Secretariat
+
+
+
+
+
+HomeMembersBusinessQuestionsDebatesPapers Laid
+
+
+LegislationCommitteesSANSAD TVIntranetSecretariatPRIDE
+
+
+RecruitmentSC/ST ReservationConferenceParliament Library
+
+
+About ParliamentPhoto GalleryRelated LinksRTITendersFAQ
+
+
+SpeakerDy. SpeakerLeader of the HousePanel of ChairpersonsContact UsFeedback
+
+
+Council of MinistersPublications of MinistriesParliamentry ProceduresJournal of Parliamentary Information
+Visitor's Counter:113181896
+
+
+
+
+
+
+
+Copyright
+Privacy Policy
+Disclaimer
+Terms &
+                Conditions
+
+                Accessibility Statement
+Accessibility
+                Options
+Feedback
+Site Map
+
+
+
+
+
+
+

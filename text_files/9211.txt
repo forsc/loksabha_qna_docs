@@ -1,0 +1,350 @@
+
+
+
+
+	Questions : Lok Sabha
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Screen Reader Access
+Skip to Main Content
+Skip to Navigation
+
+
+
+Text Size
+
+                                A
+
+                                A
+A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+हिन्दी मे
+
+
+
+
+
+
+
+
+Parliament of India Lok Sabha House of the
+                        People
+
+
+
+
+
+
+* Special Characters not allowed
+
+
+
+
+
+
+
+
+
+
+
+
+India Time 
+
+
+Your Time 
+
+
+                        Monday,
+                        11 April 2022
+
+
+
+
+
+
+
+
+
+HomeMembersSitting MembersMembers Home PageMembers' PortalContact DetailsMembers SearchStatistical AnalysisAttendance of MembersHandbook Members Since 1952Digitized Who's WhoOthers BusinessProvisional CalendarList of BusinessPapers to be LaidList of Private Members' BusinessBulletin-IDigitized Lok Sabha Bulletin Part IBulletin-IIStatement of WorkSpecial Mentions (ZERO HOUR)Resume of WorkDigitized Resume of Work done by Lok Sabha QuestionsHomeQuestion ListStatus of notices of questionQuestions CalendarGrouping of Ministries - AlphabeticalOfficers in Min./Dept. Dealing with Parliamentary WorkQuestion SearchSupplementary Questions DebatesIntroductionSynopsisUncorrected DebateText of DebateDigitized DebatesConstituent Assembly DebatesWit And HumourDebate SearchHindi FontsDisclaimer Papers LaidPapers Laid on the Table of the House LegislationIntroduction(How Bill Becomes Act)Bills IntroducedBills PassedBills PendingBills AssentedBills LapsedBills WithdrawnBills NegativedBills Search Disclaimer CommitteesIntroductionChairpersonSummary of WorkCommittee Meetings ScheduleBills Referred to CommitteesReports PresentedDigitized ReportsPress ReleaseMembership SearchToday's Committee MeetingsCommittee Subject SelectedDepartment Related-RS Govt. AssurancesSANSAD TVIntranet
+
+
+
+
+
+HomeQuestion ListStatus of notices of questionQuestions CalendarGrouping of Ministries - AlphabeticalOfficers in Min./Dept. Dealing with Parliamentary WorkQuestion SearchSupplementary Questions
+
+
+
+
+
+
+
+
+
+
+
+Download as PDF
+
+
+
+
+Print
+
+
+
+
+
+
+
+
+
+
+
+
+PDF/WORD(Hindi)
+
+
+PDF/WORD
+
+
+
+
+                                    GOVERNMENT OF INDIA
+                                
+
+
+
+
+
+                                    MINISTRY OF
+                                    COMMUNICATIONS
+
+
+
+
+
+
+                                    LOK SABHA
+                                
+
+
+
+
+
+UNSTARRED 
+
+
+                                    QUESTION NO:
+                                
+
+2583
+
+
+
+
+
+
+                                    ANSWERED ON: 
+                                
+
+04.12.2019
+
+
+
+
+
+
+Auction of 5G Spectrum
+
+
+
+
+Lavu Sri Krishna Devarayalu
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        Will the Minister of
+
+
+
+
+
+COMMUNICATIONS
+
+
+                        be pleased to state:-
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                    (a) 	whether the Government proposes to auction 5G spectrum very soon and if so, the details thereof; (b) 	whether any assessment has been made by the Government as to how much 5G spectrum is required and is available and if so, the details and the outcome thereof; (c) 	the amount likely to be released by the Government from the said auction; (d) 	the efforts made by the Government to transparently auction the said spectrum; (e) 	the reserve price fixed by the Government for the said spectrum sale; and (f) 	whether the telecom companies which are reportedly under severe financial stress will be able to buy the 5G spectrum and if so, the details thereof and the reaction of the Government thereto?
+
+
+
+
+
+
+ANSWER
+
+
+
+
+                                                        MINISTER OF COMMUNICATIONS, LAW & JUSTICE AND ELECTRONICS AND INFORMATION TECHNOLOGY(SHRI RAVI SHANKAR PRASAD)(a)	Telecom Regulatory Authority of India (TRAI) has given its recommendations dated 1.8.2018 on Auction of Spectrum in various bands including for 5G services. The Government will decide on the auction of spectrum, after considering the recommendations of TRAI.(b)	TRAI has recommended that barring the specific locations or districts where Indian Space Research Organization(ISRO) is using  the 25 MHz (3400 MHz-3425 MHz) of spectrum, the entire spectrum from 3300 MHz to 3600 MHz should be made available for access services and should be included in the forthcoming auction.TRAI has also recommended that in 3300-3600 MHz band, there should be a spectrum holding cap of 100 MHz per licensee. TRAI recommendations are being examined by the Government.(c)	The valuation of the spectrum recommended for auction by TRAI in 3300-3600 MHz band is Rs. 1,35,300/- crores. The actual amount realised will depend on the final bids by the bidders in the auction. (d)	The efforts of the Government to transparently auction the said spectrum are as follows: 1.	The details of auction are transparently placed in public domain through a ‘Notice Inviting Application’ (NIA) which includes inter alia, the rules of auction process, timelines, details of spectrum being auctioned, eligibility criteria, procedure for awarding spectrum.2.	The process is open to all potential bidders on a non-discriminatory basis. 3.	The process allows for queries to be raised by potential bidders, and such concerns are addressed through a ‘Queries and Responses’ document which is also placed on Department of Telecommunications (DoT’s) website. 4.	The auctioneer is selected through a transparent Request for Proposal (RFP) process.5.	The auction is conducted online through an Electronic Auction System (EAS) for which prior security audit by Standardisation Testing and Quality Certification (STQC) is mandatory. 6.	The EAS has to be compliant with Guidelines for Indian Government Websites (GIGW). 7.	Back up of all the auction data including bids received in each round is done in real time and is available for subsequent analysis and audit. 8.	Prior to the start of the auction, the Government makes public the list of pre-qualified bidders as well as the information about their ownership structures.9.	At the end of each day of the auction, details of clock rounds completed, aggregate demand and provisional bidding price are put up on DoT’s website.(e)	Reserve price will be fixed after considering TRAI’s recommendations.(f)	In its recommendations on auction of spectrum dated 1.8.2018, TRAI has stated that  to keep pace with the increasing demand of data services, it is essential that spectrum is auctioned at regular intervals.  TRAI has also brought out that it would not be entirely correct to say that industry is not in a position to assess its spectrum requirements,and has recommended that entire available spectrum should be put to auction in the forthcoming auction. The recommendations of TRAI are under consideration of the Government.************
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+HomeArchiveIndex to Select Questions (1984-1999)Ballot ListStatistical Statements Relating to QuestionsUploading of Questions - Status QueryProcedure for Sending Text of Questions & AnswersDemarcation of responsibilities in Govt. of IndiaBrochure on Statutory Corporations, Companies and Other Bodies in Which the Government of India have financial or controlling interestHighlights pertaining to questions of 17th Lok Sabha
+
+
+
+
+
+
+Contact Us 
+Disclaimer
+
+
+
+
+
+
+
+
+
+
+
+        Developed and Hosted by National Informatics Centre (NIC)
+
+Content on this website is published,
+            managed & maintained by Software Unit, Computer (HW & SW) Management. Branch,
+            Lok Sabha Secretariat
+
+
+
+
+
+HomeMembersBusinessQuestionsDebatesPapers Laid
+
+
+LegislationCommitteesSANSAD TVIntranetSecretariatPRIDE
+
+
+RecruitmentSC/ST ReservationConferenceParliament Library
+
+
+About ParliamentPhoto GalleryRelated LinksRTITendersFAQ
+
+
+SpeakerDy. SpeakerLeader of the HousePanel of ChairpersonsContact UsFeedback
+
+
+Council of MinistersPublications of MinistriesParliamentry ProceduresJournal of Parliamentary Information
+Visitor's Counter:113162036
+
+
+
+
+
+
+
+Copyright
+Privacy Policy
+Disclaimer
+Terms &
+                Conditions
+
+                Accessibility Statement
+Accessibility
+                Options
+Feedback
+Site Map
+
+
+
+
+
+
+

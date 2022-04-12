@@ -1,0 +1,350 @@
+
+
+
+
+	Questions : Lok Sabha
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Screen Reader Access
+Skip to Main Content
+Skip to Navigation
+
+
+
+Text Size
+
+                                A
+
+                                A
+A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+हिन्दी मे
+
+
+
+
+
+
+
+
+Parliament of India Lok Sabha House of the
+                        People
+
+
+
+
+
+
+* Special Characters not allowed
+
+
+
+
+
+
+
+
+
+
+
+
+India Time 
+
+
+Your Time 
+
+
+                        Sunday,
+                        10 April 2022
+
+
+
+
+
+
+
+
+
+HomeMembersSitting MembersMembers Home PageMembers' PortalContact DetailsMembers SearchStatistical AnalysisAttendance of MembersHandbook Members Since 1952Digitized Who's WhoOthers BusinessProvisional CalendarList of BusinessPapers to be LaidList of Private Members' BusinessBulletin-IDigitized Lok Sabha Bulletin Part IBulletin-IIStatement of WorkSpecial Mentions (ZERO HOUR)Resume of WorkDigitized Resume of Work done by Lok Sabha QuestionsHomeQuestion ListStatus of notices of questionQuestions CalendarGrouping of Ministries - AlphabeticalOfficers in Min./Dept. Dealing with Parliamentary WorkQuestion SearchSupplementary Questions DebatesIntroductionSynopsisUncorrected DebateText of DebateDigitized DebatesConstituent Assembly DebatesWit And HumourDebate SearchHindi FontsDisclaimer Papers LaidPapers Laid on the Table of the House LegislationIntroduction(How Bill Becomes Act)Bills IntroducedBills PassedBills PendingBills AssentedBills LapsedBills WithdrawnBills NegativedBills Search Disclaimer CommitteesIntroductionChairpersonSummary of WorkCommittee Meetings ScheduleBills Referred to CommitteesReports PresentedDigitized ReportsPress ReleaseMembership SearchToday's Committee MeetingsCommittee Subject SelectedDepartment Related-RS Govt. AssurancesSANSAD TVIntranet
+
+
+
+
+
+HomeQuestion ListStatus of notices of questionQuestions CalendarGrouping of Ministries - AlphabeticalOfficers in Min./Dept. Dealing with Parliamentary WorkQuestion SearchSupplementary Questions
+
+
+
+
+
+
+
+
+
+
+
+Download as PDF
+
+
+
+
+Print
+
+
+
+
+
+
+
+
+
+
+
+
+PDF/WORD(Hindi)
+
+
+PDF/WORD
+
+
+
+
+                                    GOVERNMENT OF INDIA
+                                
+
+
+
+
+
+                                    MINISTRY OF
+                                    COMMUNICATIONS
+
+
+
+
+
+
+                                    LOK SABHA
+                                
+
+
+
+
+
+UNSTARRED 
+
+
+                                    QUESTION NO:
+                                
+
+1414
+
+
+
+
+
+
+                                    ANSWERED ON: 
+                                
+
+27.11.2019
+
+
+
+
+
+
+Mobile Towers in Rajasthan
+
+
+
+
+Devji Mansingram Patel
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        Will the Minister of
+
+
+
+
+
+COMMUNICATIONS
+
+
+                        be pleased to state:-
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                    (a) 	whether opportunities of digital services based social activities and e-Governance are increasing in the rural areas where telecom towers have been installed and if so, the details thereof; (b) 	the total number of villages including Rajasthan where towers have been installed till now and the State-wise number of towers to be installed in the next financial year, State/UT-wise; (c) 	the total number of towers installed in Sirohi and Jalaur districts of Rajasthan during each of the last three years, telecom company-wise; and (d) 	the total number of towers installed across the country during the same period, State/UT-wise?
+
+
+
+
+
+
+ANSWER
+
+
+
+
+                                                        MINISTER OF COMMUNICATIONS, LAW & JUSTICE AND ELECTRONICS AND INFORMATION TECHNOLOGY(SHRI RAVI SHANKAR PRASAD)(a)		The Ministry of Electronic and IT, Government of India is executing a project namely “Common Services Centre (CSC) 2.0” since August, 2015 under Digital India Programme, which is aimed to set up of at least one CSC (internet enabled kiosk) at Gram Panchayat (GP) level to cover all the 2.5 lakh GPs across the country. The key objective of CSCs is to deliver various citizen centric services, such as, Government to Citizen (G2C), Business to Citizen (B2C) services, financial inclusion services, educational services, skill development services etc. As on 30th  September, 2019, the number of functional CSCs (Urban & Rural) across the Country is 3,36,980 CSCs, of which 2,62,654 CSCs are functional at Gram Panchayat level. This is a self-sustainable model for delivery of various e-Services of G2C & G2B and others to the citizens of India in an electronic manner in the urban as well as in the rural areas of the country. The Rajasthan Government has opened E-Mitra Kiosk across the state to provide e-governance services. 		BharatNet project is being implemented in a phased manner to provide broadband connectivity to all the Gram Panchayats (approx. 2,50,000) in the country.  As on 07.11.2019, by laying 3,80,988 km Optical Fibre Cable (OFC), a total of 1,40,668 Gram Panchayats (GPs) have been connected, out of which 1,27,393 GPs have been made Service Ready. In addition, 983 GPs have been provided connectivity through satellite media. As part of BharatNet project, the Last Mile connectivity, through Wi-Fi or any other suitable broadband access technology, is funded from USOF for two Wi-Fi Access points (hotspots) per GP. As of now, Wi-Fi hotspots have been installed in 44,786 GPs.		The Government has planned to cover all uncovered villages in a phased manner, utilizing the Universal Service Obligation Fund (USOF). DoT has estimated that about 27,721 uncovered villages as per recent survey carried out in Licence Service Area (LSA), which do not have mobile coverage, are detailed in Annexure-I . Government has prioritized to reach remote areas of the country such as North-Eastern States, Islands, Himalayan States, Western Border States and more importantly, the Left Wing Extremism affected areas in the first phase.	 Further, theDepartment of Telecommunications (DoT) has taken several policy initiatives to facilitate infrastructure growth for delivery of quality services. These include permitting trading/sharing/ liberalisation of spectrum, permitting passive & active infrastructure sharing, notification of Right of Way Rules 2016, making available government land/buildings for installations of towers etc.  As a result, around 15.57 lakh additional Base Transceiver Stations (BTSs) for 2G/3G/4G-LTE services have been added by TSPs during the period from April 2014 (6.49 lakh BTS) to 21st November, 2019 (22.06 lakh BTS). Also, total number of Internet subscriber has increased to 665.31 million (in June, 2019) from 259.14 million (in June, 2014). (b)	 to (d)	Licence Service Area (LSA) wise number of Base Transceiver Stations (BTSs) & towers installed for last three years are detailed at Annexure-II. The total number of towers installed in Sirohi and Jalaur districts of Rajasthan during each of the last three years, TSP-wise is detailed at Annexure-III. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+HomeArchiveIndex to Select Questions (1984-1999)Ballot ListStatistical Statements Relating to QuestionsUploading of Questions - Status QueryProcedure for Sending Text of Questions & AnswersDemarcation of responsibilities in Govt. of IndiaBrochure on Statutory Corporations, Companies and Other Bodies in Which the Government of India have financial or controlling interestHighlights pertaining to questions of 17th Lok Sabha
+
+
+
+
+
+
+Contact Us 
+Disclaimer
+
+
+
+
+
+
+
+
+
+
+
+        Developed and Hosted by National Informatics Centre (NIC)
+
+Content on this website is published,
+            managed & maintained by Software Unit, Computer (HW & SW) Management. Branch,
+            Lok Sabha Secretariat
+
+
+
+
+
+HomeMembersBusinessQuestionsDebatesPapers Laid
+
+
+LegislationCommitteesSANSAD TVIntranetSecretariatPRIDE
+
+
+RecruitmentSC/ST ReservationConferenceParliament Library
+
+
+About ParliamentPhoto GalleryRelated LinksRTITendersFAQ
+
+
+SpeakerDy. SpeakerLeader of the HousePanel of ChairpersonsContact UsFeedback
+
+
+Council of MinistersPublications of MinistriesParliamentry ProceduresJournal of Parliamentary Information
+Visitor's Counter:113128991
+
+
+
+
+
+
+
+Copyright
+Privacy Policy
+Disclaimer
+Terms &
+                Conditions
+
+                Accessibility Statement
+Accessibility
+                Options
+Feedback
+Site Map
+
+
+
+
+
+
+

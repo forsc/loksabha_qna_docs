@@ -1,0 +1,350 @@
+
+
+
+
+	Questions : Lok Sabha
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Screen Reader Access
+Skip to Main Content
+Skip to Navigation
+
+
+
+Text Size
+
+                                A
+
+                                A
+A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+हिन्दी मे
+
+
+
+
+
+
+
+
+Parliament of India Lok Sabha House of the
+                        People
+
+
+
+
+
+
+* Special Characters not allowed
+
+
+
+
+
+
+
+
+
+
+
+
+India Time 
+
+
+Your Time 
+
+
+                        Monday,
+                        11 April 2022
+
+
+
+
+
+
+
+
+
+HomeMembersSitting MembersMembers Home PageMembers' PortalContact DetailsMembers SearchStatistical AnalysisAttendance of MembersHandbook Members Since 1952Digitized Who's WhoOthers BusinessProvisional CalendarList of BusinessPapers to be LaidList of Private Members' BusinessBulletin-IDigitized Lok Sabha Bulletin Part IBulletin-IIStatement of WorkSpecial Mentions (ZERO HOUR)Resume of WorkDigitized Resume of Work done by Lok Sabha QuestionsHomeQuestion ListStatus of notices of questionQuestions CalendarGrouping of Ministries - AlphabeticalOfficers in Min./Dept. Dealing with Parliamentary WorkQuestion SearchSupplementary Questions DebatesIntroductionSynopsisUncorrected DebateText of DebateDigitized DebatesConstituent Assembly DebatesWit And HumourDebate SearchHindi FontsDisclaimer Papers LaidPapers Laid on the Table of the House LegislationIntroduction(How Bill Becomes Act)Bills IntroducedBills PassedBills PendingBills AssentedBills LapsedBills WithdrawnBills NegativedBills Search Disclaimer CommitteesIntroductionChairpersonSummary of WorkCommittee Meetings ScheduleBills Referred to CommitteesReports PresentedDigitized ReportsPress ReleaseMembership SearchToday's Committee MeetingsCommittee Subject SelectedDepartment Related-RS Govt. AssurancesSANSAD TVIntranet
+
+
+
+
+
+HomeQuestion ListStatus of notices of questionQuestions CalendarGrouping of Ministries - AlphabeticalOfficers in Min./Dept. Dealing with Parliamentary WorkQuestion SearchSupplementary Questions
+
+
+
+
+
+
+
+
+
+
+
+Download as PDF
+
+
+
+
+Print
+
+
+
+
+
+
+
+
+
+
+
+
+PDF/WORD(Hindi)
+
+
+PDF/WORD
+
+
+
+
+                                    GOVERNMENT OF INDIA
+                                
+
+
+
+
+
+                                    MINISTRY OF
+                                    COMMUNICATIONS
+
+
+
+
+
+
+                                    LOK SABHA
+                                
+
+
+
+
+
+UNSTARRED 
+
+
+                                    QUESTION NO:
+                                
+
+3655
+
+
+
+
+
+
+                                    ANSWERED ON: 
+                                
+
+17.03.2021
+
+
+
+
+
+
+EMF Radiations From Mobile Towers
+
+
+
+
+Aparajita Sarangi
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        Will the Minister of
+
+
+
+
+
+COMMUNICATIONS
+
+
+                        be pleased to state:-
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                    (a) 	whether the number of mobile towers has increased during the last three years and if so, thedetails thereof, State/UT-wise;(b) 	whether these towers have resulted in an increase in emissions therefrom and if so, the details thereof and  the steps taken by the Government in this regard;(c) 	the upper limit of Electro Magnetic Field (EMF) radiations from mobile towers fixed by the Government and various international organisations;(d) 	whether the Government has conducted any surveys to see if the exposure level of EMF radiation need to be revised; and(e) 	if so, the details and the outcome thereof?
+
+
+
+
+
+
+ANSWER
+
+
+
+
+                                                        MINISTER OF STATE FOR COMMUNICATIONS, EDUCATION AND ELECTRONICS & INFORMATION TECHNOLOGY (SHRI SANJAY DHOTRE)(a) 	Yes, Sir. The telecom licenses are issued Licensed Service Area (LSA) wise and accordingly the information about number of mobile towers is maintained LSA-wise. Accordingly, the LSA-wise details of growth in number of mobile towers during the last three year is attached as Annexure.(b) 	No, Sir. There is no report in regard to increase in emission due to increase in number of towers. Even with the increase in towers, the total emission at any place accessible to public shall be within the prescribed norms of Department of Telecom as given in Para (c) below.(c) 	The norms for exposure limit for the Radio Frequency Field (Base Station Emissions) has been fixed 10 times more stringent than the safe limits prescribed by International Commission on Non Ionizing Radiation Protection (ICNIRP) and recommended by World Health Organization (WHO). The present emission norms as laid down by the Government on 30-12-2011 for Base Transceiver Stations (BTSs) installed at various mobile towers in India are as follows:<pre>Frequency Range	E-Field Strength   (Volt/Meter)	H-Field Strength (Amp/Meter)	Power Density (Watt/Sq.Meter)400 MHz  to 2000 MHz	0.434 f ½	0.0011 f ½	f / 20002 GHz to 300 GHz	19.29	0.05	1</pre>(f is frequency in MHz)(d) & (e) To review the exposure limit, in 2014, a Committee was setup at the behest of orders of High Court of Allahabad, Lucknow bench. The Committee comprised of members from Indian Institutes of Technology (IITs) Kharagpur, Kanpur, Delhi, Roorkee, Bombay and from other scientific institutions of the country including Indian Council of Medical Research (ICMR) and All India Institute of Medical Science (AIIMS) Delhi. Based on the report of the Committee and after due consideration of the human health concerns on account of EMF radiation being raised in public and the Report of the Committee, the Government decided in February 2014 that the present prescribed precautionary EMF safe exposure limits (as above) are adequate and need no further change.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+HomeArchiveIndex to Select Questions (1984-1999)Ballot ListStatistical Statements Relating to QuestionsUploading of Questions - Status QueryProcedure for Sending Text of Questions & AnswersDemarcation of responsibilities in Govt. of IndiaBrochure on Statutory Corporations, Companies and Other Bodies in Which the Government of India have financial or controlling interestHighlights pertaining to questions of 17th Lok Sabha
+
+
+
+
+
+
+Contact Us 
+Disclaimer
+
+
+
+
+
+
+
+
+
+
+
+        Developed and Hosted by National Informatics Centre (NIC)
+
+Content on this website is published,
+            managed & maintained by Software Unit, Computer (HW & SW) Management. Branch,
+            Lok Sabha Secretariat
+
+
+
+
+
+HomeMembersBusinessQuestionsDebatesPapers Laid
+
+
+LegislationCommitteesSANSAD TVIntranetSecretariatPRIDE
+
+
+RecruitmentSC/ST ReservationConferenceParliament Library
+
+
+About ParliamentPhoto GalleryRelated LinksRTITendersFAQ
+
+
+SpeakerDy. SpeakerLeader of the HousePanel of ChairpersonsContact UsFeedback
+
+
+Council of MinistersPublications of MinistriesParliamentry ProceduresJournal of Parliamentary Information
+Visitor's Counter:113209012
+
+
+
+
+
+
+
+Copyright
+Privacy Policy
+Disclaimer
+Terms &
+                Conditions
+
+                Accessibility Statement
+Accessibility
+                Options
+Feedback
+Site Map
+
+
+
+
+
+
+

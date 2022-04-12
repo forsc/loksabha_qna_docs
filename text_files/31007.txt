@@ -1,0 +1,350 @@
+
+
+
+
+	Questions : Lok Sabha
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Screen Reader Access
+Skip to Main Content
+Skip to Navigation
+
+
+
+Text Size
+
+                                A
+
+                                A
+A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+हिन्दी मे
+
+
+
+
+
+
+
+
+Parliament of India Lok Sabha House of the
+                        People
+
+
+
+
+
+
+* Special Characters not allowed
+
+
+
+
+
+
+
+
+
+
+
+
+India Time 
+
+
+Your Time 
+
+
+                        Tuesday,
+                        12 April 2022
+
+
+
+
+
+
+
+
+
+HomeMembersSitting MembersMembers Home PageMembers' PortalContact DetailsMembers SearchStatistical AnalysisAttendance of MembersHandbook Members Since 1952Digitized Who's WhoOthers BusinessProvisional CalendarList of BusinessPapers to be LaidList of Private Members' BusinessBulletin-IDigitized Lok Sabha Bulletin Part IBulletin-IIStatement of WorkSpecial Mentions (ZERO HOUR)Resume of WorkDigitized Resume of Work done by Lok Sabha QuestionsHomeQuestion ListStatus of notices of questionQuestions CalendarGrouping of Ministries - AlphabeticalOfficers in Min./Dept. Dealing with Parliamentary WorkQuestion SearchSupplementary Questions DebatesIntroductionSynopsisUncorrected DebateText of DebateDigitized DebatesConstituent Assembly DebatesWit And HumourDebate SearchHindi FontsDisclaimer Papers LaidPapers Laid on the Table of the House LegislationIntroduction(How Bill Becomes Act)Bills IntroducedBills PassedBills PendingBills AssentedBills LapsedBills WithdrawnBills NegativedBills Search Disclaimer CommitteesIntroductionChairpersonSummary of WorkCommittee Meetings ScheduleBills Referred to CommitteesReports PresentedDigitized ReportsPress ReleaseMembership SearchToday's Committee MeetingsCommittee Subject SelectedDepartment Related-RS Govt. AssurancesSANSAD TVIntranet
+
+
+
+
+
+HomeQuestion ListStatus of notices of questionQuestions CalendarGrouping of Ministries - AlphabeticalOfficers in Min./Dept. Dealing with Parliamentary WorkQuestion SearchSupplementary Questions
+
+
+
+
+
+
+
+
+
+
+
+Download as PDF
+
+
+
+
+Print
+
+
+
+
+
+
+
+
+
+
+
+
+PDF/WORD(Hindi)
+
+
+PDF/WORD
+
+
+
+
+                                    GOVERNMENT OF INDIA
+                                
+
+
+
+
+
+                                    MINISTRY OF
+                                    EARTH SCIENCES
+
+
+
+
+
+
+                                    LOK SABHA
+                                
+
+
+
+
+
+UNSTARRED 
+
+
+                                    QUESTION NO:
+                                
+
+2931
+
+
+
+
+
+
+                                    ANSWERED ON: 
+                                
+
+15.12.2021
+
+
+
+
+
+
+Flood Warning System
+
+
+
+
+Rajiv Pratap Rudy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        Will the Minister of
+
+
+
+
+
+EARTH SCIENCES
+
+
+                        be pleased to state:-
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                    (a)	the details of the current mechanism being followed to predict the rainfall; (b)	whether the Ministry is considering to take any steps to devise an intelligent prediction system with modern analytic tools by using local weather information for rainfall prediction; (c)	if so, the details thereof and if not, the reasons therefor; (d)	the details of current flood warning system being used in the country with their impact and efficacy, specially for Bihar; and (e)	whether the Government is taking any steps to improve the system, if so, the details thereof and if not, the reasons therefor?
+
+
+
+
+
+
+ANSWER
+
+
+
+
+                                                        THE MINISTER OF STATE (INDEPENDENT CHARGE) FORMINISTRY OF SCIENCE AND TECHNOLOGYAND EARTH SCIENCES(DR. JITENDRA SINGH)(a)	India Meteorological Department (IMD) follows a seamless forecasting strategy. The long-range forecasts (for the whole season) issued are being followed with extended range forecast issued on every Thursday with a validity period of four weeks. To follow up the extended range forecast, IMD issues short to medium range forecast and warnings at 36 meteorological sub-divisions levels daily four times by the National Weather Forecasting Centre (NWFC), New Delhi valid up to next five days with an outlook for subsequent two days. The short to medium range forecast and warning at district and station level are issued by state level Meteorological Centres (MCs)/Regional Meteorological Centres (RMCs) with a validity of next five days and are updated twice a day. The short to medium range forecast is followed by very short range forecast of severe weather up to three hours (nowcast) for all the districts and 1085 cities and towns. These nowcasts are updated every three hours.While issuing the warning suitable colour code is used to bring out the impact of the severe weather expected and to signal the Disaster Management about the course of action to be taken with respect to impending disaster weather event.  Green color corresponds to no warning hence no action is needed, yellow color corresponds to be watchful and get updated information, orange color to be alert and be prepared to take action whereas red color signals to take action.IMD is issuing Impact Based Forecast (IBF) which give details of what the weather will do rather than what the weather will be. It contains the details of impacts expected from the severe weather elements and guidelines to general public about do''s and don''ts while getting exposed to severe weather. These guidelines are finalised in collaboration with National Disaster Management Authority (NDMA) and is already implemented successfully for cyclone, heat wave, thunderstorm and heavy rainfall. Work is in progress to implement the same for other severe weather elements.(b)	- (c) 	IMD is exploring methods to augment and enhance forecasting by incorporating new data analysis techniques using Artificial intelligence.For this purpose, Artificial Intelligence (AI)/ Machine Learning (ML) Application Group has been established in IMD and MoES in the recent past. These groups are working on Identification of areas for application of AI including weather forecasting, climatological studies, satellite meteorology, radar meteorology, sectorial applications like agriculture, air quality analysis, decision support system, impact based forecast, power, health, transport etc.(d) - (e)	Flood and drought forecasting is not the responsibility of IMD. However, IMD supports flood warning services of Central Water Commission (CWC), Ministry of Water Resources. by providing observed and forecasted rainfall. Heavy rainfall events lead to floods over different river basins of the country. River basin floods are dealt by the CWC and IMD is working in close association with CWC and State Governments for timely flood forecast whenever the river water level rises above warning level. In order to meet specific requirements of flood forecasting by CWC, IMD operates Flood Meteorological Offices (FMOs) at fourteen locations viz., Agra, Ahmedabad, Asansol, Bhubaneshwar, Bengaluru, Chennai, Guwahati, Hyderabad, Jalpaiguri, Lucknow, New Delhi, Patna (Bihar), Srinagar and Thiruvananthapuram. Apart from this, IMD also supports Damodar Valley Corporation (DVC).IMD provides Quantitative Precipitation Forecast (QPF) for all river catchments including Damodar river basin areas for their flood forecasting activities. FMOs provide meteorological support including QPF of everyday valid for next five days over different river catchments to the CWC for issuing flood warnings well in advance in respect of 153 river basins. CWC issues flood forecasts 6 hrs. to 30 hrs. in advance using QPF received from FMOs of IMD and in-situ hydrometeorological data. In order to cater the services of hydro-meteorological events occurring in short duration of time, IMD is issuing Flash Flood Guidance (FFG) by which a diagnostic value within a watershed required to produce flooding at the outlet of the catchment is estimated, to support the flood warning services. 
+                                                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+HomeArchiveIndex to Select Questions (1984-1999)Ballot ListStatistical Statements Relating to QuestionsUploading of Questions - Status QueryProcedure for Sending Text of Questions & AnswersDemarcation of responsibilities in Govt. of IndiaBrochure on Statutory Corporations, Companies and Other Bodies in Which the Government of India have financial or controlling interestHighlights pertaining to questions of 17th Lok Sabha
+
+
+
+
+
+
+Contact Us 
+Disclaimer
+
+
+
+
+
+
+
+
+
+
+
+        Developed and Hosted by National Informatics Centre (NIC)
+
+Content on this website is published,
+            managed & maintained by Software Unit, Computer (HW & SW) Management. Branch,
+            Lok Sabha Secretariat
+
+
+
+
+
+HomeMembersBusinessQuestionsDebatesPapers Laid
+
+
+LegislationCommitteesSANSAD TVIntranetSecretariatPRIDE
+
+
+RecruitmentSC/ST ReservationConferenceParliament Library
+
+
+About ParliamentPhoto GalleryRelated LinksRTITendersFAQ
+
+
+SpeakerDy. SpeakerLeader of the HousePanel of ChairpersonsContact UsFeedback
+
+
+Council of MinistersPublications of MinistriesParliamentry ProceduresJournal of Parliamentary Information
+Visitor's Counter:113227731
+
+
+
+
+
+
+
+Copyright
+Privacy Policy
+Disclaimer
+Terms &
+                Conditions
+
+                Accessibility Statement
+Accessibility
+                Options
+Feedback
+Site Map
+
+
+
+
+
+
+

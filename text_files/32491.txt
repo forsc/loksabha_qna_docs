@@ -1,0 +1,350 @@
+
+
+
+
+	Questions : Lok Sabha
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Screen Reader Access
+Skip to Main Content
+Skip to Navigation
+
+
+
+Text Size
+
+                                A
+
+                                A
+A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+हिन्दी मे
+
+
+
+
+
+
+
+
+Parliament of India Lok Sabha House of the
+                        People
+
+
+
+
+
+
+* Special Characters not allowed
+
+
+
+
+
+
+
+
+
+
+
+
+India Time 
+
+
+Your Time 
+
+
+                        Tuesday,
+                        12 April 2022
+
+
+
+
+
+
+
+
+
+HomeMembersSitting MembersMembers Home PageMembers' PortalContact DetailsMembers SearchStatistical AnalysisAttendance of MembersHandbook Members Since 1952Digitized Who's WhoOthers BusinessProvisional CalendarList of BusinessPapers to be LaidList of Private Members' BusinessBulletin-IDigitized Lok Sabha Bulletin Part IBulletin-IIStatement of WorkSpecial Mentions (ZERO HOUR)Resume of WorkDigitized Resume of Work done by Lok Sabha QuestionsHomeQuestion ListStatus of notices of questionQuestions CalendarGrouping of Ministries - AlphabeticalOfficers in Min./Dept. Dealing with Parliamentary WorkQuestion SearchSupplementary Questions DebatesIntroductionSynopsisUncorrected DebateText of DebateDigitized DebatesConstituent Assembly DebatesWit And HumourDebate SearchHindi FontsDisclaimer Papers LaidPapers Laid on the Table of the House LegislationIntroduction(How Bill Becomes Act)Bills IntroducedBills PassedBills PendingBills AssentedBills LapsedBills WithdrawnBills NegativedBills Search Disclaimer CommitteesIntroductionChairpersonSummary of WorkCommittee Meetings ScheduleBills Referred to CommitteesReports PresentedDigitized ReportsPress ReleaseMembership SearchToday's Committee MeetingsCommittee Subject SelectedDepartment Related-RS Govt. AssurancesSANSAD TVIntranet
+
+
+
+
+
+HomeQuestion ListStatus of notices of questionQuestions CalendarGrouping of Ministries - AlphabeticalOfficers in Min./Dept. Dealing with Parliamentary WorkQuestion SearchSupplementary Questions
+
+
+
+
+
+
+
+
+
+
+
+Download as PDF
+
+
+
+
+Print
+
+
+
+
+
+
+
+
+
+
+
+
+PDF/WORD(Hindi)
+
+
+PDF/WORD
+
+
+
+
+                                    GOVERNMENT OF INDIA
+                                
+
+
+
+
+
+                                    MINISTRY OF
+                                    ELECTRONICS AND INFORMATION TECHNOLOGY
+
+
+
+
+
+
+                                    LOK SABHA
+                                
+
+
+
+
+
+STARRED   
+
+
+                                    QUESTION NO:
+                                
+
+6
+
+
+
+
+
+
+                                    ANSWERED ON: 
+                                
+
+02.02.2022
+
+
+
+
+
+
+Data Centres
+
+
+
+
+Jagdambika Pal 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        Will the Minister of
+
+
+
+
+
+ELECTRONICS AND INFORMATION TECHNOLOGY
+
+
+                        be pleased to state:-
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                    Will the Minister of ELECTRONICS AND INFORMATION TECHNOLOGY be pleased to state:(a)	the details of the current Information Technology (IT) load and capacity of data centres in the country including the extent to which it is expected to grow.(b)	the details of  data centres in the country including the green data centres and Government owned data centres out of these. (c)	whether the Government has taken/proposed any steps to develop green data centres in the country and if so, the details thereof.(d)	the  present  size of the data centre market.(e)	whether the Government has completed or doing any study on Power Usage Effectiveness (PUE) for data centres and (f)	if so, the details thereof along with the data depicting annual estimates of the electricity consumption?
+
+
+
+
+
+
+ANSWER
+
+
+
+
+                                                        (a)	to (f):  A Statement is laid on the Table of the House. STATEMENT REFERRED TO IN REPLY TO LOK SABHA  STARREDQUESTION NO.*6 FOR 02.02.2022  REGARDING   DATA CENTRES……….(a):  As per industry reports (JLL Research report Data Centre outlook (India-H1 2021)) Data Centre Sector capacity (IT load) available with private sector is around 499 MW. According to the same report, at the current rate of growth, it is expected that an additional capacity of 508 MW will be added by Private sector, taking the total capacity to approximately 1007 MW by 2023. Capacity of National Data Centres owned by NIC & other State Data Centres is around 17 MW. An additional capacity of about  22 MW is also planned to be added through National Data Centres of NIC, taking the Government Data Centre capacity to approximately 39 MW by 2025. (b):The details of the existing data centres across the country is as follows:Industry Owned Data Centres Region	Capacity (MW)Mumbai	225Bengaluru	61Delhi NCR	42Pune	61Chennai	62Hyderabad	33Kolkata	6Other Cities	9Total	499(Source JLL  report India-H1 2021)NIC and State Data CentresRegion	Capacity (MW)NDC Delhi	4NDC Bhubaneswar 	2NDC Hyderabad	2NDC Pune	1.2NIC Mini Data Centres	2State Data Centres 	6Total	17.2(NDC Data based on number of racks provided by NIC and SDC Data as per the approvals issued by MeitY under SDC Scheme)No separate details are available about Green Data Centres.(c):No, Sir.(d):  As per industry report (Frost & Sullivan, Data Centre Services: Powering the next decade of Growth in India), India Data Centre Services market was worth approximately INR 4511.2 Cr in revenue in 2020 representing a growth of 18.4% over 2019.  The market is projected to grow at a compound annual growth rate (CAGR) of 25.9% from 2019-2024 to reach INR 12055.8 Cr by the end of 2024.(e) and (f):  No, Sir. The  Government of India has not conducted any study on Power Usage Effectiveness (PUE) for Data Centres. ******* 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+HomeArchiveIndex to Select Questions (1984-1999)Ballot ListStatistical Statements Relating to QuestionsUploading of Questions - Status QueryProcedure for Sending Text of Questions & AnswersDemarcation of responsibilities in Govt. of IndiaBrochure on Statutory Corporations, Companies and Other Bodies in Which the Government of India have financial or controlling interestHighlights pertaining to questions of 17th Lok Sabha
+
+
+
+
+
+
+Contact Us 
+Disclaimer
+
+
+
+
+
+
+
+
+
+
+
+        Developed and Hosted by National Informatics Centre (NIC)
+
+Content on this website is published,
+            managed & maintained by Software Unit, Computer (HW & SW) Management. Branch,
+            Lok Sabha Secretariat
+
+
+
+
+
+HomeMembersBusinessQuestionsDebatesPapers Laid
+
+
+LegislationCommitteesSANSAD TVIntranetSecretariatPRIDE
+
+
+RecruitmentSC/ST ReservationConferenceParliament Library
+
+
+About ParliamentPhoto GalleryRelated LinksRTITendersFAQ
+
+
+SpeakerDy. SpeakerLeader of the HousePanel of ChairpersonsContact UsFeedback
+
+
+Council of MinistersPublications of MinistriesParliamentry ProceduresJournal of Parliamentary Information
+Visitor's Counter:113251839
+
+
+
+
+
+
+
+Copyright
+Privacy Policy
+Disclaimer
+Terms &
+                Conditions
+
+                Accessibility Statement
+Accessibility
+                Options
+Feedback
+Site Map
+
+
+
+
+
+
+

@@ -1,0 +1,413 @@
+
+
+
+
+	Questions : Lok Sabha
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Screen Reader Access
+Skip to Main Content
+Skip to Navigation
+
+
+
+Text Size
+
+                                A
+
+                                A
+A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+हिन्दी मे
+
+
+
+
+
+
+
+
+Parliament of India Lok Sabha House of the
+                        People
+
+
+
+
+
+
+* Special Characters not allowed
+
+
+
+
+
+
+
+
+
+
+
+
+India Time 
+
+
+Your Time 
+
+
+                        Monday,
+                        11 April 2022
+
+
+
+
+
+
+
+
+
+HomeMembersSitting MembersMembers Home PageMembers' PortalContact DetailsMembers SearchStatistical AnalysisAttendance of MembersHandbook Members Since 1952Digitized Who's WhoOthers BusinessProvisional CalendarList of BusinessPapers to be LaidList of Private Members' BusinessBulletin-IDigitized Lok Sabha Bulletin Part IBulletin-IIStatement of WorkSpecial Mentions (ZERO HOUR)Resume of WorkDigitized Resume of Work done by Lok Sabha QuestionsHomeQuestion ListStatus of notices of questionQuestions CalendarGrouping of Ministries - AlphabeticalOfficers in Min./Dept. Dealing with Parliamentary WorkQuestion SearchSupplementary Questions DebatesIntroductionSynopsisUncorrected DebateText of DebateDigitized DebatesConstituent Assembly DebatesWit And HumourDebate SearchHindi FontsDisclaimer Papers LaidPapers Laid on the Table of the House LegislationIntroduction(How Bill Becomes Act)Bills IntroducedBills PassedBills PendingBills AssentedBills LapsedBills WithdrawnBills NegativedBills Search Disclaimer CommitteesIntroductionChairpersonSummary of WorkCommittee Meetings ScheduleBills Referred to CommitteesReports PresentedDigitized ReportsPress ReleaseMembership SearchToday's Committee MeetingsCommittee Subject SelectedDepartment Related-RS Govt. AssurancesSANSAD TVIntranet
+
+
+
+
+
+HomeQuestion ListStatus of notices of questionQuestions CalendarGrouping of Ministries - AlphabeticalOfficers in Min./Dept. Dealing with Parliamentary WorkQuestion SearchSupplementary Questions
+
+
+
+
+
+
+
+
+
+
+
+Download as PDF
+
+
+
+
+Print
+
+
+
+
+
+
+
+
+
+
+
+
+PDF/WORD(Hindi)
+
+
+PDF/WORD
+
+
+
+
+                                    GOVERNMENT OF INDIA
+                                
+
+
+
+
+
+                                    MINISTRY OF
+                                    ELECTRONICS AND INFORMATION TECHNOLOGY
+
+
+
+
+
+
+                                    LOK SABHA
+                                
+
+
+
+
+
+UNSTARRED 
+
+
+                                    QUESTION NO:
+                                
+
+352
+
+
+
+
+
+
+                                    ANSWERED ON: 
+                                
+
+03.02.2021
+
+
+
+
+
+
+Umang Mobile App
+
+
+
+
+Pocha Brahmananda Reddy
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                    Kotagiri Sridhar
+                                                
+
+
+
+
+
+
+
+
+                                                    Kuruva Gorantla Madhav
+                                                
+
+
+
+
+
+
+
+
+                                                     Chandra Sekhar Bellana
+                                                
+
+
+
+
+
+
+
+
+                                                    Midhun Reddy
+                                                
+
+
+
+
+
+
+
+
+                                                    Magunta Sreenivasulu Reddy
+                                                
+
+
+
+
+
+
+
+
+                                                    T.R.V.S. Ramesh
+                                                
+
+
+
+
+
+
+
+
+
+
+
+
+                        Will the Minister of
+
+
+
+
+
+ELECTRONICS AND INFORMATION TECHNOLOGY
+
+
+                        be pleased to state:-
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                    Will the Minister of ELECTRONICS AND INFORMATION TECHNOLOGY be pleased to state:(a)	whether the Government has developed the UMANG Mobile App, as a unified platform aggregating major Government services;(b)	if so, the details and the major features thereof;(c)	the State Governments that are offering their services through this UMANG Mobile App; and(d)	whether this App is integrated with Aadhaar, DigiLocker and Payment Gateway and if so, details thereof?
+
+
+
+
+
+
+ANSWER
+
+
+
+
+                                                        (a) and (b): Yes, Sir. UMANG is a unified platform and common mobile app to facilitate single point access to major government services through mobile. UMANG App is available on Android, iOS, Windows & Web (www.umang.gov.in). UMANG supports multiple languages - English and 12 regional languages.As on Jan’21, about 1007 Services from 205 Central/ State/ UT Government departments along with 19361 Bharat Bill Payment Services (BBPS) have been on-boarded on UMANG.Some of the features of UMANG Mobile app are as below:•	Aggregation of major Govt. services •	One App, URL, SMS Code and IVR (Toll Free) Number •	Unified, Robust , Scalable cloud based platform at the back-end •	Customized branding for departments/states •	Intuitive discovery and powerful search •	Built-in Analytics (c): As on Jan’21, 28 State Governments are offering 544 Services from 103 State Government Departments through the UMANG Mobile App. The list of 28 State/ UTs is enclosed at Annexure I.(d): Yes Sir. UMANG app is integrated with Aadhaar, DigiLocker, Payment Gateway, Feedback System, etc. The brief of these core integrations is as below:1.	Payment Gateway – if a department is not integrated with payment Gateway and needs to collect some fees, the payment gateway integrated with UMANG i.e. PayGov may be used.2.	DigiLocker – All documents in DigiLocker of a person can be seen by that person on Home page of his UMANG or while applying to a new service a user can use documents from his DigiLocker to upload/apply.3.	Feedback System – If a person takes any service from UMANG, a feedback request can be sent to him and his feedback can be collected by Rapid Assessment System (RAS) - the feedback system integrated with UMANG.4.	SMS – An SMS can be sent to a user of any department, if required5.	Email Gateway – an e mail can be sent to user of any department, if required.******* Annexure IList of the States/UTs offering their services on UMANGS. No.	States/UTs1	Andhra Pradesh2	Arunachal Pradesh3	Assam4	Bihar5	Chandigarh6	Chhattisgarh7	Delhi8	Goa9	Gujarat10	Haryana11	Himachal Pradesh12	Jammu & Kashmir13	Jharkhand14	Ladakh15	Madhya Pradesh16	Manipur17	Meghalaya18	Mizoram19	Nagaland20	Odisha21	Rajasthan22	Sikkim23	Tamil Nadu24	Telangana25	Tripura26	Uttarakhand27	UttarPradesh28	West Bengal 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+HomeArchiveIndex to Select Questions (1984-1999)Ballot ListStatistical Statements Relating to QuestionsUploading of Questions - Status QueryProcedure for Sending Text of Questions & AnswersDemarcation of responsibilities in Govt. of IndiaBrochure on Statutory Corporations, Companies and Other Bodies in Which the Government of India have financial or controlling interestHighlights pertaining to questions of 17th Lok Sabha
+
+
+
+
+
+
+Contact Us 
+Disclaimer
+
+
+
+
+
+
+
+
+
+
+
+        Developed and Hosted by National Informatics Centre (NIC)
+
+Content on this website is published,
+            managed & maintained by Software Unit, Computer (HW & SW) Management. Branch,
+            Lok Sabha Secretariat
+
+
+
+
+
+HomeMembersBusinessQuestionsDebatesPapers Laid
+
+
+LegislationCommitteesSANSAD TVIntranetSecretariatPRIDE
+
+
+RecruitmentSC/ST ReservationConferenceParliament Library
+
+
+About ParliamentPhoto GalleryRelated LinksRTITendersFAQ
+
+
+SpeakerDy. SpeakerLeader of the HousePanel of ChairpersonsContact UsFeedback
+
+
+Council of MinistersPublications of MinistriesParliamentry ProceduresJournal of Parliamentary Information
+Visitor's Counter:113199844
+
+
+
+
+
+
+
+Copyright
+Privacy Policy
+Disclaimer
+Terms &
+                Conditions
+
+                Accessibility Statement
+Accessibility
+                Options
+Feedback
+Site Map
+
+
+
+
+
+
+

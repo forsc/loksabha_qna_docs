@@ -1,0 +1,350 @@
+
+
+
+
+	Questions : Lok Sabha
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Screen Reader Access
+Skip to Main Content
+Skip to Navigation
+
+
+
+Text Size
+
+                                A
+
+                                A
+A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+हिन्दी मे
+
+
+
+
+
+
+
+
+Parliament of India Lok Sabha House of the
+                        People
+
+
+
+
+
+
+* Special Characters not allowed
+
+
+
+
+
+
+
+
+
+
+
+
+India Time 
+
+
+Your Time 
+
+
+                        Sunday,
+                        10 April 2022
+
+
+
+
+
+
+
+
+
+HomeMembersSitting MembersMembers Home PageMembers' PortalContact DetailsMembers SearchStatistical AnalysisAttendance of MembersHandbook Members Since 1952Digitized Who's WhoOthers BusinessProvisional CalendarList of BusinessPapers to be LaidList of Private Members' BusinessBulletin-IDigitized Lok Sabha Bulletin Part IBulletin-IIStatement of WorkSpecial Mentions (ZERO HOUR)Resume of WorkDigitized Resume of Work done by Lok Sabha QuestionsHomeQuestion ListStatus of notices of questionQuestions CalendarGrouping of Ministries - AlphabeticalOfficers in Min./Dept. Dealing with Parliamentary WorkQuestion SearchSupplementary Questions DebatesIntroductionSynopsisUncorrected DebateText of DebateDigitized DebatesConstituent Assembly DebatesWit And HumourDebate SearchHindi FontsDisclaimer Papers LaidPapers Laid on the Table of the House LegislationIntroduction(How Bill Becomes Act)Bills IntroducedBills PassedBills PendingBills AssentedBills LapsedBills WithdrawnBills NegativedBills Search Disclaimer CommitteesIntroductionChairpersonSummary of WorkCommittee Meetings ScheduleBills Referred to CommitteesReports PresentedDigitized ReportsPress ReleaseMembership SearchToday's Committee MeetingsCommittee Subject SelectedDepartment Related-RS Govt. AssurancesSANSAD TVIntranet
+
+
+
+
+
+HomeQuestion ListStatus of notices of questionQuestions CalendarGrouping of Ministries - AlphabeticalOfficers in Min./Dept. Dealing with Parliamentary WorkQuestion SearchSupplementary Questions
+
+
+
+
+
+
+
+
+
+
+
+Download as PDF
+
+
+
+
+Print
+
+
+
+
+
+
+
+
+
+
+
+
+PDF/WORD(Hindi)
+
+
+PDF/WORD
+
+
+
+
+                                    GOVERNMENT OF INDIA
+                                
+
+
+
+
+
+                                    MINISTRY OF
+                                    COMMUNICATIONS
+
+
+
+
+
+
+                                    LOK SABHA
+                                
+
+
+
+
+
+STARRED   
+
+
+                                    QUESTION NO:
+                                
+
+59
+
+
+
+
+
+
+                                    ANSWERED ON: 
+                                
+
+20.11.2019
+
+
+
+
+
+
+BSNL Network Quality
+
+
+
+
+Dileshwar Kamait
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        Will the Minister of
+
+
+
+
+
+COMMUNICATIONS
+
+
+                        be pleased to state:-
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                    (a) 	whether the Telecom Service Providers (TSPs) are violating the rules of the Telecom Regulatory Authority of India (TRAI) with regard to call drops and if so, the details thereof; (b) 	the remedial steps taken by the Government in this regard; (c) 	whether the network quality of the Bharat Sanchar Nigam Limited (BSNL) across the country is in poor condition, if so, the details thereof and the corrective steps taken by the Government in this regard; (d) 	whether the BSNL is lagging behind in competitive telecom market and the number of its customers has declined drastically during the last three years; and (e) 	if so, the details thereof?
+
+
+
+
+
+
+ANSWER
+
+
+
+
+                                                        MINISTER OF COMMUNICATIONS, LAW & JUSTICE AND ELECTRONICS AND INFORMATION TECHNOLOGY(SHRI RAVI SHANKAR PRASAD)(a) to (e)	 A statement is laid on the Table of the House.STATEMENT TO BE LAID ON THE TABLE OF LOK SABHA IN RESPECT OF PARTS (a) to (e) OF LOK SABHA STARRED QUESTION NO. *59 FOR 20TH NOVEMBER, 2019  ON “BSNL NETWORK QUALITY”.(a) & (b) 	Telecom Regulatory Authority of India (TRAI) has been monitoring the performance of telecom service providers against the benchmarks for various Quality of Service parameters including call drops, laid down by TRAI by way of Quality of Service regulations issued from time to time, through Quarterly Performance Monitoring Reports (PMRs). The performance is assessed for the Licence Service Area (LSA) as a whole. TRAI has issued “The Standards for Quality of Service for Basic (Wireline) and Cellular Mobile Telephone Services (Fifth Amendment) Regulations, 2017” effective from 1st October 2017. These Regulations have prescribed two revised parameters for assessing call drop in mobile network, viz. Drop Call  Rate (DCR) spatial distribution measure (benchmark = 2%) implies that at-least 90% of Cells in the network should perform better than specified 2% benchmark on at-least 90% of days. Similarly, another new parameter, DCR temporal distribution measure (benchmark = 3%) will give confidence that on at-least 90% of Days, network performed better than specified 3% benchmark for at-least 97% of the Cells.As per the PMR for Cellular Mobile Telephone Services for the quarter ending September 2019, all the service providers have complied with the benchmark “Network QoS DCR Spatial distribution measure or DCR Network_QSD(90,90) (benchmark = 2%)” except M/s BSNL in West Bengal service area. For the parameter “Network QoS DCR temporal distribution measure or DCR Network_QTD(97,90) (benchmark = 3%)” all the service providers has complied with the benchmark for these parameters except M/s BSNL in West Bengal service area and M/s VIL(Idea) & VIL(Vodafone) in Jammu & Kashmir service area.  Wherever the benchmark is not met, the explanation of the Service Providers is called for and after considering the explanation submitted by service providers in this regard, TRAI impose financial disincentives for non-compliance with the benchmark.With effect from 1st October 2017, TRAI has also introduced a revised graded Financial Disincentives (FD) structure for DCR parameters, based on the extent to which a TSP’s performance deviates from the specified DCR benchmark.(c)	As regards network quality of Bharat Sanchar Nigam Limited (BSNL), as per the PMR for Cellular Mobile Telephone Services for the quarter ending September 2019, BSNL is generally complying with all the network related parameters in all the service areas, except for the parameters relating to call drop in West Bengal Service area and for the parameter “Worst affected Base Stations(BSs) due to down-time (%age) (benchmark =2)” in Kerala Service Area.(d) & (e) 	The number of customers of BSNL for cellular services has increased slightly in the last three years. However, it has decreased in case of landline and broadband services. The total number of subscribers as on March-2017, March-2018, March-2019 and 30thSeptember-2019 is at Annexure-I. 	BSNL is incurring losses since 2009-10. As per the guidelines issued by Department of Public Enterprises (DPE) for “Streamlining the mechanism for revival and restructuring of sick/incipient sick and weak Central Public Sector Enterprises”, DoT initiated the process for preparation of restructuring/revival plan of BSNL/MTNL. The revival plan is approved by Cabinet in its meeting held on 23.10.2019. The revival plan consists of several measures including reduction of staff cost through Voluntary Retirement Scheme, allotment of spectrum for 4G services, monetization of land/building, tower and fiber assets of BSNL/MTNL, debt restructuring through sovereign guarantee bonds and in-principle approval of merger of BSNL and MTNL. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+HomeArchiveIndex to Select Questions (1984-1999)Ballot ListStatistical Statements Relating to QuestionsUploading of Questions - Status QueryProcedure for Sending Text of Questions & AnswersDemarcation of responsibilities in Govt. of IndiaBrochure on Statutory Corporations, Companies and Other Bodies in Which the Government of India have financial or controlling interestHighlights pertaining to questions of 17th Lok Sabha
+
+
+
+
+
+
+Contact Us 
+Disclaimer
+
+
+
+
+
+
+
+
+
+
+
+        Developed and Hosted by National Informatics Centre (NIC)
+
+Content on this website is published,
+            managed & maintained by Software Unit, Computer (HW & SW) Management. Branch,
+            Lok Sabha Secretariat
+
+
+
+
+
+HomeMembersBusinessQuestionsDebatesPapers Laid
+
+
+LegislationCommitteesSANSAD TVIntranetSecretariatPRIDE
+
+
+RecruitmentSC/ST ReservationConferenceParliament Library
+
+
+About ParliamentPhoto GalleryRelated LinksRTITendersFAQ
+
+
+SpeakerDy. SpeakerLeader of the HousePanel of ChairpersonsContact UsFeedback
+
+
+Council of MinistersPublications of MinistriesParliamentry ProceduresJournal of Parliamentary Information
+Visitor's Counter:113117598
+
+
+
+
+
+
+
+Copyright
+Privacy Policy
+Disclaimer
+Terms &
+                Conditions
+
+                Accessibility Statement
+Accessibility
+                Options
+Feedback
+Site Map
+
+
+
+
+
+
+

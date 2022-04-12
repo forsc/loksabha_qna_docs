@@ -1,0 +1,350 @@
+
+
+
+
+	Questions : Lok Sabha
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Screen Reader Access
+Skip to Main Content
+Skip to Navigation
+
+
+
+Text Size
+
+                                A
+
+                                A
+A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+हिन्दी मे
+
+
+
+
+
+
+
+
+Parliament of India Lok Sabha House of the
+                        People
+
+
+
+
+
+
+* Special Characters not allowed
+
+
+
+
+
+
+
+
+
+
+
+
+India Time 
+
+
+Your Time 
+
+
+                        Tuesday,
+                        12 April 2022
+
+
+
+
+
+
+
+
+
+HomeMembersSitting MembersMembers Home PageMembers' PortalContact DetailsMembers SearchStatistical AnalysisAttendance of MembersHandbook Members Since 1952Digitized Who's WhoOthers BusinessProvisional CalendarList of BusinessPapers to be LaidList of Private Members' BusinessBulletin-IDigitized Lok Sabha Bulletin Part IBulletin-IIStatement of WorkSpecial Mentions (ZERO HOUR)Resume of WorkDigitized Resume of Work done by Lok Sabha QuestionsHomeQuestion ListStatus of notices of questionQuestions CalendarGrouping of Ministries - AlphabeticalOfficers in Min./Dept. Dealing with Parliamentary WorkQuestion SearchSupplementary Questions DebatesIntroductionSynopsisUncorrected DebateText of DebateDigitized DebatesConstituent Assembly DebatesWit And HumourDebate SearchHindi FontsDisclaimer Papers LaidPapers Laid on the Table of the House LegislationIntroduction(How Bill Becomes Act)Bills IntroducedBills PassedBills PendingBills AssentedBills LapsedBills WithdrawnBills NegativedBills Search Disclaimer CommitteesIntroductionChairpersonSummary of WorkCommittee Meetings ScheduleBills Referred to CommitteesReports PresentedDigitized ReportsPress ReleaseMembership SearchToday's Committee MeetingsCommittee Subject SelectedDepartment Related-RS Govt. AssurancesSANSAD TVIntranet
+
+
+
+
+
+HomeQuestion ListStatus of notices of questionQuestions CalendarGrouping of Ministries - AlphabeticalOfficers in Min./Dept. Dealing with Parliamentary WorkQuestion SearchSupplementary Questions
+
+
+
+
+
+
+
+
+
+
+
+Download as PDF
+
+
+
+
+Print
+
+
+
+
+
+
+
+
+
+
+
+
+PDF/WORD(Hindi)
+
+
+PDF/WORD
+
+
+
+
+                                    GOVERNMENT OF INDIA
+                                
+
+
+
+
+
+                                    MINISTRY OF
+                                    ELECTRONICS AND INFORMATION TECHNOLOGY
+
+
+
+
+
+
+                                    LOK SABHA
+                                
+
+
+
+
+
+UNSTARRED 
+
+
+                                    QUESTION NO:
+                                
+
+4576
+
+
+
+
+
+
+                                    ANSWERED ON: 
+                                
+
+30.03.2022
+
+
+
+
+
+
+Cyber Complaints
+
+
+
+
+Kalyan Banerjee
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        Will the Minister of
+
+
+
+
+
+ELECTRONICS AND INFORMATION TECHNOLOGY
+
+
+                        be pleased to state:-
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                    Will the Minister of ELECTRONICS AND INFORMATION TECHNOLOGY be pleased to state:(a) 	whether the Government is aware of the complaints related to the use of the internet cyber mechanism for software attacks, theft of intellectual property, identity theft, theft of software equipment or information, sabotage, operational implementation and information extortion which has surged to very alarming situation;(b) 	if so, the details thereof; year-wise since 2017 including the main five cyber complaints registered in India; and(c) 	the details of the action taken to prevent all such electronic frauds and data breaches including the banking system with effective address of the cyber threats and securing electronic devices from malicious attacks thereof?
+
+
+
+
+
+
+ANSWER
+
+
+
+
+(a):Government is fully cognizant and aware of increasing number of various cyber security threats. With the borderless cyberspace coupled with the anonymity, along with rapid growth of Internet, rise in cyber security incidents is a global phenomenon. (b):  Indian Computer Emergency Response Team (CERT-In) is mandated to track and monitor cyber security incidents in India. As per CERT-In, a total number of 552, 454, 472, 280 and 523 phishing incidents were observed during the year 2017, 2018, 2019, 2020 and 2021 respectively.  Further, a total number of 56, 30, 43, 54 and 132 ransomware incidents were observed during the year 2017, 2018, 2019, 2020 and 2021 respectively.  As per the data maintained by National Crime Records Bureau (NCRB), Ministry of Home Affairs, a total of 21796, 27248, 44735, 50035 cybercrime cases were registered during the years 2017, 2018, 2019 and 2020 respectively. Cyber Crime head wise data for year 2017 to 2020, as provided by NCRB is at annexure I (c): “Police” and “Public Order” are State subjects as per the Constitution of India.  The Law Enforcement Agencies (LEAs) take legal action as per provisions of law against the cyber-crime offenders. Government of India has taken a number of legal, technical and administrative measures to effectively address the cyber threats which, inter alia, include:(i)	Enactment of the Information Technology Act, 2000 which has provisions to deal with prevalent cybercrimes.(ii)	The Indian Computer Emergency Response Team (CERT-In) issues alerts and advisories regarding latest cyber threats/vulnerabilities and countermeasures to protect computers and networks on regular basis. CERT-In has issued 68 advisories for organisations and users for data security and mitigating fraudulent activities.(iii)	CERT-In notifies the affected organizations along with remedial actions to be taken on observing the data breach/leakage and ransomware incidents. (iv)	Government has issued guidelines for Chief Information Security Officers (CISOs) regarding their key roles and responsibilities for securing applications / infrastructure and compliance.(v)	All the government websites and applications are audited with respect to cyber security prior to their hosting.  The auditing of the websites and applications is conducted on a regular basis after hosting also. (vi)	CERT-In has empanelled 96 security auditing organisations to support and audit implementation of Information Security Best Practices. (vii)	CERT-In has formulated a Cyber Crisis Management Plan for countering cyber attacks and cyber terrorism for implementation by all Ministries/ Departments of Central Government, State Governments and their organizations and critical sectors. (viii)	Cyber security mock drills are conducted regularly to enable assessment of cyber security posture and preparedness of organisations in Government and critical sectors. 64 such drills have so far been conducted by CERT-In where 820 organizations from different States and sectors participated. (ix)	CERT-In conducts regular training programmes for network / system administrators and Chief Information Security Officers (CISOs) of Government and critical sector organisations regarding securing the IT infrastructure and mitigating cyber attacks. 15 and 19 training programs were conducted covering 708 and 5169 participants during the year 2020 and 2021 respectively.(x)	CERT-In operates the Cyber Swachhta Kendra (Botnet Cleaning and Malware Analysis Centre). The centre provides detection of malicious programs and free tools to remove the same.(xi)	CERT-In provides the requisite leadership for the Computer Security Incident Response Team-Finance Sector (CSIRT-Fin) operations under its umbrella for responding to, containment and mitigation of cyber security incidents reported from the financial sector. (xii)	CERT-In has set up the National Cyber Coordination Centre (NCCC) to generate necessary situational awareness of existing and potential cyber security threats. Phase-I of NCCC is operational.(xiii)	Ministry of Electronics & Information Technology (MeitY) conducts programs to generate information security awareness. Specific books, videos and online materials are developed for children, parents and general users about information security which are disseminated through portals like “www.infosecawareness.in”, and “www.csk.gov.in”.(xiv)	National Cyber Crime Reporting Portal, www.cybercrime.gov.in launched by Ministry of Home Affairs (MHA) enables citizens to online report complaints pertaining to all types of cybercrimes with special focus on cyber crimes against women and children. Complaints reported on this portal are attended by the respective Law Enforcement Authorities of States. (xv)	To spread awareness on cybercrime, MHA has taken several steps that include dissemination of messages on cybercrime through Twitter handle @cyberDost, radio campaign, Handbook for Adolescents / Students, Information Security Best practices for the benefit of Govt. Officials/ Officers, cyber Safety and Security Awareness weeks, in association with police department in different States/UTs etc., alerts/advisories on cyber-crimes, capacity building/training of law enforcement personnel/ prosecutors/ judicial officers, improving cyber forensics facilities etc.(xvi)	Reserve Bank of India (RBI) has issued various instructions in respect of security and risk mitigation measures related to electronic/digital transactions which includes Securing Card Transactions, Securing Payments through Internet Banking / Electronic Payments, ATM Transactions, Prepaid Payment Instruments (PPIs), Limiting Customer Liability on Unauthorized Electronic Banking Transactions, Limiting Customer Liability in Unauthorized Electronic Banking Transactions in PPIs issued by Authorised Non-banks, Enhancing Security of Card Transactions etc.Annexure ICrime Head-wise Cases Registered under Cyber Crimes during 2017-2020SL	Crime Head	2017	2018	2019	20201	Tampering computer source documents	233	257	173	3382	Computer Related Offences	10108	14141	23734	219263	Cyber Terrorism	13	21	12	264	Publication/transmission of obscene / sexually explicit act in electronic form	1768	3076	4203	63085	Interception or Monitoring or decryption of Information	4	6	9	76	Un-authorized access/attempt to  access to protected computer system	2	0	2	27	Abetment to Commit Offences	0	1	0	18	Attempt to Commit Offences	4	13	14	189	Other Sections of IT Act	1503	980	2699	1017A	Total Offences under I.T. Act	13635	18495	30846	2964310	Abetment of Suicide (Online)	0	7	7	1011	Cyber Stalking/Bullying of Women/Children	542	739	771	87212	Data theft	307	106	282	9813	Fraud	3466	3353	6229	1039514	Cheating	1896	2051	3367	448015	Forgery	99	260	511	58216	Defamation/Morphing	12	18	19	5117	Fake Profile	86	78	85	14918	Counterfeiting	1	2	5	919	Cyber Blackmailing/Threatening	311	223	362	30320	Fake News on Social Media	170	97	188	57821	Other Offences	1086	1713	1974	2674B	Total Offences under IPC	7976	8647	13800	2020122	Gambling Act (Online Gambling)	45	20	22	6323	Lotteries Act (Online Lotteries)	11	2	9	2624	Copy Right Act	89	62	34	4925	Trade Marks Act	11	0	1	526	Other SLL Crimes	29	22	23	48C	Total Offences under SLL	185	106	89	191 	Total Cyber Crimes (A+B+C)	21796	27248	44735	50035
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+HomeArchiveIndex to Select Questions (1984-1999)Ballot ListStatistical Statements Relating to QuestionsUploading of Questions - Status QueryProcedure for Sending Text of Questions & AnswersDemarcation of responsibilities in Govt. of IndiaBrochure on Statutory Corporations, Companies and Other Bodies in Which the Government of India have financial or controlling interestHighlights pertaining to questions of 17th Lok Sabha
+
+
+
+
+
+
+Contact Us 
+Disclaimer
+
+
+
+
+
+
+
+
+
+
+
+        Developed and Hosted by National Informatics Centre (NIC)
+
+Content on this website is published,
+            managed & maintained by Software Unit, Computer (HW & SW) Management. Branch,
+            Lok Sabha Secretariat
+
+
+
+
+
+HomeMembersBusinessQuestionsDebatesPapers Laid
+
+
+LegislationCommitteesSANSAD TVIntranetSecretariatPRIDE
+
+
+RecruitmentSC/ST ReservationConferenceParliament Library
+
+
+About ParliamentPhoto GalleryRelated LinksRTITendersFAQ
+
+
+SpeakerDy. SpeakerLeader of the HousePanel of ChairpersonsContact UsFeedback
+
+
+Council of MinistersPublications of MinistriesParliamentry ProceduresJournal of Parliamentary Information
+Visitor's Counter:113264107
+
+
+
+
+
+
+
+Copyright
+Privacy Policy
+Disclaimer
+Terms &
+                Conditions
+
+                Accessibility Statement
+Accessibility
+                Options
+Feedback
+Site Map
+
+
+
+
+
+
+

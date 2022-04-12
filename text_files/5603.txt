@@ -1,0 +1,363 @@
+
+
+
+
+	Questions : Lok Sabha
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Screen Reader Access
+Skip to Main Content
+Skip to Navigation
+
+
+
+Text Size
+
+                                A
+
+                                A
+A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+हिन्दी मे
+
+
+
+
+
+
+
+
+Parliament of India Lok Sabha House of the
+                        People
+
+
+
+
+
+
+* Special Characters not allowed
+
+
+
+
+
+
+
+
+
+
+
+
+India Time 
+
+
+Your Time 
+
+
+                        Sunday,
+                        10 April 2022
+
+
+
+
+
+
+
+
+
+HomeMembersSitting MembersMembers Home PageMembers' PortalContact DetailsMembers SearchStatistical AnalysisAttendance of MembersHandbook Members Since 1952Digitized Who's WhoOthers BusinessProvisional CalendarList of BusinessPapers to be LaidList of Private Members' BusinessBulletin-IDigitized Lok Sabha Bulletin Part IBulletin-IIStatement of WorkSpecial Mentions (ZERO HOUR)Resume of WorkDigitized Resume of Work done by Lok Sabha QuestionsHomeQuestion ListStatus of notices of questionQuestions CalendarGrouping of Ministries - AlphabeticalOfficers in Min./Dept. Dealing with Parliamentary WorkQuestion SearchSupplementary Questions DebatesIntroductionSynopsisUncorrected DebateText of DebateDigitized DebatesConstituent Assembly DebatesWit And HumourDebate SearchHindi FontsDisclaimer Papers LaidPapers Laid on the Table of the House LegislationIntroduction(How Bill Becomes Act)Bills IntroducedBills PassedBills PendingBills AssentedBills LapsedBills WithdrawnBills NegativedBills Search Disclaimer CommitteesIntroductionChairpersonSummary of WorkCommittee Meetings ScheduleBills Referred to CommitteesReports PresentedDigitized ReportsPress ReleaseMembership SearchToday's Committee MeetingsCommittee Subject SelectedDepartment Related-RS Govt. AssurancesSANSAD TVIntranet
+
+
+
+
+
+HomeQuestion ListStatus of notices of questionQuestions CalendarGrouping of Ministries - AlphabeticalOfficers in Min./Dept. Dealing with Parliamentary WorkQuestion SearchSupplementary Questions
+
+
+
+
+
+
+
+
+
+
+
+Download as PDF
+
+
+
+
+Print
+
+
+
+
+
+
+
+
+
+
+
+
+PDF/WORD(Hindi)
+
+
+PDF/WORD
+
+
+
+
+                                    GOVERNMENT OF INDIA
+                                
+
+
+
+
+
+                                    MINISTRY OF
+                                    COMMUNICATIONS
+
+
+
+
+
+
+                                    LOK SABHA
+                                
+
+
+
+
+
+UNSTARRED 
+
+
+                                    QUESTION NO:
+                                
+
+5155
+
+
+
+
+
+
+                                    ANSWERED ON: 
+                                
+
+24.07.2019
+
+
+
+
+
+
+Free Internet Facility
+
+
+
+
+Sujay Radhakrishna Vikhepatil
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                    Unmesh Bhaiyyasaheb Patil
+                                                
+
+
+
+
+
+
+
+
+
+
+
+
+                        Will the Minister of
+
+
+
+
+
+COMMUNICATIONS
+
+
+                        be pleased to state:-
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                    (a) 	whether the Government is mulling over providing free internet facility to the consumers; (b) 	if so, the details thereof and the places selected for the purpose; (c) 	whether the Government has a plan to offer free internet services within the net neutrality framework; (d) 	if so, the details thereof; and (e) 	the model of free data delivery offered to the consumers within TRAI guidelines?	
+
+
+
+
+
+
+ANSWER
+
+
+
+
+                                                        MINISTER OF COMMUNICATIONS, LAW & JUSTICE AND ELECTRONICS AND INFORMATION TECHNOLOGY(SHRI RAVI SHANKAR PRASAD)(a) to (e) Telecom Regulatory Authority of India (TRAI) submitted its recommendations to Department of Telecommunications (DoT) on ‘Encouraging Data usage in Rural Areas through Provisioning of Free Data’ dated 19-12-2016. The recommendations were an outcome of the Consultation Paper on ‘Free Data’ that was suo moto floated by TRAI on 19-05-2016 to address the issue of providing free Internet access to consumers and to explore model(s) that could achieve the benefits of offering ‘free data’ without infringing upon the ‘Prohibition of Discriminatory Tariffs for Data Services Regulations, 2016’ of TRAI. The recommendations of TRAI are as under:(1)	In order to bridge the affordability gap for the persons residing in rural areas and to support Governments efforts towards cashless economy by incentivising digital means, the Authority recommends that a scheme under which a reasonable amount of data say 100 MB per month may be made available to rural subscribers for free.(2)	The cost of implementation of the scheme may be met from USOF.(3)	To increase participation of other entities for incentivizing free data, there is a need to introduce third party (Aggregator) to facilitate schemes which are TSPs agnostic and non-discriminatory in their implementation.(4)	Scheme for free data must be TSP-agnostic, must not involve any arrangement between the TSP and the aggregator/content provider and should not be designed to circumvent the “The Prohibition of Discriminatory Tariffs for Data Services Regulations,” notified on 8th February, 2016.(5)	The following mechanism is recommended:•	The Aggregators will need to register with DoT.•	The registrant must be a company registered under Indian Companies Act, 1956.•	The validity of registration shall be 5 years.•	The registrant shall not either directly or indirectly, assign or transfer the Registration in any manner whatsoever to a third party either in whole or in part.The recommendations were examined by the then Telecom Commission in its meeting held on 08-09-2017 and were referred back to TRAI for clarifications / reconsideration vide DoT letter dated 25-09-2017. TRAI submitted its response dated 29-11-2017 to the above reference from DoT. The Government deliberated on the response of TRAI and decided not to accept the recommendations of TRAI due to the following reasons:i.	TRAI Recommendation No. 1 & 2: The concern with regard to availability of affordable data services has been mitigated through competition in the market. Therefore, for the holistic development of Internet ecosystem in the country, a larger focus is required on connectivity, content availability in local language and Digital literacy, instead of affordability. ii.	TRAI Recommendation No. 3, 4 & 5: The aggregator model is targeted towards those who are existing users of Internet but their usage may be limited due to the price of data services. The issue of affordability has been mitigated through competition in the market.Besides, similar models of offering discounts through websites/ portals/ apps (analogous to aggregator) are at present prevalent in many other sectors of the economy wherein consumers are offered discounts for transactions through the websites/ portals/ apps. At present, there is no direct Government intervention which regulates such websites/ portals/ apps. Therefore, there is no need for Government intervention to regulate the aggregators through registration process.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+HomeArchiveIndex to Select Questions (1984-1999)Ballot ListStatistical Statements Relating to QuestionsUploading of Questions - Status QueryProcedure for Sending Text of Questions & AnswersDemarcation of responsibilities in Govt. of IndiaBrochure on Statutory Corporations, Companies and Other Bodies in Which the Government of India have financial or controlling interestHighlights pertaining to questions of 17th Lok Sabha
+
+
+
+
+
+
+Contact Us 
+Disclaimer
+
+
+
+
+
+
+
+
+
+
+
+        Developed and Hosted by National Informatics Centre (NIC)
+
+Content on this website is published,
+            managed & maintained by Software Unit, Computer (HW & SW) Management. Branch,
+            Lok Sabha Secretariat
+
+
+
+
+
+HomeMembersBusinessQuestionsDebatesPapers Laid
+
+
+LegislationCommitteesSANSAD TVIntranetSecretariatPRIDE
+
+
+RecruitmentSC/ST ReservationConferenceParliament Library
+
+
+About ParliamentPhoto GalleryRelated LinksRTITendersFAQ
+
+
+SpeakerDy. SpeakerLeader of the HousePanel of ChairpersonsContact UsFeedback
+
+
+Council of MinistersPublications of MinistriesParliamentry ProceduresJournal of Parliamentary Information
+Visitor's Counter:113107595
+
+
+
+
+
+
+
+Copyright
+Privacy Policy
+Disclaimer
+Terms &
+                Conditions
+
+                Accessibility Statement
+Accessibility
+                Options
+Feedback
+Site Map
+
+
+
+
+
+
+

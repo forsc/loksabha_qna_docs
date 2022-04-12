@@ -1,0 +1,350 @@
+
+
+
+
+	Questions : Lok Sabha
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Screen Reader Access
+Skip to Main Content
+Skip to Navigation
+
+
+
+Text Size
+
+                                A
+
+                                A
+A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+हिन्दी मे
+
+
+
+
+
+
+
+
+Parliament of India Lok Sabha House of the
+                        People
+
+
+
+
+
+
+* Special Characters not allowed
+
+
+
+
+
+
+
+
+
+
+
+
+India Time 
+
+
+Your Time 
+
+
+                        Tuesday,
+                        12 April 2022
+
+
+
+
+
+
+
+
+
+HomeMembersSitting MembersMembers Home PageMembers' PortalContact DetailsMembers SearchStatistical AnalysisAttendance of MembersHandbook Members Since 1952Digitized Who's WhoOthers BusinessProvisional CalendarList of BusinessPapers to be LaidList of Private Members' BusinessBulletin-IDigitized Lok Sabha Bulletin Part IBulletin-IIStatement of WorkSpecial Mentions (ZERO HOUR)Resume of WorkDigitized Resume of Work done by Lok Sabha QuestionsHomeQuestion ListStatus of notices of questionQuestions CalendarGrouping of Ministries - AlphabeticalOfficers in Min./Dept. Dealing with Parliamentary WorkQuestion SearchSupplementary Questions DebatesIntroductionSynopsisUncorrected DebateText of DebateDigitized DebatesConstituent Assembly DebatesWit And HumourDebate SearchHindi FontsDisclaimer Papers LaidPapers Laid on the Table of the House LegislationIntroduction(How Bill Becomes Act)Bills IntroducedBills PassedBills PendingBills AssentedBills LapsedBills WithdrawnBills NegativedBills Search Disclaimer CommitteesIntroductionChairpersonSummary of WorkCommittee Meetings ScheduleBills Referred to CommitteesReports PresentedDigitized ReportsPress ReleaseMembership SearchToday's Committee MeetingsCommittee Subject SelectedDepartment Related-RS Govt. AssurancesSANSAD TVIntranet
+
+
+
+
+
+HomeQuestion ListStatus of notices of questionQuestions CalendarGrouping of Ministries - AlphabeticalOfficers in Min./Dept. Dealing with Parliamentary WorkQuestion SearchSupplementary Questions
+
+
+
+
+
+
+
+
+
+
+
+Download as PDF
+
+
+
+
+Print
+
+
+
+
+
+
+
+
+
+
+
+
+PDF/WORD(Hindi)
+
+
+PDF/WORD
+
+
+
+
+                                    GOVERNMENT OF INDIA
+                                
+
+
+
+
+
+                                    MINISTRY OF
+                                    LAW AND JUSTICE
+
+
+
+
+
+
+                                    LOK SABHA
+                                
+
+
+
+
+
+UNSTARRED 
+
+
+                                    QUESTION NO:
+                                
+
+4890
+
+
+
+
+
+
+                                    ANSWERED ON: 
+                                
+
+01.04.2022
+
+
+
+
+
+
+Online Dispute Resolution
+
+
+
+
+Jayant Sinha
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        Will the Minister of
+
+
+
+
+
+LAW AND JUSTICE
+
+
+                        be pleased to state:-
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                    (a)	the progress in digitization of court records in all the courts so far;(b)	the steps taken by the Government to leverage technology in effective dispensation of justice;(c)	whether any schemes have been initiated for implementation of the Online Dispute Resolution (ODR), especially for low-value high-volume disputes and if so, the details thereof;(d)	whether the Government has formulated any plan for ODR as per the NITI Aayog Expert Committee Report and if so, the details thereof; and(e)	whether the Government is planning to continue the usage of digital technology for faster disposal of cases after the pandemic, and if so, the details thereof?
+
+
+
+
+
+
+ANSWER
+
+
+
+
+                                                        THE MINISTER OF LAW AND JUSTICE (SHRI KIREN RIJIJU)(a): The progress of digitization of court records is enclosed at Annexure.(b): Towards enhancement of ICT enablement of Courts, following initiatives have been taken under eCourts project by the eCommittee of the Supreme Court and the Department of Justice:i.	A total of 18,735 District and Subordinate courts have been digitised under the eCourts Project Phase IIso far.ii.	Under the Wide Area Network (WAN) Project, 2964 courts sites have been commissioned with 10 Mbps to 100 Mbps bandwidth speed. iii.	Case Information Software (CIS) which forms the basis for the e-Court services is based on customized Free and Open-Source Software (FOSS) which has been developed by NIC. Currently CIS National Core Version 3.2 is being implemented in District Courts and the CIS National Core Version 1.0 is being implemented for the High Courts.iv.	A new software patch and user manual for COVID-19 management has also been developed to help in smart scheduling of cases.v.	National Judicial Data Grid (NJDG) is a database of orders, judgments and cases, created as an online platform under the eCourts Project. It provides information relating to judicial proceedings/decisions of all computerized district and subordinate courts of the country. Litigants can access case status information in respect of over 19.92 crore cases and more than 16.61 crore orders / judgments pertaining to these computerized (as on 02.03.2022). Open APIs have been introduced in 2020 to allow Central and State Governments and institutional litigants including local bodies to access NJDG data to improve pendency monitoring and compliance.vi.	As part of eCourts project, 7 platforms have been created to provide real time information on case status, cause lists, judgements etc. to lawyers/Litigants through SMS Push and Pull (2,00,000 SMS sent daily), Email (2,50,000 sent daily), multilingual and tactile eCourts services Portal (35 lakh hits daily), JSC (Judicial Service centres) and Info Kiosks.  In addition, Electronic Case Management Tools (ECMT) have been created with Mobile App for lawyers (total 75.76 lakh downloads till 28th February 2022) and JustIS app for judges (17,013 downloads till 3rd March 2022). JustIS mobile app is now available in iOS as well.vii.	17 Virtual Courts in 13 States/UTs have been operationalized to handle traffic challan cases. More than 1.32 crore cases have been handled by 17 virtual courts and in more than 22 lakhs cases online fine of more than Rs. 229 crore has been realised till 03.03.2022. viii.	The Supreme Court of India emerged as a global leader by conducting 2,18,891 hearings (till 14.03.2022 since the beginning of lockdown period). The High Courts (61,02,859 cases and Subordinate Courts (1,23,19,917 cases) have conducted 1.84 crore virtual hearings till 28.02.2022. VC facilities have also been enabled between 3240 court complexes and corresponding 1272 jails. Funds for 2506 VC cabins and VC equipment for 14,443 courtrooms have also been released. 1500 VC licenses have been procured to promote virtual hearings. A sum of Rs. 7.60 crore has been released for procurement of 1732 Document Visualizers. ix.	New e-filing system (version 3.0) has been rolled out for the electronic filing of legal papers with upgraded features.  Draft eFiling rules have been formulated and circulated to the High Courts for adoption. x.	e-Filing of cases requires the option for electronic payment of fees which includes court fees, fines and penalties which are directly payable to the Consolidated Fund.The Court Fees Act has been amended in 23 High Courts till 28.02.2022.xi.	Government has released Rs. 12.54 crore for setting up eSewa Kendras. As on 28.02.2022, 493 eSewa Kendra’s have been made functional in District Courts under 25 High Courts.xii.	National Service and Tracking of Electronic Processes (NSTEP) has been launched for technology enabled process serving and issuing of summons. It has currently been implemented in 26 States/ UTs.xiii.	A new “Judgment Search” portal has been started with features such as search by Bench, Case Type, Case Number, Year, Petitioner/ Respondent Name, Judge Name, Act, Section, Decision: From Date, To Date and Full Text Search. This facility is being provided free of cost to all.xiv.	To make effective use of database created through National Judicial Data Grid (NJDG) and to make the information available to public 32 LED Display Message Sign Board System called Justice Clocks, have been installed in 21 High Courts.xv.	Towards creating widespread awareness and familiarization of eFiling and eCourts services and to address “skill divide”, a manual on eFiling and a Brochure on “How to register for eFiling” has been made available in English, Hindi and 12 regional languages for the use of the lawyers. A YouTube channel has been created in the name of the e Court services with video tutorials on eFiling. The eCommittee of the Supreme Court of India has conducted trainings and awareness programmes on the ICT services. These programmes have covered nearly 3,60,993 stakeholders, including High Court Judges, Judges of the District Judiciary, Court Staff, Master Trainers among Judges/DSA, Technical Staff of High Courts, and Advocates.(c) &(d): The concept of Online Dispute Resolution (ODR) in India is at a nascent stage. In order to create an effective implementation framework for Online Dispute Resolution (ODR) in India, the NITI Aayog had constituted a high-level committee in June 2020 under the chairmanship of Justice A K Sikri, Retired Judge, Supreme Court of India. The Committee was required to develop an action plan that can aid in mainstreaming ODR and thus promote access to justice through ODR.The report of the committee titled “Designing the future of dispute Resolution: the ODR Policy Plan for India” was released on 29.11.2021. The report recommends measures at three levels to tackle challenges in adopting ODR framework in India:(i)	At the structural level, it suggests actions to increase digital literacy, improve access to digital infrastructure and train professionals as neutrals to deliver ODR services.(ii)	At the behavioural level, the report recommends adoption of ODR to address disputes involving Government departments and ministries.(iii)	At the regulatory level, the report recommends a soft-touch approach to regulate ODR platforms and services. This involves laying down design and ethical principles to guide ODR service providers to self-regulate while fostering growth and innovations in the ecosystem.The report also stresses on strengthening the existing legislative framework for ODR by introducing necessary amendments to statutes. The report offers a phased implementation framework for ODR in India.The Government of India has already initiated the steps to strengthen ODR mechanisms in the country. Acknowledging the importance of online dispute resolution, it has been proposed to provide for online mediation under the Mediation Bill, 2021 which was introduced in the Rajya Sabha on 20.12.2021. The online mediation is to be conducted in accordance with the process specified by the Mediation Council of India. The Bill is presently under examination of the Department-related Parliamentary Standing Committee on Personnel, Public Grievances, Law and Justice.(e): With its objective of universal computerisation of all the District & Subordinate Court complexes, Department of Justice in close coordination with eCommittee of Supreme Court of India is implementing eCourts Mission Mode Project Phase-II. The time period for implementation of eCourts project was four years (2015-19) or until the project is completed, whichever is later. So far, out of total outlay of Rs. 1670 crore, the Government has released a sum of Rs. 1668.42 crore as on 28.03.2022 to various organizations involved in the implementation of the project. A total of 18,735 District and Sub-ordinate courts have been digitised under the eCourts Project Phase II.As Phase II of the eCourts project is coming to an end,a draft Vision Document has been formulated by the eCommittee of the Supreme Court for eCourts Project Phase III. The Vision Document has been prepared in consultation with domain experts from within the judiciary and private sector experts. This document had been put in the public domain for inviting suggestions and feedback based on which the Detailed Project Report is being prepared by the eCommittee of Supreme Court of India.**** ANNEXUREStatement referred to in reply of part (a) of Lok Sabha Unstarred Question No. 4890 for 01/04/2022 regarding Online Dispute Resolution. The progress of digitization of court records are as under:Sl. No.	High Court	Funds Provisioned under 14th Finance Commission for Scanning & Digitization (In Rs. Cr.)	Funds provided by the State Govt to the High Court (In Rs. Cr.)	Status of Digitization1.		Allahabad High Court	87	80	Scanned/ Digitised – 92.15 lakh files2.		Andhra Pradesh High Court	15	NIL	Not Started3.		Bombay High Court	42	NIL	Scanned – 63.49 lakh pages4.		Calcutta High Court	22	5	Scanned – 1.22 cr. pages 5.		Chhattisgarh High Court	31	NIL	Started (Figure not provided)6.		Delhi High Court	0	Not Available	Scanned – 17.65 cr. pages7.		Gauhati High Court (Assam)	73	Not Available	Started (Figure not provided)8.		Gujarat High Court	38	47	Started on pilot basis for 10 lakh pages.9.		Himachal Pradesh High Court	14	NIL	95.42 thousand cases are uploaded to DMS(Dspace).10.		High Court of Jammu and Kashmir and Ladakh	25	2.82	Figure not provided11.		Jharkhand High Court	28	NIL	Scanned – 7.89 lakh case files12.		Karnataka High Court	35	9.15	Scanned – 87.63 lakh pages13.		Kerala High Court	16	NIL	Started (Figure not provided)14.		Madhya Pradesh High Court	59	26.73	Scanned – 26.02 cr.15.		Madras High Court	37	10.33	Started (Figure not provided) 16.		Manipur High Court	10	10	Scanned – 11.14 lakh pages17.		Meghalaya High Court	13	8.85	Figure not provided18.		Orissa High Court	35	8	Started (Figure not provided)19.		Patna High Court	44	13	Scanned – 1.65 cr pages20.		Punjab and Haryana High Court	49	49	Scanned – 33.51 lakh pages21.		Rajasthan High Court	38	4.29	Started (Figure not provided)22.		Sikkim High Court	5	1.18	Started (Figure not provided)23.		Telangana High Court	12	5	Scanned – 2.68 cr.Pages24.		Tripura High Court	9	NIL	Not Started25.		Uttarakhand High Court	15	NIL	Started (Figure not provided)	Total	752	276.05	Based on figures provided by eCommittee dated 28.03.2022
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+HomeArchiveIndex to Select Questions (1984-1999)Ballot ListStatistical Statements Relating to QuestionsUploading of Questions - Status QueryProcedure for Sending Text of Questions & AnswersDemarcation of responsibilities in Govt. of IndiaBrochure on Statutory Corporations, Companies and Other Bodies in Which the Government of India have financial or controlling interestHighlights pertaining to questions of 17th Lok Sabha
+
+
+
+
+
+
+Contact Us 
+Disclaimer
+
+
+
+
+
+
+
+
+
+
+
+        Developed and Hosted by National Informatics Centre (NIC)
+
+Content on this website is published,
+            managed & maintained by Software Unit, Computer (HW & SW) Management. Branch,
+            Lok Sabha Secretariat
+
+
+
+
+
+HomeMembersBusinessQuestionsDebatesPapers Laid
+
+
+LegislationCommitteesSANSAD TVIntranetSecretariatPRIDE
+
+
+RecruitmentSC/ST ReservationConferenceParliament Library
+
+
+About ParliamentPhoto GalleryRelated LinksRTITendersFAQ
+
+
+SpeakerDy. SpeakerLeader of the HousePanel of ChairpersonsContact UsFeedback
+
+
+Council of MinistersPublications of MinistriesParliamentry ProceduresJournal of Parliamentary Information
+Visitor's Counter:113265023
+
+
+
+
+
+
+
+Copyright
+Privacy Policy
+Disclaimer
+Terms &
+                Conditions
+
+                Accessibility Statement
+Accessibility
+                Options
+Feedback
+Site Map
+
+
+
+
+
+
+

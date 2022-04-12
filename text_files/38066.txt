@@ -1,0 +1,363 @@
+
+
+
+
+	Questions : Lok Sabha
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Screen Reader Access
+Skip to Main Content
+Skip to Navigation
+
+
+
+Text Size
+
+                                A
+
+                                A
+A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+हिन्दी मे
+
+
+
+
+
+
+
+
+Parliament of India Lok Sabha House of the
+                        People
+
+
+
+
+
+
+* Special Characters not allowed
+
+
+
+
+
+
+
+
+
+
+
+
+India Time 
+
+
+Your Time 
+
+
+                        Tuesday,
+                        12 April 2022
+
+
+
+
+
+
+
+
+
+HomeMembersSitting MembersMembers Home PageMembers' PortalContact DetailsMembers SearchStatistical AnalysisAttendance of MembersHandbook Members Since 1952Digitized Who's WhoOthers BusinessProvisional CalendarList of BusinessPapers to be LaidList of Private Members' BusinessBulletin-IDigitized Lok Sabha Bulletin Part IBulletin-IIStatement of WorkSpecial Mentions (ZERO HOUR)Resume of WorkDigitized Resume of Work done by Lok Sabha QuestionsHomeQuestion ListStatus of notices of questionQuestions CalendarGrouping of Ministries - AlphabeticalOfficers in Min./Dept. Dealing with Parliamentary WorkQuestion SearchSupplementary Questions DebatesIntroductionSynopsisUncorrected DebateText of DebateDigitized DebatesConstituent Assembly DebatesWit And HumourDebate SearchHindi FontsDisclaimer Papers LaidPapers Laid on the Table of the House LegislationIntroduction(How Bill Becomes Act)Bills IntroducedBills PassedBills PendingBills AssentedBills LapsedBills WithdrawnBills NegativedBills Search Disclaimer CommitteesIntroductionChairpersonSummary of WorkCommittee Meetings ScheduleBills Referred to CommitteesReports PresentedDigitized ReportsPress ReleaseMembership SearchToday's Committee MeetingsCommittee Subject SelectedDepartment Related-RS Govt. AssurancesSANSAD TVIntranet
+
+
+
+
+
+HomeQuestion ListStatus of notices of questionQuestions CalendarGrouping of Ministries - AlphabeticalOfficers in Min./Dept. Dealing with Parliamentary WorkQuestion SearchSupplementary Questions
+
+
+
+
+
+
+
+
+
+
+
+Download as PDF
+
+
+
+
+Print
+
+
+
+
+
+
+
+
+
+
+
+
+PDF/WORD(Hindi)
+
+
+PDF/WORD
+
+
+
+
+                                    GOVERNMENT OF INDIA
+                                
+
+
+
+
+
+                                    MINISTRY OF
+                                    ROAD TRANSPORT AND HIGHWAYS
+
+
+
+
+
+
+                                    LOK SABHA
+                                
+
+
+
+
+
+UNSTARRED 
+
+
+                                    QUESTION NO:
+                                
+
+4667
+
+
+
+
+
+
+                                    ANSWERED ON: 
+                                
+
+31.03.2022
+
+
+
+
+
+
+Wait-Time at Toll Plazas
+
+
+
+
+Srinivas Kesineni
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                    Kinjarapu Ram Mohan Naidu
+                                                
+
+
+
+
+
+
+
+
+
+
+
+
+                        Will the Minister of
+
+
+
+
+
+ROAD TRANSPORT AND HIGHWAYS
+
+
+                        be pleased to state:-
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                    (a) whether the Government has analysed the effectiveness of FASTag in reducing the wait-time at toll plazas based on real time data from the toll plazas and if so, the details thereof;(b) whether the Government is monitoring the wait-time at toll plazas on National Highways (NHs) after the introduction of FASTag and if so, the details thereof;(c) the reasons for long wait time at toll plazas on major NHs even after the implementation of FASTag;(d) whether the National Highways Authority of India (NHAI) toll plaza rules released on 26th may, 2021 are still applicable;(e) if so, the reasons for violation of these rules at toll plazas as evident from long queues at toll plazas with wait-time of over nine minutes; and(f) whether the revenue realisation has improved after the implementation of FASTag as compared to earlier system and if so, the details thereof?
+
+
+
+
+
+
+ANSWER
+
+
+
+
+                                                        THE MINISTER OF ROAD TRANSPORT AND HIGHWAYS(SHRI NITIN JAIRAM GADKARI)(a) As per the impact assessment study on FASTag Programme,  following are the key findings with respect to improvement in vehicle throughput at National Highway fee plazas(i)	In FASTag system, it takes 47 seconds per vehicle to cross a fee plaza. (ii)	Throughput enhancement – More than 260 vehicles per hour can be processed per Electronic Toll Collection (ETC) lane per hour compared to 112 vehicles per hour per manual toll collection lane. (iii)	Fee transaction processing time has reduced by 56% due to implementation of FASTag system at fee plazas which is enabling a fee plaza operator to process 148 additional vehicles per hour per lane translating to 130% increase in productivity compared to manual fee collection system.(b) All fee plazas including identified high traffic plazas are regularly monitored through live video feeds from these fee plazas at Command and Control Center set up at National Highways Authority of India, Headquarters.(c) Government has declared all lanes of fee plazas on National Highways as FASTag Lane of the fee plaza with effect from midnight of 15th/16th February, 2021 in order to achieve 100% cashless collection at fee plaza which has resulted in reduced waiting time and minimized queues at fee plazas.However reasons for instances of long waiting time at National Highway fee plazas are as follows: -i) Sometimes a FASTag user having low balance enters in the fee plaza lane which eventually results in longer processing time and increases the wait time for FASTag users in the lane queue.ii)	Lack of discipline & entry of Non-FASTag vehicles in fee plaza lanes- After the mandate of 100% FASTag with effect from 15/16 February, 2021, all lanes of fee plazas on National Highway have been declared as FASTag lanes. However, there are instances when some of the vehicles without FASTag enters in the fee plaza lane which increases the waiting time for FASTag users in the lane queue.iii)	Internet Connectivity Issue – Due to intermittent internet connectivity at some fee plazas located at remote site, the status of low balance FASTag is not updated to Active FASTag in time at plaza servers. Owing to this, if the user approaches the fee plazas during this period when tag status is not updated, the tag is declined to pass through and it increases the transaction processing time. iv)	Wear and tear of Radio Frequency Identification (RFID) reader and tag – Due to wear and tear/misalignment of Radio Frequency Identification (RFID) readers at fee plaza lanes, there are a few instances when the FASTag affixed on the windscreen is not properly read which delays the transaction processing time. Also, the fee transaction processing is delayed/time-consuming in cases where the FASTag affixed on windscreen are tampered/damaged, or carried in unauthorised manner by the vehicle user in hand or affixed on a piece of glass, etc. v)	Improper affixation of FASTag by user: - In case of online purchase of FASTag by user, it has been observed that some vehicle users do not follow the correct procedure for affixation of FASTag on the front windshield which also affects the proper reading of FASTag at a fee plaza.(d) & (e) The provisions of the circular is to be followed in the projects where Detailed Project Reports (DPR) are in progress and in all the projects where land for the fee plaza is yet to be acquired. In case where construction of the toll plaza has not started, the fee plaza to be re-planned as per the guidelines of the circular through change of scope (COS) and the land already acquired be explored for effective utilization.(f) With the declaration of all lanes of fee plazas on National Highways as FASTag Lane of the fee plaza with effect from midnight of 15th/16th February, 2021, transparency in fee collection has improved and opportunity for pilferage, cash handling and associated issues have reduced.The comparison of fees collection through FASTag on National Highways Authority of India Fee plazas is as under:Financial Year	FASTag Collection(In Crore Rupees)	Total Collection        (In Crore Rupees)	FASTag Penetration (%)2020-2021	25,291	27,744	91.15%2021-2022 (Till 24th March, 2022)	32,451	33,687	96.33% *****
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+HomeArchiveIndex to Select Questions (1984-1999)Ballot ListStatistical Statements Relating to QuestionsUploading of Questions - Status QueryProcedure for Sending Text of Questions & AnswersDemarcation of responsibilities in Govt. of IndiaBrochure on Statutory Corporations, Companies and Other Bodies in Which the Government of India have financial or controlling interestHighlights pertaining to questions of 17th Lok Sabha
+
+
+
+
+
+
+Contact Us 
+Disclaimer
+
+
+
+
+
+
+
+
+
+
+
+        Developed and Hosted by National Informatics Centre (NIC)
+
+Content on this website is published,
+            managed & maintained by Software Unit, Computer (HW & SW) Management. Branch,
+            Lok Sabha Secretariat
+
+
+
+
+
+HomeMembersBusinessQuestionsDebatesPapers Laid
+
+
+LegislationCommitteesSANSAD TVIntranetSecretariatPRIDE
+
+
+RecruitmentSC/ST ReservationConferenceParliament Library
+
+
+About ParliamentPhoto GalleryRelated LinksRTITendersFAQ
+
+
+SpeakerDy. SpeakerLeader of the HousePanel of ChairpersonsContact UsFeedback
+
+
+Council of MinistersPublications of MinistriesParliamentry ProceduresJournal of Parliamentary Information
+Visitor's Counter:113266379
+
+
+
+
+
+
+
+Copyright
+Privacy Policy
+Disclaimer
+Terms &
+                Conditions
+
+                Accessibility Statement
+Accessibility
+                Options
+Feedback
+Site Map
+
+
+
+
+
+
+

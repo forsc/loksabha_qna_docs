@@ -1,0 +1,373 @@
+
+
+
+
+	Questions : Lok Sabha
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Screen Reader Access
+Skip to Main Content
+Skip to Navigation
+
+
+
+Text Size
+
+                                A
+
+                                A
+A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+हिन्दी मे
+
+
+
+
+
+
+
+
+Parliament of India Lok Sabha House of the
+                        People
+
+
+
+
+
+
+* Special Characters not allowed
+
+
+
+
+
+
+
+
+
+
+
+
+India Time 
+
+
+Your Time 
+
+
+                        Monday,
+                        11 April 2022
+
+
+
+
+
+
+
+
+
+HomeMembersSitting MembersMembers Home PageMembers' PortalContact DetailsMembers SearchStatistical AnalysisAttendance of MembersHandbook Members Since 1952Digitized Who's WhoOthers BusinessProvisional CalendarList of BusinessPapers to be LaidList of Private Members' BusinessBulletin-IDigitized Lok Sabha Bulletin Part IBulletin-IIStatement of WorkSpecial Mentions (ZERO HOUR)Resume of WorkDigitized Resume of Work done by Lok Sabha QuestionsHomeQuestion ListStatus of notices of questionQuestions CalendarGrouping of Ministries - AlphabeticalOfficers in Min./Dept. Dealing with Parliamentary WorkQuestion SearchSupplementary Questions DebatesIntroductionSynopsisUncorrected DebateText of DebateDigitized DebatesConstituent Assembly DebatesWit And HumourDebate SearchHindi FontsDisclaimer Papers LaidPapers Laid on the Table of the House LegislationIntroduction(How Bill Becomes Act)Bills IntroducedBills PassedBills PendingBills AssentedBills LapsedBills WithdrawnBills NegativedBills Search Disclaimer CommitteesIntroductionChairpersonSummary of WorkCommittee Meetings ScheduleBills Referred to CommitteesReports PresentedDigitized ReportsPress ReleaseMembership SearchToday's Committee MeetingsCommittee Subject SelectedDepartment Related-RS Govt. AssurancesSANSAD TVIntranet
+
+
+
+
+
+HomeQuestion ListStatus of notices of questionQuestions CalendarGrouping of Ministries - AlphabeticalOfficers in Min./Dept. Dealing with Parliamentary WorkQuestion SearchSupplementary Questions
+
+
+
+
+
+
+
+
+
+
+
+Download as PDF
+
+
+
+
+Print
+
+
+
+
+
+
+
+
+
+
+
+
+PDF/WORD(Hindi)
+
+
+PDF/WORD
+
+
+
+
+                                    GOVERNMENT OF INDIA
+                                
+
+
+
+
+
+                                    MINISTRY OF
+                                    SCIENCE AND TECHNOLOGY
+
+
+
+
+
+
+                                    LOK SABHA
+                                
+
+
+
+
+
+UNSTARRED 
+
+
+                                    QUESTION NO:
+                                
+
+3958
+
+
+
+
+
+
+                                    ANSWERED ON: 
+                                
+
+19.03.2021
+
+
+
+
+
+
+Development of Supercomputing and Quantum Computing
+
+
+
+
+Jayant Sinha
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                    P.P. Chaudhary
+                                                
+
+
+
+
+
+
+
+
+                                                    Arjunlal Meena
+                                                
+
+
+
+
+
+
+
+
+
+
+
+
+                        Will the Minister of
+
+
+
+
+
+SCIENCE AND TECHNOLOGY
+
+
+                        be pleased to state:-
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                    (a)	the details of measures taken to expand India’s interests in areas of advanced supercomputing and quantum computing;(b)	whether India has been developing indigenous quantum computers and if so, the details thereof;(c)	the details of institutions/centres housing supercomputers as of now;(d)	whether the ministry has planned to expand the number of supercomputers and if so, the details thereof; and(e)	the details of funds allocated and utilized to develop and provide the super-computing facility for research and other allied areas? 
+
+
+
+
+
+
+ANSWER
+
+
+
+
+                                                        MINISTER OF HEALTH AND FAMILY WELFARE; MINISTER OF SCIENCE AND TECHNOLOGY; AND MINISTER OF EARTH SCIENCES(DR. HARSH VARDHAN) ????????? ?? ?????? ?????? ??????, ??????? ?? ???????????? ?????? ?? ?????? ??????? ??????(??. ???? ?????) (a)     The National Supercomputing Mission (NSM) is a National Mission jointly funded by Department of Science and Technology (DST) and Ministry of Electronics and Information Technology (MeitY). The Mission is totally of Rs 4500 crore and it is for 7 years. The implementing partners in this Mission are Indian Institute of Science (IISc)-Bengaluru and Centre for Development of Advanced Computing (C-DAC)-Pune. The DST share of funding is Rs 2740 crore whereas MeitY share would be Rs 1760 crore.Under NSM, a Supercomputing infrastructure is being created with multiple facilities at various academic and Research & Development institutes and National Laboratories across the country. The program is working on creation of indigenous hardware and software ecosystem required for building Supercomputers.Several applications of national interest have been initiated in the area of weather forecasting, flood forecasting, Bio informatics & drug Development platform, Computational Chemistry, Computational Physics & Materials Science, CFD & other Engineering area, Geo exploration etc. Several R&D projects have been initiated for building algorithms that can scale up to exascale systems or software or libraries in open source for exascale systems etc. Under Manpower Development we are committed to train about 20,000 manpower, with Computer domain or other science domain, in various areas of Supercomputing.(b)    Research in the area of Quantum communication, superconducting circuits, Quantum algorithms, etc. is initiated at various institutes in the country like DRDO, TIFR, IISER, etc. The DST has developed a new directed research programme on “Quantum Information Science and Technology (QuST)” aimed at development and demonstration of quantum computers, quantum communication & cryptography, development of quantum-enhanced and inspired technology and development of advanced mathematical quantum techniques, algorithms and theory of quantum information systems. In addition, two multi-institutional projects supported by MeitY are initiated in this area that includes i) A Centre of Excellence in Quantum Technology at C-DAC, IISc and Raman Research Institute, an Aided Institute of DST; and ii) Design and development of Quantum Computing Toolkit including a Quantum Simulator at C-DAC, IISc and IIT-Roorkee.(c)     Under National Supercomputing Mission (NSM), till now 6 Supercomputers are established which are as follows:1.    IIT-BHU, Varanasi                                            833 TF2.    IISER, Pune                                                      800 TF3.    IIT Kharagpur                                                  1.63 PF4.    JNCASR, Bangalore                                         833 TF 5.    IIT Kanpur                                                        1.63 PF6.   National Facility for AI, C-DAC, Pune             5.27 PF (This system has 62nd position in Top 500 Supercomputers globally in November, 2020) Apart from the above Supercomputers under NSM, various other institutes have supercomputers. Notable among these are IITM Pune, NCMRWF Delhi, IIT Delhi, NARL, IIT Bombay, etc.(d)     Under NSM, another 9 Supercomputers are in the process of establishment at following institutes:    1.    IIT Hyderabad                        833 TF2.    IISc, Bangalore                          3 PF3.    IIT Guwahati                          833 TF4.    NIT Tiruchirapalli                   833 TF5.    IIT Gandhinagar                     833 TF6.    IIT Roorkee                           1.63 PF7.    NABI Mohali, a DBT AI           833 TF8.    C-DAC, B’luru for MSMEs        833 TF9.    IIT Mandi                                 833 TFThree more Large Supercomputers each with 3PF will be established at IIT Mumbai, IIT Chennai and Inter University Accelerator Centre, New Delhi. One National Supercomputing facility of 20PF at C-DAC, Pune is planned to be established.(e)     Under NSM, both MeitY and DST have provided funds with cumulative total of Rs 1060 crore till date to develop and provide the supercomputing facility for research and other allied areas like application developments, training, etc. As on date, funds equivalent to Rs 531 crores are utilized and commitments of Rs 428 crore on various activities in progress including purchase orders. The delivery of the systems suffered during the lock-down during the Peak of COVID Pandemic.    *****
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+HomeArchiveIndex to Select Questions (1984-1999)Ballot ListStatistical Statements Relating to QuestionsUploading of Questions - Status QueryProcedure for Sending Text of Questions & AnswersDemarcation of responsibilities in Govt. of IndiaBrochure on Statutory Corporations, Companies and Other Bodies in Which the Government of India have financial or controlling interestHighlights pertaining to questions of 17th Lok Sabha
+
+
+
+
+
+
+Contact Us 
+Disclaimer
+
+
+
+
+
+
+
+
+
+
+
+        Developed and Hosted by National Informatics Centre (NIC)
+
+Content on this website is published,
+            managed & maintained by Software Unit, Computer (HW & SW) Management. Branch,
+            Lok Sabha Secretariat
+
+
+
+
+
+HomeMembersBusinessQuestionsDebatesPapers Laid
+
+
+LegislationCommitteesSANSAD TVIntranetSecretariatPRIDE
+
+
+RecruitmentSC/ST ReservationConferenceParliament Library
+
+
+About ParliamentPhoto GalleryRelated LinksRTITendersFAQ
+
+
+SpeakerDy. SpeakerLeader of the HousePanel of ChairpersonsContact UsFeedback
+
+
+Council of MinistersPublications of MinistriesParliamentry ProceduresJournal of Parliamentary Information
+Visitor's Counter:113210159
+
+
+
+
+
+
+
+Copyright
+Privacy Policy
+Disclaimer
+Terms &
+                Conditions
+
+                Accessibility Statement
+Accessibility
+                Options
+Feedback
+Site Map
+
+
+
+
+
+
+

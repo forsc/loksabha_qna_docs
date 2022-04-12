@@ -1,0 +1,350 @@
+
+
+
+
+	Questions : Lok Sabha
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Screen Reader Access
+Skip to Main Content
+Skip to Navigation
+
+
+
+Text Size
+
+                                A
+
+                                A
+A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+हिन्दी मे
+
+
+
+
+
+
+
+
+Parliament of India Lok Sabha House of the
+                        People
+
+
+
+
+
+
+* Special Characters not allowed
+
+
+
+
+
+
+
+
+
+
+
+
+India Time 
+
+
+Your Time 
+
+
+                        Monday,
+                        11 April 2022
+
+
+
+
+
+
+
+
+
+HomeMembersSitting MembersMembers Home PageMembers' PortalContact DetailsMembers SearchStatistical AnalysisAttendance of MembersHandbook Members Since 1952Digitized Who's WhoOthers BusinessProvisional CalendarList of BusinessPapers to be LaidList of Private Members' BusinessBulletin-IDigitized Lok Sabha Bulletin Part IBulletin-IIStatement of WorkSpecial Mentions (ZERO HOUR)Resume of WorkDigitized Resume of Work done by Lok Sabha QuestionsHomeQuestion ListStatus of notices of questionQuestions CalendarGrouping of Ministries - AlphabeticalOfficers in Min./Dept. Dealing with Parliamentary WorkQuestion SearchSupplementary Questions DebatesIntroductionSynopsisUncorrected DebateText of DebateDigitized DebatesConstituent Assembly DebatesWit And HumourDebate SearchHindi FontsDisclaimer Papers LaidPapers Laid on the Table of the House LegislationIntroduction(How Bill Becomes Act)Bills IntroducedBills PassedBills PendingBills AssentedBills LapsedBills WithdrawnBills NegativedBills Search Disclaimer CommitteesIntroductionChairpersonSummary of WorkCommittee Meetings ScheduleBills Referred to CommitteesReports PresentedDigitized ReportsPress ReleaseMembership SearchToday's Committee MeetingsCommittee Subject SelectedDepartment Related-RS Govt. AssurancesSANSAD TVIntranet
+
+
+
+
+
+HomeQuestion ListStatus of notices of questionQuestions CalendarGrouping of Ministries - AlphabeticalOfficers in Min./Dept. Dealing with Parliamentary WorkQuestion SearchSupplementary Questions
+
+
+
+
+
+
+
+
+
+
+
+Download as PDF
+
+
+
+
+Print
+
+
+
+
+
+
+
+
+
+
+
+
+PDF/WORD(Hindi)
+
+
+PDF/WORD
+
+
+
+
+                                    GOVERNMENT OF INDIA
+                                
+
+
+
+
+
+                                    MINISTRY OF
+                                    COMMUNICATIONS
+
+
+
+
+
+
+                                    LOK SABHA
+                                
+
+
+
+
+
+UNSTARRED 
+
+
+                                    QUESTION NO:
+                                
+
+3546
+
+
+
+
+
+
+                                    ANSWERED ON: 
+                                
+
+17.03.2021
+
+
+
+
+
+
+Lack of BSNLs Network Infrastructure
+
+
+
+
+Rahul Kaswan
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        Will the Minister of
+
+
+
+
+
+COMMUNICATIONS
+
+
+                        be pleased to state:-
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                    (a) 	whether there exists a serious connectivity problem in various parts of the country due to lack of adequate network infrastructure of Bharat Sanchar Nigam Limited (BSNL) and if so, the details thereof and the reasons therefor;(b) 	whether the said problem of network connectivity is more severe in Churu and Hanumangarh districts of Rajasthan and if so, the details thereof and the remedial measures taken/being taken by the Government in this regard; and(c) 	the steps taken/being taken by the Government to boost telephone, mobile phone and internet services in the country especially in Rajasthan?
+
+
+
+
+
+
+ANSWER
+
+
+
+
+                                                        MINISTER OF STATE FOR COMMUNICATIONS, EDUCATION AND ELECTRONICS & INFORMATION TECHNOLOGY (SHRI SANJAY DHOTRE)(a)& (b)	Telecom Regulatory Authority of India (TRAI) monitors the performance of telecom service providers including Bharat Sanchar Nigam Limited (BSNL) against the benchmark for various Quality of Service (QoS) parameters laid down by TRAI by way of QoS regulations issued from time to time.  BSNL has informed that it is meeting majority of the QoS parameters fixed by TRAI for both Landline and Mobile subscribers in almost all the Circles.BSNL has also informed that it is progressively increasing its mobile coverage in rural and urban areas across all its Licensed Service Areas (LSAs) by installing additional mobile Base Transceiver Stations (BTSs) under different expansion phases. In the current network expansion phase, BSNL has added 4119 BTSs in its network in Rajasthan LSA.BSNL has reported that there is no severe connectivity problem in Churu and Hanumangarh districts of Rajasthan. (c)	The Government has taken up/planned a number of schemes with funding from Universal Service Obligation Fund (USOF) for expansion of telecom services in rural and remote areas of the country:•	Government of India is implementing BharatNet project to provide broadband/high speed internet connectivity to all the Gram Panchayats (GPs) (approx. 2,50,000) in the country. In Rajasthan, 8970 GPs (including BHQs) have been made Service Ready.•	Public Wi-Fi hotspots at the 25,000 rural telephone exchanges/BTSs of BSNL. As of February 2021, a total number of 24,413 Wi-Fi hotspots are installed. In Rajasthan, a total number of 1630 Wi-Fi hotspots are installed.•	Under the phase-I of scheme for mobile communication services in Left Wing Extremism(LWE) Affected Areas, mobile services have been provided in 10 affected States by installing 2,343 towers. Under Phase-II, 4G mobile services to be provided at 2,542 locations.  •	Scheme for provision of mobile service in 354 uncovered villages of J&K, Ladakh, Himachal Pradesh, Uttar Pradesh, Bihar, Rajasthan, Gujarat, Uttarakhand, Border areas and other priority areas    •	Scheme for 502 uncovered villages of Aspirational Districts over four States (namely Uttar Pradesh, Bihar, Madhya Pradesh & Rajasthan) for provisioning of 4G based Mobile services.  •	Under Comprehensive Telecom Development Plan for the North-Eastern Region, to provide mobile coverage to 8621 identified uncovered villages, installation of 321 mobile tower sites along National Highways and strengthening of transmission network.•	Laying of submarine optical fibre cable (OFC) between Chennai and Andaman & Nicobar Islands for providing high bandwidth connectivity to Andaman & Nicobar Islands.•	Submarine OFC connectivity between Mainland India (Kochi) and Lakshadweep Islands.Further, as per data collected from the Telecom Service Providers (TSPs) in 2020, it is estimated that out of 5,97,681 inhabited villages (as per Census 2011) in the country, 5,72,551 villages have mobile coverage. In Rajasthan, 42,323 out of 43,264inhabited villages have mobile coverage. Mobile coverage in the uncovered villages is being provided in phases both by TSPs and the Government.*****
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+HomeArchiveIndex to Select Questions (1984-1999)Ballot ListStatistical Statements Relating to QuestionsUploading of Questions - Status QueryProcedure for Sending Text of Questions & AnswersDemarcation of responsibilities in Govt. of IndiaBrochure on Statutory Corporations, Companies and Other Bodies in Which the Government of India have financial or controlling interestHighlights pertaining to questions of 17th Lok Sabha
+
+
+
+
+
+
+Contact Us 
+Disclaimer
+
+
+
+
+
+
+
+
+
+
+
+        Developed and Hosted by National Informatics Centre (NIC)
+
+Content on this website is published,
+            managed & maintained by Software Unit, Computer (HW & SW) Management. Branch,
+            Lok Sabha Secretariat
+
+
+
+
+
+HomeMembersBusinessQuestionsDebatesPapers Laid
+
+
+LegislationCommitteesSANSAD TVIntranetSecretariatPRIDE
+
+
+RecruitmentSC/ST ReservationConferenceParliament Library
+
+
+About ParliamentPhoto GalleryRelated LinksRTITendersFAQ
+
+
+SpeakerDy. SpeakerLeader of the HousePanel of ChairpersonsContact UsFeedback
+
+
+Council of MinistersPublications of MinistriesParliamentry ProceduresJournal of Parliamentary Information
+Visitor's Counter:113208911
+
+
+
+
+
+
+
+Copyright
+Privacy Policy
+Disclaimer
+Terms &
+                Conditions
+
+                Accessibility Statement
+Accessibility
+                Options
+Feedback
+Site Map
+
+
+
+
+
+
+

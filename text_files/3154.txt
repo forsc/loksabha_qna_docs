@@ -1,0 +1,350 @@
+
+
+
+
+	Questions : Lok Sabha
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Screen Reader Access
+Skip to Main Content
+Skip to Navigation
+
+
+
+Text Size
+
+                                A
+
+                                A
+A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+हिन्दी मे
+
+
+
+
+
+
+
+
+Parliament of India Lok Sabha House of the
+                        People
+
+
+
+
+
+
+* Special Characters not allowed
+
+
+
+
+
+
+
+
+
+
+
+
+India Time 
+
+
+Your Time 
+
+
+                        Sunday,
+                        10 April 2022
+
+
+
+
+
+
+
+
+
+HomeMembersSitting MembersMembers Home PageMembers' PortalContact DetailsMembers SearchStatistical AnalysisAttendance of MembersHandbook Members Since 1952Digitized Who's WhoOthers BusinessProvisional CalendarList of BusinessPapers to be LaidList of Private Members' BusinessBulletin-IDigitized Lok Sabha Bulletin Part IBulletin-IIStatement of WorkSpecial Mentions (ZERO HOUR)Resume of WorkDigitized Resume of Work done by Lok Sabha QuestionsHomeQuestion ListStatus of notices of questionQuestions CalendarGrouping of Ministries - AlphabeticalOfficers in Min./Dept. Dealing with Parliamentary WorkQuestion SearchSupplementary Questions DebatesIntroductionSynopsisUncorrected DebateText of DebateDigitized DebatesConstituent Assembly DebatesWit And HumourDebate SearchHindi FontsDisclaimer Papers LaidPapers Laid on the Table of the House LegislationIntroduction(How Bill Becomes Act)Bills IntroducedBills PassedBills PendingBills AssentedBills LapsedBills WithdrawnBills NegativedBills Search Disclaimer CommitteesIntroductionChairpersonSummary of WorkCommittee Meetings ScheduleBills Referred to CommitteesReports PresentedDigitized ReportsPress ReleaseMembership SearchToday's Committee MeetingsCommittee Subject SelectedDepartment Related-RS Govt. AssurancesSANSAD TVIntranet
+
+
+
+
+
+HomeQuestion ListStatus of notices of questionQuestions CalendarGrouping of Ministries - AlphabeticalOfficers in Min./Dept. Dealing with Parliamentary WorkQuestion SearchSupplementary Questions
+
+
+
+
+
+
+
+
+
+
+
+Download as PDF
+
+
+
+
+Print
+
+
+
+
+
+
+
+
+
+
+
+
+PDF/WORD(Hindi)
+
+
+PDF/WORD
+
+
+
+
+                                    GOVERNMENT OF INDIA
+                                
+
+
+
+
+
+                                    MINISTRY OF
+                                    ELECTRONICS AND INFORMATION TECHNOLOGY
+
+
+
+
+
+
+                                    LOK SABHA
+                                
+
+
+
+
+
+UNSTARRED 
+
+
+                                    QUESTION NO:
+                                
+
+2899
+
+
+
+
+
+
+                                    ANSWERED ON: 
+                                
+
+10.07.2019
+
+
+
+
+
+
+e-Panchayats and Village Secretariats
+
+
+
+
+Shrikant Eknath Shinde
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        Will the Minister of
+
+
+
+
+
+ELECTRONICS AND INFORMATION TECHNOLOGY
+
+
+                        be pleased to state:-
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                    Will the Minister of ELECTRONICS & INFORMATION TECHNOLOGY be pleased to state:-(a)	whether the Government has recommended the formation of e-Panchayats as part of the Mission Mode Project (MMP) under the Digital India Programme and if so, the details thereof;(b)	whether the Government has fixed any target with regard to setting up of gram sachivalayas (village secretariats) to provide city like IT facilities in rural areas under the centrally sponsored scheme of Rashtriya Gram Swaraj Abhiyan (RGSA);(c)	whether some State Governments have failed to set up IT-enabled gram sachivalayas in the identified clusters. if so, the details thereof and the reasons thereof;(d)	 the details of the facilities proposed to be provided at village secretariats; and(e)	the steps taken by the Government to achieve the target set under the RGSA?
+
+
+
+
+
+
+ANSWER
+
+
+
+
+                                                        	Under the Digital India Programme, the Ministry of Panchayati Raj (MoPR) is implementing e-Panchayat Mission Mode Project (MMP) wherein a suite of core software applications has been developed to address various aspects of Panchayats’ functioning including planning, budgeting, implementation, accounting, monitoring, social audit and delivery of citizen services like issue of certificates, licenses, tax collection etc. These applications are collectively called Panchayat Enterprise Suite (PES). Details of these applications is at Annexure-I. Further, some States have developed their own State-specific software applications for similar purposes. (b) to (e): 	The Government on 21st April, 2018 approved the restructured Centrally Sponsored Scheme (CSS) of Rashtriya Gram Swaraj Abhiyan (RGSA) w.e.f. the financial year 2018-19 with the primary aim of strengthening Panchayati Raj Institutions (PRIs) for achieving Sustainable Development Goals (SDGs) with the main thrust on convergence with Mission Antyodaya and emphasis on strengthening PRIs in the 117 Aspirational districts. The scheme envisages to provide support for certain infrastructural requirement of Panchayats viz. construction/ repair of Panchayat Bhawan and co-location of Common Services Center (CSC) in Panchayat Bhawan to deliver various citizen centric services at single point, Human Resource support, Computers etc. on limited scale as included in the Annual Action Plans of States/ UTs. The scheme of RGSA does not have any separate component to provide funds for Gram Sachivalayas (village secretariat). State-wise details of the number of Panchayat Bhawans approved under RGSA for construction, repair and co-location of CSC during the financial year 2019-20 is at Annexure-II.*******Annexure-IList of Panchayat Enterprise Suite ApplicationsS. N.	Application	Description1	PRIASoft	It is a web based Application that captures receipt & expenditure details through voucher entries and automatically generates cash book, registers, utilization certificates etc. It has been designed in such a way that the only requirement from the Panchayats is to make entry of the four vouchers (Receipt/Payment/Contra/Journal) that would automatically generate all associated Statements and Reports. PRIASoft follows double entry, cash basis of accounting and is based on the four-tier Simplified Model Accounting Format recommended by CAG. All the Central Government & State Government schemes are available within PRIASoft which are mapped with the account heads.2	PlanPlus	PlanPlus facilitates in strengthening participative decentralized planning and enables preparation of district as well as sectoral plans. It also allows the citizens/plan units to submit their development needs to appropriate planning unit. This Application has been modified for incorporating various components of Gram Panchayat Development Plan (GPDP).3	National Panchayat Portal (NPP)	Dynamic Web site for each Panchayat (i.e. ZPs, BPs & GPs) to share information in public domain. NPP facilitates seamless access to the information and services provided by the local bodies. NPP creates dynamic websites for State Panchayati Raj Departments and each Panchayat can configure their website to be accessed using a URL of their choice.4	Local Government Directory(LGD)	Captures all details of local governments and assigns unique code. Also maps Panchayats with Assembly and Parliamentary Constituencies. It enables interoperability across all e-governance applications.5	ActionSoft	It aims at monitoring and keeping record of the progress of the works being undertaken as part of the finally approved plans (Action Plan) of various ULB, RLB and Line departments as available in PlanPlus. It facilitates proper recording of the Financial and Physical progress of the works. It acts as a tool to support the monitoring of the status and the expenditure incurred in works undertaken under various central and state schemes by various governments.6	National Asset Directory (NAD)	Captures details of assets created/maintained; helps avoid duplication of works and provides for maintenance. NAD comprises of a repository of movable and immovable assets (i.e. both public and private viz major schools, banks & hospital) present within the geographical boundaries of the Panchayats. It also generates unique asset ID for identification of assets created/maintained/controlled by the Panchayats.7	Area Profiler	Captures geographic, demographic, infrastructural, socio-economic and natural resources profile of a village/panchayat. Universal database for planning of all sectoral programmes and provides details of Elected Representatives & Panchayat Functionaries, Election details etc. AreaProfiler is a centralized database also providing various details of the Panchayats such as neighboring local bodies, tourist places and lodging facilities etc. 8	ServicePlus	A dynamic metadata-based service delivery portal to help in providing electronic delivery of all services in all States. The functionality of the erstwhile Grievance Redressal Application has also been subsumed into this Application. ServicePlus offers benefits to both Government and citizens:Benefits to Government-	Enables configuring of all rules associated with service delivery and thus ensures delivery of services as per defined rules.-	Provides quick, efficient and transparent delivery of both informational and transactional services to citizens and efficient monitoring of application processing.-	Defines work flow for each service & kiosk policy in terms of role.-	Streamlines workflows, reduces workload of Government departments and improves efficiency in service deliveryBenefits to Citizens-	Provides an integrated single, unified portal to the citizens (single-window)-	Enables citizens to query on their entitlement to various services provided across the country on a single window.-	Provides services which are fully aligned with the actual service delivery processes/rules and thus ensures correctness/validity of certificate.-	Workflow for issue of certificate can be configured dynamically based on the applicant’s requirement.-	Captures all relevant documents from citizens only once and thus provides convenience to the citizen. 9	Social Audit	Social Audit application aims to understand the measure and verify work under different schemes done by the Panchayat and further to improve social performance of respective Panchayats. Social Audit process involves Auditing of various schemes by Social Auditor and Social Audit Facilitator and submission of audit report. The Application facilitates Social Audit process by providing requested information to social auditor, captures audit report and action taken by Panchayat/Local body.10	Trainings Management	Portal to address training needs of stakeholders including citizens, their feedback, training materials etc. It is a single platform for government officials and elected representatives in a State to log in their training needs and training organizations including Government to address and manage these requirements. The Application also maintains a database of participants (viz. Elected Representatives/ Department officials). There is a provision for capturing feedback from the participants thereby using them in further analysis.11	Geographic Information System (GIS)	A spatial layer to view all data generated by all Applications on a GIS map.Annexure-IINumber of Panchayat Bhawans approved for Construction, Repair and Co-location of Common Services Centers under RGSA during the financial year 2019-20  S. N.	State	Panchayat Bhawans Approved		Construction	Repair	Co-location of CSC1.		Andhra Pradesh	0	186	1002.		Arunachal Pradesh	80	50	803.		Assam	30	60	1004.		Bihar	0	117	3415.		Chhattisgarh	0	176	06.		Dadra and Nagar Haveli	5	1	07.		Daman and Diu	0	1	08.		Goa	4	15	09.		Gujarat	30	0	25010.		Haryana	175	38	10911.		Himachal Pradesh	0	50	14812.		Jammu and Kashmir	100	100	813.		Jharkhand	0	100	20014.		Kerala	1	30	1515.		Madhya Pradesh	0	100	40016.		Maharashtra	215	200	18517.		Manipur	10	10	518.		Meghalaya	0	20	019.		Mizoram	10	5	1020.		Puducherry	5	5	021.		Punjab	351	0	022.		Rajasthan	150	100	23023.		Sikkim	10	2	024.		Tamil Nadu	120	158	46025.		Telangana	500	200	6026.		Tripura	10	0	2327.		Uttarakhand	100	150	15028.		Uttar Pradesh	1200	500	50029.		West Bengal	2	10	30******* 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+HomeArchiveIndex to Select Questions (1984-1999)Ballot ListStatistical Statements Relating to QuestionsUploading of Questions - Status QueryProcedure for Sending Text of Questions & AnswersDemarcation of responsibilities in Govt. of IndiaBrochure on Statutory Corporations, Companies and Other Bodies in Which the Government of India have financial or controlling interestHighlights pertaining to questions of 17th Lok Sabha
+
+
+
+
+
+
+Contact Us 
+Disclaimer
+
+
+
+
+
+
+
+
+
+
+
+        Developed and Hosted by National Informatics Centre (NIC)
+
+Content on this website is published,
+            managed & maintained by Software Unit, Computer (HW & SW) Management. Branch,
+            Lok Sabha Secretariat
+
+
+
+
+
+HomeMembersBusinessQuestionsDebatesPapers Laid
+
+
+LegislationCommitteesSANSAD TVIntranetSecretariatPRIDE
+
+
+RecruitmentSC/ST ReservationConferenceParliament Library
+
+
+About ParliamentPhoto GalleryRelated LinksRTITendersFAQ
+
+
+SpeakerDy. SpeakerLeader of the HousePanel of ChairpersonsContact UsFeedback
+
+
+Council of MinistersPublications of MinistriesParliamentry ProceduresJournal of Parliamentary Information
+Visitor's Counter:113088228
+
+
+
+
+
+
+
+Copyright
+Privacy Policy
+Disclaimer
+Terms &
+                Conditions
+
+                Accessibility Statement
+Accessibility
+                Options
+Feedback
+Site Map
+
+
+
+
+
+
+

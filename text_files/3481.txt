@@ -1,0 +1,350 @@
+
+
+
+
+	Questions : Lok Sabha
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Screen Reader Access
+Skip to Main Content
+Skip to Navigation
+
+
+
+Text Size
+
+                                A
+
+                                A
+A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+हिन्दी मे
+
+
+
+
+
+
+
+
+Parliament of India Lok Sabha House of the
+                        People
+
+
+
+
+
+
+* Special Characters not allowed
+
+
+
+
+
+
+
+
+
+
+
+
+India Time 
+
+
+Your Time 
+
+
+                        Sunday,
+                        10 April 2022
+
+
+
+
+
+
+
+
+
+HomeMembersSitting MembersMembers Home PageMembers' PortalContact DetailsMembers SearchStatistical AnalysisAttendance of MembersHandbook Members Since 1952Digitized Who's WhoOthers BusinessProvisional CalendarList of BusinessPapers to be LaidList of Private Members' BusinessBulletin-IDigitized Lok Sabha Bulletin Part IBulletin-IIStatement of WorkSpecial Mentions (ZERO HOUR)Resume of WorkDigitized Resume of Work done by Lok Sabha QuestionsHomeQuestion ListStatus of notices of questionQuestions CalendarGrouping of Ministries - AlphabeticalOfficers in Min./Dept. Dealing with Parliamentary WorkQuestion SearchSupplementary Questions DebatesIntroductionSynopsisUncorrected DebateText of DebateDigitized DebatesConstituent Assembly DebatesWit And HumourDebate SearchHindi FontsDisclaimer Papers LaidPapers Laid on the Table of the House LegislationIntroduction(How Bill Becomes Act)Bills IntroducedBills PassedBills PendingBills AssentedBills LapsedBills WithdrawnBills NegativedBills Search Disclaimer CommitteesIntroductionChairpersonSummary of WorkCommittee Meetings ScheduleBills Referred to CommitteesReports PresentedDigitized ReportsPress ReleaseMembership SearchToday's Committee MeetingsCommittee Subject SelectedDepartment Related-RS Govt. AssurancesSANSAD TVIntranet
+
+
+
+
+
+HomeQuestion ListStatus of notices of questionQuestions CalendarGrouping of Ministries - AlphabeticalOfficers in Min./Dept. Dealing with Parliamentary WorkQuestion SearchSupplementary Questions
+
+
+
+
+
+
+
+
+
+
+
+Download as PDF
+
+
+
+
+Print
+
+
+
+
+
+
+
+
+
+
+
+
+PDF/WORD(Hindi)
+
+
+PDF/WORD
+
+
+
+
+                                    GOVERNMENT OF INDIA
+                                
+
+
+
+
+
+                                    MINISTRY OF
+                                    HEALTH AND FAMILY WELFARE
+
+
+
+
+
+
+                                    LOK SABHA
+                                
+
+
+
+
+
+STARRED   
+
+
+                                    QUESTION NO:
+                                
+
+283
+
+
+
+
+
+
+                                    ANSWERED ON: 
+                                
+
+12.07.2019
+
+
+
+
+
+
+Artificial Intelligence in Public Health System
+
+
+
+
+Aparajita Sarangi
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        Will the Minister of
+
+
+
+
+
+HEALTH AND FAMILY WELFARE
+
+
+                        be pleased to state:-
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                    Will the Minister of HEALTH AND FAMILY WELFARE be pleased to state: (a) whether Artificial Intelligence (AI) which is being widely used in different parts of the world, is being used in public health system in the country; (b) if so, the details thereof along with the areas in which it is currently being used in the country along with its impact; (c) whether there has been a comprehensive assessment of the areas in which AI can be used in public health management in the country and if so, the details thereof; and (d) the details of the road map finalized/being prepared for expanding the usage of AI in the country?
+
+
+
+
+
+
+ANSWER
+
+
+
+
+                                                        ANSWERTHE MINISTER OF HEALTH AND FAMILY WELFARE (DR. HARSH VARDHAN)(a) to (d):  A statement is laid on the Table of the HouseSTATEMENT REFERRED TO IN REPLY TO LOK SABHASTARRED QUESTION NO. 283* FOR 12TH JULY, 2019(a) & (b) The potential of Artificial Intelligence (AI) in public health is being explored in our country. Ministry of Health & Family Welfare (MoHFW) is working towards using AI in a safe and effective way in public health in India. Few of the initiatives undertaken by Government of India (GoI) to use AI in public health are:•	Imaging Biobank for Cancer: NITI Aayog with Department of Bio-Technology (DBT) aims to build database of cancer related radiology and pathology images of more than 20,000 profiles of cancer patients with focus on major cancers prevalent in India, along with the associated annotations and labels from clinical data for effective use of AI in cancer management. •	NITI Aayog is working on using AI for early detection of diabetic retinopathy. Integrating AI capabilities with portable eye screening device using retinal imaging APIs enables operators to get AI-powered insights even when they are working at eye check-up camps in remote areas with nil or intermittent connectivity to the cloud to detect diabetic retinopathy. •	DBT has issued call for pre-proposals on use of AI in the area of cancer biology, tuberculosis & pulmonary diseases, diabetes & cardiovascular disease, ophthalmological diseases, genetic and rare disorders, neurological disorders and methods/drug development.•	DBT is also in process of integrating the knowledge and resources generated through various multi-institutional projects, cohort studies, bio-repositories, bio-banks, clinical trials etc. This knowledge/ datasets will be foundation for application of AI tools.(c)  The use of Artificial Intelligence in Public Health is being examined for making it more effective and accessible. AI solutions can augment the scarce personnel and lab facilities; help overcome the barriers to access through early detection, diagnosis and treatment.The potential areas for AI implementation in public health management includes-a)	Tele- radiologyb)	Tele-ophthalmologyc)	Clinical Decision Support System (CDSS)d)	Natural Language Processing (NLP) for health data e)	Disease surveillancef)	Tele-medicine g)	Early detection of diseasesh)	Health data analytics i)	Remote monitoring through wearables– particularly for elderly care/special casesj)	Research in bio-technologyk)	Ayushman Bharat - Pradhan Mantri Jan Arogya Yojana (PMJAY):i.	Reducing fraud and abuse in Pradhan Mantri Jan Arogya Yojana (PM-JAY) ecosystem viz. fraud and abuse by empanelled hospitals, insurance agencies, third party administrators etc.ii.	Preserving privacy of personal information of PM-JAY beneficiaries.(d) To address the gaps in India’s AI ecosystem and realise its economic impact, Government of India has prioritized building our AI technology capabilities.NITI Aayog, after extensive consultation with various ministries and leading academicians, institutions, practitioners and industry players, has released India’s National Strategy for Artificial Intelligence in June 2018. Through the strategy and subsequent initiatives, the following key recommendations in AI are being pursued:•	Promoting Research Ecosystem: building research capability in both fundamental and applied areas of AI technology, ensuring large scale AI computing facility for students, researchers, start-ups and government organizations.•	Accelerating adoption: Government to play the leading role in adopting AI.•	Skilling: focus on skilling and reskilling, to enable job creation and provide resources for research ecosystem.•	AI for All Global Alliance: collaboration with countries focused on research in areas prioritized by India.Government’s interventions will include supporting partnerships, providing access to infrastructure, fostering innovation through research and creating the demand by seeking solutions for addressing various governmental needs. Access to structured data sets and similar infrastructural tools are essential pre-requisites for developing India’s AI capabilities. NITI Aayog is accordingly developing a framework for publishing government data.NITI Aayog is currently in the process of developing the institutional mechanism, funding framework and other such steps to realise India’s AI aspirations.The real power of Artificial Intelligence is built on the standardized data that act as the input for AI programs to generate results. However, the deficient or improper and non-standardized data could potentially be threatening in life saving situations where the dependency on AI tools is high. Therefore, the prime objectives of this Ministry is to ensure that data available for AI tools is standardized & the privacy and security of patient’s data is maintained for AI processing. Towards the above, MoHFW has also taken following steps:•	Notified Electronic Health Record (EHR) standards 2016 for disease classification, medicine and clinical terminology, laboratory data exchange, digital Imaging and communication etc. for interoperability, with a vision to provide necessary guidelines for both public and private entities. •	Since the privacy and security of patient data is of paramount importance in health service delivery, MeitY is in process of finalizing the Data & Privacy Protection Act, which would be applicable in all domains including healthcare. This Act would provide the framework for Ministry to utilize the patient data in programmes in a secured manner.•	MoHFW is in process of finalizing a National Digital Health Blueprint (NDHB) proposing a federated architecture, which will allow the creation of longitudinal health record of a patient resulting in accurate diagnosis, precision medicine, increased quality of care, timely response in emergency, lower out of pocket expenses, avoiding repeated diagnostics and continuum of care across all levels.*****
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+HomeArchiveIndex to Select Questions (1984-1999)Ballot ListStatistical Statements Relating to QuestionsUploading of Questions - Status QueryProcedure for Sending Text of Questions & AnswersDemarcation of responsibilities in Govt. of IndiaBrochure on Statutory Corporations, Companies and Other Bodies in Which the Government of India have financial or controlling interestHighlights pertaining to questions of 17th Lok Sabha
+
+
+
+
+
+
+Contact Us 
+Disclaimer
+
+
+
+
+
+
+
+
+
+
+
+        Developed and Hosted by National Informatics Centre (NIC)
+
+Content on this website is published,
+            managed & maintained by Software Unit, Computer (HW & SW) Management. Branch,
+            Lok Sabha Secretariat
+
+
+
+
+
+HomeMembersBusinessQuestionsDebatesPapers Laid
+
+
+LegislationCommitteesSANSAD TVIntranetSecretariatPRIDE
+
+
+RecruitmentSC/ST ReservationConferenceParliament Library
+
+
+About ParliamentPhoto GalleryRelated LinksRTITendersFAQ
+
+
+SpeakerDy. SpeakerLeader of the HousePanel of ChairpersonsContact UsFeedback
+
+
+Council of MinistersPublications of MinistriesParliamentry ProceduresJournal of Parliamentary Information
+Visitor's Counter:113091016
+
+
+
+
+
+
+
+Copyright
+Privacy Policy
+Disclaimer
+Terms &
+                Conditions
+
+                Accessibility Statement
+Accessibility
+                Options
+Feedback
+Site Map
+
+
+
+
+
+
+

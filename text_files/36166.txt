@@ -1,0 +1,373 @@
+
+
+
+
+	Questions : Lok Sabha
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Screen Reader Access
+Skip to Main Content
+Skip to Navigation
+
+
+
+Text Size
+
+                                A
+
+                                A
+A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+हिन्दी मे
+
+
+
+
+
+
+
+
+Parliament of India Lok Sabha House of the
+                        People
+
+
+
+
+
+
+* Special Characters not allowed
+
+
+
+
+
+
+
+
+
+
+
+
+India Time 
+
+
+Your Time 
+
+
+                        Tuesday,
+                        12 April 2022
+
+
+
+
+
+
+
+
+
+HomeMembersSitting MembersMembers Home PageMembers' PortalContact DetailsMembers SearchStatistical AnalysisAttendance of MembersHandbook Members Since 1952Digitized Who's WhoOthers BusinessProvisional CalendarList of BusinessPapers to be LaidList of Private Members' BusinessBulletin-IDigitized Lok Sabha Bulletin Part IBulletin-IIStatement of WorkSpecial Mentions (ZERO HOUR)Resume of WorkDigitized Resume of Work done by Lok Sabha QuestionsHomeQuestion ListStatus of notices of questionQuestions CalendarGrouping of Ministries - AlphabeticalOfficers in Min./Dept. Dealing with Parliamentary WorkQuestion SearchSupplementary Questions DebatesIntroductionSynopsisUncorrected DebateText of DebateDigitized DebatesConstituent Assembly DebatesWit And HumourDebate SearchHindi FontsDisclaimer Papers LaidPapers Laid on the Table of the House LegislationIntroduction(How Bill Becomes Act)Bills IntroducedBills PassedBills PendingBills AssentedBills LapsedBills WithdrawnBills NegativedBills Search Disclaimer CommitteesIntroductionChairpersonSummary of WorkCommittee Meetings ScheduleBills Referred to CommitteesReports PresentedDigitized ReportsPress ReleaseMembership SearchToday's Committee MeetingsCommittee Subject SelectedDepartment Related-RS Govt. AssurancesSANSAD TVIntranet
+
+
+
+
+
+HomeQuestion ListStatus of notices of questionQuestions CalendarGrouping of Ministries - AlphabeticalOfficers in Min./Dept. Dealing with Parliamentary WorkQuestion SearchSupplementary Questions
+
+
+
+
+
+
+
+
+
+
+
+Download as PDF
+
+
+
+
+Print
+
+
+
+
+
+
+
+
+
+
+
+
+PDF/WORD(Hindi)
+
+
+PDF/WORD
+
+
+
+
+                                    GOVERNMENT OF INDIA
+                                
+
+
+
+
+
+                                    MINISTRY OF
+                                    ELECTRONICS AND INFORMATION TECHNOLOGY
+
+
+
+
+
+
+                                    LOK SABHA
+                                
+
+
+
+
+
+UNSTARRED 
+
+
+                                    QUESTION NO:
+                                
+
+3318
+
+
+
+
+
+
+                                    ANSWERED ON: 
+                                
+
+23.03.2022
+
+
+
+
+
+
+Fraud Transaction
+
+
+
+
+Maddila  Gurumoorthy
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                    Goddeti Madhavi
+                                                
+
+
+
+
+
+
+
+
+                                                    M V V Satyanarayana
+                                                
+
+
+
+
+
+
+
+
+
+
+
+
+                        Will the Minister of
+
+
+
+
+
+ELECTRONICS AND INFORMATION TECHNOLOGY
+
+
+                        be pleased to state:-
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Will the Minister of ELECTRONICS AND INFORMATION TECHNOLOGY be pleased to state:(a)	whether the Government is aware of the RBI Working Group report that more than 600 illegal loan apps have been operating in India and are available on several app stores for Android users;(b)	if so, the details thereof;(c)	whether the Government is taking any steps to prevent fraudulent transactions on abovesaid apps which are mostly used to dupe innocent people; and(d)	if so, the details thereof?
+
+
+
+
+
+
+ANSWER
+
+
+
+
+(a)and (b):  As per the report of Reserve Bank of India (RBI) Working Group on Digital Lending, there were approximately 1,100 lending apps available for Indian Android users across 80+ application stores (from January 01, 2021 to February 28, 2021). Details, as mentioned in the said Report, are as under:No. of App Stores in which Indian loan apps are available	~81No. of unique Indian loan apps that have the keywords: loan, instant loan, quick loan, etc.	~1,100(c)	and (d):The Government of India is taking several steps to ensure safe and secure functioning of digital payment ecosystem.(i)	‘The Information Technology Act, 2000’ includes appropriate provisions for customer protection, as given below:•	Section 79 of The IT Act, while providing exemption to the Intermediary also requires due diligence to be followed by them. The App stores are Intermediary within the definition of The IT Act and are expected not to allow any illegal activity on their platform. As per the ‘Information Technology (Intermediary Guidelines and Digital Media Ethics Code) Rules, 2021’ issued on 25th February 2021, the App Stores are expected to take down these apps or any other illegal content/ activity/ information on their platforms as and when brought to their knowledge through a court order or on notice by an appropriate Government or its authorised agency.•	Section 69A of The IT Act includes provisions for the Government to block access of information under certain conditions impacting sovereignty and integrity of India, security of State, defence of India, friendly relations, Public Order or for a cognizable offence relating to the above, following the well laid down rules.(ii)	The Reserve Bank of India (RBI) has taken various steps to address the issues concerned with digital lending apps. Summary of measures adopted by RBI to address concerns pertaining to Digital Lending is attached at Annexure-1.********Annexure-1Summary of Measures adopted by RBI to address concerns pertaining to Digital Lending1.	Instructions have been issued vide circular dated June 24, 2020, to all Scheduled Commercial Banks (excluding RRBs) and NBFCs (including HFCs) to adhere to Fair Practices Code and Outsourcing Guidelines for loans sourced over digital lending platforms either through their own or under an outsourcing arrangement.2.	The list of banks/registered NBFCs is published on the official website of the Reserve Bank. Wherever banks and NBFCs engage digital lending platforms as their agents to source borrowers and/ or to recover dues, they have been advised, among other things, that they should: a) disclose the names of digital lending platforms engaged as agents on their website b) direct digital lending platforms engaged as agents to disclose upfront to the customer, the name of the bank/ NBFC on whose behalf they are interacting with him.3.	RBI, vide press release dated December 23, 2021, had cautioned the general public not to fall prey to unscrupulous activities of unauthorised digital lending platforms/Mobile Apps and verify the antecedents of the company/ firm offering such loans. It had highlighted reports on excessive rates of interest and additional hidden charges being demanded from borrowers; adoption of unacceptable and high-handed recovery methods; and misuse of agreements to access data on the mobile phones of the borrowers by these lenders.4.	RBI had also written letters to Chief Secretaries of all States/UTs highlighting the need for proactive action against unauthorised digital lending platforms/Mobile Apps in view of the concerns mentioned above. Further, a letter to the Ministry of Finance (MoF) dated January 14, 2021, also highlighted the need for coordinated action against unauthorised Digital Lending platforms/Digital Apps by State Law Enforcement Agencies (LEAs). The issues related to digital lending platforms/Mobile Apps are also discussed in the meetings of State Level Coordination Committees (SLCC).5.	The Financial Literacy Week (February 8-12, 2021) with the theme “Credit Discipline and Credit from Formal Institutions”, focussed on responsible borrowing, borrowing from formal institutions and timely repayments. Further, a centralised campaign on mass media and social media was also undertaken during February 2021 to disseminate awareness on the theme.******** 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+HomeArchiveIndex to Select Questions (1984-1999)Ballot ListStatistical Statements Relating to QuestionsUploading of Questions - Status QueryProcedure for Sending Text of Questions & AnswersDemarcation of responsibilities in Govt. of IndiaBrochure on Statutory Corporations, Companies and Other Bodies in Which the Government of India have financial or controlling interestHighlights pertaining to questions of 17th Lok Sabha
+
+
+
+
+
+
+Contact Us 
+Disclaimer
+
+
+
+
+
+
+
+
+
+
+
+        Developed and Hosted by National Informatics Centre (NIC)
+
+Content on this website is published,
+            managed & maintained by Software Unit, Computer (HW & SW) Management. Branch,
+            Lok Sabha Secretariat
+
+
+
+
+
+HomeMembersBusinessQuestionsDebatesPapers Laid
+
+
+LegislationCommitteesSANSAD TVIntranetSecretariatPRIDE
+
+
+RecruitmentSC/ST ReservationConferenceParliament Library
+
+
+About ParliamentPhoto GalleryRelated LinksRTITendersFAQ
+
+
+SpeakerDy. SpeakerLeader of the HousePanel of ChairpersonsContact UsFeedback
+
+
+Council of MinistersPublications of MinistriesParliamentry ProceduresJournal of Parliamentary Information
+Visitor's Counter:113260486
+
+
+
+
+
+
+
+Copyright
+Privacy Policy
+Disclaimer
+Terms &
+                Conditions
+
+                Accessibility Statement
+Accessibility
+                Options
+Feedback
+Site Map
+
+
+
+
+
+
+

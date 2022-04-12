@@ -1,0 +1,350 @@
+
+
+
+
+	Questions : Lok Sabha
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Screen Reader Access
+Skip to Main Content
+Skip to Navigation
+
+
+
+Text Size
+
+                                A
+
+                                A
+A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+हिन्दी मे
+
+
+
+
+
+
+
+
+Parliament of India Lok Sabha House of the
+                        People
+
+
+
+
+
+
+* Special Characters not allowed
+
+
+
+
+
+
+
+
+
+
+
+
+India Time 
+
+
+Your Time 
+
+
+                        Monday,
+                        11 April 2022
+
+
+
+
+
+
+
+
+
+HomeMembersSitting MembersMembers Home PageMembers' PortalContact DetailsMembers SearchStatistical AnalysisAttendance of MembersHandbook Members Since 1952Digitized Who's WhoOthers BusinessProvisional CalendarList of BusinessPapers to be LaidList of Private Members' BusinessBulletin-IDigitized Lok Sabha Bulletin Part IBulletin-IIStatement of WorkSpecial Mentions (ZERO HOUR)Resume of WorkDigitized Resume of Work done by Lok Sabha QuestionsHomeQuestion ListStatus of notices of questionQuestions CalendarGrouping of Ministries - AlphabeticalOfficers in Min./Dept. Dealing with Parliamentary WorkQuestion SearchSupplementary Questions DebatesIntroductionSynopsisUncorrected DebateText of DebateDigitized DebatesConstituent Assembly DebatesWit And HumourDebate SearchHindi FontsDisclaimer Papers LaidPapers Laid on the Table of the House LegislationIntroduction(How Bill Becomes Act)Bills IntroducedBills PassedBills PendingBills AssentedBills LapsedBills WithdrawnBills NegativedBills Search Disclaimer CommitteesIntroductionChairpersonSummary of WorkCommittee Meetings ScheduleBills Referred to CommitteesReports PresentedDigitized ReportsPress ReleaseMembership SearchToday's Committee MeetingsCommittee Subject SelectedDepartment Related-RS Govt. AssurancesSANSAD TVIntranet
+
+
+
+
+
+HomeQuestion ListStatus of notices of questionQuestions CalendarGrouping of Ministries - AlphabeticalOfficers in Min./Dept. Dealing with Parliamentary WorkQuestion SearchSupplementary Questions
+
+
+
+
+
+
+
+
+
+
+
+Download as PDF
+
+
+
+
+Print
+
+
+
+
+
+
+
+
+
+
+
+
+PDF/WORD(Hindi)
+
+
+PDF/WORD
+
+
+
+
+                                    GOVERNMENT OF INDIA
+                                
+
+
+
+
+
+                                    MINISTRY OF
+                                    ELECTRONICS AND INFORMATION TECHNOLOGY
+
+
+
+
+
+
+                                    LOK SABHA
+                                
+
+
+
+
+
+UNSTARRED 
+
+
+                                    QUESTION NO:
+                                
+
+2193
+
+
+
+
+
+
+                                    ANSWERED ON: 
+                                
+
+04.03.2020
+
+
+
+
+
+
+Electronic Chip Manufacturing Units
+
+
+
+
+D. M. Kathir Anand
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        Will the Minister of
+
+
+
+
+
+ELECTRONICS AND INFORMATION TECHNOLOGY
+
+
+                        be pleased to state:-
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                    Will the Minister of Electronics & Information Technology be pleased to state: (a)	whether the Government is aware that despite its campaign of Digital India, the country lacks basic necessities like a semi-conductor chip manufacturing plant and if so, the details thereof and the reasons therefor along with the reaction of the Government thereto;(b)	whether any electronic chip manufacturing units are likely to be operational in the next five years;(c)	if so, the details and the present status thereof;(d)	whether the setting up of electronic chip facilities would be of the nation’s strategic purpose as chips had security implications and if so, the details thereof; and (e)	whether the Government is considering to provide subsidy to these units and if so, the details thereof? 
+
+
+
+
+
+
+ANSWER
+
+
+
+
+                                                        (a), (b) and (c): The Government attaches high priority to electronics hardware manufacturing and it is one of the important pillars of both “Make in India” and “Digital India” programmes. As a result of various measures taken by the Government over the last few years and efforts of the industry, electronics hardware production in the country has grown from Rs.1,90,366 crore in 2014-15 to Rs.4,58,006 crore in 2018-19, at a Compound Annual Growth Rate (CAGR) of 25%.Semi-Conductor Laboratory (SCL), Mohali, an autonomous body under the Department of Space, and Gallium Arsenide Enabling Technology Centre (GAETEC), Hyderabad, a unit of Society for Integrated Circuit Technology and Applied Research (SITAR) have facilities for Design, Development, Fabrication, Assembly, Packaging, Testing and Quality Assurance of CMOS based semiconductor chips and GaAs monolithic microwave integrated circuits, RF sub systems, respectively, for various applications, and are meeting the strategic requirements.  However, there is no commercial semiconductor chip manufacturing plant in the country. Government has been making serious efforts to set up semiconductor fabrication facilities in the country. The Cabinet, in its decision dated 20.04.2011 had set up an Empowered Committee (EC) with the mandate to identify technology and potential investors for setting up Semiconductor Wafer Fabrication (FAB) manufacturing facilities in the country, and to recommend nature and quantum of Government support. Based on the recommendations of the EC, Government had approved two proposals for setting up of Semiconductor FAB facility, based on which Letter of Intent (LoI) dated 19.03.2014 were issued to the two consortia.  As per the LoI, both the consortia were required to submit certain documents for demonstration of commitment. The consortium led by M/s. Jaiprakash Associates Ltd. withdrew their proposal and the consortium led by M/s. HSMC Technologies India Pvt. Ltd. could not submit the requisite documents for demonstration of commitment, despite being provided extension of time on several occasions. Hence, the LoI issued to M/s.  HSMC Technologies India Pvt. Ltd. was cancelled on 20.04.2018. The efforts to set up commercial semiconductor chip manufacturing plant in the country did not meet with success, although very attractive set of incentives were offered to the aforesaid consortia.India is a signatory to the Information Technology Agreement (ITA-1) of WTO under which most of the electronic components, including semiconductor integrated circuits (chips), are being imported at Nil Basic Custom Duty (BCD). Besides, Electronics hardware manufacturing sector in the country faces lack of level playing field vis-à-vis competing nations on account of several disabilities such as lack of adequate infrastructure, domestic supply chain and logistics; high cost of finance; inadequate availability of quality power and water and limited focus on R&D by the industry, which render domestic electronics hardware manufacturing uncompetitive. Further, the manufacturing facilities for semiconductors are highly capital intensive and have to deal with constantly changing technology. It is understood that assured business out of the market demand is the key to establish and operate a sustainable Semiconductor FAB.(d):   Electronics impacts a large number of economic sectors including IT, telecom, broadcasting, power, etc. as well as strategic sectors, viz., Defence, Space and Atomic Energy. The growth of electronics industry has enormous implication for all these sectors. Besides the economic imperative, focus on electronics hardware manufacturing up to the integrated circuit or chip level is required due to the growing security concerns as well as strategic importance. Presently, SCL and GAETEC facilities are being used for strategic purposes. (e):      In order to attract investment for setting up of Semiconductor FAB facilities in the country, capital subsidy of 20 - 25% was available under the Modified Special Incentive Package Scheme (M-SIPS). However, no proposal was received for setting up of Semiconductor FAB under M-SIPS. Following incentives are available to companies for setting up of Semiconductor FAB facilities in India:  (i)	Capital goods for setting up of Semiconductor FAB are exempted from Basic Customs Duty (BCD).(ii)	Investment linked deduction under Section 35AD of the Income-tax Act. (iii)	Deduction of expenditure on research and development as admissible under Section 35(2AB) of the Income-tax Act.(iv) 	New domestic companies making fresh investment in manufacturing and starting operations before March 31, 2023 have an option to pay corporate income tax at reduced rate of 15%. Such companies will also not be liable to pay Minimum Alternate Tax (MAT).********  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+HomeArchiveIndex to Select Questions (1984-1999)Ballot ListStatistical Statements Relating to QuestionsUploading of Questions - Status QueryProcedure for Sending Text of Questions & AnswersDemarcation of responsibilities in Govt. of IndiaBrochure on Statutory Corporations, Companies and Other Bodies in Which the Government of India have financial or controlling interestHighlights pertaining to questions of 17th Lok Sabha
+
+
+
+
+
+
+Contact Us 
+Disclaimer
+
+
+
+
+
+
+
+
+
+
+
+        Developed and Hosted by National Informatics Centre (NIC)
+
+Content on this website is published,
+            managed & maintained by Software Unit, Computer (HW & SW) Management. Branch,
+            Lok Sabha Secretariat
+
+
+
+
+
+HomeMembersBusinessQuestionsDebatesPapers Laid
+
+
+LegislationCommitteesSANSAD TVIntranetSecretariatPRIDE
+
+
+RecruitmentSC/ST ReservationConferenceParliament Library
+
+
+About ParliamentPhoto GalleryRelated LinksRTITendersFAQ
+
+
+SpeakerDy. SpeakerLeader of the HousePanel of ChairpersonsContact UsFeedback
+
+
+Council of MinistersPublications of MinistriesParliamentry ProceduresJournal of Parliamentary Information
+Visitor's Counter:113178783
+
+
+
+
+
+
+
+Copyright
+Privacy Policy
+Disclaimer
+Terms &
+                Conditions
+
+                Accessibility Statement
+Accessibility
+                Options
+Feedback
+Site Map
+
+
+
+
+
+
+

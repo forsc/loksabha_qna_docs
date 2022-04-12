@@ -1,0 +1,393 @@
+
+
+
+
+	Questions : Lok Sabha
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Screen Reader Access
+Skip to Main Content
+Skip to Navigation
+
+
+
+Text Size
+
+                                A
+
+                                A
+A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+हिन्दी मे
+
+
+
+
+
+
+
+
+Parliament of India Lok Sabha House of the
+                        People
+
+
+
+
+
+
+* Special Characters not allowed
+
+
+
+
+
+
+
+
+
+
+
+
+India Time 
+
+
+Your Time 
+
+
+                        Monday,
+                        11 April 2022
+
+
+
+
+
+
+
+
+
+HomeMembersSitting MembersMembers Home PageMembers' PortalContact DetailsMembers SearchStatistical AnalysisAttendance of MembersHandbook Members Since 1952Digitized Who's WhoOthers BusinessProvisional CalendarList of BusinessPapers to be LaidList of Private Members' BusinessBulletin-IDigitized Lok Sabha Bulletin Part IBulletin-IIStatement of WorkSpecial Mentions (ZERO HOUR)Resume of WorkDigitized Resume of Work done by Lok Sabha QuestionsHomeQuestion ListStatus of notices of questionQuestions CalendarGrouping of Ministries - AlphabeticalOfficers in Min./Dept. Dealing with Parliamentary WorkQuestion SearchSupplementary Questions DebatesIntroductionSynopsisUncorrected DebateText of DebateDigitized DebatesConstituent Assembly DebatesWit And HumourDebate SearchHindi FontsDisclaimer Papers LaidPapers Laid on the Table of the House LegislationIntroduction(How Bill Becomes Act)Bills IntroducedBills PassedBills PendingBills AssentedBills LapsedBills WithdrawnBills NegativedBills Search Disclaimer CommitteesIntroductionChairpersonSummary of WorkCommittee Meetings ScheduleBills Referred to CommitteesReports PresentedDigitized ReportsPress ReleaseMembership SearchToday's Committee MeetingsCommittee Subject SelectedDepartment Related-RS Govt. AssurancesSANSAD TVIntranet
+
+
+
+
+
+HomeQuestion ListStatus of notices of questionQuestions CalendarGrouping of Ministries - AlphabeticalOfficers in Min./Dept. Dealing with Parliamentary WorkQuestion SearchSupplementary Questions
+
+
+
+
+
+
+
+
+
+
+
+Download as PDF
+
+
+
+
+Print
+
+
+
+
+
+
+
+
+
+
+
+
+PDF/WORD(Hindi)
+
+
+PDF/WORD
+
+
+
+
+                                    GOVERNMENT OF INDIA
+                                
+
+
+
+
+
+                                    MINISTRY OF
+                                    SCIENCE AND TECHNOLOGY
+
+
+
+
+
+
+                                    LOK SABHA
+                                
+
+
+
+
+
+UNSTARRED 
+
+
+                                    QUESTION NO:
+                                
+
+778
+
+
+
+
+
+
+                                    ANSWERED ON: 
+                                
+
+05.02.2021
+
+
+
+
+
+
+Third Phase of National Supercomputing Mission
+
+
+
+
+Gautham Sigamani Pon
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                    Gajanan Chandrakant Kirtikar
+                                                
+
+
+
+
+
+
+
+
+                                                    Dhanush M Kumar
+                                                
+
+
+
+
+
+
+
+
+                                                    Ganesan Selvam
+                                                
+
+
+
+
+
+
+
+
+                                                    C.N. Annadurai
+                                                
+
+
+
+
+
+
+
+
+
+
+
+
+                        Will the Minister of
+
+
+
+
+
+SCIENCE AND TECHNOLOGY
+
+
+                        be pleased to state:-
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                    (a)     whether the Government has announced the third phase of National Super Computing Mission and if so, the details thereof ;(b)     whether the Government has achieved the objective for which Phase I and II of National Super Computing Mission were launched and if so, the details thereof;(c)    whether the Government has conducted any study to assess the developments under the National Super Computing Mission in the last three years and if so, the details of the assessment and action taken thereon;(d)     whether the Government proposes to connect all academic and R&D Institutions across the country to the National Super Computing Grid and if so, the details thereof and the steps taken in this direction; and(e)     the other steps taken/being taken by the Government to make India one among the league of world class computing power stations?
+
+
+
+
+
+
+ANSWER
+
+
+
+
+                                                        (a)        Yes Sir. All three phases of Build approach of National Super Computing Mission (NSM) started concurrently for creating supercomputing infrastructure in the nation. These Phases are Phase-I: Assembled in India, Phase-II: Manufactured in India & Phase-III: Designed and manufactured in India.(b)       Yes Sir. Six Supercomputing systems of NSM Phase-I and Phase-2 have been installed out of which four are operational. Hardware Subsystems for nine more Supercomputing systems of Phase-II have been manufactured in India and delivered to the host institutes (end users). Thus a total number of 15 Supercomputers with an aggregate compute capacity of 21 Peta Flops are targeted to be deployed under NSM Phase-I and Phase-II, at identified end user host institutes. These systems will be connected via National Knowledge Network (NKN) as its backbone.(c)        NSM – Technical Advisory Committee (TAC) chaired by Dr V. K. Saraswat, Member, NITI Aayog and NSM – Executive Board (EB) co-chaired by Secretary, MeitY and Secretary, DST have been continuously monitoring and providing guidance with new ideas. The Executive Committee’s recommendations are implemented by Centre for Development of Advanced Computing (C-DAC) and Indian Institute of Science (IISc), the two implementing Institutes, in a regular manner. (d)       More than 75 academic and R&D institutions are to be connected to the National Supercomputing Grid. The Institutions have been identified. The Phase-1 supercomputing systems are being used by more than 900 academicians, scientists and engineers across the country and have executed more than 14 Lakhs supercomputing jobs till date.(e)       All Phase-II Supercomputing systems are manufactured in India, by local EMS manufacturers and are equipped with indigenous software stack. The Phase-III Supercomputing systems are to be designed by C-DAC and manufactured in India by local EMS manufacturers in line with AtmaNirbhar Bharat Mission. Various hardware and software subsystems of Supercomputer are designed and developed by C-DAC. PARAM Siddhi – AI, the State-of-the-Art large-scale HPC-AI scalable infrastructure of 210 AI Petaflops established under National Supercomputing Mission (NSM) at Centre for Development of Advanced Computing (C-DAC), Pune is currently the fastest and most powerful machine in the country and ranks 62nd among the Top Supercomputers of the world. This infrastructure will help accelerate experiments and outcomes for India-specific grand challenge problems in areas such as Health Care, Education, Energy, Cyber Security, Space, Automotive and Agriculture. It will catalyze partnerships with the Academia, Industry, MSMEs and Start-ups. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+HomeArchiveIndex to Select Questions (1984-1999)Ballot ListStatistical Statements Relating to QuestionsUploading of Questions - Status QueryProcedure for Sending Text of Questions & AnswersDemarcation of responsibilities in Govt. of IndiaBrochure on Statutory Corporations, Companies and Other Bodies in Which the Government of India have financial or controlling interestHighlights pertaining to questions of 17th Lok Sabha
+
+
+
+
+
+
+Contact Us 
+Disclaimer
+
+
+
+
+
+
+
+
+
+
+
+        Developed and Hosted by National Informatics Centre (NIC)
+
+Content on this website is published,
+            managed & maintained by Software Unit, Computer (HW & SW) Management. Branch,
+            Lok Sabha Secretariat
+
+
+
+
+
+HomeMembersBusinessQuestionsDebatesPapers Laid
+
+
+LegislationCommitteesSANSAD TVIntranetSecretariatPRIDE
+
+
+RecruitmentSC/ST ReservationConferenceParliament Library
+
+
+About ParliamentPhoto GalleryRelated LinksRTITendersFAQ
+
+
+SpeakerDy. SpeakerLeader of the HousePanel of ChairpersonsContact UsFeedback
+
+
+Council of MinistersPublications of MinistriesParliamentry ProceduresJournal of Parliamentary Information
+Visitor's Counter:113201211
+
+
+
+
+
+
+
+Copyright
+Privacy Policy
+Disclaimer
+Terms &
+                Conditions
+
+                Accessibility Statement
+Accessibility
+                Options
+Feedback
+Site Map
+
+
+
+
+
+
+

@@ -1,0 +1,350 @@
+
+
+
+
+	Questions : Lok Sabha
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Screen Reader Access
+Skip to Main Content
+Skip to Navigation
+
+
+
+Text Size
+
+                                A
+
+                                A
+A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+हिन्दी मे
+
+
+
+
+
+
+
+
+Parliament of India Lok Sabha House of the
+                        People
+
+
+
+
+
+
+* Special Characters not allowed
+
+
+
+
+
+
+
+
+
+
+
+
+India Time 
+
+
+Your Time 
+
+
+                        Tuesday,
+                        12 April 2022
+
+
+
+
+
+
+
+
+
+HomeMembersSitting MembersMembers Home PageMembers' PortalContact DetailsMembers SearchStatistical AnalysisAttendance of MembersHandbook Members Since 1952Digitized Who's WhoOthers BusinessProvisional CalendarList of BusinessPapers to be LaidList of Private Members' BusinessBulletin-IDigitized Lok Sabha Bulletin Part IBulletin-IIStatement of WorkSpecial Mentions (ZERO HOUR)Resume of WorkDigitized Resume of Work done by Lok Sabha QuestionsHomeQuestion ListStatus of notices of questionQuestions CalendarGrouping of Ministries - AlphabeticalOfficers in Min./Dept. Dealing with Parliamentary WorkQuestion SearchSupplementary Questions DebatesIntroductionSynopsisUncorrected DebateText of DebateDigitized DebatesConstituent Assembly DebatesWit And HumourDebate SearchHindi FontsDisclaimer Papers LaidPapers Laid on the Table of the House LegislationIntroduction(How Bill Becomes Act)Bills IntroducedBills PassedBills PendingBills AssentedBills LapsedBills WithdrawnBills NegativedBills Search Disclaimer CommitteesIntroductionChairpersonSummary of WorkCommittee Meetings ScheduleBills Referred to CommitteesReports PresentedDigitized ReportsPress ReleaseMembership SearchToday's Committee MeetingsCommittee Subject SelectedDepartment Related-RS Govt. AssurancesSANSAD TVIntranet
+
+
+
+
+
+HomeQuestion ListStatus of notices of questionQuestions CalendarGrouping of Ministries - AlphabeticalOfficers in Min./Dept. Dealing with Parliamentary WorkQuestion SearchSupplementary Questions
+
+
+
+
+
+
+
+
+
+
+
+Download as PDF
+
+
+
+
+Print
+
+
+
+
+
+
+
+
+
+
+
+
+PDF/WORD(Hindi)
+
+
+PDF/WORD
+
+
+
+
+                                    GOVERNMENT OF INDIA
+                                
+
+
+
+
+
+                                    MINISTRY OF
+                                    ELECTRONICS AND INFORMATION TECHNOLOGY
+
+
+
+
+
+
+                                    LOK SABHA
+                                
+
+
+
+
+
+UNSTARRED 
+
+
+                                    QUESTION NO:
+                                
+
+1234
+
+
+
+
+
+
+                                    ANSWERED ON: 
+                                
+
+09.02.2022
+
+
+
+
+
+
+Voice Recognition Feature
+
+
+
+
+ Dr. T. Sumathy (a) Thamizhachi Thangapandian
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        Will the Minister of
+
+
+
+
+
+ELECTRONICS AND INFORMATION TECHNOLOGY
+
+
+                        be pleased to state:-
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                    Will the Minister of ELECTRONICS AND INFORMATION TECHNOLOGY be pleased to State:(a)	the details of the growth in the voice-search feature in the country; (b)	the measures taken by the Government to address the privacy violations as a result of the increased use of voice assistants online; (c)	the details of the average data retention period of online voice assistants; (d)	whether the voice recognition feature has been misused for political campaigning; and (e)	if so, the details thereof?
+
+
+
+
+
+
+ANSWER
+
+
+
+
+                                                        In the digital space, constant innovation is the normal and it is expected that current search engine models and user interfaces to applications on the Internet will increasingly incorporate voice led UXs. This is becoming increasingly obvious with mobile devices and other consumer devices incorporating voice assistants/ voice UX/ voice navigation. As per the report titled ‘Voice based conversations: Hype or Reality’ that was published in 2019 by NASSCOM, an Indian IT Industry Association, the key insights are as follows: •	There is a shift from text-based conversational solutions towards voice-based solutions as they are more engaging.•	Voice based conversations are gaining popularity due to growing voice searches especially over smartphones, the largest usage channel (81%) for voice-based solutions•	There is larger adoption across direct-to-consumer applications and enterprise use cases are also emerging fast.•	There are notable investments in Indian conversational AI start-ups, allowing them to strengthen their tech capabilities, add more languages, and expand global footprints.•	Voice-based solutions are at a very nascent stage and require collaborations among stakeholders to come up with practical and scalable use cases.•	Voice could play a pivotal role in enabling e-governance and bringing next 300 million Indians to digital platform.The Government of India is cognizant of voice related technologies and are integrating these with government platforms for delivery of voice-enabled citizen centric services. (b): The Government is taking several measures to address the privacy issues including those resulting from online voice assistants online. Some of these measures are as follows:•	Electronic Consent Framework and its technology specification has been worked out and published by Ministry of Electronics and IT, Government of India. •	National Telecom M2M Roadmap published by Department of Telecommunications, Government of India has also factored-in privacy issues and mitigation mechanism. For machine to machine (M2M) services, in general data security and privacy issues have been dealt at several levels namely (1) M2M data within telecom operator’s domain, (2) M2M data within M2M service provider’s domain, (3) security at sensor / device level and (4) security at network level.•	Telecom Regulatory Authority of India has published recommendations on privacy, security, and ownership of the data in the Telecom Sector.•	The Personal Data Protection Bill and the non-personal data protection framework have been prepared. The Bill is under the consideration of the Parliament.  (c): As per the online available information, the average data retention period of online voice assistants may vary from zero day to the un-definite period till user asks for deletion. Most of the globally known virtual assistant service providers provide opt-in and opt-out services to users so that options remains in the hand of user to share voice recordings or remove it. (d)	and (e):  Just like any other technology, the use for social good as well as misuse of voice-assistant technology can happen. There has been reports of fake news and misuse of voice-over through social media. It is also observed that Generative Adversarial Network (GAN) can be used to create fake videos and audios. To tackle these, the law enforcement agencies take required action as soon as the matter is reported. Computer Emergency Response Team of India (CERT-In) also keeps track and issues preventive guidelines from time to time. Press Information Bureau of India (PIB) also checks fake news and runs a twitter handle @PIBFactCheck. It also has a portal called https://factcheck.pib.gov.in/, wherein, any citizen can report and check the authenticity of news.  Government of India organises several capacity buildings programmes in cybersecurity and cyber hygiene including Information Security Education and Awareness for mass sensitization on cyber issues.*******
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+HomeArchiveIndex to Select Questions (1984-1999)Ballot ListStatistical Statements Relating to QuestionsUploading of Questions - Status QueryProcedure for Sending Text of Questions & AnswersDemarcation of responsibilities in Govt. of IndiaBrochure on Statutory Corporations, Companies and Other Bodies in Which the Government of India have financial or controlling interestHighlights pertaining to questions of 17th Lok Sabha
+
+
+
+
+
+
+Contact Us 
+Disclaimer
+
+
+
+
+
+
+
+
+
+
+
+        Developed and Hosted by National Informatics Centre (NIC)
+
+Content on this website is published,
+            managed & maintained by Software Unit, Computer (HW & SW) Management. Branch,
+            Lok Sabha Secretariat
+
+
+
+
+
+HomeMembersBusinessQuestionsDebatesPapers Laid
+
+
+LegislationCommitteesSANSAD TVIntranetSecretariatPRIDE
+
+
+RecruitmentSC/ST ReservationConferenceParliament Library
+
+
+About ParliamentPhoto GalleryRelated LinksRTITendersFAQ
+
+
+SpeakerDy. SpeakerLeader of the HousePanel of ChairpersonsContact UsFeedback
+
+
+Council of MinistersPublications of MinistriesParliamentry ProceduresJournal of Parliamentary Information
+Visitor's Counter:113257142
+
+
+
+
+
+
+
+Copyright
+Privacy Policy
+Disclaimer
+Terms &
+                Conditions
+
+                Accessibility Statement
+Accessibility
+                Options
+Feedback
+Site Map
+
+
+
+
+
+
+

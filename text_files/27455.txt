@@ -1,0 +1,350 @@
+
+
+
+
+	Questions : Lok Sabha
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Screen Reader Access
+Skip to Main Content
+Skip to Navigation
+
+
+
+Text Size
+
+                                A
+
+                                A
+A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+हिन्दी मे
+
+
+
+
+
+
+
+
+Parliament of India Lok Sabha House of the
+                        People
+
+
+
+
+
+
+* Special Characters not allowed
+
+
+
+
+
+
+
+
+
+
+
+
+India Time 
+
+
+Your Time 
+
+
+                        Tuesday,
+                        12 April 2022
+
+
+
+
+
+
+
+
+
+HomeMembersSitting MembersMembers Home PageMembers' PortalContact DetailsMembers SearchStatistical AnalysisAttendance of MembersHandbook Members Since 1952Digitized Who's WhoOthers BusinessProvisional CalendarList of BusinessPapers to be LaidList of Private Members' BusinessBulletin-IDigitized Lok Sabha Bulletin Part IBulletin-IIStatement of WorkSpecial Mentions (ZERO HOUR)Resume of WorkDigitized Resume of Work done by Lok Sabha QuestionsHomeQuestion ListStatus of notices of questionQuestions CalendarGrouping of Ministries - AlphabeticalOfficers in Min./Dept. Dealing with Parliamentary WorkQuestion SearchSupplementary Questions DebatesIntroductionSynopsisUncorrected DebateText of DebateDigitized DebatesConstituent Assembly DebatesWit And HumourDebate SearchHindi FontsDisclaimer Papers LaidPapers Laid on the Table of the House LegislationIntroduction(How Bill Becomes Act)Bills IntroducedBills PassedBills PendingBills AssentedBills LapsedBills WithdrawnBills NegativedBills Search Disclaimer CommitteesIntroductionChairpersonSummary of WorkCommittee Meetings ScheduleBills Referred to CommitteesReports PresentedDigitized ReportsPress ReleaseMembership SearchToday's Committee MeetingsCommittee Subject SelectedDepartment Related-RS Govt. AssurancesSANSAD TVIntranet
+
+
+
+
+
+HomeQuestion ListStatus of notices of questionQuestions CalendarGrouping of Ministries - AlphabeticalOfficers in Min./Dept. Dealing with Parliamentary WorkQuestion SearchSupplementary Questions
+
+
+
+
+
+
+
+
+
+
+
+Download as PDF
+
+
+
+
+Print
+
+
+
+
+
+
+
+
+
+
+
+
+PDF/WORD(Hindi)
+
+
+PDF/WORD
+
+
+
+
+                                    GOVERNMENT OF INDIA
+                                
+
+
+
+
+
+                                    MINISTRY OF
+                                    EARTH SCIENCES
+
+
+
+
+
+
+                                    LOK SABHA
+                                
+
+
+
+
+
+UNSTARRED 
+
+
+                                    QUESTION NO:
+                                
+
+3038
+
+
+
+
+
+
+                                    ANSWERED ON: 
+                                
+
+06.08.2021
+
+
+
+
+
+
+Inaccurate Weather Forecast
+
+
+
+
+Harish Dwivedi
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        Will the Minister of
+
+
+
+
+
+EARTH SCIENCES
+
+
+                        be pleased to state:-
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                    (a)	whether it is true that some of the weather forecasts made by the meteorological department have proved false/inaccurate; (b)	if so, the details thereof and the reasons therefor; and (c)	the efforts being made by the Government to rectify the same?
+
+
+
+
+
+
+ANSWER
+
+
+
+
+                                                        THE MINISTER OF STATE (INDEPENDENT CHARGE) FORMINISTRY OF SCIENCE AND TECHNOLOGYAND EARTH SCIENCES(DR. JITENDRA SINGH)(a)-(c) It is not true that the predictions of India Meteorological Department (IMD) for monsoon are not up to the mark.  IMD issues forecasts at different time and spatial scales. Real time forecasts and warnings are issued for spatial scales ranging from location to block, district, meteorological subdivisions and homogeneous regions and temporal scales of a few hours (nowcast), 3 days (short range forecast), 4-7 days (medium range forecast) 1-4 weeks (extended range forecast) and one month to a season (long range forecast). IMD follows a seamless forecasting strategy during monsoon season. The long-range forecasts (for the whole season) issued are being followed with extended range forecast of rainfall over Meteorological Sub-divisions issued every Thursday with a validity period of four weeks. To follow up the extended range forecast, IMD issues short to medium range forecast and warnings daily valid up to next five days with an outlook for subsequent two days. It is issued for 36 meteorological sub-divisions from IMD HQ and updated four times a day. The short to medium range forecast and warning on monsoon rainfall at district and station level is issued by state level Meteorological Centres (MCs)/Regional Meteorological Centres (RMCs) with a validity of next five days. The short to medium range forecast is followed by very short range forecast of severe weather up to three hours (nowcast) for all the districts and 1085 cities and towns. These nowcasts are updated every three hours. The short to medium range forecasts and nowcasts are impact based forecast indicating the likely impact of the weather in different sectors and required response actions. These high-resolution forecasts (described in the next sections) are very useful in the early warning and management of risks related to severe weather including tropical cyclones, extreme rainfall events, riverine and urban flooding, flash floods, wet spells and dry spells, heat and cold spells etc. and thereby reducing the risk of potential disasters and loss of lives. During the past few years, IMD has been continuously improving weather prediction services in terms of accuracy, lead time and associated impact. There have been significant improvements in forecasting accuracy with respect to severe weather events including tropical cyclones, heavy rainfall, fog, heat wave, cold wave, thunderstorm. In general, there has been 20 to 40 percent improvement in forecast accuracy of severe weather events in recent five years (2016-2020) as compared to previous five years (2011-15). Also there is vast improvement in the forecast skill for heavy rainfall during monsoon season in recent times. The forecast skill in heavy rainfall forecasts during 2020 as compared to that for the period of 2002-2019 is shown in Fig.-1.  From the Figure it is evident that the percentage of improvements are 22%, 54%, 56% and 51% with respect to False Alarm Rate (FAR), Missing Rate (MR), Probability of Detection (PoD) and Critical Success Index (CCI) respectively during 2020 as compared to the skill of forecast for the period of 2002-2019.However, weather prediction using the numerical model guidance may fail very occasionally. Efforts are continuously made to enhance the level of efficiency of the forecasting systems and to improve skill of weather forecast. Recognizing the need for improving monsoon prediction capabilities in the country further in a systematic and timely manner, MoES had launched the Monsoon Mission. The first phase of the mission was implemented during 2012-2017 and the second phase which started in 2017 is underway. Through this mission, India also augmented its capability of High-Performance Computing (HPC), which is close to 10 petaflops now which has now become backbone of the monsoon research and operational services in the country.  The Monsoon Mission has helped in the significant improvement of monsoon forecasts in all time scales, right from short-range to seasonal. India is now proud of having one of the best weather and climate prediction systems for generating real time forecasts and warnings. The second phase of the mission also focuses on applications and prediction of extreme weather. IMD has implemented a new strategy for issuing monthly and seasonal operational forecasts for the southwest monsoon rainfall over the country by modifying the existing two stage forecasting strategy.  The new strategy uses the existing statistical forecasting system to generate these forecasts along with a newly developed Multi-Model Ensemble (MME) forecasting system based on coupled global climate models (CGCMs) from different global climate prediction and research centres including IMD’s Monsoon Mission CFS (MMCFS) model. The monthly probabilistic forecast for each of the monsoon months will also be issued at the end of the previous month based on MME approach. The spatial distribution of probabilistic forecasts for tercile categories (above normal, normal and below normal) for the seasonal rainfall (June to September) over the country was also issued for the first time in the history of the operational seasonal forecasting in the country (Associated press releases are attached).  	      For advance broadcasting / dissemination of weather forecasts and warnings to enable  early actions against the impending disastrous weather by the public including farmers, fishermen etc., IMD is in a continuous process of improvement through implementation of latest tools and technology. At present the forecasts and warnings are broadcasted or disseminated to users including disaster managers by e-mail on regular basis. In addition to this, WhatsApp groups are created including disaster managers and IMD officials through which these forecasts & warnings are disseminated. The forecasts & warnings are uploaded in social media & website for reference by all concerned. The nowcasts related to Severe Weather are also disseminated through SMS to the registered users.In addition to this, daily Press Releases are issued by IMD during monsoon season, 2021 and the same is also disseminated by all the platforms mentioned above. IMD has introduced daily/weekly video capsules in Hindi, English and local languages for dissemination to public through YouTube and other social media.IMD has taken various initiatives in recent years for improvement in dissemination of weather forecast and warning services based on latest tools and technologies. In 2020, IMD has launched seven of its services (Current Weather, Nowcast, City Forecast, Rainfall Information, Tourism Forecast, Warnings and Cyclone) with ‘UMANG’ mobile App for use by public. Moreover, in 2020, India Meteorological Department had developed mobile App ‘MAUSAM’ for weather forecasting, ‘Meghdoot’ for Agromet advisory dissemination and ‘Damini’ for lightning alert, for public use.Also, forecasts are verified regularly and the accuracy/skill of the forecasts are calculated and made available in published reports through website.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+HomeArchiveIndex to Select Questions (1984-1999)Ballot ListStatistical Statements Relating to QuestionsUploading of Questions - Status QueryProcedure for Sending Text of Questions & AnswersDemarcation of responsibilities in Govt. of IndiaBrochure on Statutory Corporations, Companies and Other Bodies in Which the Government of India have financial or controlling interestHighlights pertaining to questions of 17th Lok Sabha
+
+
+
+
+
+
+Contact Us 
+Disclaimer
+
+
+
+
+
+
+
+
+
+
+
+        Developed and Hosted by National Informatics Centre (NIC)
+
+Content on this website is published,
+            managed & maintained by Software Unit, Computer (HW & SW) Management. Branch,
+            Lok Sabha Secretariat
+
+
+
+
+
+HomeMembersBusinessQuestionsDebatesPapers Laid
+
+
+LegislationCommitteesSANSAD TVIntranetSecretariatPRIDE
+
+
+RecruitmentSC/ST ReservationConferenceParliament Library
+
+
+About ParliamentPhoto GalleryRelated LinksRTITendersFAQ
+
+
+SpeakerDy. SpeakerLeader of the HousePanel of ChairpersonsContact UsFeedback
+
+
+Council of MinistersPublications of MinistriesParliamentry ProceduresJournal of Parliamentary Information
+Visitor's Counter:113220732
+
+
+
+
+
+
+
+Copyright
+Privacy Policy
+Disclaimer
+Terms &
+                Conditions
+
+                Accessibility Statement
+Accessibility
+                Options
+Feedback
+Site Map
+
+
+
+
+
+
+

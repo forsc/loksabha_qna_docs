@@ -1,0 +1,350 @@
+
+
+
+
+	Questions : Lok Sabha
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Screen Reader Access
+Skip to Main Content
+Skip to Navigation
+
+
+
+Text Size
+
+                                A
+
+                                A
+A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+हिन्दी मे
+
+
+
+
+
+
+
+
+Parliament of India Lok Sabha House of the
+                        People
+
+
+
+
+
+
+* Special Characters not allowed
+
+
+
+
+
+
+
+
+
+
+
+
+India Time 
+
+
+Your Time 
+
+
+                        Sunday,
+                        10 April 2022
+
+
+
+
+
+
+
+
+
+HomeMembersSitting MembersMembers Home PageMembers' PortalContact DetailsMembers SearchStatistical AnalysisAttendance of MembersHandbook Members Since 1952Digitized Who's WhoOthers BusinessProvisional CalendarList of BusinessPapers to be LaidList of Private Members' BusinessBulletin-IDigitized Lok Sabha Bulletin Part IBulletin-IIStatement of WorkSpecial Mentions (ZERO HOUR)Resume of WorkDigitized Resume of Work done by Lok Sabha QuestionsHomeQuestion ListStatus of notices of questionQuestions CalendarGrouping of Ministries - AlphabeticalOfficers in Min./Dept. Dealing with Parliamentary WorkQuestion SearchSupplementary Questions DebatesIntroductionSynopsisUncorrected DebateText of DebateDigitized DebatesConstituent Assembly DebatesWit And HumourDebate SearchHindi FontsDisclaimer Papers LaidPapers Laid on the Table of the House LegislationIntroduction(How Bill Becomes Act)Bills IntroducedBills PassedBills PendingBills AssentedBills LapsedBills WithdrawnBills NegativedBills Search Disclaimer CommitteesIntroductionChairpersonSummary of WorkCommittee Meetings ScheduleBills Referred to CommitteesReports PresentedDigitized ReportsPress ReleaseMembership SearchToday's Committee MeetingsCommittee Subject SelectedDepartment Related-RS Govt. AssurancesSANSAD TVIntranet
+
+
+
+
+
+HomeQuestion ListStatus of notices of questionQuestions CalendarGrouping of Ministries - AlphabeticalOfficers in Min./Dept. Dealing with Parliamentary WorkQuestion SearchSupplementary Questions
+
+
+
+
+
+
+
+
+
+
+
+Download as PDF
+
+
+
+
+Print
+
+
+
+
+
+
+
+
+
+
+
+
+PDF/WORD(Hindi)
+
+
+PDF/WORD
+
+
+
+
+                                    GOVERNMENT OF INDIA
+                                
+
+
+
+
+
+                                    MINISTRY OF
+                                    ELECTRONICS AND INFORMATION TECHNOLOGY
+
+
+
+
+
+
+                                    LOK SABHA
+                                
+
+
+
+
+
+UNSTARRED 
+
+
+                                    QUESTION NO:
+                                
+
+1489
+
+
+
+
+
+
+                                    ANSWERED ON: 
+                                
+
+27.11.2019
+
+
+
+
+
+
+Accessibility of Information Technology
+
+
+
+
+Vijay Baghel
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        Will the Minister of
+
+
+
+
+
+ELECTRONICS AND INFORMATION TECHNOLOGY
+
+
+                        be pleased to state:-
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                    Will the Minister of ELECTRONICS & INFORMATION TECHNOLOGY be pleased to state: -(a)	the details and features of the projects implemented/being implemented by the Government across the country to make Information Technology (IT) more accessible;(b)	whether the Government has made any efforts to make IT accessible to the people living in rural, hilly and far flung areas and if so, the details thereof especially with regard to the State of Chhattisgarh; and(c)	whether Government proposes to take any step for the decentralization of the IT in the country and if so, the details thereof?
+
+
+
+
+
+
+ANSWER
+
+
+
+
+                                                        (a)	and  (b):  The Ministry of Electronics and Information Technology (MeitY), Government of India has initiated the ‘Digital India’ programme with the vision to transform India into a digitally empowered society and knowledge economy. Digital India is an umbrella programme that covers multiple projects of various Central Ministries/Departments and States/UTs. The Digital India programme is centred on three key vision areas namely Digital Infrastructure as a Core Utility to Every Citizen, Governance and Services on Demand and Digital Empowerment of Citizens. Some of the key initiatives taken by the Government to make Information Technology accessible to the people residing in rural, hilly and remote areas including Chhattisgarh are as follows: •	Common Services Centre (CSC): MeitY has initiated a project namely “Common Services Centre (CSC) 2.0” in August, 2015 under Digital India Programme, which envisages setting up of at least one CSC at Gram Panchayat (GP) to cover all the 2.5 lakh GPs across the country. Common Services Centres are internet enabled centres operated by local entrepreneur, called Village Level Entrepreneurs (VLEs) and provide eServices to rural citizens. Over 350 digital services are being offered by these CSCs. The number of functional CSCs (Urban & Rural) across the Country is 3.64 Lakh, out of which 2.62 Lakh CSCs are functional at Gram Panchayat level.•	Digital Village: MeitY has also initiated the “Digital Village Pilot Project” in October, 2018.          700 Gram Panchayats(GPs)/ villages with atleast one Gram Panchayat/village per District per State/UT are being covered across the country. The digital services being offered are Digital Health Services (Tele-Health & Tele-Veterinary consultation), Education Service (NIELIT courses on BCC/CCC, Tally), Financial Inclusion Awareness Programme, Skill Development, Solar panel powered street lights including Government to Citizens Services (G2C), Business to Citizen (B2C) Services.  The project is covering atleast one Gram Panchayat/Village from        27 district of the Chhattisgarh for implementation under Digital Village Pilot Project.•	BharatNet: BharatNet is an ambitious initiative to trigger a broadband revolution in rural areas. This project is being implemented by Department of Telecommunications. BharatNet aims to connect all the 2,50,000 Gram Panchayats in the country and provide 100 Mbps connectivity to all gram panchayats (GPs). So far, 3,80,988 Kms optical fiber has been laid connecting 1,40,668 Gram Panchayats. 1,28,376 Gram Panchayats are ready for service.•	Unified Mobile Application for New-Age Governance (UMANG): Unified Mobile Application for New-Age Governance (UMANG) has been developed as a single mobile platform to deliver major Government services with Core Platform integrated with Aadhaar, DigiLocker, PayGov, etc. Citizens can access pan India Government services from the Central Government, State Governments, local bodies and their agencies and some important utility services from corporate. 490 services from 104 departments and 21 States are already available on UMANG platform. •	e-District Mission Mode Project (MMP): e-District project has been implemented at district and sub-district levels of all States/UTs, benefitting all citizens by delivering various high volume e-Services such as Certificates (Birth, Caste, Death, Income and Local Resident), Pension (Old Age, Disability and Widow), Electoral, Consumer Court, Revenue Court, Land Record and services of various departments such as Commercial Tax, Agriculture, Labour, Employment Training & Skill Development etc. e-District services have been launched in 721 districts across all States/ UTs.(c):   National Informatics Centre (NIC), an attached office of Ministry of Electronics & Information Technology (MeitY), has its State Centres at State level and District level all over India. These State and District Centres continuously guide and assist the Government Officers in ICT applications. NIC also provides various citizen centric services through its products and platforms across the country.   ******* 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+HomeArchiveIndex to Select Questions (1984-1999)Ballot ListStatistical Statements Relating to QuestionsUploading of Questions - Status QueryProcedure for Sending Text of Questions & AnswersDemarcation of responsibilities in Govt. of IndiaBrochure on Statutory Corporations, Companies and Other Bodies in Which the Government of India have financial or controlling interestHighlights pertaining to questions of 17th Lok Sabha
+
+
+
+
+
+
+Contact Us 
+Disclaimer
+
+
+
+
+
+
+
+
+
+
+
+        Developed and Hosted by National Informatics Centre (NIC)
+
+Content on this website is published,
+            managed & maintained by Software Unit, Computer (HW & SW) Management. Branch,
+            Lok Sabha Secretariat
+
+
+
+
+
+HomeMembersBusinessQuestionsDebatesPapers Laid
+
+
+LegislationCommitteesSANSAD TVIntranetSecretariatPRIDE
+
+
+RecruitmentSC/ST ReservationConferenceParliament Library
+
+
+About ParliamentPhoto GalleryRelated LinksRTITendersFAQ
+
+
+SpeakerDy. SpeakerLeader of the HousePanel of ChairpersonsContact UsFeedback
+
+
+Council of MinistersPublications of MinistriesParliamentry ProceduresJournal of Parliamentary Information
+Visitor's Counter:113127846
+
+
+
+
+
+
+
+Copyright
+Privacy Policy
+Disclaimer
+Terms &
+                Conditions
+
+                Accessibility Statement
+Accessibility
+                Options
+Feedback
+Site Map
+
+
+
+
+
+
+

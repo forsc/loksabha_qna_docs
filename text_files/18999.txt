@@ -1,0 +1,350 @@
+
+
+
+
+	Questions : Lok Sabha
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Screen Reader Access
+Skip to Main Content
+Skip to Navigation
+
+
+
+Text Size
+
+                                A
+
+                                A
+A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+हिन्दी मे
+
+
+
+
+
+
+
+
+Parliament of India Lok Sabha House of the
+                        People
+
+
+
+
+
+
+* Special Characters not allowed
+
+
+
+
+
+
+
+
+
+
+
+
+India Time 
+
+
+Your Time 
+
+
+                        Monday,
+                        11 April 2022
+
+
+
+
+
+
+
+
+
+HomeMembersSitting MembersMembers Home PageMembers' PortalContact DetailsMembers SearchStatistical AnalysisAttendance of MembersHandbook Members Since 1952Digitized Who's WhoOthers BusinessProvisional CalendarList of BusinessPapers to be LaidList of Private Members' BusinessBulletin-IDigitized Lok Sabha Bulletin Part IBulletin-IIStatement of WorkSpecial Mentions (ZERO HOUR)Resume of WorkDigitized Resume of Work done by Lok Sabha QuestionsHomeQuestion ListStatus of notices of questionQuestions CalendarGrouping of Ministries - AlphabeticalOfficers in Min./Dept. Dealing with Parliamentary WorkQuestion SearchSupplementary Questions DebatesIntroductionSynopsisUncorrected DebateText of DebateDigitized DebatesConstituent Assembly DebatesWit And HumourDebate SearchHindi FontsDisclaimer Papers LaidPapers Laid on the Table of the House LegislationIntroduction(How Bill Becomes Act)Bills IntroducedBills PassedBills PendingBills AssentedBills LapsedBills WithdrawnBills NegativedBills Search Disclaimer CommitteesIntroductionChairpersonSummary of WorkCommittee Meetings ScheduleBills Referred to CommitteesReports PresentedDigitized ReportsPress ReleaseMembership SearchToday's Committee MeetingsCommittee Subject SelectedDepartment Related-RS Govt. AssurancesSANSAD TVIntranet
+
+
+
+
+
+HomeQuestion ListStatus of notices of questionQuestions CalendarGrouping of Ministries - AlphabeticalOfficers in Min./Dept. Dealing with Parliamentary WorkQuestion SearchSupplementary Questions
+
+
+
+
+
+
+
+
+
+
+
+Download as PDF
+
+
+
+
+Print
+
+
+
+
+
+
+
+
+
+
+
+
+PDF/WORD(Hindi)
+
+
+PDF/WORD
+
+
+
+
+                                    GOVERNMENT OF INDIA
+                                
+
+
+
+
+
+                                    MINISTRY OF
+                                    LAW AND JUSTICE
+
+
+
+
+
+
+                                    LOK SABHA
+                                
+
+
+
+
+
+UNSTARRED 
+
+
+                                    QUESTION NO:
+                                
+
+381
+
+
+
+
+
+
+                                    ANSWERED ON: 
+                                
+
+03.02.2021
+
+
+
+
+
+
+Virtual Court
+
+
+
+
+Manish Tewari
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        Will the Minister of
+
+
+
+
+
+LAW AND JUSTICE
+
+
+                        be pleased to state:-
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                    (a)	whether District and Subordinate Courts lack basic infrastructure and are experiencing difficulties in adapting to Virtual Court system and if so, the details thereof;(b)	the number of lower and subordinate courts with WAN connectivity and video conferencing facilities;(c)	whether Courts are moving towards virtual courts and is there need for electronic indigenous software system for secured transmission;(d)	if so, whether the Courts or the Counsel appearing for the parties have any option for accessing these systems;(e)	if not, whether the Government has any plans to develop indigenous software systems to ensure secured transmission of the Virtual court proceedings?
+
+
+
+
+
+
+ANSWER
+
+
+
+
+                                                        The MINISTER OF LAW AND JUSTICE, COMMUNICATIONS AND ELECTRONICS & INFORMATION TECHNOLOGY(SHRI RAVI SHANKAR PRASAD)(a) & (b) : One video conference equipment each has been provided to all Court Complexes including Taluk Level Court Complexes in rural areas under the Phase II of the e-Courts Project for virtual hearings.  To further augment the Video Conferencing (VC) infrastructure, the eCommittee of the Supreme Court has approved VC equipment to be provided to 14,443 court rooms in these court complexes for which funds to the tune of Rs.28.88 crore has been released ( Details at Annexure-I).  A sum of Rs. 5.012 crore has also been released for setting up of 2506 VC Cabin in the Court Complexes besides releasing a sum of Rs. Rs. 7.60 crore to install  Document Visualisers.  The District and Subordinate Courts have heard 45.73 lakh cases over VC between  24.03.2020 to 31.12.2020. The Wide Area Network (WAN) Project under eCourts project is aimed at connecting all District and Subordinate court complexes, spread across the country using various technologies like Optical Fibre Cable (OFC), Radio Frequency (RF), Very Small Aperture Terminal (VSAT) etc. So far, 2933 sites have been connected out of total 2992 sites with 10 Mbps to 100 Mbps bandwidth speed.   (c) to (e): Under eCourts Mission Mode Project Phase-II  computerization of 18,735 District & Subordinate Courts has been completed.  To provide end to end digital solution, Case Information System using free and open source software automates the entire process of court registry.  Several services have been provided to litigants, lawyers and other stakeholders such as details of case registration, cause list, case status, daily orders & final judgments through eCourts web portal, Judicial Service Centres (JSCs) ,eCourts Mobile App, email service, SMS push & SMS pull services and touch screen based Information Kiosks. The National Judicial Data Grid (NJDG) for District & Subordinate Courts has been created as an online platform which provides information relating to judicial proceedings/decisions of all High Courts and District /subordinate courts of the country. Currently, all stakeholders including Judicial Officers and lawyers can access case status information in respect of over 17.90 crore pending and disposed cases and more than 13.36 crore orders / judgments pertaining to these computerized courts. Video Conferencing facility has been enabled between 3240 court complexes & 1272 corresponding jails.  A centralized and upgraded cloud based Video-Conferencing infrastructure with latest features including robust data security and facility to support a larger number of concurrent users has been approved by the eCommittee of the Supreme Court of India, which can be usable for district and subordinate courts also.   Under the ‘AtmaNirbhar Bharat’ initiative of Govt. of India, Ministry of Electronic and Information Technology has evaluated and shortlisted indigenously developed VC solution which is currently under testing. ----ANNEXURE-IFund release for VC equipment for Court Rooms	High Court	Number of	Number of VC	Number of	Total				equipment	additional	Estimated	S.No		Functioning							were already	equipment to	Cost			Court Rooms							provided	be provided	(In Rs. Lakh)	A	B	C	D	E	F=Ex20000	1	Allahabad	2438	150	2288	457.6	2	Andhra Pradesh	550	212	338	67.6	3	Bombay	2178	486	1692	338.4	4	Calcutta	840	88	752	150.4	5	Chhattisgarh	395	90	305	61	6	Delhi	479	6	473	94.6	7	Gauhati	442	194	248	49.6	8	Gujarat	1078	327	751	150.2	9	Himachal Pradesh	135	43	92	18.4	10	Jammu & Kashmir	218	86	132	26.4	11	Jharkhand	417	28	389	77.8	12	Karnataka	1029	200	829	165.8	13	Kerala	508	159	349	69.8	14	Madhya Pradesh	1274	203	1071	214.2	15	Madras	1169	267	902	180.4	16	Manipur	38	37	1	0.2	17	Meghalaya	36	64	0	0	18	Orissa	688	141	547	109.4	19	Patna	1046	76	970	194	20	Punjab & Haryana	972	118	854	170.8	21	Rajasthan	1239	238	1001	200.2	22	Sikkim	21	17	4	0.8	23	Telangana	440	129	311	62.2	24	Tripura	78	66	12	2.4	25	Uttarakhand	184	52	132	26.4		Total	17892	3477	14443	2888.6	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+HomeArchiveIndex to Select Questions (1984-1999)Ballot ListStatistical Statements Relating to QuestionsUploading of Questions - Status QueryProcedure for Sending Text of Questions & AnswersDemarcation of responsibilities in Govt. of IndiaBrochure on Statutory Corporations, Companies and Other Bodies in Which the Government of India have financial or controlling interestHighlights pertaining to questions of 17th Lok Sabha
+
+
+
+
+
+
+Contact Us 
+Disclaimer
+
+
+
+
+
+
+
+
+
+
+
+        Developed and Hosted by National Informatics Centre (NIC)
+
+Content on this website is published,
+            managed & maintained by Software Unit, Computer (HW & SW) Management. Branch,
+            Lok Sabha Secretariat
+
+
+
+
+
+HomeMembersBusinessQuestionsDebatesPapers Laid
+
+
+LegislationCommitteesSANSAD TVIntranetSecretariatPRIDE
+
+
+RecruitmentSC/ST ReservationConferenceParliament Library
+
+
+About ParliamentPhoto GalleryRelated LinksRTITendersFAQ
+
+
+SpeakerDy. SpeakerLeader of the HousePanel of ChairpersonsContact UsFeedback
+
+
+Council of MinistersPublications of MinistriesParliamentry ProceduresJournal of Parliamentary Information
+Visitor's Counter:113199742
+
+
+
+
+
+
+
+Copyright
+Privacy Policy
+Disclaimer
+Terms &
+                Conditions
+
+                Accessibility Statement
+Accessibility
+                Options
+Feedback
+Site Map
+
+
+
+
+
+
+

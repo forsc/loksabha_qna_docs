@@ -1,0 +1,393 @@
+
+
+
+
+	Questions : Lok Sabha
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Screen Reader Access
+Skip to Main Content
+Skip to Navigation
+
+
+
+Text Size
+
+                                A
+
+                                A
+A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+हिन्दी मे
+
+
+
+
+
+
+
+
+Parliament of India Lok Sabha House of the
+                        People
+
+
+
+
+
+
+* Special Characters not allowed
+
+
+
+
+
+
+
+
+
+
+
+
+India Time 
+
+
+Your Time 
+
+
+                        Sunday,
+                        10 April 2022
+
+
+
+
+
+
+
+
+
+HomeMembersSitting MembersMembers Home PageMembers' PortalContact DetailsMembers SearchStatistical AnalysisAttendance of MembersHandbook Members Since 1952Digitized Who's WhoOthers BusinessProvisional CalendarList of BusinessPapers to be LaidList of Private Members' BusinessBulletin-IDigitized Lok Sabha Bulletin Part IBulletin-IIStatement of WorkSpecial Mentions (ZERO HOUR)Resume of WorkDigitized Resume of Work done by Lok Sabha QuestionsHomeQuestion ListStatus of notices of questionQuestions CalendarGrouping of Ministries - AlphabeticalOfficers in Min./Dept. Dealing with Parliamentary WorkQuestion SearchSupplementary Questions DebatesIntroductionSynopsisUncorrected DebateText of DebateDigitized DebatesConstituent Assembly DebatesWit And HumourDebate SearchHindi FontsDisclaimer Papers LaidPapers Laid on the Table of the House LegislationIntroduction(How Bill Becomes Act)Bills IntroducedBills PassedBills PendingBills AssentedBills LapsedBills WithdrawnBills NegativedBills Search Disclaimer CommitteesIntroductionChairpersonSummary of WorkCommittee Meetings ScheduleBills Referred to CommitteesReports PresentedDigitized ReportsPress ReleaseMembership SearchToday's Committee MeetingsCommittee Subject SelectedDepartment Related-RS Govt. AssurancesSANSAD TVIntranet
+
+
+
+
+
+HomeQuestion ListStatus of notices of questionQuestions CalendarGrouping of Ministries - AlphabeticalOfficers in Min./Dept. Dealing with Parliamentary WorkQuestion SearchSupplementary Questions
+
+
+
+
+
+
+
+
+
+
+
+Download as PDF
+
+
+
+
+Print
+
+
+
+
+
+
+
+
+
+
+
+
+PDF/WORD(Hindi)
+
+
+PDF/WORD
+
+
+
+
+                                    GOVERNMENT OF INDIA
+                                
+
+
+
+
+
+                                    MINISTRY OF
+                                    COMMUNICATIONS
+
+
+
+
+
+
+                                    LOK SABHA
+                                
+
+
+
+
+
+UNSTARRED 
+
+
+                                    QUESTION NO:
+                                
+
+511
+
+
+
+
+
+
+                                    ANSWERED ON: 
+                                
+
+20.11.2019
+
+
+
+
+
+
+Penalties for Call Drops
+
+
+
+
+Vishnu Dutt Sharma
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                    Girish Bhalchandra Bapat
+                                                
+
+
+
+
+
+
+
+
+                                                     Dharambir Singh
+                                                
+
+
+
+
+
+
+
+
+                                                    Pushpendra Singh Chandel
+                                                
+
+
+
+
+
+
+
+
+                                                    Shardaben Anilbhai Patel
+                                                
+
+
+
+
+
+
+
+
+
+
+
+
+                        Will the Minister of
+
+
+
+
+
+COMMUNICATIONS
+
+
+                        be pleased to state:-
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                    (a) 	whether the call drop problem is taking place in networks of all the Telecom Service Providers (TSPs) across the country including Haryana and Delhi for the past several years and if so, the details thereof and the reasons therefor along with the steps taken by the Government in this regard; (b) 	whether the Government is contemplating the review of telecom policy to check call drops and if so, the details thereof; (c) 	whether call drop norms have currently been violated by various telecom companies and if so, the details thereof and the action taken by the Government in this regard; (d) 	whether there is a provision to compensate the mobile subscribers with regard to call drops and if so, the State/ UT-wise details of the compensation paid by the companies as on date; (e) 	whether the Government has imposed any penalty on telecom companies for call drop and if so, the details thereof, telecom company-wise; and (f) 	the details of telecom providers who paid the said penalty imposed on them along with the details of payments made?
+
+
+
+
+
+
+ANSWER
+
+
+
+
+                                                        MINISTER OF COMMUNICATIONS, LAW & JUSTICE AND ELECTRONICS AND INFORMATION TECHNOLOGY(SHRI RAVI SHANKAR PRASAD)(a) to (c)	The call drop in a mobile network can happen due to many reasons including characteristics of radio propagation for wireless communications, non-availability of sites due to acquisition problems, sealing of sites by local authorities due to fear of Electro-Magnetic Fields (EMF) from mobile radiations etc. Therefore, the occurrence of call drops is found to be common in mobile networks across the world with varying degree of occurrences. Telecom Service Providers (TSPs) in India are required to ensure that the call-drop rate in their mobile networks remain within the benchmarks laid down by Telecom Regulatory Authority of India (TRAI). TRAI has issued “The Standards for Quality of Service for Basic (Wireline) and Cellular Mobile Telephone Services (Fifth Amendment) Regulations, 2017” effective from 1st October 2017. These Regulations have prescribed two revised parameters for assessing call drop in mobile network, viz. Call drop-rate Spatial distribution measure (benchmark = 2%) implies that at-least 90% of Cells in the network should perform better than specified 2% benchmark on at-least 90% of days. Similarly, another new parameter, Call drop-rate Temporal distribution measure (benchmark = 3%) will give confidence that on at-least 90% of Days, network performed better than specified 3% benchmark for at-least 97% of the Cells.  Revised approach for assessing Call drop-rate gives better insight into the network performance of service providers and help to highlight the specific areas and specific days when network performance was excellent or good or poor. The performance on these parameters is monitored quarterly through Performance Monitoring Reports (PMR) submitted by service providers for the service area as a whole. As per the PMR for Cellular Mobile Telephone Services for the quarter ending September 2019 of TRAI, all TSPs are complying to Drop Call Rate (DCR) benchmarks despite rapid increase in traffic volume and more stringent benchmarks, except for the parameter “Network QoS DCR Spatial distribution measure or DCR Network_QSD(90,90) (benchmark = 2%)” where M/s BSNL is not meeting in one LSA (West Bengal only) and for the parameter “Network QoS DCR temporal distribution measure or DCR Network_QTD(97,90) (benchmark = 3%)”, M/s BSNL is not meeting in one LSA (West Bengal only), M/s VIL(Idea) & VIL(Vodafone) in one LSA each (Jammu & Kashmir only). Wherever the benchmark is not met, the explanation of the Service Providers is called for and after considering the explanation submitted by service providers in this regard, TRAI impose financial disincentives for non-compliance with the benchmark.In order to address call drops, following steps have been taken:	(i) 	DoT has taken several policy initiatives to facilitate infrastructure growth for delivery of quality services. These include permitting trading/sharing/ liberalisation of spectrum, permitting passive & active infrastructure sharing, notification of Right of Way Rules 2016, making available government land/buildings for installations of towers etc.	(ii)	About 15.66 lakh additional Base Transceiver Stations (BTSs) for 2G/3G/4G-LTE services have been added by TSPs since March 2014 taking the total BTS count in the country to about 22.15 lakh in September 2019.	(iii)	In order to obtain direct feedback from subscribers, DoT has launched an Interactive Voice Response System (IVRS) wherein, around 3.23 Crore subscribers have been individually contacted since December 2016, out of which 45.18 lakh subscribers have participated in the survey. The feedback is shared with the TSPs every week for taking corrective actions in a time bound manner. As a result, about 1.14 lakh individual cases of call drops have been resolved so far.(d)	Vide Telecom Consumers Protection (9th Amendment) Regulation, 2015 dated 16th October 2015, TRAI had mandated compensation to consumers of mobile services at the rate of Rs. 1/- per drop call, subject to a maximum of Rs. 3/- per day per subscriber by the concerned Telecom Service Providers (TSPs). However, the Hon’ble Supreme Court has set aside the regulation vide Order dated 11th May, 2016.(e) to (f)	With effect from 1st October 2017, TRAI has also introduced a revised graded Financial Disincentives (FD) structure for DCR parameters, based on the extent to which a TSP’s performance deviates from the specified DCR benchmark. Details of financial disincentives imposed are at Annexure-I.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+HomeArchiveIndex to Select Questions (1984-1999)Ballot ListStatistical Statements Relating to QuestionsUploading of Questions - Status QueryProcedure for Sending Text of Questions & AnswersDemarcation of responsibilities in Govt. of IndiaBrochure on Statutory Corporations, Companies and Other Bodies in Which the Government of India have financial or controlling interestHighlights pertaining to questions of 17th Lok Sabha
+
+
+
+
+
+
+Contact Us 
+Disclaimer
+
+
+
+
+
+
+
+
+
+
+
+        Developed and Hosted by National Informatics Centre (NIC)
+
+Content on this website is published,
+            managed & maintained by Software Unit, Computer (HW & SW) Management. Branch,
+            Lok Sabha Secretariat
+
+
+
+
+
+HomeMembersBusinessQuestionsDebatesPapers Laid
+
+
+LegislationCommitteesSANSAD TVIntranetSecretariatPRIDE
+
+
+RecruitmentSC/ST ReservationConferenceParliament Library
+
+
+About ParliamentPhoto GalleryRelated LinksRTITendersFAQ
+
+
+SpeakerDy. SpeakerLeader of the HousePanel of ChairpersonsContact UsFeedback
+
+
+Council of MinistersPublications of MinistriesParliamentry ProceduresJournal of Parliamentary Information
+Visitor's Counter:113118388
+
+
+
+
+
+
+
+Copyright
+Privacy Policy
+Disclaimer
+Terms &
+                Conditions
+
+                Accessibility Statement
+Accessibility
+                Options
+Feedback
+Site Map
+
+
+
+
+
+
+

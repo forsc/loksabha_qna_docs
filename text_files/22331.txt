@@ -1,0 +1,350 @@
+
+
+
+
+	Questions : Lok Sabha
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Screen Reader Access
+Skip to Main Content
+Skip to Navigation
+
+
+
+Text Size
+
+                                A
+
+                                A
+A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+हिन्दी मे
+
+
+
+
+
+
+
+
+Parliament of India Lok Sabha House of the
+                        People
+
+
+
+
+
+
+* Special Characters not allowed
+
+
+
+
+
+
+
+
+
+
+
+
+India Time 
+
+
+Your Time 
+
+
+                        Monday,
+                        11 April 2022
+
+
+
+
+
+
+
+
+
+HomeMembersSitting MembersMembers Home PageMembers' PortalContact DetailsMembers SearchStatistical AnalysisAttendance of MembersHandbook Members Since 1952Digitized Who's WhoOthers BusinessProvisional CalendarList of BusinessPapers to be LaidList of Private Members' BusinessBulletin-IDigitized Lok Sabha Bulletin Part IBulletin-IIStatement of WorkSpecial Mentions (ZERO HOUR)Resume of WorkDigitized Resume of Work done by Lok Sabha QuestionsHomeQuestion ListStatus of notices of questionQuestions CalendarGrouping of Ministries - AlphabeticalOfficers in Min./Dept. Dealing with Parliamentary WorkQuestion SearchSupplementary Questions DebatesIntroductionSynopsisUncorrected DebateText of DebateDigitized DebatesConstituent Assembly DebatesWit And HumourDebate SearchHindi FontsDisclaimer Papers LaidPapers Laid on the Table of the House LegislationIntroduction(How Bill Becomes Act)Bills IntroducedBills PassedBills PendingBills AssentedBills LapsedBills WithdrawnBills NegativedBills Search Disclaimer CommitteesIntroductionChairpersonSummary of WorkCommittee Meetings ScheduleBills Referred to CommitteesReports PresentedDigitized ReportsPress ReleaseMembership SearchToday's Committee MeetingsCommittee Subject SelectedDepartment Related-RS Govt. AssurancesSANSAD TVIntranet
+
+
+
+
+
+HomeQuestion ListStatus of notices of questionQuestions CalendarGrouping of Ministries - AlphabeticalOfficers in Min./Dept. Dealing with Parliamentary WorkQuestion SearchSupplementary Questions
+
+
+
+
+
+
+
+
+
+
+
+Download as PDF
+
+
+
+
+Print
+
+
+
+
+
+
+
+
+
+
+
+
+PDF/WORD(Hindi)
+
+
+PDF/WORD
+
+
+
+
+                                    GOVERNMENT OF INDIA
+                                
+
+
+
+
+
+                                    MINISTRY OF
+                                    COAL
+
+
+
+
+
+
+                                    LOK SABHA
+                                
+
+
+
+
+
+UNSTARRED 
+
+
+                                    QUESTION NO:
+                                
+
+3511
+
+
+
+
+
+
+                                    ANSWERED ON: 
+                                
+
+17.03.2021
+
+
+
+
+
+
+E-Surveillance of Coal Fields
+
+
+
+
+P. Velusamy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        Will the Minister of
+
+
+
+
+
+COAL
+
+
+                        be pleased to state:-
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ (a)        whether Mahanadi Coalfields Ltd. (MCL), a subsidiary of Coal India  has  started e-surveillance to check coal operations in their plant ?      (b)        if so, the details thereof;   (c)        whether the Government is having any proposal to extend or initiate e-surveillance of all coal fields in India to monitor the operations of all coal fields ?    (d)       if so, the details thereof and if not, the reasons therefor; and   (e)        whether the e-surveillance can track illegal coal mining and transportation of coal by unauthorized persons and if so, the details thereof ?   
+
+
+
+
+
+
+ANSWER
+
+
+
+
+ MINISTER OF PARLIAMENTARY AFFAIRS, COAL AND MINES(SHRI PRALHAD JOSHI)  (a)  & (b):       Yes, Sir.  Mahanadi Coalfields Ltd (MCL), a subsidiary of Coal India has started e-surveillance to check coal operations in their plant.   The following e-Surveillance Technologies have been implemented:- 1.         CCTV Surveillance of Vulnerable Locations like Mine Entry Exit Points, Coal Stocks, Railway Sidings, etc. Type of Locations	InstalledCoal Stocks	64Mine Entry Exit Points	76Coal Sample Labs	35Weighbridges	88Railway Sidings	42 2.  GPS based Vehicle Tracking System of Coal Tippers running in Mines. Total Requirement (Coal Tippers) – 2691 Vehicles (as per monthly vehicle report). Installed GPS (Coal Tippers) – 2691 Vehicles.(c):   Yes Sir, other subsidiaries of Coal India Limited have also provided CCTV Surveillance System and GPS based VTS System for tracking the movement of authorized coal transport vehicle (d):      The detail in respect of other Subsidiaries of CIL having e-Surveillance through CCTV and GPS based VTS System is being provided as below on the basis of information received from respective subsidiaries:  CCTV Surveillance: Subsidiaries of CIL	Total No. of CCTV Cameras deployed at vulnerable locations viz. Weighbridges, Sidings, Workshops, Offices, Stores, View point & Coal Stocks.CCL	1989NCL	1284WCL	555BCCL	615ECL	2745SECL	1359TOTAL	8547 GPS based VTV System: Subsidiaries of CIL	Number of Coal Transport Vehicles fitted with GPS based VTS system for monitoring of internal coal transport.CCL	3150NCL	403WCL	1070BCCL	589ECL	1479SECL	1243TOTAL	7934 (e):       The present system indicated above can track/monitor the movement of subsidiaries authorized coal transport vehicles passing through the prescribed route from mine to stock/railway siding or vice versa. In NLC India Ltd. E-surveillance can track illegal coal mining through CCTV, RFID & GPS based vehicle tracking system helps to manage and monitor the Diesel pilferage, Coal production and also transportation of various trucks’ movement in mines leading to prevention of illegal coal mining. E-surveillance avoids Coal pilferage and unauthorized entry of persons and vehicle in Mine boundary area. Surveillance through Geo-fence raise alert if vehicle moves out of mine boundary area. In SCCL, GPS/GPRS based Vehicle Tracking System (VTS) on BOO concept is in operation throughout the company in all the mines to curb pilferage of coal during transport since 2016. Further, 1082 nos. CCTV cameras were installed at conspicuous locations like Weigh-bridge, Railway sidings, Manway muster booking, Stores distribution points, Opencast Diesel bunkers and FOIS (Freight Operations Information System) locations etc. as part of surveillance system. In case of deviation of route, additional stoppages of vehicle or over speed, crossing of ego-fencing, the concerned officers will get SMS alerts. The present E-surveillance set-up is effective to curb pilferage of coal during transport in SCCL.  ******
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+HomeArchiveIndex to Select Questions (1984-1999)Ballot ListStatistical Statements Relating to QuestionsUploading of Questions - Status QueryProcedure for Sending Text of Questions & AnswersDemarcation of responsibilities in Govt. of IndiaBrochure on Statutory Corporations, Companies and Other Bodies in Which the Government of India have financial or controlling interestHighlights pertaining to questions of 17th Lok Sabha
+
+
+
+
+
+
+Contact Us 
+Disclaimer
+
+
+
+
+
+
+
+
+
+
+
+        Developed and Hosted by National Informatics Centre (NIC)
+
+Content on this website is published,
+            managed & maintained by Software Unit, Computer (HW & SW) Management. Branch,
+            Lok Sabha Secretariat
+
+
+
+
+
+HomeMembersBusinessQuestionsDebatesPapers Laid
+
+
+LegislationCommitteesSANSAD TVIntranetSecretariatPRIDE
+
+
+RecruitmentSC/ST ReservationConferenceParliament Library
+
+
+About ParliamentPhoto GalleryRelated LinksRTITendersFAQ
+
+
+SpeakerDy. SpeakerLeader of the HousePanel of ChairpersonsContact UsFeedback
+
+
+Council of MinistersPublications of MinistriesParliamentry ProceduresJournal of Parliamentary Information
+Visitor's Counter:113208675
+
+
+
+
+
+
+
+Copyright
+Privacy Policy
+Disclaimer
+Terms &
+                Conditions
+
+                Accessibility Statement
+Accessibility
+                Options
+Feedback
+Site Map
+
+
+
+
+
+
+

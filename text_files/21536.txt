@@ -1,0 +1,363 @@
+
+
+
+
+	Questions : Lok Sabha
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Screen Reader Access
+Skip to Main Content
+Skip to Navigation
+
+
+
+Text Size
+
+                                A
+
+                                A
+A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+हिन्दी मे
+
+
+
+
+
+
+
+
+Parliament of India Lok Sabha House of the
+                        People
+
+
+
+
+
+
+* Special Characters not allowed
+
+
+
+
+
+
+
+
+
+
+
+
+India Time 
+
+
+Your Time 
+
+
+                        Monday,
+                        11 April 2022
+
+
+
+
+
+
+
+
+
+HomeMembersSitting MembersMembers Home PageMembers' PortalContact DetailsMembers SearchStatistical AnalysisAttendance of MembersHandbook Members Since 1952Digitized Who's WhoOthers BusinessProvisional CalendarList of BusinessPapers to be LaidList of Private Members' BusinessBulletin-IDigitized Lok Sabha Bulletin Part IBulletin-IIStatement of WorkSpecial Mentions (ZERO HOUR)Resume of WorkDigitized Resume of Work done by Lok Sabha QuestionsHomeQuestion ListStatus of notices of questionQuestions CalendarGrouping of Ministries - AlphabeticalOfficers in Min./Dept. Dealing with Parliamentary WorkQuestion SearchSupplementary Questions DebatesIntroductionSynopsisUncorrected DebateText of DebateDigitized DebatesConstituent Assembly DebatesWit And HumourDebate SearchHindi FontsDisclaimer Papers LaidPapers Laid on the Table of the House LegislationIntroduction(How Bill Becomes Act)Bills IntroducedBills PassedBills PendingBills AssentedBills LapsedBills WithdrawnBills NegativedBills Search Disclaimer CommitteesIntroductionChairpersonSummary of WorkCommittee Meetings ScheduleBills Referred to CommitteesReports PresentedDigitized ReportsPress ReleaseMembership SearchToday's Committee MeetingsCommittee Subject SelectedDepartment Related-RS Govt. AssurancesSANSAD TVIntranet
+
+
+
+
+
+HomeQuestion ListStatus of notices of questionQuestions CalendarGrouping of Ministries - AlphabeticalOfficers in Min./Dept. Dealing with Parliamentary WorkQuestion SearchSupplementary Questions
+
+
+
+
+
+
+
+
+
+
+
+Download as PDF
+
+
+
+
+Print
+
+
+
+
+
+
+
+
+
+
+
+
+PDF/WORD(Hindi)
+
+
+PDF/WORD
+
+
+
+
+                                    GOVERNMENT OF INDIA
+                                
+
+
+
+
+
+                                    MINISTRY OF
+                                    ELECTRONICS AND INFORMATION TECHNOLOGY
+
+
+
+
+
+
+                                    LOK SABHA
+                                
+
+
+
+
+
+UNSTARRED 
+
+
+                                    QUESTION NO:
+                                
+
+2696
+
+
+
+
+
+
+                                    ANSWERED ON: 
+                                
+
+10.03.2021
+
+
+
+
+
+
+Digital India Programme
+
+
+
+
+Naranbhai Bhikhabhai Kachhadiya
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                    Parbatbhai Savabhai Patel
+                                                
+
+
+
+
+
+
+
+
+
+
+
+
+                        Will the Minister of
+
+
+
+
+
+ELECTRONICS AND INFORMATION TECHNOLOGY
+
+
+                        be pleased to state:-
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                    Will the Minister of ELECTRONICS & INFORMATION TECHNOLOGY be pleased to state:-(a)	the main objective of Digital India Programme;(b)	whether digital infrastructure is likely to be made available by the Government to every citizen of the country under the said scheme and if so, the details thereof; and(c)	the number of Common Service Centres set up in the country to extend the benefit of Digital India, State/UT-wise including Gujarat?
+
+
+
+
+
+
+ANSWER
+
+
+
+
+                                                        and (b): The Ministry of Electronics and Information Technology (MeitY), Government of India has initiated the ‘Digital India’ programme with the vision to transform India into a digitally empowered society and knowledge-based economy by ensuring digital access, digital inclusion, digital empowerment and bridging the digital divide. The Digital India programme is centred on three key vision areas namely Digital Infrastructure as a Core Utility to Every Citizen, Governance and Services on Demand and Digital Empowerment of Citizens. Some of the key initiatives taken by the Government to strengthen the digital infrastructure of the country for availability and access to citizens are as follows:•	Aadhaar: Aadhaar provides 12 digit biometric and demographic based identity that is unique, lifelong, online and authenticable. Over 128+ crore residents have been enrolled. •	Common Services Centre (CSC): The Common Services Centres are service (Government to Citizen & Business to Citizen) delivery centres. So far, 3.73 Lakh Common Services Centres are functional including 2.78 lakh CSCs at Gram Panchayat levels. •	Digital locker: Digital Locker provides an ecosystem with collection of repositories and gateways for issuers to upload the documents in the digital repositories. So far, 5.7 crore registered user of DigiLocker. 427 crore authentic documents have been issued. 965 Issuers and 154 Requestor organizations have been on-boarded.•	eSign framework  - Online Electronic Signature Service: eSign is an initiative for easy, efficient, and secure signing of electronic documents by an Aadhaar holder. Five agencies namely eMudhra Ltd., C-DAC, (n)Code Solutions, NSDL e-Governance Infrastructure Ltd. and Capricorn have been empanelled to offer e-Sign Services. Over 12.50+ crore eSign have been issued.•	Meghraj and CSP: As part of the Digital India program, Government of India embarked upon an ambitious initiative known as MeghRaj, to utilize and harness the benefits of Cloud Computing. This will ensure accelerating the delivery of e-services in the country and optimizing ICT spending of the Government.•	BharatNet: BharatNet is an ambitious initiative to trigger a broadband revolution in rural areas. This project is being implemented by Department of Telecommunications. BharatNet aims to connect all the 2,50,000 Gram Panchayats in the country and provide 100 Mbps connectivity to all gram panchayats (GPs). So far, a total number of 1,54,096 Gram Panchayats (Including Block HQ) have been made Service Ready. (c):   The State/UT wise status of the implementation of Common Services Centers(CSCs) under “Digital India Programme” is as follows:State/UT wise status of Rollout of CSCs as on 31st January, 2021 State/UT	Functional CSCs(Urban + Rural areas)	Functional CSCs at Gram Panchayat levelAndhra Pradesh	10260	7529Arunachal Pradesh	140	107Assam	5842	5018Bihar	34495	29684Chhattisgarh	13931	10698Goa	94	56Gujarat	12477	8205Haryana	16865	11616Himachal Pradesh	3665	3163Jharkhand	14635	12023Karnataka	10467	5871Kerala	3938	2976Madhya Pradesh	30686	21486Maharashtra	49362	35344Manipur	894	707Meghalaya	766	657Mizoram	294	174Nagaland	360	210Odisha	12715	10774Punjab	10112	7039Rajasthan	15723	11829Sikkim	52	37Tamil Nadu	9955	6147Telangana	8104	5220Tripura	1020	854Uttar Pradesh	76444	57913Uttarakhand	7322	5266West Bengal	17253	15017State: Sub-total	367871	275620Andaman & Nicobar Islands	46	23Chandigarh	71	9Dadra & NH, D&D	53	34Delhi	2775	0Jammu and Kashmir	2850	2259Ladakh	24	18Lakshadweep	10	10Puducherry	150	85UT : Sub-total	5979	2438Total(State+UT)	373850	278058******
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+HomeArchiveIndex to Select Questions (1984-1999)Ballot ListStatistical Statements Relating to QuestionsUploading of Questions - Status QueryProcedure for Sending Text of Questions & AnswersDemarcation of responsibilities in Govt. of IndiaBrochure on Statutory Corporations, Companies and Other Bodies in Which the Government of India have financial or controlling interestHighlights pertaining to questions of 17th Lok Sabha
+
+
+
+
+
+
+Contact Us 
+Disclaimer
+
+
+
+
+
+
+
+
+
+
+
+        Developed and Hosted by National Informatics Centre (NIC)
+
+Content on this website is published,
+            managed & maintained by Software Unit, Computer (HW & SW) Management. Branch,
+            Lok Sabha Secretariat
+
+
+
+
+
+HomeMembersBusinessQuestionsDebatesPapers Laid
+
+
+LegislationCommitteesSANSAD TVIntranetSecretariatPRIDE
+
+
+RecruitmentSC/ST ReservationConferenceParliament Library
+
+
+About ParliamentPhoto GalleryRelated LinksRTITendersFAQ
+
+
+SpeakerDy. SpeakerLeader of the HousePanel of ChairpersonsContact UsFeedback
+
+
+Council of MinistersPublications of MinistriesParliamentry ProceduresJournal of Parliamentary Information
+Visitor's Counter:113206590
+
+
+
+
+
+
+
+Copyright
+Privacy Policy
+Disclaimer
+Terms &
+                Conditions
+
+                Accessibility Statement
+Accessibility
+                Options
+Feedback
+Site Map
+
+
+
+
+
+
+

@@ -1,0 +1,383 @@
+
+
+
+
+	Questions : Lok Sabha
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Screen Reader Access
+Skip to Main Content
+Skip to Navigation
+
+
+
+Text Size
+
+                                A
+
+                                A
+A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+हिन्दी मे
+
+
+
+
+
+
+
+
+Parliament of India Lok Sabha House of the
+                        People
+
+
+
+
+
+
+* Special Characters not allowed
+
+
+
+
+
+
+
+
+
+
+
+
+India Time 
+
+
+Your Time 
+
+
+                        Sunday,
+                        10 April 2022
+
+
+
+
+
+
+
+
+
+HomeMembersSitting MembersMembers Home PageMembers' PortalContact DetailsMembers SearchStatistical AnalysisAttendance of MembersHandbook Members Since 1952Digitized Who's WhoOthers BusinessProvisional CalendarList of BusinessPapers to be LaidList of Private Members' BusinessBulletin-IDigitized Lok Sabha Bulletin Part IBulletin-IIStatement of WorkSpecial Mentions (ZERO HOUR)Resume of WorkDigitized Resume of Work done by Lok Sabha QuestionsHomeQuestion ListStatus of notices of questionQuestions CalendarGrouping of Ministries - AlphabeticalOfficers in Min./Dept. Dealing with Parliamentary WorkQuestion SearchSupplementary Questions DebatesIntroductionSynopsisUncorrected DebateText of DebateDigitized DebatesConstituent Assembly DebatesWit And HumourDebate SearchHindi FontsDisclaimer Papers LaidPapers Laid on the Table of the House LegislationIntroduction(How Bill Becomes Act)Bills IntroducedBills PassedBills PendingBills AssentedBills LapsedBills WithdrawnBills NegativedBills Search Disclaimer CommitteesIntroductionChairpersonSummary of WorkCommittee Meetings ScheduleBills Referred to CommitteesReports PresentedDigitized ReportsPress ReleaseMembership SearchToday's Committee MeetingsCommittee Subject SelectedDepartment Related-RS Govt. AssurancesSANSAD TVIntranet
+
+
+
+
+
+HomeQuestion ListStatus of notices of questionQuestions CalendarGrouping of Ministries - AlphabeticalOfficers in Min./Dept. Dealing with Parliamentary WorkQuestion SearchSupplementary Questions
+
+
+
+
+
+
+
+
+
+
+
+Download as PDF
+
+
+
+
+Print
+
+
+
+
+
+
+
+
+
+
+
+
+PDF/WORD(Hindi)
+
+
+PDF/WORD
+
+
+
+
+                                    GOVERNMENT OF INDIA
+                                
+
+
+
+
+
+                                    MINISTRY OF
+                                    COMMUNICATIONS
+
+
+
+
+
+
+                                    LOK SABHA
+                                
+
+
+
+
+
+UNSTARRED 
+
+
+                                    QUESTION NO:
+                                
+
+4057
+
+
+
+
+
+
+                                    ANSWERED ON: 
+                                
+
+17.07.2019
+
+
+
+
+
+
+Guidelines for Installation of Mobile Towers
+
+
+
+
+Pratima Bhoumik
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                    Sudhakar Tukaram Shrangre
+                                                
+
+
+
+
+
+
+
+
+                                                    P.P. Chaudhary
+                                                
+
+
+
+
+
+
+
+
+                                                    Devji Mansingram Patel
+                                                
+
+
+
+
+
+
+
+
+
+
+
+
+                        Will the Minister of
+
+
+
+
+
+COMMUNICATIONS
+
+
+                        be pleased to state:-
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                    (a) 	whether the Government is planning to frame any new guideline to prevent unbridled installation of mobile phone towers to protect common people from EMF radiations therefrom and if so, the details thereof; (b) 	the steps taken by the Government to limit tower density across the country keeping in mind the hazardous health effects of EMF radiation; and (c) 	the present mobile tower density and average EMF radiation in the country, State/Union Territory-wise?
+
+
+
+
+
+
+ANSWER
+
+
+
+
+                                                        MINISTER OF COMMUNICATIONS, LAW & JUSTICE AND ELECTRONICS AND INFORMATION TECHNOLOGY(SHRI RAVI SHANKAR PRASAD)(a) & (b) 	No, Sir. Ministry of Communications is not planning to frame any new guideline to prevent installation of mobile towers. 	With regard to impact of Electromagnetic Field (EMF) emissions from mobile towers on health, it is intimated that World Health Organization (WHO) has referred to approximately 25,000 articles published around the world over past 30 years, and based on an in-depth review of scientific literature, has stated, “Despite the feeling of some people that more research needs to be done, scientific knowledge in this area is now more extensive than for most chemicals.” WHO has concluded - “current evidence does not confirm the existence of any health consequences from exposure to low level electromagnetic fields”. 	To safeguard common people, Department of Telecommunications (DoT) has been monitoring global developments and has already taken necessary steps and adopted stricter norms for safety from EMF emission from mobile towers. The main conclusion from the WHO review is that EMF exposure below the limits recommended in the International Commission on Non Ionizing Radiation Protection (ICNIRP) international guidelines do not appear to have any known consequence on health. In India norms for exposure limit for the Radio Frequency Field (Base Station Emissions) has been fixed 10 times more stringent than the safe limits prescribed by ICNIRP and recommended by WHO.  	Government of India has also put in place a well-structured process and adequate mechanism to ensure that Telec-ommunications Service Providers strictly adhere to these prescribed norms.(c) 	Licensed Service Area (LSA) wise details of number of mobile towers is provided at Annexure-I.The present EMF emission norms as laid down for Base Transceiver Stations (BTSs) installed at various mobile towers in India are as follows:<pre>Frequency Range	E-Field Strength   (Volt/Meter)	H-Field Strength (Amp/Meter)	Power Density (Watt/Sq.Meter)400 MHz  to 2000 MHz	0.434 f ½	0.0011 f ½	f / 20002 GHz to 300 GHz	19.29	0.05	1</pre>	 (f is frequency in MHz)	As has been mentioned above, Government of India has put in place a well-structured process & adequate mechanism to ensure that Telecommunications Service Providers strictly adhere to these prescribed norms. During last three years and including current year, upto 30-04-2019, only 155 BTSs, out of total more than 21 lakh BTSs, have been observed emitting beyond the prescribed limit. Therefore, the average emitted power density of EMF from mobile tower is well within the norms prescribed by DoT.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+HomeArchiveIndex to Select Questions (1984-1999)Ballot ListStatistical Statements Relating to QuestionsUploading of Questions - Status QueryProcedure for Sending Text of Questions & AnswersDemarcation of responsibilities in Govt. of IndiaBrochure on Statutory Corporations, Companies and Other Bodies in Which the Government of India have financial or controlling interestHighlights pertaining to questions of 17th Lok Sabha
+
+
+
+
+
+
+Contact Us 
+Disclaimer
+
+
+
+
+
+
+
+
+
+
+
+        Developed and Hosted by National Informatics Centre (NIC)
+
+Content on this website is published,
+            managed & maintained by Software Unit, Computer (HW & SW) Management. Branch,
+            Lok Sabha Secretariat
+
+
+
+
+
+HomeMembersBusinessQuestionsDebatesPapers Laid
+
+
+LegislationCommitteesSANSAD TVIntranetSecretariatPRIDE
+
+
+RecruitmentSC/ST ReservationConferenceParliament Library
+
+
+About ParliamentPhoto GalleryRelated LinksRTITendersFAQ
+
+
+SpeakerDy. SpeakerLeader of the HousePanel of ChairpersonsContact UsFeedback
+
+
+Council of MinistersPublications of MinistriesParliamentry ProceduresJournal of Parliamentary Information
+Visitor's Counter:113097239
+
+
+
+
+
+
+
+Copyright
+Privacy Policy
+Disclaimer
+Terms &
+                Conditions
+
+                Accessibility Statement
+Accessibility
+                Options
+Feedback
+Site Map
+
+
+
+
+
+
+

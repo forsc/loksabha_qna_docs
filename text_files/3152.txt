@@ -1,0 +1,350 @@
+
+
+
+
+	Questions : Lok Sabha
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Screen Reader Access
+Skip to Main Content
+Skip to Navigation
+
+
+
+Text Size
+
+                                A
+
+                                A
+A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+हिन्दी मे
+
+
+
+
+
+
+
+
+Parliament of India Lok Sabha House of the
+                        People
+
+
+
+
+
+
+* Special Characters not allowed
+
+
+
+
+
+
+
+
+
+
+
+
+India Time 
+
+
+Your Time 
+
+
+                        Sunday,
+                        10 April 2022
+
+
+
+
+
+
+
+
+
+HomeMembersSitting MembersMembers Home PageMembers' PortalContact DetailsMembers SearchStatistical AnalysisAttendance of MembersHandbook Members Since 1952Digitized Who's WhoOthers BusinessProvisional CalendarList of BusinessPapers to be LaidList of Private Members' BusinessBulletin-IDigitized Lok Sabha Bulletin Part IBulletin-IIStatement of WorkSpecial Mentions (ZERO HOUR)Resume of WorkDigitized Resume of Work done by Lok Sabha QuestionsHomeQuestion ListStatus of notices of questionQuestions CalendarGrouping of Ministries - AlphabeticalOfficers in Min./Dept. Dealing with Parliamentary WorkQuestion SearchSupplementary Questions DebatesIntroductionSynopsisUncorrected DebateText of DebateDigitized DebatesConstituent Assembly DebatesWit And HumourDebate SearchHindi FontsDisclaimer Papers LaidPapers Laid on the Table of the House LegislationIntroduction(How Bill Becomes Act)Bills IntroducedBills PassedBills PendingBills AssentedBills LapsedBills WithdrawnBills NegativedBills Search Disclaimer CommitteesIntroductionChairpersonSummary of WorkCommittee Meetings ScheduleBills Referred to CommitteesReports PresentedDigitized ReportsPress ReleaseMembership SearchToday's Committee MeetingsCommittee Subject SelectedDepartment Related-RS Govt. AssurancesSANSAD TVIntranet
+
+
+
+
+
+HomeQuestion ListStatus of notices of questionQuestions CalendarGrouping of Ministries - AlphabeticalOfficers in Min./Dept. Dealing with Parliamentary WorkQuestion SearchSupplementary Questions
+
+
+
+
+
+
+
+
+
+
+
+Download as PDF
+
+
+
+
+Print
+
+
+
+
+
+
+
+
+
+
+
+
+PDF/WORD(Hindi)
+
+
+PDF/WORD
+
+
+
+
+                                    GOVERNMENT OF INDIA
+                                
+
+
+
+
+
+                                    MINISTRY OF
+                                    ELECTRONICS AND INFORMATION TECHNOLOGY
+
+
+
+
+
+
+                                    LOK SABHA
+                                
+
+
+
+
+
+UNSTARRED 
+
+
+                                    QUESTION NO:
+                                
+
+2871
+
+
+
+
+
+
+                                    ANSWERED ON: 
+                                
+
+10.07.2019
+
+
+
+
+
+
+Cyber Crime against Women and Children
+
+
+
+
+Nishikant  Dubey
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        Will the Minister of
+
+
+
+
+
+ELECTRONICS AND INFORMATION TECHNOLOGY
+
+
+                        be pleased to state:-
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Will the Minister of Electronics & Information Technology be pleased to state:-(a)    whether the incidents of cyber crime against women and children in the country have increased; (b)    if so, the details thereof including the number of such incidents reported during each of the last three years; and (c)    the steps being taken by the Government to address this serious issue?
+
+
+
+
+
+
+ANSWER
+
+
+
+
+                                                        ) and (b): As per the data maintained by National Crime Records Bureau (NCRB), Ministry of Home Affairs, a total of 749, 792 and 930 cases of cybercrime against women were registered during the year 2014, 2015 and 2016 respectively under sections 67 and 67A of the Information Technology (IT) Act 2000. Also, a total of 5, 8 and 17 cases of cybercrime against children were registered during the year 2014, 2015 and 2016 respectively under section 67B of the IT Act 2000. As per NCRB, latest data pertains to the year 2016.Further, a total of 40, 94 and 47 cases were registered during the years 2014, 2015 and 2016 respectively under section 14 (using child for pornographic purposes) & section 15 (storage of pornographic material involving child) of the Protection of Children from Sexual Offences (POCSO) Act, 2012. (c):  Government has taken the several steps to tackle cyber crime against women and children. These, inter alia, include :(i)	The Information Technology Act, 2000 has provisions to deal with cyber crime against women and children. Sections 66E, 67, and 67A of the Act provides for the punishment and fine for voyeurism, publishing or transmitting of obscene/sexually-explicit material in electronic form. Section 67B of the Act specifically provides stringent punishment for publishing, browsing or transmitting child pornography in electronic form. Further, sections 354A and 354D of Indian Penal Code  provide  punishment for cyber bullying and cyber stalking.(ii)	Section 79 of the Information Technology Act, 2000 provides for certain due diligence to be followed by Intermediaries failing which they would be liable. The Information Technology (Intermediaries Guidelines) Rules, 2011 notified under section 79 of the Act, inter alia, specifies that the intermediaries shall inform the users of computer resource not to host, display, upload, modify, publish, transmit, update or share any information that is grossly harmful, defamatory, obscene, pornographic, paedophilic, harms minor in any way; violates any law for the time being in force; etc. (iii)	Government periodically blocks the websites containing extreme child sexual abuse material (CSAM) based on INTERPOL’s “worst of list” received through Central Bureau of Investigation (CBI), the national nodal agency for Interpol in India.  Department of Telecom (DoT) on 11.7.2018 has issued instructions to block 2657 number of such websites. (iv)	Government has issued an order to concerned Internet Service Providers (ISPs) to work out a suitable arrangement for receiving Internet Watch Foundation (IWF), UK list of CSAM websites/webpages on a dynamic basis and block access to child pornography webpages/websites. (v)	DoT has requested all Internet Service Providers (ISPs) to make suitable arrangement to spread awareness among their subscribers about the use of parental control filters in the end-user machines through messages of email, invoices, SMS, website, etc. (vi)	Central Board of Secondary Education (CBSE) has issued guidelines on 18.08.2017 to schools on the safe and secure use of Internet. This circular directs schools to install effective firewalls, filtering and monitoring software mechanisms in all the computers and deploy effective security policies. (vii)	Ministry of Home Affairs (MHA) is implementing a comprehensive central sector scheme, namely “Centre for Cyber Crime Prevention against Women and Children (CCPWC)” to handle all issues related to check all cyber-crime against women and children including child pornography. (viii)	National Commission for Protection of Child Rights (NCPCR) has published a booklet on “Child Victims of Cyber Crime – Legal Tool Kit” as a guide for investigating officers for better understanding of the cyber crime related laws in simple language.(ix)	POCSO E-box portal by NCPCR was opened for reporting of cyber crime targeting children on 23.06.2017. NCPCR has now enhanced the scope of POCSO E-box on 4.11.2017 to also handle cyber bullying, cyber stalking, morphing of images and child pornography.  The E-Box is also available as mobile app at Google/Apple Play Store.   (x)	 Ministry of Home Affairs has issued an Advisory on 4.1.2012 on Preventing & Combating Cyber Crime against Women and Children, wherein it was advised to States/Union Territories to specifically combat the crimes in forms of cyber stalking, cyber bullying, child pornography and exposure to sexually explicit material etc. ********
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+HomeArchiveIndex to Select Questions (1984-1999)Ballot ListStatistical Statements Relating to QuestionsUploading of Questions - Status QueryProcedure for Sending Text of Questions & AnswersDemarcation of responsibilities in Govt. of IndiaBrochure on Statutory Corporations, Companies and Other Bodies in Which the Government of India have financial or controlling interestHighlights pertaining to questions of 17th Lok Sabha
+
+
+
+
+
+
+Contact Us 
+Disclaimer
+
+
+
+
+
+
+
+
+
+
+
+        Developed and Hosted by National Informatics Centre (NIC)
+
+Content on this website is published,
+            managed & maintained by Software Unit, Computer (HW & SW) Management. Branch,
+            Lok Sabha Secretariat
+
+
+
+
+
+HomeMembersBusinessQuestionsDebatesPapers Laid
+
+
+LegislationCommitteesSANSAD TVIntranetSecretariatPRIDE
+
+
+RecruitmentSC/ST ReservationConferenceParliament Library
+
+
+About ParliamentPhoto GalleryRelated LinksRTITendersFAQ
+
+
+SpeakerDy. SpeakerLeader of the HousePanel of ChairpersonsContact UsFeedback
+
+
+Council of MinistersPublications of MinistriesParliamentry ProceduresJournal of Parliamentary Information
+Visitor's Counter:113088215
+
+
+
+
+
+
+
+Copyright
+Privacy Policy
+Disclaimer
+Terms &
+                Conditions
+
+                Accessibility Statement
+Accessibility
+                Options
+Feedback
+Site Map
+
+
+
+
+
+
+

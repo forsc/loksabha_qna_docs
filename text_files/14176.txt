@@ -1,0 +1,350 @@
+
+
+
+
+	Questions : Lok Sabha
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Screen Reader Access
+Skip to Main Content
+Skip to Navigation
+
+
+
+Text Size
+
+                                A
+
+                                A
+A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+हिन्दी मे
+
+
+
+
+
+
+
+
+Parliament of India Lok Sabha House of the
+                        People
+
+
+
+
+
+
+* Special Characters not allowed
+
+
+
+
+
+
+
+
+
+
+
+
+India Time 
+
+
+Your Time 
+
+
+                        Monday,
+                        11 April 2022
+
+
+
+
+
+
+
+
+
+HomeMembersSitting MembersMembers Home PageMembers' PortalContact DetailsMembers SearchStatistical AnalysisAttendance of MembersHandbook Members Since 1952Digitized Who's WhoOthers BusinessProvisional CalendarList of BusinessPapers to be LaidList of Private Members' BusinessBulletin-IDigitized Lok Sabha Bulletin Part IBulletin-IIStatement of WorkSpecial Mentions (ZERO HOUR)Resume of WorkDigitized Resume of Work done by Lok Sabha QuestionsHomeQuestion ListStatus of notices of questionQuestions CalendarGrouping of Ministries - AlphabeticalOfficers in Min./Dept. Dealing with Parliamentary WorkQuestion SearchSupplementary Questions DebatesIntroductionSynopsisUncorrected DebateText of DebateDigitized DebatesConstituent Assembly DebatesWit And HumourDebate SearchHindi FontsDisclaimer Papers LaidPapers Laid on the Table of the House LegislationIntroduction(How Bill Becomes Act)Bills IntroducedBills PassedBills PendingBills AssentedBills LapsedBills WithdrawnBills NegativedBills Search Disclaimer CommitteesIntroductionChairpersonSummary of WorkCommittee Meetings ScheduleBills Referred to CommitteesReports PresentedDigitized ReportsPress ReleaseMembership SearchToday's Committee MeetingsCommittee Subject SelectedDepartment Related-RS Govt. AssurancesSANSAD TVIntranet
+
+
+
+
+
+HomeQuestion ListStatus of notices of questionQuestions CalendarGrouping of Ministries - AlphabeticalOfficers in Min./Dept. Dealing with Parliamentary WorkQuestion SearchSupplementary Questions
+
+
+
+
+
+
+
+
+
+
+
+Download as PDF
+
+
+
+
+Print
+
+
+
+
+
+
+
+
+
+
+
+
+PDF/WORD(Hindi)
+
+
+PDF/WORD
+
+
+
+
+                                    GOVERNMENT OF INDIA
+                                
+
+
+
+
+
+                                    MINISTRY OF
+                                    COMMUNICATIONS
+
+
+
+
+
+
+                                    LOK SABHA
+                                
+
+
+
+
+
+UNSTARRED 
+
+
+                                    QUESTION NO:
+                                
+
+2835
+
+
+
+
+
+
+                                    ANSWERED ON: 
+                                
+
+11.03.2020
+
+
+
+
+
+
+Mobile Towers in Andhra Pradesh
+
+
+
+
+Reddeppa Nallakonda Gari
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        Will the Minister of
+
+
+
+
+
+COMMUNICATIONS
+
+
+                        be pleased to state:-
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                    (a) 	the details of number of mobile towers including its frequency ranges, set up during each of the last three years in Andhra Pradesh, district-wise including for Chittoor district; (b) 	the number and location of residential areas within five kilometre radius of these installed mobile towers; and (c) 	whether the Government is aware of any study or investigation concluding the presence of Cancer Clusters within the same radius of these installed mobile towers and if so, the details thereof and the reaction of the Government thereto?
+
+
+
+
+
+
+ANSWER
+
+
+
+
+                                                        MINISTER OF STATE FOR COMMUNICATIONS,  HUMAN RESOURCE DEVELOPMENT AND ELECTRONICS & INFORMATION TECHNOLOGY (SHRI SANJAY DHOTRE)(a) &(b)	District-wise number of Base Transceiver Stations (BTSs) added during the last three years including Chittoor district in Andhra Pradesh is given at Annexure. Generally, for providing the network coverage, BTSs are being installed in the vicinity of the residential as well as other areas where telecom connectivity are required.  	The present emission norms as laid down for BTSs installed at various mobile towers in India are as follows:<pre>Frequency Range	E-Field Strength   (Volt/Meter)	H-Field Strength (Amp/Meter)	Power Density (Watt/Sq.Meter)400MHz to 2000 MHz	0.434 f ½	0.0011 f ½	f / 20002 GHz to 300 GHz	19.29	0.05	1	(f is frequency in MHz)</pre>(c)	No such study is in the knowledge of Department of Telecommunications (DoT). However, with regard to impact of Electromagnetic Field (EMF) emissions from mobile towers on health, World Health Organization (WHO) has referred to approximately 25,000 articles published around the world over past 30 years, and based on an in-depth review of scientific literature, has concluded - “current evidence does not confirm the existence of any health consequences from exposure to low level electromagnetic fields”.	In India, an Inter-Ministerial Committee (IMC), setup in 2010 to examine the effect of Electro Magnetic Field (EMF) Radiation from BTSs  and mobile phones, after examining various national and international studies on the environmental and health related concerns due to EMF, had, inter-alia, indicated that most of the laboratory studies were unable to find a direct link between exposure to radio frequency radiation and health; and the scientific studies as yet have not been able to confirm a cause and effect relationship between radio frequency radiation and health.	Also, a committee, constituted by Hon’ble High Court Allahabad including Members from IITs of Kharagpur, Kanpur, Delhi, Roorkee, Bombay and from other scientific institutions of the country including Indian Council of Medical Research (ICMR) and All India Institute of Medical Science (AIIMS) Delhi, in their report submitted in 2014, has, inter-alia, noted – “ ... On the basis of scientific evidences, studies and reports available, it has been found that there is no conclusive evidence about the stated dangers of EMF radiation from mobile BTS tower...”. The Committee has noted that “there are no conclusive evidence to establish any causal link between the effect of EMF radiation from BTS with biological effects described in cell models, animals or humans, and any possible resulting health effects.” 	 The main conclusion from the WHO review is that EMF exposure below the limits recommended in the International Commission on Non Ionizing Radiation Protection(ICNIRP) international guidelines donot appear to have any known consequences on health. 	DoT has been monitoring global developments and has already taken necessary steps and adopted stricter norms for safety from EMF emission from mobile towers. In India, norms for exposure limit for the Radio Frequency Field (Base Station Emissions) have been fixed ten times more stringent than the safe limits prescribed by ICNIRP and recommended by WHO.  Government of India has also put in place a well-structured process and adequate mechanism to ensure that TSPs strictly adhere to these prescribed norms.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+HomeArchiveIndex to Select Questions (1984-1999)Ballot ListStatistical Statements Relating to QuestionsUploading of Questions - Status QueryProcedure for Sending Text of Questions & AnswersDemarcation of responsibilities in Govt. of IndiaBrochure on Statutory Corporations, Companies and Other Bodies in Which the Government of India have financial or controlling interestHighlights pertaining to questions of 17th Lok Sabha
+
+
+
+
+
+
+Contact Us 
+Disclaimer
+
+
+
+
+
+
+
+
+
+
+
+        Developed and Hosted by National Informatics Centre (NIC)
+
+Content on this website is published,
+            managed & maintained by Software Unit, Computer (HW & SW) Management. Branch,
+            Lok Sabha Secretariat
+
+
+
+
+
+HomeMembersBusinessQuestionsDebatesPapers Laid
+
+
+LegislationCommitteesSANSAD TVIntranetSecretariatPRIDE
+
+
+RecruitmentSC/ST ReservationConferenceParliament Library
+
+
+About ParliamentPhoto GalleryRelated LinksRTITendersFAQ
+
+
+SpeakerDy. SpeakerLeader of the HousePanel of ChairpersonsContact UsFeedback
+
+
+Council of MinistersPublications of MinistriesParliamentry ProceduresJournal of Parliamentary Information
+Visitor's Counter:113181726
+
+
+
+
+
+
+
+Copyright
+Privacy Policy
+Disclaimer
+Terms &
+                Conditions
+
+                Accessibility Statement
+Accessibility
+                Options
+Feedback
+Site Map
+
+
+
+
+
+
+

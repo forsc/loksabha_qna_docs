@@ -1,0 +1,350 @@
+
+
+
+
+	Questions : Lok Sabha
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Screen Reader Access
+Skip to Main Content
+Skip to Navigation
+
+
+
+Text Size
+
+                                A
+
+                                A
+A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+हिन्दी मे
+
+
+
+
+
+
+
+
+Parliament of India Lok Sabha House of the
+                        People
+
+
+
+
+
+
+* Special Characters not allowed
+
+
+
+
+
+
+
+
+
+
+
+
+India Time 
+
+
+Your Time 
+
+
+                        Sunday,
+                        10 April 2022
+
+
+
+
+
+
+
+
+
+HomeMembersSitting MembersMembers Home PageMembers' PortalContact DetailsMembers SearchStatistical AnalysisAttendance of MembersHandbook Members Since 1952Digitized Who's WhoOthers BusinessProvisional CalendarList of BusinessPapers to be LaidList of Private Members' BusinessBulletin-IDigitized Lok Sabha Bulletin Part IBulletin-IIStatement of WorkSpecial Mentions (ZERO HOUR)Resume of WorkDigitized Resume of Work done by Lok Sabha QuestionsHomeQuestion ListStatus of notices of questionQuestions CalendarGrouping of Ministries - AlphabeticalOfficers in Min./Dept. Dealing with Parliamentary WorkQuestion SearchSupplementary Questions DebatesIntroductionSynopsisUncorrected DebateText of DebateDigitized DebatesConstituent Assembly DebatesWit And HumourDebate SearchHindi FontsDisclaimer Papers LaidPapers Laid on the Table of the House LegislationIntroduction(How Bill Becomes Act)Bills IntroducedBills PassedBills PendingBills AssentedBills LapsedBills WithdrawnBills NegativedBills Search Disclaimer CommitteesIntroductionChairpersonSummary of WorkCommittee Meetings ScheduleBills Referred to CommitteesReports PresentedDigitized ReportsPress ReleaseMembership SearchToday's Committee MeetingsCommittee Subject SelectedDepartment Related-RS Govt. AssurancesSANSAD TVIntranet
+
+
+
+
+
+HomeQuestion ListStatus of notices of questionQuestions CalendarGrouping of Ministries - AlphabeticalOfficers in Min./Dept. Dealing with Parliamentary WorkQuestion SearchSupplementary Questions
+
+
+
+
+
+
+
+
+
+
+
+Download as PDF
+
+
+
+
+Print
+
+
+
+
+
+
+
+
+
+
+
+
+PDF/WORD(Hindi)
+
+
+PDF/WORD
+
+
+
+
+                                    GOVERNMENT OF INDIA
+                                
+
+
+
+
+
+                                    MINISTRY OF
+                                    COMMUNICATIONS
+
+
+
+
+
+
+                                    LOK SABHA
+                                
+
+
+
+
+
+UNSTARRED 
+
+
+                                    QUESTION NO:
+                                
+
+589
+
+
+
+
+
+
+                                    ANSWERED ON: 
+                                
+
+20.11.2019
+
+
+
+
+
+
+Guidelines for Mobile Towers
+
+
+
+
+K. Shanmuga Sundaram
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        Will the Minister of
+
+
+
+
+
+COMMUNICATIONS
+
+
+                        be pleased to state:-
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                    (a) 	the new radiation limit fixed by the Ministry for cell phone towers; (b)	the number of mobile towers not adhering to the new guidelines issued by the Ministry along with the action taken against them; (c) 	whether the new guidelines will affect the network quality of all Telecom Service Providers (TSPs) and if so, the details thereof; (d) 	whether the TSPs would be allowed to install new towers across the country and if so, the details thereof; and (e) 	the guidelines laid down by the Government with regard to maintaining network quality and reduction of call drops?
+
+
+
+
+
+
+ANSWER
+
+
+
+
+                                                        MINISTER OF COMMUNICATIONS, LAW & JUSTICE AND ELECTRONICS AND INFORMATION TECHNOLOGY(SHRI RAVI SHANKAR PRASAD)(a) to (c)	Ministry of Communications has not fixed any new Electromagnetic Field (EMF) emission limit for Base Transceiver Stations (BTSs) installed at various mobile towers.The present EMF emission limit as laid down for BTSs installed at various mobile towers in India, for which license amendment was issued on 10.01.2013, are as follows:<pre>Frequency Range	E-Field Strength   (Volt/Meter)	H-Field Strength (Amp/Meter)	Power Density (Watt/Sq.Meter)400 MHz  to 2000 MHz	0.434 f ½	0.0011 f ½	f / 20002 GHz to 300 GHz	19.29	0.05	1</pre> (f is frequency in MHz)These norms are 10 times more stringent than the safe limits prescribed by International Commission on Non Ionizing Radiation Protection (ICNIRP)and recommended by World Health Organization (WHO). Further, Government of India has put in place a well-structured process & adequate mechanism to ensure that Telecommunications Service Providers strictly adhere to these prescribed norms. Upto 31.05.2019, 334 number of Base Transceiver Stations (BTSs) have been found exceeding the prescribed EMF radiation limits. Field units of Department of Telecommunications (DoT) have imposed financial penalty on defaulting Telecom Service Providers (TSPs). In addition, one non-compliant BTS in Haryana LSA was shut down as per prescribed DoT guidelines. For remaining non-compliant BTSs, radiation levels have been brought within prescribed radiation limits.(d)	Mobile towers are established/ provided by the telecom service providers at suitable locations, as per their Radio Frequency (RF) network planning for proper coverage of the area to fulfil the license conditions, regulatory compliances and to meet their business requirements. As per the advisory guidelines for State Government issued by Department of Telecommunications (DoT) no restriction has been imposed on installation of tower at any specific locations.(e)	With a view to ensure Quality of Service including call drops, Telecom Regulatory Authority of India (TRAI) notifies Quality of Services regulations namely “The Standards for Quality of Service of Basic (Wireline) and Cellular Mobile Telephone Service Regulations” and in accordance with this regulation TRAI undertakes assessment of performance of all telecom service providers. In the Quality of Service Regulations issued by TRAI, provisions have been made for imposition of financial disincentives for non-compliance with the benchmarks for various quality of service parameters including call drop.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+HomeArchiveIndex to Select Questions (1984-1999)Ballot ListStatistical Statements Relating to QuestionsUploading of Questions - Status QueryProcedure for Sending Text of Questions & AnswersDemarcation of responsibilities in Govt. of IndiaBrochure on Statutory Corporations, Companies and Other Bodies in Which the Government of India have financial or controlling interestHighlights pertaining to questions of 17th Lok Sabha
+
+
+
+
+
+
+Contact Us 
+Disclaimer
+
+
+
+
+
+
+
+
+
+
+
+        Developed and Hosted by National Informatics Centre (NIC)
+
+Content on this website is published,
+            managed & maintained by Software Unit, Computer (HW & SW) Management. Branch,
+            Lok Sabha Secretariat
+
+
+
+
+
+HomeMembersBusinessQuestionsDebatesPapers Laid
+
+
+LegislationCommitteesSANSAD TVIntranetSecretariatPRIDE
+
+
+RecruitmentSC/ST ReservationConferenceParliament Library
+
+
+About ParliamentPhoto GalleryRelated LinksRTITendersFAQ
+
+
+SpeakerDy. SpeakerLeader of the HousePanel of ChairpersonsContact UsFeedback
+
+
+Council of MinistersPublications of MinistriesParliamentry ProceduresJournal of Parliamentary Information
+Visitor's Counter:113118500
+
+
+
+
+
+
+
+Copyright
+Privacy Policy
+Disclaimer
+Terms &
+                Conditions
+
+                Accessibility Statement
+Accessibility
+                Options
+Feedback
+Site Map
+
+
+
+
+
+
+

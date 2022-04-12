@@ -1,0 +1,413 @@
+
+
+
+
+	Questions : Lok Sabha
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Screen Reader Access
+Skip to Main Content
+Skip to Navigation
+
+
+
+Text Size
+
+                                A
+
+                                A
+A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+हिन्दी मे
+
+
+
+
+
+
+
+
+Parliament of India Lok Sabha House of the
+                        People
+
+
+
+
+
+
+* Special Characters not allowed
+
+
+
+
+
+
+
+
+
+
+
+
+India Time 
+
+
+Your Time 
+
+
+                        Monday,
+                        11 April 2022
+
+
+
+
+
+
+
+
+
+HomeMembersSitting MembersMembers Home PageMembers' PortalContact DetailsMembers SearchStatistical AnalysisAttendance of MembersHandbook Members Since 1952Digitized Who's WhoOthers BusinessProvisional CalendarList of BusinessPapers to be LaidList of Private Members' BusinessBulletin-IDigitized Lok Sabha Bulletin Part IBulletin-IIStatement of WorkSpecial Mentions (ZERO HOUR)Resume of WorkDigitized Resume of Work done by Lok Sabha QuestionsHomeQuestion ListStatus of notices of questionQuestions CalendarGrouping of Ministries - AlphabeticalOfficers in Min./Dept. Dealing with Parliamentary WorkQuestion SearchSupplementary Questions DebatesIntroductionSynopsisUncorrected DebateText of DebateDigitized DebatesConstituent Assembly DebatesWit And HumourDebate SearchHindi FontsDisclaimer Papers LaidPapers Laid on the Table of the House LegislationIntroduction(How Bill Becomes Act)Bills IntroducedBills PassedBills PendingBills AssentedBills LapsedBills WithdrawnBills NegativedBills Search Disclaimer CommitteesIntroductionChairpersonSummary of WorkCommittee Meetings ScheduleBills Referred to CommitteesReports PresentedDigitized ReportsPress ReleaseMembership SearchToday's Committee MeetingsCommittee Subject SelectedDepartment Related-RS Govt. AssurancesSANSAD TVIntranet
+
+
+
+
+
+HomeQuestion ListStatus of notices of questionQuestions CalendarGrouping of Ministries - AlphabeticalOfficers in Min./Dept. Dealing with Parliamentary WorkQuestion SearchSupplementary Questions
+
+
+
+
+
+
+
+
+
+
+
+Download as PDF
+
+
+
+
+Print
+
+
+
+
+
+
+
+
+
+
+
+
+PDF/WORD(Hindi)
+
+
+PDF/WORD
+
+
+
+
+                                    GOVERNMENT OF INDIA
+                                
+
+
+
+
+
+                                    MINISTRY OF
+                                    HEALTH AND FAMILY WELFARE
+
+
+
+
+
+
+                                    LOK SABHA
+                                
+
+
+
+
+
+UNSTARRED 
+
+
+                                    QUESTION NO:
+                                
+
+950
+
+
+
+
+
+
+                                    ANSWERED ON: 
+                                
+
+18.09.2020
+
+
+
+
+
+
+National Digital Health Mission (NDHM)
+
+
+
+
+Midhun Reddy
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                    L.S. Tejasvi Surya
+                                                
+
+
+
+
+
+
+
+
+                                                    Pocha Brahmananda Reddy
+                                                
+
+
+
+
+
+
+
+
+                                                     Chandra Sekhar Bellana
+                                                
+
+
+
+
+
+
+
+
+                                                    Magunta Sreenivasulu Reddy
+                                                
+
+
+
+
+
+
+
+
+                                                    K. Subbarayan
+                                                
+
+
+
+
+
+
+
+
+                                                    Pinaki Misra
+                                                
+
+
+
+
+
+
+
+
+
+
+
+
+                        Will the Minister of
+
+
+
+
+
+HEALTH AND FAMILY WELFARE
+
+
+                        be pleased to state:-
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                    Will the Minister of HEALTH AND FAMILY WELFARE be pleased to state:(a) whether the Government has announced National Digital Health Mission (NDHM) and Health Data Management Policy (HDMP), if so, the details thereof along with the manner and time by which it will be implemented;(b) whether the Government has prepared an opensource interface like UPI for the National Health ID proposed under the National Digital Health Mission (NDHM), and if so, the details thereof;(c) whether the Government has taken note of the concerns raised with regard to data privacy of the individuals, if so, the details thereof and necessary steps taken in this regard;(d) the details of the competent authorities who will be able to gain access to personal medical data under the NDHM and the criteria for gaining such access;(e) whether the creation of digital Health IDs will be voluntary and if so, whether it will be implemented through an opt-in or an opt-out model, if so, the details thereof; and(f) whether the Government would consider delaying the implementation of NDHM and Health Data Management Policy (HDMP) until such a time as a national data protection law has been enacted, if so the details thereof and if not the reasons therefor?
+
+
+
+
+
+
+ANSWER
+
+
+
+
+                                                        ANSWERTHE MINISTER OF STATE IN THE MINISTRY OF HEALTH AND FAMILY WELFARE(SHRI ASHWINI KUMAR CHOUBEY)(a):	Yes, National Digital Health Mission (NDHM) has been announced by Hon’ble Prime Minister on 15th August 2020.The NDHM is being implemented in phase wise manner. •	Currently, Phase 1 is under implementation in 6 UTs on pilot basis.•	Phase 2 will cover additional States with expansion of the services.•	Phase 3 will target nation-wide roll-out, operationalizing and converging with all health schemes across India along with promotion, on-boarding, and acceptance of NDHM across the country.The draft Health Data Management Policy for the National Digital Health Mission has been uploaded on the portal on 20th August 2020 seeking public feedback.Public comments are awaited, after which the necessary action to finalize the policy will be taken.(b):	The NDHM will adopt the policy on Open Standards and Open Source Software, notified by MeitY, GoI, in designing of the building blocks and in all procurements.(c):	‘Privacy by Design’ is the one of the principles, on which NDHM is being implemented. The draft Health Data Management Policy has appropriately included measures for data privacy based on GoI guidelines, acts and laws. (d):	The NDHM will have a robust consent framework for facilitating sharing of data in the NDHM ecosystem.The patient is the owner of the data and has complete control over sharing his/her data in NDHM ecosystem. The personal medical data can only be shared by the patient by giving proper consent following consent framework of NDHM.(e):	Yes, the creation of Health ID is voluntary. It is an ‘opt-in’ model wherein an individual will be required to generate the Health ID if he/she wishes to be a part of NDHM. After opting in, at any stage, he/she can opt out.(f):	No, there is no proposal to delay the implementation of NDHM and Health Data Management Policy (HDMP).The privacy & security proposed in the Personal Data Protection (PDP) bill have been adopted in the NDHM ecosystem and Health Data Management Policy (HDMP).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+HomeArchiveIndex to Select Questions (1984-1999)Ballot ListStatistical Statements Relating to QuestionsUploading of Questions - Status QueryProcedure for Sending Text of Questions & AnswersDemarcation of responsibilities in Govt. of IndiaBrochure on Statutory Corporations, Companies and Other Bodies in Which the Government of India have financial or controlling interestHighlights pertaining to questions of 17th Lok Sabha
+
+
+
+
+
+
+Contact Us 
+Disclaimer
+
+
+
+
+
+
+
+
+
+
+
+        Developed and Hosted by National Informatics Centre (NIC)
+
+Content on this website is published,
+            managed & maintained by Software Unit, Computer (HW & SW) Management. Branch,
+            Lok Sabha Secretariat
+
+
+
+
+
+HomeMembersBusinessQuestionsDebatesPapers Laid
+
+
+LegislationCommitteesSANSAD TVIntranetSecretariatPRIDE
+
+
+RecruitmentSC/ST ReservationConferenceParliament Library
+
+
+About ParliamentPhoto GalleryRelated LinksRTITendersFAQ
+
+
+SpeakerDy. SpeakerLeader of the HousePanel of ChairpersonsContact UsFeedback
+
+
+Council of MinistersPublications of MinistriesParliamentry ProceduresJournal of Parliamentary Information
+Visitor's Counter:113191740
+
+
+
+
+
+
+
+Copyright
+Privacy Policy
+Disclaimer
+Terms &
+                Conditions
+
+                Accessibility Statement
+Accessibility
+                Options
+Feedback
+Site Map
+
+
+
+
+
+
+

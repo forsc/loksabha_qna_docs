@@ -1,0 +1,363 @@
+
+
+
+
+	Questions : Lok Sabha
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Screen Reader Access
+Skip to Main Content
+Skip to Navigation
+
+
+
+Text Size
+
+                                A
+
+                                A
+A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+हिन्दी मे
+
+
+
+
+
+
+
+
+Parliament of India Lok Sabha House of the
+                        People
+
+
+
+
+
+
+* Special Characters not allowed
+
+
+
+
+
+
+
+
+
+
+
+
+India Time 
+
+
+Your Time 
+
+
+                        Monday,
+                        11 April 2022
+
+
+
+
+
+
+
+
+
+HomeMembersSitting MembersMembers Home PageMembers' PortalContact DetailsMembers SearchStatistical AnalysisAttendance of MembersHandbook Members Since 1952Digitized Who's WhoOthers BusinessProvisional CalendarList of BusinessPapers to be LaidList of Private Members' BusinessBulletin-IDigitized Lok Sabha Bulletin Part IBulletin-IIStatement of WorkSpecial Mentions (ZERO HOUR)Resume of WorkDigitized Resume of Work done by Lok Sabha QuestionsHomeQuestion ListStatus of notices of questionQuestions CalendarGrouping of Ministries - AlphabeticalOfficers in Min./Dept. Dealing with Parliamentary WorkQuestion SearchSupplementary Questions DebatesIntroductionSynopsisUncorrected DebateText of DebateDigitized DebatesConstituent Assembly DebatesWit And HumourDebate SearchHindi FontsDisclaimer Papers LaidPapers Laid on the Table of the House LegislationIntroduction(How Bill Becomes Act)Bills IntroducedBills PassedBills PendingBills AssentedBills LapsedBills WithdrawnBills NegativedBills Search Disclaimer CommitteesIntroductionChairpersonSummary of WorkCommittee Meetings ScheduleBills Referred to CommitteesReports PresentedDigitized ReportsPress ReleaseMembership SearchToday's Committee MeetingsCommittee Subject SelectedDepartment Related-RS Govt. AssurancesSANSAD TVIntranet
+
+
+
+
+
+HomeQuestion ListStatus of notices of questionQuestions CalendarGrouping of Ministries - AlphabeticalOfficers in Min./Dept. Dealing with Parliamentary WorkQuestion SearchSupplementary Questions
+
+
+
+
+
+
+
+
+
+
+
+Download as PDF
+
+
+
+
+Print
+
+
+
+
+
+
+
+
+
+
+
+
+PDF/WORD(Hindi)
+
+
+PDF/WORD
+
+
+
+
+                                    GOVERNMENT OF INDIA
+                                
+
+
+
+
+
+                                    MINISTRY OF
+                                    EARTH SCIENCES
+
+
+
+
+
+
+                                    LOK SABHA
+                                
+
+
+
+
+
+UNSTARRED 
+
+
+                                    QUESTION NO:
+                                
+
+2857
+
+
+
+
+
+
+                                    ANSWERED ON: 
+                                
+
+12.03.2021
+
+
+
+
+
+
+Technology for Forecasting of Floods
+
+
+
+
+Vijay Baghel
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                    Arun Sao
+                                                
+
+
+
+
+
+
+
+
+
+
+
+
+                        Will the Minister of
+
+
+
+
+
+EARTH SCIENCES
+
+
+                        be pleased to state:-
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                    GOVERNMENT OF INDIAMINISTRY OF EARTH SCIENCESLOK SABHAUNSTARRED QUESTION NO. 2857TO BE ANSWERED ON FRIDAY, MARCH 12, 2021TECHNOLOGY FOR FORECASTING OF FLOODS2857. 	SHRI VIJAY BAGHEL: SHRI ARUN SAO:Will the Minister of EARTH SCIENCES be pleased to state:(a)     the details of technology being used by Indian Meteorological Department regarding prevention and forecasting of floods in the country; (b)      the comparative study of technology being used in the country at par with international standards; (c)    whether the Government proposes to prevent and check the devastation caused by floods on large scale with the help of present forecasting technology; (d)       if so, the details thereof; and (e)       the details of proposals received by the Government in this regard during the last three  years?
+
+
+
+
+
+
+ANSWER
+
+
+
+
+                                                        ANSWERMINISTER FOR MINISTRY OF SCIENCE AND TECHNOLOGY AND MINISTRY OF EARTH SCIENCES(DR. HARSH VARDHAN)(a)	Forecasting and prevention of floods are the responsibilities of the Central Water Commission (CWC), Ministry of Water Resources. However, India Meteorological Department (IMD) supports flood warning services of Central Water Commission (CWC) by providing observed and predicted rainfall. In order to meet specific requirements of flood warnings by CWC, India Meteorological Department (IMD) operates Flood Meteorological Offices (FMOs) at 13 locations viz., Agra, Ahmedabad, Asansol, Bhubaneshwar, Guwahati, Hyderabad, Jalpaiguri, Lucknow, New Delhi, Patna, Srinagar, Bengaluru and Chennai. Apart from this, IMD also supports Damodar Valley Corporation (DVC) by providing Quantitative Precipitation Forecast (QPF) for Damodar river basin areas for their flood forecasting activities. Flood Meteorological Offices (FMO) provide meteorological support to the CWC for issuing flood warnings well in advance in respect of 153 river basins. CWC issues flood forecasts as a non-structural measure of flood management, to concerned State Governments depending on the requisition from them at identified locations. CWC also issues inflow forecasts to identified reservoirs for proper reservoir regulation. Flood forecast formulation methodology used by CWC includes: 	Conventional statistical correlation methodology: It includes gauge to gauge correlation between base station (upstream of forecasting station) and forecasting station. This method provides advance warning time from 6 to 24 hrs depending upon the terrain.  IMD provides 3 day Quantitative Precipitation Forecast (QPF) in ranges of 0, 0.1-10mm, 11-25 mm, 26-37mm, 38-50 mm, 51-75 mm, 76-100 mm and >100 mm for various  river sub-basins to the concerned Divisional Flood Control Room of CWC through their Flood Meteorological Offices spread all over the country.Rainfall-Runoff mathematical modeling technology: It includes mathematical modeling of river basin based on rainfall runoff methodology. Input taken is rainfall provided by IMD through its Automatic Weather Station (AWS) & Automatic Rain Gauge (ARG) stations and CWC telemetry stations.  The three days advance forecast is generated using various available rainfall data products as a major input into the system like IMD Gridded Rainfall product and other global rainfall products such as GSMaP (Global Satellite Mapping of Precipitation), GPM (Global Precipitation Measurement) and the IMD forecasted rainfall data (WRF- Weather Research and Forecast, GFS- Global Forecast System). Numerical Weather Prediction (NWP) model products viz. Weather Research and Forecast (WRF) model which is given for 3 days and Global Forecasting System (GFS) model product which is given for 10 days are seamlessly shared by IMD for use in mathematical models by CWC. Mathematical model has been used for formulation of advisories and these advisories are shared with stake holders using dedicated website.Besides this, CWC is also providing inundation forecast in the same platform using 2-dimensional models for main Brahmaputra and is also shared with beneficiaries through the same website.Modernization of dissemination of flood forecasts: Dissemination of flood forecasts have been modernised by having a dedicated website. The flood information is also shared via various social media platforms of CWC Flood Forecast dissemination system. Daily Flood Situation Report cum Advisories are also shared with all stake holders as well as general public. CWC has signed an MOU with M/s Google Inc for using their vast repository of high resolution Digital Elevation Models and the power of dissemination to send alerts regarding inundation through Google Platform using the flood forecasts issued by CWC.(b)	Flood Forecasting by CWC uses all the latest technology including remote-sensing, Geographical Information System (GIS), Internet, Artificial Intelligence and Machine Learning in development/ running/ formulation and calibration of Mathematical models and for providing Inundation Alerts which are closely at par with international standards.(c)-(d) Yes Sir. At the end of flood season CWC prepares an Appraisal of flood forecasting activity in which the accuracy/performance of the forecasts are compiled.  In conventional methodology of forecast, a level forecast is deemed to be accurate if the forecasted level is within +/- 0.15 m from the actual river water level attained at the forecasted time.  Similarly, for inflow forecast, if the forecasted inflow is within +/- 20% from the actual inflow into the reservoir.  Statement showing the accuracy of the system for the period 2000-2020 is given in Annexure-I.(e)   Ministry of Earth Sciences has not received any proposals in this regard.*****  Annexure I  FLOOD FORECASTING PERFORMANCE FROM 2000 TO 2020(as provided by Central Water Commission)Year	No.of Level Forecasts issued	No.of Inflow Forecasts issued	Total No.of Forecasts issued	Total	Within +/-15 cm of deviation from actual	Accuracy  (%)	Total	Within  +/-20% cumec of deviation from actual	Accuracy (%)	Total	Within  +/-15 cm or +/-20% cumec of deviation from actual	Accuracy  (%)2000	5622	5504	97.90	821	747	90.99	6443	6251	97.022001	4606	4533	98.42	857	809	94.40	5463	5342	97.792002	3618	3549	98.09	623	602	96.63	4241	4151	97.882003	5989	5789	96.66	611	586	95.91	6600	6375	96.592004	4184	4042	96.61	705	654	92.77	4889	4696	96.052005	4323	4162	96.28	1295	1261	97.37	5618	5423	96.532006	5070	4827	95.21	1593	1550	97.30	6663	6377	95.712007	6516	6339	97.28	1707	1651	96.72	8223	7990	97.172008	5670	5551	97.90	1021	1003	98.24	6691	6554	97.952009	3343	3298	98.65	667	629	94.30	4010	3927	97.932010	6491	6390	98.44	1028	988	96.11	7519	7378	98.122011	4848	4795	98.91	1143	1109	97.03	5991	5904	98.552012	4200	4136	98.47	831	803	96.63	5031	4939	98.172013	5741	5471	95.30	1319	1289	97.73	7060	6760	95.752014	3884	3804	97.94	888	863	97.18	4772	4667	97.802015	3500	3429	97.97	572	562	98.25	4072	3991	98.012016	4969	4891	98.43	1270	1057	83.23	6239	5948	95.342017	5085	4975	97.84	1212	926	76.40	6297	5901	93.712018	4969	4871	98.03	1882	1624	86.29	6851	6495	94.802019	6004	5773	96.15	3750	2678	71.41	9754	8451	86.642020	8243	8133	98.67	3478	3065	88.13	11721	11198	95.54Average	5089	4965	97.56	1299	1165	89.68	6388	6129	95.95
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+HomeArchiveIndex to Select Questions (1984-1999)Ballot ListStatistical Statements Relating to QuestionsUploading of Questions - Status QueryProcedure for Sending Text of Questions & AnswersDemarcation of responsibilities in Govt. of IndiaBrochure on Statutory Corporations, Companies and Other Bodies in Which the Government of India have financial or controlling interestHighlights pertaining to questions of 17th Lok Sabha
+
+
+
+
+
+
+Contact Us 
+Disclaimer
+
+
+
+
+
+
+
+
+
+
+
+        Developed and Hosted by National Informatics Centre (NIC)
+
+Content on this website is published,
+            managed & maintained by Software Unit, Computer (HW & SW) Management. Branch,
+            Lok Sabha Secretariat
+
+
+
+
+
+HomeMembersBusinessQuestionsDebatesPapers Laid
+
+
+LegislationCommitteesSANSAD TVIntranetSecretariatPRIDE
+
+
+RecruitmentSC/ST ReservationConferenceParliament Library
+
+
+About ParliamentPhoto GalleryRelated LinksRTITendersFAQ
+
+
+SpeakerDy. SpeakerLeader of the HousePanel of ChairpersonsContact UsFeedback
+
+
+Council of MinistersPublications of MinistriesParliamentry ProceduresJournal of Parliamentary Information
+Visitor's Counter:113206958
+
+
+
+
+
+
+
+Copyright
+Privacy Policy
+Disclaimer
+Terms &
+                Conditions
+
+                Accessibility Statement
+Accessibility
+                Options
+Feedback
+Site Map
+
+
+
+
+
+
+

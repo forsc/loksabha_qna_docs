@@ -1,0 +1,373 @@
+
+
+
+
+	Questions : Lok Sabha
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Screen Reader Access
+Skip to Main Content
+Skip to Navigation
+
+
+
+Text Size
+
+                                A
+
+                                A
+A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+हिन्दी मे
+
+
+
+
+
+
+
+
+Parliament of India Lok Sabha House of the
+                        People
+
+
+
+
+
+
+* Special Characters not allowed
+
+
+
+
+
+
+
+
+
+
+
+
+India Time 
+
+
+Your Time 
+
+
+                        Tuesday,
+                        12 April 2022
+
+
+
+
+
+
+
+
+
+HomeMembersSitting MembersMembers Home PageMembers' PortalContact DetailsMembers SearchStatistical AnalysisAttendance of MembersHandbook Members Since 1952Digitized Who's WhoOthers BusinessProvisional CalendarList of BusinessPapers to be LaidList of Private Members' BusinessBulletin-IDigitized Lok Sabha Bulletin Part IBulletin-IIStatement of WorkSpecial Mentions (ZERO HOUR)Resume of WorkDigitized Resume of Work done by Lok Sabha QuestionsHomeQuestion ListStatus of notices of questionQuestions CalendarGrouping of Ministries - AlphabeticalOfficers in Min./Dept. Dealing with Parliamentary WorkQuestion SearchSupplementary Questions DebatesIntroductionSynopsisUncorrected DebateText of DebateDigitized DebatesConstituent Assembly DebatesWit And HumourDebate SearchHindi FontsDisclaimer Papers LaidPapers Laid on the Table of the House LegislationIntroduction(How Bill Becomes Act)Bills IntroducedBills PassedBills PendingBills AssentedBills LapsedBills WithdrawnBills NegativedBills Search Disclaimer CommitteesIntroductionChairpersonSummary of WorkCommittee Meetings ScheduleBills Referred to CommitteesReports PresentedDigitized ReportsPress ReleaseMembership SearchToday's Committee MeetingsCommittee Subject SelectedDepartment Related-RS Govt. AssurancesSANSAD TVIntranet
+
+
+
+
+
+HomeQuestion ListStatus of notices of questionQuestions CalendarGrouping of Ministries - AlphabeticalOfficers in Min./Dept. Dealing with Parliamentary WorkQuestion SearchSupplementary Questions
+
+
+
+
+
+
+
+
+
+
+
+Download as PDF
+
+
+
+
+Print
+
+
+
+
+
+
+
+
+
+
+
+
+PDF/WORD(Hindi)
+
+
+PDF/WORD
+
+
+
+
+                                    GOVERNMENT OF INDIA
+                                
+
+
+
+
+
+                                    MINISTRY OF
+                                    SCIENCE AND TECHNOLOGY
+
+
+
+
+
+
+                                    LOK SABHA
+                                
+
+
+
+
+
+UNSTARRED 
+
+
+                                    QUESTION NO:
+                                
+
+1878
+
+
+
+
+
+
+                                    ANSWERED ON: 
+                                
+
+30.07.2021
+
+
+
+
+
+
+COVID-19 Severity Score
+
+
+
+
+T.R.V.S. Ramesh
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                     Chinta Anuradha
+                                                
+
+
+
+
+
+
+
+
+                                                    Magunta Sreenivasulu Reddy
+                                                
+
+
+
+
+
+
+
+
+
+
+
+
+                        Will the Minister of
+
+
+
+
+
+SCIENCE AND TECHNOLOGY
+
+
+                        be pleased to state:-
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                    (a)	      whether the Science for Equity, Empowerment and Development (SEED) division of Department of Science and Technology (DST) have developed an algorithm in partnership with other agencies to measure symptoms, vital parameters, test reports and co-morbidities of the COVID-19 positive patient against a pre-set dynamic algorithm to generate a Covid Severity Score (CSS);(b)	     if so, the details thereof;(c)	     whether the application of this software can help in early identification of patients who require ventilator support in an ICU and other critical care; and(d)      if so, the details thereof?
+
+
+
+
+
+
+ANSWER
+
+
+
+
+                                                        MINISTER OF STATE (INDEPENDENT CHARGE) OF SCIENCE AND TECHNOLOGY AND EARTH SCIENCES(DR. JITENDRA SINGH)??????? ?? ???????????? ??? ?????? ??????? ??  ????? ?????? (???????? ??????)  (??. ???????? ????)(a) Yes, Sir, Science for Equity Empowerment & Development (SEED) Division of Department of Science and Technology (DST), under a project supported for sustainable public health & primary care by the Foundation For Innovations In Health, Kolkata has developed an algorithm that measures COVID Severity Score (CSS).(b)  The software application is suitable for use by Frontline Health Workers and other  health personnel. The algorithm has been expanded, to measure different parameters of a COVID-19 positive patient (symptoms, vital parameters, test reports and  co-morbidities) and it scores each patient against a pre-set dynamic algorithm and allocates a COVID Severity Score (CSS). In this initiative, the organization has  collaborated with IIT, Guwahati, University of Edinburgh and World Health Organisation (WHO) (South East Asia  Regional Office). This technology has been made available at primary care e-Health clinics in resource poor settings through the project supported by the SEED division. Certified “Frontline Health Workers” received additional training from Healthcare Sector Skill Council as COVID Warrior.  The Hon''ble Prime Minister inaugurated the training centre at IIT Guwahati for training of "Customised Crash Course Program for COVID Warriors". The students at this course are being trained in the use of CSS, apart from specific capacity-building in various aspects of COVID management.(c)   Yes, Sir. (d)  The software generates a CSS based on personal information, symptoms, vital parameters and laboratory test reports. The software dynamically monitors the clinical status of the patient so that informed and timely decision can be taken regarding clinical management plan of COVID affected patients viz. requirement of ICU admission, ventilator support, discharge, etc. The details may be seen at Annexure I. Annexure I A) The software is designed to enable earlier identification of COVID patients who will need admission in a hospital ward or ICU. The software generates a Covid Severity Score (CSS) based on four types of variables: 1) Personal information: such as history of smoking, age, vaccination status, relevant medical and surgical history; 2) Symptoms: a total of 10 symptoms are monitored to provide a score based on the progression of symptoms. Each symptom can be entered into the software as a score (scale of 1-5, 1 being least, 5 being maximum) based on its severity; 3) Signs: A total of 5 vital parameters are regularly monitored and the data is entered into the software; 4) Laboratory test reports.B) The above data from a patient is an input to generate a static CSS the first time a patient is brought under care. Subsequently, a dynamic CSS score is constantly generated based on data input by a health worker, which is processed by the software. Any alteration of the clinical status of the patient can be picked up by the dynamic CSS score trend analysis, including deterioration in the condition of the patient.C) Based on this, a decision can be taken regarding ICU/Hospital admission of the patient/discharge/continuing clinical management plan. This also allows monitoring of patient’s clinical status during treatment being received outside the hospital setting.D) The ‘CSS’ is regularly monitored multiple times for each patient in a graphical trend. An offline module, for geographies with no internet services, is in conceptual stage.E) This allows earlier identification of patients likely to require ventilatory support in an ICU and reduces hospital referral for those unlikely to require critical care support, thus releasing more hospital beds in circulation. It helps in providing monitored medical support to those patients who cannot afford treatment or cannot isolate at home due to poor housing conditions.  *****
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+HomeArchiveIndex to Select Questions (1984-1999)Ballot ListStatistical Statements Relating to QuestionsUploading of Questions - Status QueryProcedure for Sending Text of Questions & AnswersDemarcation of responsibilities in Govt. of IndiaBrochure on Statutory Corporations, Companies and Other Bodies in Which the Government of India have financial or controlling interestHighlights pertaining to questions of 17th Lok Sabha
+
+
+
+
+
+
+Contact Us 
+Disclaimer
+
+
+
+
+
+
+
+
+
+
+
+        Developed and Hosted by National Informatics Centre (NIC)
+
+Content on this website is published,
+            managed & maintained by Software Unit, Computer (HW & SW) Management. Branch,
+            Lok Sabha Secretariat
+
+
+
+
+
+HomeMembersBusinessQuestionsDebatesPapers Laid
+
+
+LegislationCommitteesSANSAD TVIntranetSecretariatPRIDE
+
+
+RecruitmentSC/ST ReservationConferenceParliament Library
+
+
+About ParliamentPhoto GalleryRelated LinksRTITendersFAQ
+
+
+SpeakerDy. SpeakerLeader of the HousePanel of ChairpersonsContact UsFeedback
+
+
+Council of MinistersPublications of MinistriesParliamentry ProceduresJournal of Parliamentary Information
+Visitor's Counter:113218135
+
+
+
+
+
+
+
+Copyright
+Privacy Policy
+Disclaimer
+Terms &
+                Conditions
+
+                Accessibility Statement
+Accessibility
+                Options
+Feedback
+Site Map
+
+
+
+
+
+
+

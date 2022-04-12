@@ -1,0 +1,350 @@
+
+
+
+
+	Questions : Lok Sabha
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Screen Reader Access
+Skip to Main Content
+Skip to Navigation
+
+
+
+Text Size
+
+                                A
+
+                                A
+A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+हिन्दी मे
+
+
+
+
+
+
+
+
+Parliament of India Lok Sabha House of the
+                        People
+
+
+
+
+
+
+* Special Characters not allowed
+
+
+
+
+
+
+
+
+
+
+
+
+India Time 
+
+
+Your Time 
+
+
+                        Monday,
+                        11 April 2022
+
+
+
+
+
+
+
+
+
+HomeMembersSitting MembersMembers Home PageMembers' PortalContact DetailsMembers SearchStatistical AnalysisAttendance of MembersHandbook Members Since 1952Digitized Who's WhoOthers BusinessProvisional CalendarList of BusinessPapers to be LaidList of Private Members' BusinessBulletin-IDigitized Lok Sabha Bulletin Part IBulletin-IIStatement of WorkSpecial Mentions (ZERO HOUR)Resume of WorkDigitized Resume of Work done by Lok Sabha QuestionsHomeQuestion ListStatus of notices of questionQuestions CalendarGrouping of Ministries - AlphabeticalOfficers in Min./Dept. Dealing with Parliamentary WorkQuestion SearchSupplementary Questions DebatesIntroductionSynopsisUncorrected DebateText of DebateDigitized DebatesConstituent Assembly DebatesWit And HumourDebate SearchHindi FontsDisclaimer Papers LaidPapers Laid on the Table of the House LegislationIntroduction(How Bill Becomes Act)Bills IntroducedBills PassedBills PendingBills AssentedBills LapsedBills WithdrawnBills NegativedBills Search Disclaimer CommitteesIntroductionChairpersonSummary of WorkCommittee Meetings ScheduleBills Referred to CommitteesReports PresentedDigitized ReportsPress ReleaseMembership SearchToday's Committee MeetingsCommittee Subject SelectedDepartment Related-RS Govt. AssurancesSANSAD TVIntranet
+
+
+
+
+
+HomeQuestion ListStatus of notices of questionQuestions CalendarGrouping of Ministries - AlphabeticalOfficers in Min./Dept. Dealing with Parliamentary WorkQuestion SearchSupplementary Questions
+
+
+
+
+
+
+
+
+
+
+
+Download as PDF
+
+
+
+
+Print
+
+
+
+
+
+
+
+
+
+
+
+
+PDF/WORD(Hindi)
+
+
+PDF/WORD
+
+
+
+
+                                    GOVERNMENT OF INDIA
+                                
+
+
+
+
+
+                                    MINISTRY OF
+                                    ELECTRONICS AND INFORMATION TECHNOLOGY
+
+
+
+
+
+
+                                    LOK SABHA
+                                
+
+
+
+
+
+UNSTARRED 
+
+
+                                    QUESTION NO:
+                                
+
+3686
+
+
+
+
+
+
+                                    ANSWERED ON: 
+                                
+
+11.12.2019
+
+
+
+
+
+
+Hacking of WhatsApp Platform
+
+
+
+
+Anumula Revanth Reddy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        Will the Minister of
+
+
+
+
+
+ELECTRONICS AND INFORMATION TECHNOLOGY
+
+
+                        be pleased to state:-
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                    Will the Minister of Electronics & Information Technology be pleased to state:-(a) 	whether the social media platform WhatsApp was hacked to spy on Indian activists, Journalists and Lawyers and if so, the details thereof; (b) 	the details of the reply/comments received by the Government from the said platform on this issue;(c)	whether the Government has written to the NSO group asking for a reply on the aforesaid issue and if so, the details thereof and if not, the reasons therefor; and (d) 	the results of investigation conducted by the Government in this regard?
+
+
+
+
+
+
+ANSWER
+
+
+
+
+                                                        ):    Government had been informed by WhatsApp of a vulnerability affecting some WhatsApp mobile users’ devices through a spyware namely Pegasus. According to WhatsApp, this spyware was developed by an Israel based company NSO Group and that it had developed and used Pegasus spyware to attempt to reach mobile phones of a possible number of 1400 users globally that includes 121 users from India. Some statements have appeared based on reports in media, regarding breach of privacy of Indian citizens on WhatsApp. These attempts to malign the Government of India for the reported breach are completely misleading.  The Government is committed to protect the fundamental rights of citizens, including the right to privacy. The Government operates strictly as per provisions of law and laid down protocols. There are adequate safeguards to ensure that no innocent citizen is harassed or his privacy breached.(b)	to (d):  On May 20, 2019 WhatsApp reported an incident to the Indian Computer Emergency Response Team (CERT-In) stating that WhatsApp had identified and promptly fixed a vulnerability that could enable an attacker to insert and execute code on mobile devices and that the vulnerability can no longer be exploited to carry out attacks. However, CERT-In has already published a vulnerability note on May 17, 2019 advising countermeasures to users regarding the above said vulnerability in WhatsApp. On September 5, 2019 WhatsApp wrote to CERT-In mentioning an update to the security incident reported in May 2019, that while the full extent of this attack may never be known, WhatsApp continued to review the available information. It also mentioned that WhatsApp believes it is likely that devices of approximately one hundred and twenty one users in India may have been attempted to be reached. Based on news and information in public and media on snooping of mobile devices of Indian citizens through WhatsApp by spy software Pegasus, CERT-In has sought submission of relevant details and information from WhatsApp and NSO group.********
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+HomeArchiveIndex to Select Questions (1984-1999)Ballot ListStatistical Statements Relating to QuestionsUploading of Questions - Status QueryProcedure for Sending Text of Questions & AnswersDemarcation of responsibilities in Govt. of IndiaBrochure on Statutory Corporations, Companies and Other Bodies in Which the Government of India have financial or controlling interestHighlights pertaining to questions of 17th Lok Sabha
+
+
+
+
+
+
+Contact Us 
+Disclaimer
+
+
+
+
+
+
+
+
+
+
+
+        Developed and Hosted by National Informatics Centre (NIC)
+
+Content on this website is published,
+            managed & maintained by Software Unit, Computer (HW & SW) Management. Branch,
+            Lok Sabha Secretariat
+
+
+
+
+
+HomeMembersBusinessQuestionsDebatesPapers Laid
+
+
+LegislationCommitteesSANSAD TVIntranetSecretariatPRIDE
+
+
+RecruitmentSC/ST ReservationConferenceParliament Library
+
+
+About ParliamentPhoto GalleryRelated LinksRTITendersFAQ
+
+
+SpeakerDy. SpeakerLeader of the HousePanel of ChairpersonsContact UsFeedback
+
+
+Council of MinistersPublications of MinistriesParliamentry ProceduresJournal of Parliamentary Information
+Visitor's Counter:113166948
+
+
+
+
+
+
+
+Copyright
+Privacy Policy
+Disclaimer
+Terms &
+                Conditions
+
+                Accessibility Statement
+Accessibility
+                Options
+Feedback
+Site Map
+
+
+
+
+
+
+

@@ -1,0 +1,350 @@
+
+
+
+
+	Questions : Lok Sabha
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Screen Reader Access
+Skip to Main Content
+Skip to Navigation
+
+
+
+Text Size
+
+                                A
+
+                                A
+A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+हिन्दी मे
+
+
+
+
+
+
+
+
+Parliament of India Lok Sabha House of the
+                        People
+
+
+
+
+
+
+* Special Characters not allowed
+
+
+
+
+
+
+
+
+
+
+
+
+India Time 
+
+
+Your Time 
+
+
+                        Monday,
+                        11 April 2022
+
+
+
+
+
+
+
+
+
+HomeMembersSitting MembersMembers Home PageMembers' PortalContact DetailsMembers SearchStatistical AnalysisAttendance of MembersHandbook Members Since 1952Digitized Who's WhoOthers BusinessProvisional CalendarList of BusinessPapers to be LaidList of Private Members' BusinessBulletin-IDigitized Lok Sabha Bulletin Part IBulletin-IIStatement of WorkSpecial Mentions (ZERO HOUR)Resume of WorkDigitized Resume of Work done by Lok Sabha QuestionsHomeQuestion ListStatus of notices of questionQuestions CalendarGrouping of Ministries - AlphabeticalOfficers in Min./Dept. Dealing with Parliamentary WorkQuestion SearchSupplementary Questions DebatesIntroductionSynopsisUncorrected DebateText of DebateDigitized DebatesConstituent Assembly DebatesWit And HumourDebate SearchHindi FontsDisclaimer Papers LaidPapers Laid on the Table of the House LegislationIntroduction(How Bill Becomes Act)Bills IntroducedBills PassedBills PendingBills AssentedBills LapsedBills WithdrawnBills NegativedBills Search Disclaimer CommitteesIntroductionChairpersonSummary of WorkCommittee Meetings ScheduleBills Referred to CommitteesReports PresentedDigitized ReportsPress ReleaseMembership SearchToday's Committee MeetingsCommittee Subject SelectedDepartment Related-RS Govt. AssurancesSANSAD TVIntranet
+
+
+
+
+
+HomeQuestion ListStatus of notices of questionQuestions CalendarGrouping of Ministries - AlphabeticalOfficers in Min./Dept. Dealing with Parliamentary WorkQuestion SearchSupplementary Questions
+
+
+
+
+
+
+
+
+
+
+
+Download as PDF
+
+
+
+
+Print
+
+
+
+
+
+
+
+
+
+
+
+
+PDF/WORD(Hindi)
+
+
+PDF/WORD
+
+
+
+
+                                    GOVERNMENT OF INDIA
+                                
+
+
+
+
+
+                                    MINISTRY OF
+                                    FINANCE
+
+
+
+
+
+
+                                    LOK SABHA
+                                
+
+
+
+
+
+UNSTARRED 
+
+
+                                    QUESTION NO:
+                                
+
+2114
+
+
+
+
+
+
+                                    ANSWERED ON: 
+                                
+
+08.03.2021
+
+
+
+
+
+
+Digital Payment Gateways
+
+
+
+
+Pratima Bhoumik
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        Will the Minister of
+
+
+
+
+
+FINANCE
+
+
+                        be pleased to state:-
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                    (a)	whether it is a fact that all the online payments are done through the Payment Gateways and if so, the details thereof and the number of online payment gateways presently working in India; (b)	whether the Government has received any complaint(s) against the payment gateways for not doing the proper KYC of their clients and if so, the details thereof and action taken by the Government in this regard so far; (c)	whether the Government is working on making the strict guidelines in case of online fraud done through the online Payment Gateways for the return of fraud money and if so, the details thereof and if not, the reasons therefor?
+
+
+
+
+
+
+ANSWER
+
+
+
+
+                                                        THE MINISTER OF STATE IN THE MINISTRY OF FINANCE(a)	Other than Payment Gateways, online transactions are also done through the Real Time Gross Settlement (RTGS), National Electronic Funds Transfer (NEFT) [which is a nation-wide centralized payment system owned and operated by the Reserve Bank of India (RBI)] and intra-bank transfers through banks’ Core Banking Solution (CBS). RBI has issued “Guidelines on Regulation of Payment Aggregators (PAs) and Payment Gateways (PGs)” on 17.03.2020 to regulate the activities of online PAs while providing baseline technology-related recommendations to PGs. As per these Guidelines, non-bank PAs require authorization from RBI under the Payment and Settlement Systems Act, 2007 and PGs shall be considered as ‘technology providers’ or ‘outsourcing partners’ of banks or non-banks, as the case may be. Existing PAs have been given time till 30.06.2021 to apply for authorization. As on date, RBI’s Department of Payment and Settlement Systems has not issued authorization to any entity to operate as a PA. Since issuance of the Guidelines, RBI has received 9 applications and currently 3 are under process. The other 6 applications have been returned by RBI due to non-compliance with RBI’s requirements.(b)	RBI’s aforementioned Guidelines dated 17.03.2020 provide that the Know Your Customer (KYC) / Anti-Money Laundering (AML) / Combating Financing of Terrorism (CFT) guidelines issued by RBI, in their “Master Direction – Know Your Customer (KYC) Directions” updated from time to time, apply mutatis mutandis to all PAs. In case a non-bank PA is maintaining an account-based relationship with the merchant, the KYC guidelines of RBI are applicable to the non-bank PA also. The provisions of the Prevention of Money Laundering Act, 2002 and Rules framed thereunder, as amended from time to time, are also applicable. RBI has not informed of any complaint received by it against PGs for not doing the proper KYC of their clients.(c)	Instructions have also been issued by RBI with regard to security, fraud and risk management under the aforementioned Guidelines dated 17.03.2020. These, inter alia, provide that PAs have to put in place adequate information and data security infrastructure and systems for prevention and detection of frauds, and a Board approved information security policy for the safety and security of the payment systems operated by them to mitigate identified risks. Further, RBI has also issued a circular No. DPSS.CO.PD.No. 1417/02.14.006/2018-19 dated 04.01.2019 limiting the liability of customers in unauthorized electronic payment transactions in Prepaid Payment Instruments (PPIs) issued by Authorised Non-banks, for which PPI issuers have been given the necessary directions.***
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+HomeArchiveIndex to Select Questions (1984-1999)Ballot ListStatistical Statements Relating to QuestionsUploading of Questions - Status QueryProcedure for Sending Text of Questions & AnswersDemarcation of responsibilities in Govt. of IndiaBrochure on Statutory Corporations, Companies and Other Bodies in Which the Government of India have financial or controlling interestHighlights pertaining to questions of 17th Lok Sabha
+
+
+
+
+
+
+Contact Us 
+Disclaimer
+
+
+
+
+
+
+
+
+
+
+
+        Developed and Hosted by National Informatics Centre (NIC)
+
+Content on this website is published,
+            managed & maintained by Software Unit, Computer (HW & SW) Management. Branch,
+            Lok Sabha Secretariat
+
+
+
+
+
+HomeMembersBusinessQuestionsDebatesPapers Laid
+
+
+LegislationCommitteesSANSAD TVIntranetSecretariatPRIDE
+
+
+RecruitmentSC/ST ReservationConferenceParliament Library
+
+
+About ParliamentPhoto GalleryRelated LinksRTITendersFAQ
+
+
+SpeakerDy. SpeakerLeader of the HousePanel of ChairpersonsContact UsFeedback
+
+
+Council of MinistersPublications of MinistriesParliamentry ProceduresJournal of Parliamentary Information
+Visitor's Counter:113205144
+
+
+
+
+
+
+
+Copyright
+Privacy Policy
+Disclaimer
+Terms &
+                Conditions
+
+                Accessibility Statement
+Accessibility
+                Options
+Feedback
+Site Map
+
+
+
+
+
+
+

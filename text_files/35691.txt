@@ -1,0 +1,383 @@
+
+
+
+
+	Questions : Lok Sabha
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Screen Reader Access
+Skip to Main Content
+Skip to Navigation
+
+
+
+Text Size
+
+                                A
+
+                                A
+A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+हिन्दी मे
+
+
+
+
+
+
+
+
+Parliament of India Lok Sabha House of the
+                        People
+
+
+
+
+
+
+* Special Characters not allowed
+
+
+
+
+
+
+
+
+
+
+
+
+India Time 
+
+
+Your Time 
+
+
+                        Tuesday,
+                        12 April 2022
+
+
+
+
+
+
+
+
+
+HomeMembersSitting MembersMembers Home PageMembers' PortalContact DetailsMembers SearchStatistical AnalysisAttendance of MembersHandbook Members Since 1952Digitized Who's WhoOthers BusinessProvisional CalendarList of BusinessPapers to be LaidList of Private Members' BusinessBulletin-IDigitized Lok Sabha Bulletin Part IBulletin-IIStatement of WorkSpecial Mentions (ZERO HOUR)Resume of WorkDigitized Resume of Work done by Lok Sabha QuestionsHomeQuestion ListStatus of notices of questionQuestions CalendarGrouping of Ministries - AlphabeticalOfficers in Min./Dept. Dealing with Parliamentary WorkQuestion SearchSupplementary Questions DebatesIntroductionSynopsisUncorrected DebateText of DebateDigitized DebatesConstituent Assembly DebatesWit And HumourDebate SearchHindi FontsDisclaimer Papers LaidPapers Laid on the Table of the House LegislationIntroduction(How Bill Becomes Act)Bills IntroducedBills PassedBills PendingBills AssentedBills LapsedBills WithdrawnBills NegativedBills Search Disclaimer CommitteesIntroductionChairpersonSummary of WorkCommittee Meetings ScheduleBills Referred to CommitteesReports PresentedDigitized ReportsPress ReleaseMembership SearchToday's Committee MeetingsCommittee Subject SelectedDepartment Related-RS Govt. AssurancesSANSAD TVIntranet
+
+
+
+
+
+HomeQuestion ListStatus of notices of questionQuestions CalendarGrouping of Ministries - AlphabeticalOfficers in Min./Dept. Dealing with Parliamentary WorkQuestion SearchSupplementary Questions
+
+
+
+
+
+
+
+
+
+
+
+Download as PDF
+
+
+
+
+Print
+
+
+
+
+
+
+
+
+
+
+
+
+PDF/WORD(Hindi)
+
+
+PDF/WORD
+
+
+
+
+                                    GOVERNMENT OF INDIA
+                                
+
+
+
+
+
+                                    MINISTRY OF
+                                    RURAL DEVELOPMENT
+
+
+
+
+
+
+                                    LOK SABHA
+                                
+
+
+
+
+
+UNSTARRED 
+
+
+                                    QUESTION NO:
+                                
+
+3005
+
+
+
+
+
+
+                                    ANSWERED ON: 
+                                
+
+22.03.2022
+
+
+
+
+
+
+Rural Connectivity GIS Data for PMGSY
+
+
+
+
+Pritam Gopinath Munde
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                    Girish Bhalchandra Bapat
+                                                
+
+
+
+
+
+
+
+
+                                                    Chandra Sekhar Sahu
+                                                
+
+
+
+
+
+
+
+
+                                                     Rahul Ramesh Shewale
+                                                
+
+
+
+
+
+
+
+
+
+
+
+
+                        Will the Minister of
+
+
+
+
+
+RURAL DEVELOPMENT
+
+
+                        be pleased to state:-
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                    (a) 	whether the Union Government has released rural connectivity Geographic Information System (GIS) data developed for the Pradhan Mantri Gram Sadak Yojana (PMGSY) in Public Domain, if so, the details thereof;(b) 	the manner in which the rural infrastructure GIS data will help in bridging the gap between urban and rural India and transform India into Atmanirbhar Bharat;(c) 	whether PMGSY has played an important role in the development of rural India and if so, the details thereof including Odisha;(d) 	if so, whether any study has been conducted in this regard and if so, the outcome thereof;(e) 	whether roads sanctioned under PMGSY-III are being developed under new/green technology in the country; and(f) 	if so, the details thereof and the extent to which new/green technology is better and viable than the conventional road in the rural India?
+
+
+
+
+
+
+ANSWER
+
+
+
+
+                                                        MINISTER OF STATE IN THE MINISTRY OF RURAL DEVELOPMENT (SADHVI NIRANJAN JYOTI)(a)&(b) Yes, Sir. The Ministry of Rural Development has released Geographic Information System (GIS) data developed for the Pradhan Mantri Gram Sadak Yojana (PMGSY) scheme in Public Domain on 22nd February 2022 as a historic and most important contribution to National Geospatial Mission. The GIS dataset created under PMGSY-I&II are available for view and are open to the public at http://pmgsy-grris.nic.in. All the states have created data based on PMGSY National GIS guidelines. Under PMGSY-III, more than 7.70 lakh rural facilities such as medical, educational and markets have been geo-tagged. Details of rural roads are available in public domain at https://geosadak-pmgsy.nic.in/opendata.The GIS data created under PMGSY National GIS guideline is not just of rural areas, but a holistic national geospatial dataset including urban areas, National Highways, State Highways and Railway tracks etc. GeoSadak has been developed utilizing fully indigenous GIS data layers and satellite data services.This data specially captured the rural roads, 10 lakh habitations and other facilities in rural and remote areas which existing public and private mapping datasets did not cover meaningfully. This unique dataset is a public good of national importance and can revolutionize travel & commerce, increase innovation and research, and can bridge the gap between urban and rural India and will help in boosting the rural economy based on recent data sharing policy of the Government of India. This has potential to create new services for businesses and citizens and give a boost to the rural economy.(c)&(d)  Various impact assessment studies carried out by Independent Agencies have concluded that PMGSY has helped in better access of marketplace for the rural masses and generated employments in various forms. It has also helped in improving socio- economic conditions of people living around the area. Thus, it has helped in removing poverty and unemployment. The scheme has impacted agriculture, health, education, urbanization and employment generation in a big way. The PMGSY has affected rural masses of all the states including Odisha in a very positive way by emerging as a facilitator and precursor to various developmental activities.  An evaluation of Centrally Sponsored Schemes in Rural Development Sector, including Pradhan Mantri Gram Sadak Yojana was carried out by the Development Monitoring and Evaluation Office (DMEO) of NITI Aayog in 2020. The following are the findings of this study:i.	The Pradhan Mantri Gram Sadak Yojana (PMGSY) is relevant for the Country considering the massive unavailability of all-weather roads in rural areas. ii.	The scheme is well aligned with India’s international goals and is seen to contribute to SDGs (Sustainable Development Goals) 2 & 9 as it addresses the issues of poverty, hunger and infrastructure for growth. iii.	PMGSY is also aligned to Department of Rural Development’s vision and mission of providing infrastructure in rural areas.iv.	PMGSY roads are observed to create positive impacts at both at level of the household and the community. The roads have been observed to increase access to market and livelihood opportunities, health and education facilities.It also provides agency to the women.v.	According to the household survey results – at lower income levels, having easy access to the main town and market was seen to be the biggest advantage of having PMGSY roads while at higher income levels, easy access to education facilities was seen as most advantageous.vi.	PMGSY roads intend to bring equity to all stakeholders of the society. PMGSY is noted to build the foundations for long-lasting poverty reduction in rural India. Improved rural connectivity provides a long-term and sustained boost in the living standards of rural populations as it allows households to accumulate wealth and human capital.(e)&(f) Yes, under PMGSY-III, the States have been asked to propose at least 15% of the length of annual proposals under new and green technologies. In order to promote cost-effective and fast construction technologies and to achieve optimal use of non- conventional materials and cost- effective environment friendly “Green Technologies” in the construction of PMGSY-III roads, the prominent new technologies like use of waste plastic, cold mix technology, cell filled concrete, stabilization using cement and lime, nano technology, full depth reclamation (FDR) are in use. Using of new & green technologies have resulted not only in reduction of carbon footprint but also in savings of fuel and natural resources. A total of 1,05,838 km road length has been sanctioned for construction using new and green technologies, out of which, 67,091 km road length has been built. Under PMGSY-III, proportion of roads being sanctioned and constructed using new and green technology has seen a big increase. As on 16.03.2022, out of the total 77,129 km sanctioned under PMGSY-III, 36,514 km length has been sanctioned under new and green technologies, out of which, 8,954 km road length has been constructed.  ******
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+HomeArchiveIndex to Select Questions (1984-1999)Ballot ListStatistical Statements Relating to QuestionsUploading of Questions - Status QueryProcedure for Sending Text of Questions & AnswersDemarcation of responsibilities in Govt. of IndiaBrochure on Statutory Corporations, Companies and Other Bodies in Which the Government of India have financial or controlling interestHighlights pertaining to questions of 17th Lok Sabha
+
+
+
+
+
+
+Contact Us 
+Disclaimer
+
+
+
+
+
+
+
+
+
+
+
+        Developed and Hosted by National Informatics Centre (NIC)
+
+Content on this website is published,
+            managed & maintained by Software Unit, Computer (HW & SW) Management. Branch,
+            Lok Sabha Secretariat
+
+
+
+
+
+HomeMembersBusinessQuestionsDebatesPapers Laid
+
+
+LegislationCommitteesSANSAD TVIntranetSecretariatPRIDE
+
+
+RecruitmentSC/ST ReservationConferenceParliament Library
+
+
+About ParliamentPhoto GalleryRelated LinksRTITendersFAQ
+
+
+SpeakerDy. SpeakerLeader of the HousePanel of ChairpersonsContact UsFeedback
+
+
+Council of MinistersPublications of MinistriesParliamentry ProceduresJournal of Parliamentary Information
+Visitor's Counter:113258935
+
+
+
+
+
+
+
+Copyright
+Privacy Policy
+Disclaimer
+Terms &
+                Conditions
+
+                Accessibility Statement
+Accessibility
+                Options
+Feedback
+Site Map
+
+
+
+
+
+
+

@@ -1,0 +1,350 @@
+
+
+
+
+	Questions : Lok Sabha
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Screen Reader Access
+Skip to Main Content
+Skip to Navigation
+
+
+
+Text Size
+
+                                A
+
+                                A
+A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+हिन्दी मे
+
+
+
+
+
+
+
+
+Parliament of India Lok Sabha House of the
+                        People
+
+
+
+
+
+
+* Special Characters not allowed
+
+
+
+
+
+
+
+
+
+
+
+
+India Time 
+
+
+Your Time 
+
+
+                        Tuesday,
+                        12 April 2022
+
+
+
+
+
+
+
+
+
+HomeMembersSitting MembersMembers Home PageMembers' PortalContact DetailsMembers SearchStatistical AnalysisAttendance of MembersHandbook Members Since 1952Digitized Who's WhoOthers BusinessProvisional CalendarList of BusinessPapers to be LaidList of Private Members' BusinessBulletin-IDigitized Lok Sabha Bulletin Part IBulletin-IIStatement of WorkSpecial Mentions (ZERO HOUR)Resume of WorkDigitized Resume of Work done by Lok Sabha QuestionsHomeQuestion ListStatus of notices of questionQuestions CalendarGrouping of Ministries - AlphabeticalOfficers in Min./Dept. Dealing with Parliamentary WorkQuestion SearchSupplementary Questions DebatesIntroductionSynopsisUncorrected DebateText of DebateDigitized DebatesConstituent Assembly DebatesWit And HumourDebate SearchHindi FontsDisclaimer Papers LaidPapers Laid on the Table of the House LegislationIntroduction(How Bill Becomes Act)Bills IntroducedBills PassedBills PendingBills AssentedBills LapsedBills WithdrawnBills NegativedBills Search Disclaimer CommitteesIntroductionChairpersonSummary of WorkCommittee Meetings ScheduleBills Referred to CommitteesReports PresentedDigitized ReportsPress ReleaseMembership SearchToday's Committee MeetingsCommittee Subject SelectedDepartment Related-RS Govt. AssurancesSANSAD TVIntranet
+
+
+
+
+
+HomeQuestion ListStatus of notices of questionQuestions CalendarGrouping of Ministries - AlphabeticalOfficers in Min./Dept. Dealing with Parliamentary WorkQuestion SearchSupplementary Questions
+
+
+
+
+
+
+
+
+
+
+
+Download as PDF
+
+
+
+
+Print
+
+
+
+
+
+
+
+
+
+
+
+
+PDF/WORD(Hindi)
+
+
+PDF/WORD
+
+
+
+
+                                    GOVERNMENT OF INDIA
+                                
+
+
+
+
+
+                                    MINISTRY OF
+                                    ELECTRONICS AND INFORMATION TECHNOLOGY
+
+
+
+
+
+
+                                    LOK SABHA
+                                
+
+
+
+
+
+UNSTARRED 
+
+
+                                    QUESTION NO:
+                                
+
+1674
+
+
+
+
+
+
+                                    ANSWERED ON: 
+                                
+
+08.12.2021
+
+
+
+
+
+
+Growth of Artificial Intelligence
+
+
+
+
+Shyam Yadav Singh
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        Will the Minister of
+
+
+
+
+
+ELECTRONICS AND INFORMATION TECHNOLOGY
+
+
+                        be pleased to state:-
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                    Will the Minister of ELECTRONICS AND INFORMATION TECHNOLOGY   be pleased to State:(a)	whether the Government is taking steps to regulate the growth of artificial intelligence in India;(b)	if so, the details thereof.,(c)	whether the Government intends to bring a law on artificial intelligence; and(d)	the steps taken by the Government to develop infrastructure, expertise, skilling and research in artificial intelligence?
+
+
+
+
+
+
+ANSWER
+
+
+
+
+                                                        (a)	to (c): No, Sir.(d):   Government of India sees Artificial Intelligence (AI) as a significant and strategic area for the country and technology sector. It further believes that AI can have kinetic effect from the growth of entrepreneurship & business and is taking all necessary steps in policies and infrastructure to develop a robust AI sector in the country.The following are the details:i.	Government of India also joined the league of leading economies including USA, UK, EU, Australia, Canada, France, Germany, Italy, Japan, Mexico, New Zealand, Republic of Korea, Singapore as a founding member of the Global Partnership on Artificial Intelligence (GPAI), which is an international and multi-stakeholder initiative to guide the responsible development and use of AI, grounded in human rights, inclusion, diversity, innovation, and economic growth. ii.	Government has launched ‘National AI Portal’ (https://indiaai.gov.in/) which is a repository of Artificial Intelligence (AI) based initiatives in the country for all stakeholders at a single place. As on Dec 2, 2021, there are 890 national and international articles, 577 news, 185 videos, 78 research reports, 278 startups, 107 Government initiatives listed at National AI Portal.iii.	To foster innovation through research Technology, government has created several ‘Centres of Excellence’ on various emerging Technologies including Artificial Intelligence. The centres connect various entities such as startups, enterprises, venture capitalists, government and academia to look into problem statements and develop innovative solutions. iv.	National Programme on Responsible Use of AI for Youth: With the objective to empower the youth to become AI ready and help reduce the skill gap, government along with Industry partner has started this initiative to promote AI awareness among Government school going children. In Phase I, 50,666 students and 2536 teachers from 2252 schools from 35 States and UTs attended orientation sessions on AI. In Phase II, 100 teams have been short listed and have undergone extensive mentoring by AI experts. In Phase-III, Top 20 students have demonstrated their solutions in the national conference.v.	Infrastructure:a.	Under the National Supercomputing Mission (NSM), Government of India has built PARAM siddhi with the help of C-DAC, which is the high-performance computing-artificial intelligence (HPC-AI) supercomputer.b.	NIC has setup a Centre of Excellence in AI which is involved in facilitating AI as a Service through on Meghraj cloud with 7 AI PFlopssupercompute facility created at Delhi and 5 AI PFlop in Kolkata.vi.	Expertise & Skilling:a.	For skilling and re-skilling, Government has launched ‘FutureSkills Prime’ platform which provides an industry driven learning ecosystem.  FutureSkills focuses on 155+ skills spanning across 70+ job roles on 10 emerging technologies namely Artificial Intelligence, Blockchain, Big Data Analytics, Cloud Computing, Cyber Security, Internet of Things, Mobile Tech, Robotic Process Automation, Virtual Reality & 3D Printing.b.	Government has initiated ‘Visvesvaraya PhD Scheme’ with an objective to enhance the number of PhDs in Electronics System Design & Manufacturing (ESDM) and IT/IT Enabled Services (IT/ITES) sectors including AI in the country. Presently, 908 Full time & 308 part-time PhD candidates are enrolled under the scheme at 97 academic institutions across the country. vii.	Research: To promote the research in the area of Emerging Technologies, Department of Science & Technology (DST) has setup 25 Technology Innovation Hubs (TIH) in the area of  Artificial Intelligence,  Data Analytics, Robotics, Drones, IoT, Augmented Reality/Virtual Reality, and Computer vision etc. The TIHs focus on the generation of new knowledge through basic and applied research in the area of emerging technologies including Robotics, AI, ML, Cognitive Computing, System Simulation etc.viii.	Data Management: Data is the key input for any AI based system. Considering this, Government has developed an Open Government data Platform (OGD). Currently, data of 208 departments (Central & State) is available on OGD platform.  ********** 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+HomeArchiveIndex to Select Questions (1984-1999)Ballot ListStatistical Statements Relating to QuestionsUploading of Questions - Status QueryProcedure for Sending Text of Questions & AnswersDemarcation of responsibilities in Govt. of IndiaBrochure on Statutory Corporations, Companies and Other Bodies in Which the Government of India have financial or controlling interestHighlights pertaining to questions of 17th Lok Sabha
+
+
+
+
+
+
+Contact Us 
+Disclaimer
+
+
+
+
+
+
+
+
+
+
+
+        Developed and Hosted by National Informatics Centre (NIC)
+
+Content on this website is published,
+            managed & maintained by Software Unit, Computer (HW & SW) Management. Branch,
+            Lok Sabha Secretariat
+
+
+
+
+
+HomeMembersBusinessQuestionsDebatesPapers Laid
+
+
+LegislationCommitteesSANSAD TVIntranetSecretariatPRIDE
+
+
+RecruitmentSC/ST ReservationConferenceParliament Library
+
+
+About ParliamentPhoto GalleryRelated LinksRTITendersFAQ
+
+
+SpeakerDy. SpeakerLeader of the HousePanel of ChairpersonsContact UsFeedback
+
+
+Council of MinistersPublications of MinistriesParliamentry ProceduresJournal of Parliamentary Information
+Visitor's Counter:113225650
+
+
+
+
+
+
+
+Copyright
+Privacy Policy
+Disclaimer
+Terms &
+                Conditions
+
+                Accessibility Statement
+Accessibility
+                Options
+Feedback
+Site Map
+
+
+
+
+
+
+

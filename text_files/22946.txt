@@ -1,0 +1,350 @@
+
+
+
+
+	Questions : Lok Sabha
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Screen Reader Access
+Skip to Main Content
+Skip to Navigation
+
+
+
+Text Size
+
+                                A
+
+                                A
+A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+हिन्दी मे
+
+
+
+
+
+
+
+
+Parliament of India Lok Sabha House of the
+                        People
+
+
+
+
+
+
+* Special Characters not allowed
+
+
+
+
+
+
+
+
+
+
+
+
+India Time 
+
+
+Your Time 
+
+
+                        Monday,
+                        11 April 2022
+
+
+
+
+
+
+
+
+
+HomeMembersSitting MembersMembers Home PageMembers' PortalContact DetailsMembers SearchStatistical AnalysisAttendance of MembersHandbook Members Since 1952Digitized Who's WhoOthers BusinessProvisional CalendarList of BusinessPapers to be LaidList of Private Members' BusinessBulletin-IDigitized Lok Sabha Bulletin Part IBulletin-IIStatement of WorkSpecial Mentions (ZERO HOUR)Resume of WorkDigitized Resume of Work done by Lok Sabha QuestionsHomeQuestion ListStatus of notices of questionQuestions CalendarGrouping of Ministries - AlphabeticalOfficers in Min./Dept. Dealing with Parliamentary WorkQuestion SearchSupplementary Questions DebatesIntroductionSynopsisUncorrected DebateText of DebateDigitized DebatesConstituent Assembly DebatesWit And HumourDebate SearchHindi FontsDisclaimer Papers LaidPapers Laid on the Table of the House LegislationIntroduction(How Bill Becomes Act)Bills IntroducedBills PassedBills PendingBills AssentedBills LapsedBills WithdrawnBills NegativedBills Search Disclaimer CommitteesIntroductionChairpersonSummary of WorkCommittee Meetings ScheduleBills Referred to CommitteesReports PresentedDigitized ReportsPress ReleaseMembership SearchToday's Committee MeetingsCommittee Subject SelectedDepartment Related-RS Govt. AssurancesSANSAD TVIntranet
+
+
+
+
+
+HomeQuestion ListStatus of notices of questionQuestions CalendarGrouping of Ministries - AlphabeticalOfficers in Min./Dept. Dealing with Parliamentary WorkQuestion SearchSupplementary Questions
+
+
+
+
+
+
+
+
+
+
+
+Download as PDF
+
+
+
+
+Print
+
+
+
+
+
+
+
+
+
+
+
+
+PDF/WORD(Hindi)
+
+
+PDF/WORD
+
+
+
+
+                                    GOVERNMENT OF INDIA
+                                
+
+
+
+
+
+                                    MINISTRY OF
+                                    EARTH SCIENCES
+
+
+
+
+
+
+                                    LOK SABHA
+                                
+
+
+
+
+
+UNSTARRED 
+
+
+                                    QUESTION NO:
+                                
+
+4068
+
+
+
+
+
+
+                                    ANSWERED ON: 
+                                
+
+19.03.2021
+
+
+
+
+
+
+Mechanism for Prediction of Rainfall
+
+
+
+
+Rajiv Pratap Rudy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        Will the Minister of
+
+
+
+
+
+EARTH SCIENCES
+
+
+                        be pleased to state:-
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                    GOVERNMENT OF INDIAMINISTRY OF EARTH SCIENCESLOK SABHAUNSTARRED QUESTION NO.4068TO BE ANSWERED ON FRIDAY, MARCH 19, 2021MECHANISM FOR PREDICTION OF RAINFALL4068. 	SHRI RAJIV PRATAP RUDY :Will the Minister of EARTH SCIENCES be pleased to state:(a) 	the details of the current mechanism being followed to predict the rainfall; (b)	whether the Ministry is considering to take any steps to devise an intelligent prediction system with modern analytic tools by using local weather information for rainfall prediction; (c) 	if so, the details thereof and if not, the reasons therefor; (d) 	the details of current flood warning system being used in country; and (e) 	whether the Government is taking any steps to improve the system and if so, the details thereof and if not, the reasons therefor?
+
+
+
+
+
+
+ANSWER
+
+
+
+
+                                                        ANSWERMINISTER FOR MINISTRY OF SCIENCE AND TECHNOLOGY AND MINISTRY OF EARTH SCIENCES(DR. HARSH VARDHAN)(a)	Rainfall prediction is given in different time scales, i.e. seasonal forecast (for the whole season), extended range forecast (up to four weeks), short-medium range forecast (up to 7 days) and nowcasts (up to 3 hrs). These forecasts are generated using state of the art weather prediction models based on mathematical equations and physics of atmosphere and oceans.An improved suite of prediction models has already been implemented operationally at India Meteorological Department (IMD) for enhanced short range weather forecasting through assimilation of all available Indian and global satellite data in real time. Since December 2016, IMD is using the Global Forecast System (GFS) and Unified model run at National Centre for Medium Range Weather Forecast (NCMRWF) operationally every day to generate deterministic forecasts at 12 km horizontal resolution in the short to medium range (up to 7 days). The GFS assimilates global conventional atmospheric data as well as the data from satellites and weather radars. There also exists a high resolution meso-scale model with 3 km resolution to provide location specific forecast.In addition, a high resolution (12 km grid scale) state of the art Global Ensemble Prediction System (GEPS) namely Global Ensemble Forecasting System (GEFS) and Unified model Ensemble Prediction System (UMEPS) was commissioned on 01 June 2018 for generating operational probabilistic weather forecasts for 10 days. The GEPS has enhanced the weather information being provided by the current models by quantifying the uncertainties in the weather forecasts. Under the National Monsoon Mission, MoES has implemented two state-of-the-art dynamical prediction systems for short range to medium, extended range and seasonal forecasts. All these initiatives have helped to improve the skill of monsoon rainfall forecasts over the country. Since 2017, IMD is using the Monsoon Mission dynamical model to prepare operational seasonal forecast of monsoon rainfall over India. (b)-(c)   The above mentioned forecast systems will be improved further for better accuracy with the enhancement in observational systems and advancement in numerical modeling and efforts are on for this purpose. The Ministry of Earth Sciences (MoES) has invited proposals from research community for development of artificial intelligence (AI) and machine learning (ML) based tools & techniques for prediction of weather. Scientists at MOES are also involved in developing products based on AI and ML methods. (a)	IMD has a shared mandate with Central Water Commission (CWC) for flood forecasting. River basin floods are dealt by the CWC. Flood Meteorological Offices (FMOs) operated by IMD provide meteorological support to the CWC for issuing flood warnings in respect of the 43 rivers of India covering 153 river basins. CWC issues flood forecasts for about 6 hrs. to 30 hrs. in advance for 176 stations using Quantitative Precipitation Forecast (QPF) received from FMOs of IMD and in-situ hydro-meteorological data. In order to meet specific requirements of flood forecasting, which is provided by Central Water Commission (CWC), IMD operates Flood Meteorological Offices (FMOs) at thirteen locations viz., Agra, Ahmedabad, Asansol, Bhubaneshwar, Guwahati, Hyderabad, Jalpaiguri, Lucknow, New Delhi, Patna, Srinagar, Bengaluru and Chennai. Apart from this, IMD also supports Damodar Valley Corporation (DVC) by providing Quantitative Precipitation Forecast (QPF) for Damodar river basin areas for their flood forecasting activities. CWC is working in close association with IMD and State Governments for timely flood forecast whenever the river water level rises above warning level. In order to cater to the services of hydro-meteorological events occurring in short duration of time, IMD has implemented a Flash Flood Guidance System (FFGS) with the technical help from World Meteorological Organization (WMO). (e) 	The weather forecasting and early warning systems in the country are comparable to most of the developed countries in the world. Efforts are continuously made to enhance the observational network and the level of efficiency of the forecasting systems based on latest technology including Satellite, Radar and numerical models. During the past few years, IMD has been continuously improving weather prediction services in terms of accuracy, lead time and associated impact.*****
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+HomeArchiveIndex to Select Questions (1984-1999)Ballot ListStatistical Statements Relating to QuestionsUploading of Questions - Status QueryProcedure for Sending Text of Questions & AnswersDemarcation of responsibilities in Govt. of IndiaBrochure on Statutory Corporations, Companies and Other Bodies in Which the Government of India have financial or controlling interestHighlights pertaining to questions of 17th Lok Sabha
+
+
+
+
+
+
+Contact Us 
+Disclaimer
+
+
+
+
+
+
+
+
+
+
+
+        Developed and Hosted by National Informatics Centre (NIC)
+
+Content on this website is published,
+            managed & maintained by Software Unit, Computer (HW & SW) Management. Branch,
+            Lok Sabha Secretariat
+
+
+
+
+
+HomeMembersBusinessQuestionsDebatesPapers Laid
+
+
+LegislationCommitteesSANSAD TVIntranetSecretariatPRIDE
+
+
+RecruitmentSC/ST ReservationConferenceParliament Library
+
+
+About ParliamentPhoto GalleryRelated LinksRTITendersFAQ
+
+
+SpeakerDy. SpeakerLeader of the HousePanel of ChairpersonsContact UsFeedback
+
+
+Council of MinistersPublications of MinistriesParliamentry ProceduresJournal of Parliamentary Information
+Visitor's Counter:113210137
+
+
+
+
+
+
+
+Copyright
+Privacy Policy
+Disclaimer
+Terms &
+                Conditions
+
+                Accessibility Statement
+Accessibility
+                Options
+Feedback
+Site Map
+
+
+
+
+
+
+

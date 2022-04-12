@@ -1,0 +1,393 @@
+
+
+
+
+	Questions : Lok Sabha
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Screen Reader Access
+Skip to Main Content
+Skip to Navigation
+
+
+
+Text Size
+
+                                A
+
+                                A
+A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+हिन्दी मे
+
+
+
+
+
+
+
+
+Parliament of India Lok Sabha House of the
+                        People
+
+
+
+
+
+
+* Special Characters not allowed
+
+
+
+
+
+
+
+
+
+
+
+
+India Time 
+
+
+Your Time 
+
+
+                        Monday,
+                        11 April 2022
+
+
+
+
+
+
+
+
+
+HomeMembersSitting MembersMembers Home PageMembers' PortalContact DetailsMembers SearchStatistical AnalysisAttendance of MembersHandbook Members Since 1952Digitized Who's WhoOthers BusinessProvisional CalendarList of BusinessPapers to be LaidList of Private Members' BusinessBulletin-IDigitized Lok Sabha Bulletin Part IBulletin-IIStatement of WorkSpecial Mentions (ZERO HOUR)Resume of WorkDigitized Resume of Work done by Lok Sabha QuestionsHomeQuestion ListStatus of notices of questionQuestions CalendarGrouping of Ministries - AlphabeticalOfficers in Min./Dept. Dealing with Parliamentary WorkQuestion SearchSupplementary Questions DebatesIntroductionSynopsisUncorrected DebateText of DebateDigitized DebatesConstituent Assembly DebatesWit And HumourDebate SearchHindi FontsDisclaimer Papers LaidPapers Laid on the Table of the House LegislationIntroduction(How Bill Becomes Act)Bills IntroducedBills PassedBills PendingBills AssentedBills LapsedBills WithdrawnBills NegativedBills Search Disclaimer CommitteesIntroductionChairpersonSummary of WorkCommittee Meetings ScheduleBills Referred to CommitteesReports PresentedDigitized ReportsPress ReleaseMembership SearchToday's Committee MeetingsCommittee Subject SelectedDepartment Related-RS Govt. AssurancesSANSAD TVIntranet
+
+
+
+
+
+HomeQuestion ListStatus of notices of questionQuestions CalendarGrouping of Ministries - AlphabeticalOfficers in Min./Dept. Dealing with Parliamentary WorkQuestion SearchSupplementary Questions
+
+
+
+
+
+
+
+
+
+
+
+Download as PDF
+
+
+
+
+Print
+
+
+
+
+
+
+
+
+
+
+
+
+PDF/WORD(Hindi)
+
+
+PDF/WORD
+
+
+
+
+                                    GOVERNMENT OF INDIA
+                                
+
+
+
+
+
+                                    MINISTRY OF
+                                    ELECTRONICS AND INFORMATION TECHNOLOGY
+
+
+
+
+
+
+                                    LOK SABHA
+                                
+
+
+
+
+
+UNSTARRED 
+
+
+                                    QUESTION NO:
+                                
+
+2600
+
+
+
+
+
+
+                                    ANSWERED ON: 
+                                
+
+04.12.2019
+
+
+
+
+
+
+Aadhaar Authentication Services
+
+
+
+
+Hemant Patil
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                    Vinayak Bhaurao Raut
+                                                
+
+
+
+
+
+
+
+
+                                                    Shrirang Appa Barne
+                                                
+
+
+
+
+
+
+
+
+                                                    Heena Vijaykumar Gavit
+                                                
+
+
+
+
+
+
+
+
+                                                    A.K.P. Chinraj
+                                                
+
+
+
+
+
+
+
+
+
+
+
+
+                        Will the Minister of
+
+
+
+
+
+ELECTRONICS AND INFORMATION TECHNOLOGY
+
+
+                        be pleased to state:-
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                    Will the Minister of ELECTRONICS AND INFORMATION TECHNOLOGY be pleased to state:  (a) the list of micro-ATM providers currently using eKYC services to withdraw Direct Benefit Transfer (DBT) amount; (b) the list of private firms who issued board resolutions for continuation of Aadhaar authentication services post supreme court judgement on the Aadhaar issue; (c) the number of eKYC transactions in the country during each of the last three years, month-wise; (d) the revenue earned by UIDAI for charging eKYC authentication services during the same period, month-wise; and (e) the revenue earned by UIDAI for charging Aadhaar authentication services, month-wise?
+
+
+
+
+
+
+ANSWER
+
+
+
+
+                                                        Banks have been appointed as Authentication User Agency (AUA) / KYC User Agency (KUA) by Unique Identification Authority of India (UIDAI) that enables them to do authentication and ekYC transactions. The Micro-ATM providers are appointed by Banks which are regulated by Reserve Bank of India and Department of Financial Services.(b): No such information is available.(c): The information is attached as Annexure-I.(d) and (e): As per  the Aadhaar (Pricing of Aadhaar Authentication Services) Regulation 2019, Notification dated 06.03.2019, the revenue earned by UIDAI, for charging Aadhaar authentication and e-KYC  services, month-wise is given below:-		(i)	March’19  Rs.  8.20 Cr(ii)	April’19    Rs.10.04 Cr(iii)	May’19     Rs.  9.51 Cr 				Annexure-I 	S.No.	Months	e-KYC Transactions			1	Oct-16	1275,29,181			2	Nov-16	1305,02,788			3	Dec-16	1819,48,080			4	Jan-17	1872,22,157			5	Feb-17	1556,52,502			6	Mar-17	1715,07,399			7	Apr-17	1651,92,272			8	May-17	2257,60,743			9	Jun-17	3679,16,220			10	Jul-17	4261,03,012			11	Aug-17	3719,99,340			12	Sep-17	3573,16,560			13	Oct-17	3721,56,547			14	Nov-17	3574,48,599			15	Dec-17	2986,83,362			16	Jan-18	2712,52,357			17	Feb-18	2645,76,118			18	Mar-18	3711,41,604			19	Apr-18	2224,52,683			20	May-18	2189,27,570			21	Jun-18	2107,08,501			22	Jul-18	2440,34,419			23	Aug-18	2410,41,090			24	Sep-18	2332,30,642			25	Oct-18	1976,99,689			26	Nov-18	1530,59,312			27	Dec-18	766,65,910			28	Jan-19	1047,38,359			29	Feb-19	885,26,016			30	Mar-19	688,94,472			31	Apr-19	380,12,194			32	May-19	410,89,482			33	Jun-19	683,79,109			34	Jul-19	805,81,971			35	Aug-19	917,67,626			36	Sep-19	809,29,282		 ******** 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+HomeArchiveIndex to Select Questions (1984-1999)Ballot ListStatistical Statements Relating to QuestionsUploading of Questions - Status QueryProcedure for Sending Text of Questions & AnswersDemarcation of responsibilities in Govt. of IndiaBrochure on Statutory Corporations, Companies and Other Bodies in Which the Government of India have financial or controlling interestHighlights pertaining to questions of 17th Lok Sabha
+
+
+
+
+
+
+Contact Us 
+Disclaimer
+
+
+
+
+
+
+
+
+
+
+
+        Developed and Hosted by National Informatics Centre (NIC)
+
+Content on this website is published,
+            managed & maintained by Software Unit, Computer (HW & SW) Management. Branch,
+            Lok Sabha Secretariat
+
+
+
+
+
+HomeMembersBusinessQuestionsDebatesPapers Laid
+
+
+LegislationCommitteesSANSAD TVIntranetSecretariatPRIDE
+
+
+RecruitmentSC/ST ReservationConferenceParliament Library
+
+
+About ParliamentPhoto GalleryRelated LinksRTITendersFAQ
+
+
+SpeakerDy. SpeakerLeader of the HousePanel of ChairpersonsContact UsFeedback
+
+
+Council of MinistersPublications of MinistriesParliamentry ProceduresJournal of Parliamentary Information
+Visitor's Counter:113161846
+
+
+
+
+
+
+
+Copyright
+Privacy Policy
+Disclaimer
+Terms &
+                Conditions
+
+                Accessibility Statement
+Accessibility
+                Options
+Feedback
+Site Map
+
+
+
+
+
+
+

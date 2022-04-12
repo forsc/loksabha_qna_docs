@@ -1,0 +1,350 @@
+
+
+
+
+	Questions : Lok Sabha
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Screen Reader Access
+Skip to Main Content
+Skip to Navigation
+
+
+
+Text Size
+
+                                A
+
+                                A
+A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+हिन्दी मे
+
+
+
+
+
+
+
+
+Parliament of India Lok Sabha House of the
+                        People
+
+
+
+
+
+
+* Special Characters not allowed
+
+
+
+
+
+
+
+
+
+
+
+
+India Time 
+
+
+Your Time 
+
+
+                        Tuesday,
+                        12 April 2022
+
+
+
+
+
+
+
+
+
+HomeMembersSitting MembersMembers Home PageMembers' PortalContact DetailsMembers SearchStatistical AnalysisAttendance of MembersHandbook Members Since 1952Digitized Who's WhoOthers BusinessProvisional CalendarList of BusinessPapers to be LaidList of Private Members' BusinessBulletin-IDigitized Lok Sabha Bulletin Part IBulletin-IIStatement of WorkSpecial Mentions (ZERO HOUR)Resume of WorkDigitized Resume of Work done by Lok Sabha QuestionsHomeQuestion ListStatus of notices of questionQuestions CalendarGrouping of Ministries - AlphabeticalOfficers in Min./Dept. Dealing with Parliamentary WorkQuestion SearchSupplementary Questions DebatesIntroductionSynopsisUncorrected DebateText of DebateDigitized DebatesConstituent Assembly DebatesWit And HumourDebate SearchHindi FontsDisclaimer Papers LaidPapers Laid on the Table of the House LegislationIntroduction(How Bill Becomes Act)Bills IntroducedBills PassedBills PendingBills AssentedBills LapsedBills WithdrawnBills NegativedBills Search Disclaimer CommitteesIntroductionChairpersonSummary of WorkCommittee Meetings ScheduleBills Referred to CommitteesReports PresentedDigitized ReportsPress ReleaseMembership SearchToday's Committee MeetingsCommittee Subject SelectedDepartment Related-RS Govt. AssurancesSANSAD TVIntranet
+
+
+
+
+
+HomeQuestion ListStatus of notices of questionQuestions CalendarGrouping of Ministries - AlphabeticalOfficers in Min./Dept. Dealing with Parliamentary WorkQuestion SearchSupplementary Questions
+
+
+
+
+
+
+
+
+
+
+
+Download as PDF
+
+
+
+
+Print
+
+
+
+
+
+
+
+
+
+
+
+
+PDF/WORD(Hindi)
+
+
+PDF/WORD
+
+
+
+
+                                    GOVERNMENT OF INDIA
+                                
+
+
+
+
+
+                                    MINISTRY OF
+                                    ELECTRONICS AND INFORMATION TECHNOLOGY
+
+
+
+
+
+
+                                    LOK SABHA
+                                
+
+
+
+
+
+UNSTARRED 
+
+
+                                    QUESTION NO:
+                                
+
+2854
+
+
+
+
+
+
+                                    ANSWERED ON: 
+                                
+
+15.12.2021
+
+
+
+
+
+
+Global Chips shortage
+
+
+
+
+Dayanidhi Maran
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        Will the Minister of
+
+
+
+
+
+ELECTRONICS AND INFORMATION TECHNOLOGY
+
+
+                        be pleased to state:-
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                    Will the Minister of ELECTRONICS AND INFORMATION TECHNOLOGY be pleased to state:(a) whether the Ministry has conducted any analysis or prepared a report on the global chip & semiconductor shortage and its impact and if so, the details thereof;(b) the details of the steps taken by the Ministry to ramp up the production of semiconductors in India to leverage the global shortage;(c) the details of the current capacity of production for semiconductors available in India; and(d) whether the Ministry has held any consultations with the Industry and stakeholders with regard to the global shortage and if so, the details thereof? 
+
+
+
+
+
+
+ANSWER
+
+
+
+
+                                                        a): Electronics permeate all sectors of the economy and the electronics industry has cross-cutting economic and strategic importance. Semiconductors are building blocks of electronic devices. Semiconductors are used to power a vast array of electronic devices ranging from smartphones and cloud servers to modern cars, industrial automation, critical infrastructure and defence system. The chip shortage has impacted many industries worldwide with auto and consumer electronics industries among the most affected sectors. The shortage first emerged after the Covid-19 pandemic, due to lockdowns and restrictions.   As the economies started recovering,   the consumption of electronic goods across various segments has increased.  Some key reasons behind the global chip shortage are supply chain disruptions due to the pandemic, a sharp rise in demand for consumer electronic goods and rapid digitization of many sectors of the economy. Government has conducted multiple discussions on this topic with OEMs, ODMs, Tier 1 companies as well as distributors to mitigate the problem.(b): Government is fully cognizant of the importance of semiconductor design and manufacturing for India becoming an electronics manufacturing hub of the world in the post-covid scenario. It has been making serious efforts to promote semiconductor design and set up semiconductor wafer fabrication facilities in the country. The Government has approved the following projects in semiconductors:I.	The project for “Establishment of Gallium Nitride (GaN) Ecosystem Enabling Centre and Incubator for High Power and High Frequency Electronics” is being implemented by Indian Institute of Science (IISc), Bengaluru at Centre for Nano Science and Engineering (CeNSE) with the total project cost of Rs. 298.66 crore.II.	An application for setting up of Assembly, Testing, Marking and Packaging (ATMP) of NAND Flash memory has been approved under the Production Linked Incentive (PLI) Scheme for large scale electronics manufacturing. III.	An application for discrete semiconductor devices, including transistors, diodes, thyristors, etc. and System in Package (SIP) has been approved under the Production Linked Incentive (PLI) Scheme for large scale electronics manufacturing.IV.	Following incentives are available to companies for setting up of Semiconductor Fabrication (FAB) facilities in India:  (i)	A financial incentive of 25% on capital expenditure for setting up of semiconductor fabrication units under the Scheme for Promotion of manufacturing of Electronic Components and Semiconductors (SPECS).(ii)	Capital goods for setting up of Semiconductor FAB are exempted from Basic Customs Duty (BCD).(iii)	Investment linked deduction under Section 35AD of the Income-tax Act. (iv)	Deduction of expenditure on research and development as admissible under Section 35(2AB) of the Income-tax Act.(v)	New domestic companies making fresh investment in manufacturing and starting operations before March 31, 2023 have an option to pay corporate income tax at reduced rate of 15%. Such companies will also not be liable to pay Minimum Alternate Tax (MAT).(c):  Semiconductor FABs are highly capital intensive and resource intensive, and are at the cutting edge of manufacturing with rapidly changing technology cycles. Further, the semiconductor fabrication capability for leading / cutting edge technology nodes is available with only few companies globally.Semiconductor wafer fabrication facilities are available in India in limited capacities for strategic applications at Semi-Conductor Laboratory (SCL) Mohali, Gallium Arsenide Enabling Technology Centre (GAETEC), Hyderabad and Society for Integrated Circuit Technology and Applied Research (SITAR), Bengaluru.(d): Ministry of Electronics and Information Technology (MeitY), Government of India engages with many industry bodies and Institute of National Importance on a regular basis in order to promote the holistic ecosystem of electronics manufacturing in India including semiconductors. Some such collaborations of Ministry of Electronics and Information Technology include:i.	Fabless Chip Design Incubator (FabCI) at Indian Institute of Technology, Hyderabad.ii.	Gallium Nitride (GaN) Ecosystem Enabling Centre and Incubator for High Power and High Frequency Electronics at Centre for Nano Science and Engineering (CeNSE), Indian Institute of Science (IISc) Bengaluruiii.	Microprocessor Development Programme with various Institutes of Higher Educationiv.	National Centre of Excellence for Next Generation AMOLED Displays, OLED Lighting and OPV Products at IIT-Madrasv.	National Centre of Excellence in Large Area Flexible Electronics (NCFLEX) at IIT-Kanpurvi.	National Centre of Excellence for Technology on Internal Security (NCETIS) at IIT-Bombayvii.	Centre on Excellence (CoE) on Medical Electronics and Bio-Physics set up at Andhra Pradesh MedTech Zone (AMTZ)viii.	Various state-of the-art ASICs / SoCs such as indigenous Microprocessors, NavIC Receiver, Bluetooth Transceiver, etc., have been designed and developed for societal and strategic applications. Under the Microprocessor Development Programme, a family of 32-bit / 64-bit SHAKTI, VEGA and AJIT processors have been designed and developed by IIT Madras, C-DAC and IIT Bombay, respectively, using Open-Source ISA (Instruction Set Architecture).Further, Government is open to technological & financial collaborations and investments that would help   developing semiconductor chip manufacturing ecosystem in India.*******
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+HomeArchiveIndex to Select Questions (1984-1999)Ballot ListStatistical Statements Relating to QuestionsUploading of Questions - Status QueryProcedure for Sending Text of Questions & AnswersDemarcation of responsibilities in Govt. of IndiaBrochure on Statutory Corporations, Companies and Other Bodies in Which the Government of India have financial or controlling interestHighlights pertaining to questions of 17th Lok Sabha
+
+
+
+
+
+
+Contact Us 
+Disclaimer
+
+
+
+
+
+
+
+
+
+
+
+        Developed and Hosted by National Informatics Centre (NIC)
+
+Content on this website is published,
+            managed & maintained by Software Unit, Computer (HW & SW) Management. Branch,
+            Lok Sabha Secretariat
+
+
+
+
+
+HomeMembersBusinessQuestionsDebatesPapers Laid
+
+
+LegislationCommitteesSANSAD TVIntranetSecretariatPRIDE
+
+
+RecruitmentSC/ST ReservationConferenceParliament Library
+
+
+About ParliamentPhoto GalleryRelated LinksRTITendersFAQ
+
+
+SpeakerDy. SpeakerLeader of the HousePanel of ChairpersonsContact UsFeedback
+
+
+Council of MinistersPublications of MinistriesParliamentry ProceduresJournal of Parliamentary Information
+Visitor's Counter:113227878
+
+
+
+
+
+
+
+Copyright
+Privacy Policy
+Disclaimer
+Terms &
+                Conditions
+
+                Accessibility Statement
+Accessibility
+                Options
+Feedback
+Site Map
+
+
+
+
+
+
+

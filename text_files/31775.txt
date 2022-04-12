@@ -1,0 +1,403 @@
+
+
+
+
+	Questions : Lok Sabha
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Screen Reader Access
+Skip to Main Content
+Skip to Navigation
+
+
+
+Text Size
+
+                                A
+
+                                A
+A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+हिन्दी मे
+
+
+
+
+
+
+
+
+Parliament of India Lok Sabha House of the
+                        People
+
+
+
+
+
+
+* Special Characters not allowed
+
+
+
+
+
+
+
+
+
+
+
+
+India Time 
+
+
+Your Time 
+
+
+                        Tuesday,
+                        12 April 2022
+
+
+
+
+
+
+
+
+
+HomeMembersSitting MembersMembers Home PageMembers' PortalContact DetailsMembers SearchStatistical AnalysisAttendance of MembersHandbook Members Since 1952Digitized Who's WhoOthers BusinessProvisional CalendarList of BusinessPapers to be LaidList of Private Members' BusinessBulletin-IDigitized Lok Sabha Bulletin Part IBulletin-IIStatement of WorkSpecial Mentions (ZERO HOUR)Resume of WorkDigitized Resume of Work done by Lok Sabha QuestionsHomeQuestion ListStatus of notices of questionQuestions CalendarGrouping of Ministries - AlphabeticalOfficers in Min./Dept. Dealing with Parliamentary WorkQuestion SearchSupplementary Questions DebatesIntroductionSynopsisUncorrected DebateText of DebateDigitized DebatesConstituent Assembly DebatesWit And HumourDebate SearchHindi FontsDisclaimer Papers LaidPapers Laid on the Table of the House LegislationIntroduction(How Bill Becomes Act)Bills IntroducedBills PassedBills PendingBills AssentedBills LapsedBills WithdrawnBills NegativedBills Search Disclaimer CommitteesIntroductionChairpersonSummary of WorkCommittee Meetings ScheduleBills Referred to CommitteesReports PresentedDigitized ReportsPress ReleaseMembership SearchToday's Committee MeetingsCommittee Subject SelectedDepartment Related-RS Govt. AssurancesSANSAD TVIntranet
+
+
+
+
+
+HomeQuestion ListStatus of notices of questionQuestions CalendarGrouping of Ministries - AlphabeticalOfficers in Min./Dept. Dealing with Parliamentary WorkQuestion SearchSupplementary Questions
+
+
+
+
+
+
+
+
+
+
+
+Download as PDF
+
+
+
+
+Print
+
+
+
+
+
+
+
+
+
+
+
+
+PDF/WORD(Hindi)
+
+
+PDF/WORD
+
+
+
+
+                                    GOVERNMENT OF INDIA
+                                
+
+
+
+
+
+                                    MINISTRY OF
+                                    DEFENCE
+
+
+
+
+
+
+                                    LOK SABHA
+                                
+
+
+
+
+
+UNSTARRED 
+
+
+                                    QUESTION NO:
+                                
+
+3247
+
+
+
+
+
+
+                                    ANSWERED ON: 
+                                
+
+17.12.2021
+
+
+
+
+
+
+Integrated Solar Power Fencing Project
+
+
+
+
+Sanganna Amarappa Karadi
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                    Annasaheb Shankar Jolle
+                                                
+
+
+
+
+
+
+
+
+                                                    Umesh G. Jadhav
+                                                
+
+
+
+
+
+
+
+
+                                                    D. M. Kathir Anand
+                                                
+
+
+
+
+
+
+
+
+                                                    Prathap Simha
+                                                
+
+
+
+
+
+
+
+
+                                                     Dr. T. Sumathy (a) Thamizhachi Thangapandian
+                                                
+
+
+
+
+
+
+
+
+
+
+
+
+                        Will the Minister of
+
+
+
+
+
+DEFENCE
+
+
+                        be pleased to state:-
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                     (a) whether the Government has taken effective measures to protect the Air Force Stations in the country with an integrated smart power fencing especially after the Pathankot incident; (b) if so, the details thereof and the decision taken by the Government in this regard; (c) whether the Bharat Electronics Limited (BEL) has given sub-contract to any OEM System Integrator to do the said project and if so, the details thereof; (d) the credentials of the company engaged in such project of national importance along with the estimated cost of the project; (e) whether BEL has qualified for the said project with another OEM with whom they did a pilot project at Pathankot airbase and if so, the details thereof; and (f) whether it is true that the proof of the concept (PoC) was done by one company and the PO for 22 sites was given to another company which has not submitted the PoC and if so, the reaction of the Government thereto along with the action taken thereon?
+
+
+
+
+
+
+ANSWER
+
+
+
+
+                                                        MINISTER OF STATE					(SHRI AJAY BHATT)IN THE MINISTRY OF DEFENCE (a) & (b): Yes, Sir.  Post Pathankot incident, the Government has approved an integrated smart power fencing called Integrated Perimeter Security System (IPSS) for 23 Air Bases. BEL has signed a contract with Indian Air Force for establishing Integrated Perimeter Security Systems for 23 Air Bases across 8 states, Pan India. The pilot site was commissioned in February 2021.(c) Yes, Sir. BEL has given sub-contract to many Original Equipment Manufacturers (OEM) and System Integrators to do the said project. The details are as follows:- 	i)	Radar : OEM M/s ELTA.ii) 	Underground Vibration Detection System/DIDS: OEM M/S Future Fiber Technology vide their SI M/s Athena.	iii)	CCTV: OEM M/s FLIR, USA.iv)	ESPF: OEM M/s Gallagher vide their SI M/s Ved Techno for pilot site and OEM M/s Crown Solar for 22 sites.v)	Containerised Data Centre: OEM M/s Rittal vide their SI M/s Prestovi)	Network: OEM Cisco vide their SI Baydatacom.vii)	IT infrastructure: M/s HPE vide their System Integrated (SI) AAE.(d) BEL follows purchase procedures for procurement of goods and services which ensures transparent and fair tendering process including the check of credentials of OEMs and its partners. BEL has systems and procedures in place to monitor the performance of the OEMs/SIs, to complete the project as per the scope assigned to them vide a PO. The total cost of the project is approximately Rs 1045 Crores. (e) & (f):  (i) BEL has qualified the project during TEC at Hindon Airbase in November 2018 with the OEM M/s Gallagher. However, at Pilot site, the ESPF solution of M/s Gallagher failed to provide the following features of IPSS:-•	High availability of Control centre Software application of ESPF.•	Differential alarm sound for intrusion event and battery low event.•	Indication of change in resistance owing to vegetation.•	Tampering Alarm Energiser.(ii) All other OEM and SI partners have fulfilled all site specific scope of work by their technical solution.*****
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+HomeArchiveIndex to Select Questions (1984-1999)Ballot ListStatistical Statements Relating to QuestionsUploading of Questions - Status QueryProcedure for Sending Text of Questions & AnswersDemarcation of responsibilities in Govt. of IndiaBrochure on Statutory Corporations, Companies and Other Bodies in Which the Government of India have financial or controlling interestHighlights pertaining to questions of 17th Lok Sabha
+
+
+
+
+
+
+Contact Us 
+Disclaimer
+
+
+
+
+
+
+
+
+
+
+
+        Developed and Hosted by National Informatics Centre (NIC)
+
+Content on this website is published,
+            managed & maintained by Software Unit, Computer (HW & SW) Management. Branch,
+            Lok Sabha Secretariat
+
+
+
+
+
+HomeMembersBusinessQuestionsDebatesPapers Laid
+
+
+LegislationCommitteesSANSAD TVIntranetSecretariatPRIDE
+
+
+RecruitmentSC/ST ReservationConferenceParliament Library
+
+
+About ParliamentPhoto GalleryRelated LinksRTITendersFAQ
+
+
+SpeakerDy. SpeakerLeader of the HousePanel of ChairpersonsContact UsFeedback
+
+
+Council of MinistersPublications of MinistriesParliamentry ProceduresJournal of Parliamentary Information
+Visitor's Counter:113249460
+
+
+
+
+
+
+
+Copyright
+Privacy Policy
+Disclaimer
+Terms &
+                Conditions
+
+                Accessibility Statement
+Accessibility
+                Options
+Feedback
+Site Map
+
+
+
+
+
+
+

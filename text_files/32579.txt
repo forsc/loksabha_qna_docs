@@ -1,0 +1,383 @@
+
+
+
+
+	Questions : Lok Sabha
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Screen Reader Access
+Skip to Main Content
+Skip to Navigation
+
+
+
+Text Size
+
+                                A
+
+                                A
+A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+हिन्दी मे
+
+
+
+
+
+
+
+
+Parliament of India Lok Sabha House of the
+                        People
+
+
+
+
+
+
+* Special Characters not allowed
+
+
+
+
+
+
+
+
+
+
+
+
+India Time 
+
+
+Your Time 
+
+
+                        Tuesday,
+                        12 April 2022
+
+
+
+
+
+
+
+
+
+HomeMembersSitting MembersMembers Home PageMembers' PortalContact DetailsMembers SearchStatistical AnalysisAttendance of MembersHandbook Members Since 1952Digitized Who's WhoOthers BusinessProvisional CalendarList of BusinessPapers to be LaidList of Private Members' BusinessBulletin-IDigitized Lok Sabha Bulletin Part IBulletin-IIStatement of WorkSpecial Mentions (ZERO HOUR)Resume of WorkDigitized Resume of Work done by Lok Sabha QuestionsHomeQuestion ListStatus of notices of questionQuestions CalendarGrouping of Ministries - AlphabeticalOfficers in Min./Dept. Dealing with Parliamentary WorkQuestion SearchSupplementary Questions DebatesIntroductionSynopsisUncorrected DebateText of DebateDigitized DebatesConstituent Assembly DebatesWit And HumourDebate SearchHindi FontsDisclaimer Papers LaidPapers Laid on the Table of the House LegislationIntroduction(How Bill Becomes Act)Bills IntroducedBills PassedBills PendingBills AssentedBills LapsedBills WithdrawnBills NegativedBills Search Disclaimer CommitteesIntroductionChairpersonSummary of WorkCommittee Meetings ScheduleBills Referred to CommitteesReports PresentedDigitized ReportsPress ReleaseMembership SearchToday's Committee MeetingsCommittee Subject SelectedDepartment Related-RS Govt. AssurancesSANSAD TVIntranet
+
+
+
+
+
+HomeQuestion ListStatus of notices of questionQuestions CalendarGrouping of Ministries - AlphabeticalOfficers in Min./Dept. Dealing with Parliamentary WorkQuestion SearchSupplementary Questions
+
+
+
+
+
+
+
+
+
+
+
+Download as PDF
+
+
+
+
+Print
+
+
+
+
+
+
+
+
+
+
+
+
+PDF/WORD(Hindi)
+
+
+PDF/WORD
+
+
+
+
+                                    GOVERNMENT OF INDIA
+                                
+
+
+
+
+
+                                    MINISTRY OF
+                                    COMMUNICATIONS
+
+
+
+
+
+
+                                    LOK SABHA
+                                
+
+
+
+
+
+UNSTARRED 
+
+
+                                    QUESTION NO:
+                                
+
+22
+
+
+
+
+
+
+                                    ANSWERED ON: 
+                                
+
+02.02.2022
+
+
+
+
+
+
+Internet of Things
+
+
+
+
+Rajveer (Raju Bhaiya) Singh
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                    Sukanta Majumdar
+                                                
+
+
+
+
+
+
+
+
+                                                    Bhola Singh
+                                                
+
+
+
+
+
+
+
+
+                                                    Vinod Kumar Sonkar
+                                                
+
+
+
+
+
+
+
+
+
+
+
+
+                        Will the Minister of
+
+
+
+
+
+COMMUNICATIONS
+
+
+                        be pleased to state:-
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                    (a) 	whether the Government has released ‘Code of Practice for securing consumer Internet of Things (IoT)‘ in the country; (b) 	if so, the details thereof; (c) 	whether the Internet of Things (IoT) is one of the fastest emerging technologies across the globe which provides enormous beneficial opportunities for society, industry, and consumers; (d) 	if so, the Government‘s reaction thereto; (e) 	whether the Government is working on for the development of an eco-system for 5 billion connected devices by 2022 as per the National Digital Communication Policy (NDCP), 2018; (f) 	if so, the details thereof; and (g) 	the other steps being taken by the Government in securing consumer IoT devices and ecosystem as well as managing vulnerabilities?
+
+
+
+
+
+
+ANSWER
+
+
+
+
+                                                        MINISTER OF STATE FOR COMMUNICATIONS (SHRI DEVUSINH CHAUHAN)(a) & (b) 	Yes, Telecom Engineering Centre (TEC), an attached office under Department of Telecommunications (DoT) has released ''Code of Practice for securing consumer Internet of Things (IoT)'' in August’ 2021. This document provides baseline requirements for the implementation of “Security by design” principle in Machine-to-Machine (M2M) devices manufacturing.  (c) & (d) 	Yes, IoT devices are being used to create smart infrastructure in various verticals such as Power, Automotive, Safety & Surveillance, Remote Health Management, Agriculture, Smart Homes and Smart Cities etc, using connected IoT devices. (e) & (f) 	The following actions in IoT/M2M domain have been taken:  i.	OneM2M Release 2 standards have been accepted as National Standards.ii.	13 digit numbering plan exclusively for M2M, has been released. iii.	M2M specific Know Your Customer (KYC) guidelines have been issued. iv.	Use of electronic Subscriber Identification Module (eSIM) with Over-The-Air (OTA) in Indian environment has been permitted.v.	Addition of 1 MHz in the unlicensed 865-867 MHz making it to 865-868 MHz with introduction of Duty cycle of 10%.vi.	Introduction of UL(M2M) and UL-VNO(M2M) under Unified License (UL) and Unified License-Virtual Network Operator (UL-VNO) licenses.vii.	Interface Requirement (IR) on embedded SIM has been released by TEC. These specifications are being used in Ministry of Road Transport and Highways (MoRTH) standard AIS140 for tracking device mandated for commercial passenger vehicles. Same has also been adopted by Bureau of Indian Standards (BIS) in its standard IS 16833. (g) 	As part of Mandatory Testing and Certification of Telecom Equipment (MTCTE) scheme which has been launched in phases, the IoT Gateways /IoT devices have been mandated to be tested and certified against the five parameters including the security requirements as per the Essential Requirements to improve security in IOT devices. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+HomeArchiveIndex to Select Questions (1984-1999)Ballot ListStatistical Statements Relating to QuestionsUploading of Questions - Status QueryProcedure for Sending Text of Questions & AnswersDemarcation of responsibilities in Govt. of IndiaBrochure on Statutory Corporations, Companies and Other Bodies in Which the Government of India have financial or controlling interestHighlights pertaining to questions of 17th Lok Sabha
+
+
+
+
+
+
+Contact Us 
+Disclaimer
+
+
+
+
+
+
+
+
+
+
+
+        Developed and Hosted by National Informatics Centre (NIC)
+
+Content on this website is published,
+            managed & maintained by Software Unit, Computer (HW & SW) Management. Branch,
+            Lok Sabha Secretariat
+
+
+
+
+
+HomeMembersBusinessQuestionsDebatesPapers Laid
+
+
+LegislationCommitteesSANSAD TVIntranetSecretariatPRIDE
+
+
+RecruitmentSC/ST ReservationConferenceParliament Library
+
+
+About ParliamentPhoto GalleryRelated LinksRTITendersFAQ
+
+
+SpeakerDy. SpeakerLeader of the HousePanel of ChairpersonsContact UsFeedback
+
+
+Council of MinistersPublications of MinistriesParliamentry ProceduresJournal of Parliamentary Information
+Visitor's Counter:113252179
+
+
+
+
+
+
+
+Copyright
+Privacy Policy
+Disclaimer
+Terms &
+                Conditions
+
+                Accessibility Statement
+Accessibility
+                Options
+Feedback
+Site Map
+
+
+
+
+
+
+

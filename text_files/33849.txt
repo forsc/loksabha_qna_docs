@@ -1,0 +1,350 @@
+
+
+
+
+	Questions : Lok Sabha
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Screen Reader Access
+Skip to Main Content
+Skip to Navigation
+
+
+
+Text Size
+
+                                A
+
+                                A
+A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+हिन्दी मे
+
+
+
+
+
+
+
+
+Parliament of India Lok Sabha House of the
+                        People
+
+
+
+
+
+
+* Special Characters not allowed
+
+
+
+
+
+
+
+
+
+
+
+
+India Time 
+
+
+Your Time 
+
+
+                        Tuesday,
+                        12 April 2022
+
+
+
+
+
+
+
+
+
+HomeMembersSitting MembersMembers Home PageMembers' PortalContact DetailsMembers SearchStatistical AnalysisAttendance of MembersHandbook Members Since 1952Digitized Who's WhoOthers BusinessProvisional CalendarList of BusinessPapers to be LaidList of Private Members' BusinessBulletin-IDigitized Lok Sabha Bulletin Part IBulletin-IIStatement of WorkSpecial Mentions (ZERO HOUR)Resume of WorkDigitized Resume of Work done by Lok Sabha QuestionsHomeQuestion ListStatus of notices of questionQuestions CalendarGrouping of Ministries - AlphabeticalOfficers in Min./Dept. Dealing with Parliamentary WorkQuestion SearchSupplementary Questions DebatesIntroductionSynopsisUncorrected DebateText of DebateDigitized DebatesConstituent Assembly DebatesWit And HumourDebate SearchHindi FontsDisclaimer Papers LaidPapers Laid on the Table of the House LegislationIntroduction(How Bill Becomes Act)Bills IntroducedBills PassedBills PendingBills AssentedBills LapsedBills WithdrawnBills NegativedBills Search Disclaimer CommitteesIntroductionChairpersonSummary of WorkCommittee Meetings ScheduleBills Referred to CommitteesReports PresentedDigitized ReportsPress ReleaseMembership SearchToday's Committee MeetingsCommittee Subject SelectedDepartment Related-RS Govt. AssurancesSANSAD TVIntranet
+
+
+
+
+
+HomeQuestion ListStatus of notices of questionQuestions CalendarGrouping of Ministries - AlphabeticalOfficers in Min./Dept. Dealing with Parliamentary WorkQuestion SearchSupplementary Questions
+
+
+
+
+
+
+
+
+
+
+
+Download as PDF
+
+
+
+
+Print
+
+
+
+
+
+
+
+
+
+
+
+
+PDF/WORD(Hindi)
+
+
+PDF/WORD
+
+
+
+
+                                    GOVERNMENT OF INDIA
+                                
+
+
+
+
+
+                                    MINISTRY OF
+                                    ELECTRONICS AND INFORMATION TECHNOLOGY
+
+
+
+
+
+
+                                    LOK SABHA
+                                
+
+
+
+
+
+UNSTARRED 
+
+
+                                    QUESTION NO:
+                                
+
+1282
+
+
+
+
+
+
+                                    ANSWERED ON: 
+                                
+
+09.02.2022
+
+
+
+
+
+
+Digital Payments Infrastructure
+
+
+
+
+Vincent H Pala
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        Will the Minister of
+
+
+
+
+
+ELECTRONICS AND INFORMATION TECHNOLOGY
+
+
+                        be pleased to state:-
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                    Will the Minister of ELECTRONICS AND INFORMATION TECHNOLOGY be pleased to state:(a)	the details of the extent of digital payments infrastructure usage in North Eastern Region (NER), State-wise;(b)	the details of ATM penetration in NER, State-wise; and(c)	the details of the steps taken by the Government to increase connectivity and reduce server downtime/ failed transactions in the NER? 
+
+
+
+
+
+
+ANSWER
+
+
+
+
+                                                        ): Government of India is making all efforts for promotion of digital payments and enabling digital payment acceptance infrastructure across the country including North Eastern Region (NER). As a result of coordinated efforts of the Government with all stakeholders, a significant increase in number of digital payment transactions have been achieved from 2,071 crore in FY 2017-18 to 5,554 crore in FY 2020-21. A total of 6,380 crore digital payment transactions have been achieved till 02.02.2022 in FY 2021-22 (as per DigiDhan Dashboard: URL - https://digipay.gov.in/ ). The State-wise details of number of digital payment transactions in North Eastern Region (NER) for payment modes Unified Payments Interface (BHIM-UPI),  RuPay on point of sale (PoS) devices, Immediate Payment Service (IMPS), and *99# (Unstructured Supplementary Services Data( USSD) based digital payment mode), as per information provided by National Payments Corporation of India (NPCI), is given below:SN	State	FY2019-20	FY2020-21	FY2021-22*1.		Arunachal Pradesh	70,60,278 	1,61,36,999 	2,58,83,8622.		Assam	10,51,06,727 	20,28,00,298 	27,32,36,9743.		Manipur	1,03,79,267 	2,48,56,871 	3,43,17,7044.		Meghalaya	68,82,421 	1,62,43,826 	2,19,80,7635.		Mizoram	39,81,097 	1,09,32,068 	1,89,21,9196.		Nagaland	70,49,580 	1,69,72,407 	2,21,12,4367.		Sikkim	54,71,379 	1,09,58,593 	1,59,56,8878.		Tripura	1,43,58,668 	2,66,35,594 	2,86,66,016*FY 2021-22 data is upto December 2021(b): The State-wise details of Automated Teller Machine (ATM) and micro-ATM penetration in North Eastern Region, as per information provided by Reserve Bank of India and National Payments Corporation of India (NPCI),  is given below:SN	State	No of ATMsas on Sep-2021	No of micro-ATMsas on Jan-20221.		Arunachal Pradesh	261	9882.		Assam	4280	181283.		Manipur	389	74874.		Meghalaya	439	3635.		Mizoram	176	4876.		Nagaland	320	6307.		Sikkim	203	5718.		Tripura	622	16653(c):  As per information provided by Department of  Telecommunication, the following schemes are being implemented through Universal Service Obligation Fund(USOF) to increase connectivity in North Eastern Region  to facilitate digital payments :•	BharatNet project is implemented in a phased manner to provide broadband connectivity to all Gram Panchayats (GPs) in the country, including NER.•	Scheme for provision of mobile services in uncovered villages in Assam, Manipur, Mizoram, Nagaland, Tripura, Sikkim, and Arunachal Pradesh (National Highways only) of NER and seamless coverage along National Highway. •	Scheme for provision of fourth generation (4G) mobile services in uncovered villages of Meghalaya and seamless coverage along National Highway. •	Scheme for provision of 4G mobile services in uncovered villages of Arunachal Pradesh and 2 Districts (KarbiAnglong& Dima Hasao) of Assam. •	Hiring of 10 Gbps International Bandwidth for Internet Connectivity to Agartala from Bangladesh Submarine Cable Company Limited (BSCCL), Bangladesh via Cox Bazar. ******* 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+HomeArchiveIndex to Select Questions (1984-1999)Ballot ListStatistical Statements Relating to QuestionsUploading of Questions - Status QueryProcedure for Sending Text of Questions & AnswersDemarcation of responsibilities in Govt. of IndiaBrochure on Statutory Corporations, Companies and Other Bodies in Which the Government of India have financial or controlling interestHighlights pertaining to questions of 17th Lok Sabha
+
+
+
+
+
+
+Contact Us 
+Disclaimer
+
+
+
+
+
+
+
+
+
+
+
+        Developed and Hosted by National Informatics Centre (NIC)
+
+Content on this website is published,
+            managed & maintained by Software Unit, Computer (HW & SW) Management. Branch,
+            Lok Sabha Secretariat
+
+
+
+
+
+HomeMembersBusinessQuestionsDebatesPapers Laid
+
+
+LegislationCommitteesSANSAD TVIntranetSecretariatPRIDE
+
+
+RecruitmentSC/ST ReservationConferenceParliament Library
+
+
+About ParliamentPhoto GalleryRelated LinksRTITendersFAQ
+
+
+SpeakerDy. SpeakerLeader of the HousePanel of ChairpersonsContact UsFeedback
+
+
+Council of MinistersPublications of MinistriesParliamentry ProceduresJournal of Parliamentary Information
+Visitor's Counter:113257175
+
+
+
+
+
+
+
+Copyright
+Privacy Policy
+Disclaimer
+Terms &
+                Conditions
+
+                Accessibility Statement
+Accessibility
+                Options
+Feedback
+Site Map
+
+
+
+
+
+
+

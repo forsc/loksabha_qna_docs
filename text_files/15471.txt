@@ -1,0 +1,350 @@
+
+
+
+
+	Questions : Lok Sabha
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Screen Reader Access
+Skip to Main Content
+Skip to Navigation
+
+
+
+Text Size
+
+                                A
+
+                                A
+A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+हिन्दी मे
+
+
+
+
+
+
+
+
+Parliament of India Lok Sabha House of the
+                        People
+
+
+
+
+
+
+* Special Characters not allowed
+
+
+
+
+
+
+
+
+
+
+
+
+India Time 
+
+
+Your Time 
+
+
+                        Monday,
+                        11 April 2022
+
+
+
+
+
+
+
+
+
+HomeMembersSitting MembersMembers Home PageMembers' PortalContact DetailsMembers SearchStatistical AnalysisAttendance of MembersHandbook Members Since 1952Digitized Who's WhoOthers BusinessProvisional CalendarList of BusinessPapers to be LaidList of Private Members' BusinessBulletin-IDigitized Lok Sabha Bulletin Part IBulletin-IIStatement of WorkSpecial Mentions (ZERO HOUR)Resume of WorkDigitized Resume of Work done by Lok Sabha QuestionsHomeQuestion ListStatus of notices of questionQuestions CalendarGrouping of Ministries - AlphabeticalOfficers in Min./Dept. Dealing with Parliamentary WorkQuestion SearchSupplementary Questions DebatesIntroductionSynopsisUncorrected DebateText of DebateDigitized DebatesConstituent Assembly DebatesWit And HumourDebate SearchHindi FontsDisclaimer Papers LaidPapers Laid on the Table of the House LegislationIntroduction(How Bill Becomes Act)Bills IntroducedBills PassedBills PendingBills AssentedBills LapsedBills WithdrawnBills NegativedBills Search Disclaimer CommitteesIntroductionChairpersonSummary of WorkCommittee Meetings ScheduleBills Referred to CommitteesReports PresentedDigitized ReportsPress ReleaseMembership SearchToday's Committee MeetingsCommittee Subject SelectedDepartment Related-RS Govt. AssurancesSANSAD TVIntranet
+
+
+
+
+
+HomeQuestion ListStatus of notices of questionQuestions CalendarGrouping of Ministries - AlphabeticalOfficers in Min./Dept. Dealing with Parliamentary WorkQuestion SearchSupplementary Questions
+
+
+
+
+
+
+
+
+
+
+
+Download as PDF
+
+
+
+
+Print
+
+
+
+
+
+
+
+
+
+
+
+
+PDF/WORD(Hindi)
+
+
+PDF/WORD
+
+
+
+
+                                    GOVERNMENT OF INDIA
+                                
+
+
+
+
+
+                                    MINISTRY OF
+                                    COMMUNICATIONS
+
+
+
+
+
+
+                                    LOK SABHA
+                                
+
+
+
+
+
+UNSTARRED 
+
+
+                                    QUESTION NO:
+                                
+
+4058
+
+
+
+
+
+
+                                    ANSWERED ON: 
+                                
+
+18.03.2020
+
+
+
+
+
+
+Mobile Tower Density and Broadband Services
+
+
+
+
+Parvatagouda Chandanagouda Gaddigoudar
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        Will the Minister of
+
+
+
+
+
+COMMUNICATIONS
+
+
+                        be pleased to state:-
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                    (a) 	the number of operational mobile towers in the country, telecom-company-wise; (b) 	whether the Government has taken any steps to increase the mobile tower density and extend broadband services in all the rural and remote areas across the country; and (c) 	if so, the details thereof and if not, the reasons therefor?          
+
+
+
+
+
+
+ANSWER
+
+
+
+
+                                                        MINISTER OF STATE FOR COMMUNICATIONS,  HUMAN RESOURCE DEVELOPMENT AND ELECTRONICS & INFORMATION TECHNOLOGY (SHRI SANJAY DHOTRE)(a)	As on 11.03.2020 there are 5,94,086 number of mobile towers in the country. Base Transceiver Station (BTSs) are installed by Telecom Service Providers (TSPs) on these mobile towers. Major TSP-wise number of BTSs in the country as on 11.03.2020 is given below: <pre>Name of TSP ?	Airtel	BSNL	MTNL	Reliance JIO	Vodafone-IdeaNumber of BTS as on 11.03.2020	5,47,727	1,50,451	4,292	8,68,327	5,57,104</pre>Further, new Mobile Towers/ BTSs are installed by TSPs on continuous basis to improve coverage and/or capacity of their networks based on their techno-commercial requirements.(b)	& (c)	Following Universal Service Obligation Fund (USOF) supported schemes/projects are approved for providing/facilitating mobile and broadband services in rural and remote areas across the country: (i)	Under Left Wing Extremism (LWE) Phase-I project, provision of mobile connectivity at 2355 towers locations in the States of Andhra Pradesh, Bihar, Chhattisgarh, Jharkhand, Madhya Pradesh, Maharashtra, Odisha, Telangana, Uttar Pradesh and West Bengal has been implemented by Government of India. Under LWE Phase-II project, installation of 2217 mobile towers has been approved for providing 2G + 4G based mobile services in these states.(ii)	Provision of mobile connectivity in 354 villages of uncovered border areas including J & K, Ladakh, Himachal Pradesh, Uttarakhand and other priority areas has also been approved. (iii)	A Comprehensive Telecom Development Plan for mobile connectivity in the North Eastern Region to provide mobile coverage in uncovered villages along with National Highways and to augment transmission network;(iv)	Under BharatNet project, broadband connectivity will be provided in all the Gram Panchayats (GPs) (approx. 2.5 lakh) in the country. As reported by Bharat Broadband Network Limited (BBNL), as on 24th February 2020, 119874 GPs are service ready under BharatNet Phase-I project and 16494 GPs are service ready under BharatNet Phase-II project;(v)	Laying of submarine optical fibre cable between Chennai and Andaman & Nicobar Islands for providing connectivity to Andaman & Nicobar Islands;(vi)	Mobile connectivity to cover uncovered villages and along National Highway (NH 223) in Andaman & Nicobar Islands;(vii)	Mobile connectivity has been enhanced in Lakshadweep Islands by installing 10 mobile towers; (viii)	Satellite bandwidth augmentation upto 4 Gbps for Andaman & Nicobar Islands;(ix)	Satellite bandwidth augmentation upto 1.71 Gbps for Lakshadweep Islands.(x)	Aspirational District Scheme for provisioning of 4G based Mobile service in 502 uncovered villages in Aspirational Districts of four states Uttar Pradesh, Bihar, Madhya Pradesh & Rajasthan has been approved.Moreover, Department of Telecommunications (DoT) has taken several policy initiatives to facilitate infrastructure growth for delivery of quality services. These include permitting trading/sharing/ liberalisation of spectrum, permitting passive & active infrastructure sharing, notification of Right of Way Rules 2016, making available government land/buildings for installations of towers etc. As a result, around 15.37 lakh additional Base Transceiver Stations (BTSs) for 2G/3G/4G-LTE services have been added by Telecom Service Providers (TSPs) during the period from March, 2014 (6.49 lakh BTS) to 11th March 2020 (21.87 lakh BTS) across the country.**********
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+HomeArchiveIndex to Select Questions (1984-1999)Ballot ListStatistical Statements Relating to QuestionsUploading of Questions - Status QueryProcedure for Sending Text of Questions & AnswersDemarcation of responsibilities in Govt. of IndiaBrochure on Statutory Corporations, Companies and Other Bodies in Which the Government of India have financial or controlling interestHighlights pertaining to questions of 17th Lok Sabha
+
+
+
+
+
+
+Contact Us 
+Disclaimer
+
+
+
+
+
+
+
+
+
+
+
+        Developed and Hosted by National Informatics Centre (NIC)
+
+Content on this website is published,
+            managed & maintained by Software Unit, Computer (HW & SW) Management. Branch,
+            Lok Sabha Secretariat
+
+
+
+
+
+HomeMembersBusinessQuestionsDebatesPapers Laid
+
+
+LegislationCommitteesSANSAD TVIntranetSecretariatPRIDE
+
+
+RecruitmentSC/ST ReservationConferenceParliament Library
+
+
+About ParliamentPhoto GalleryRelated LinksRTITendersFAQ
+
+
+SpeakerDy. SpeakerLeader of the HousePanel of ChairpersonsContact UsFeedback
+
+
+Council of MinistersPublications of MinistriesParliamentry ProceduresJournal of Parliamentary Information
+Visitor's Counter:113186479
+
+
+
+
+
+
+
+Copyright
+Privacy Policy
+Disclaimer
+Terms &
+                Conditions
+
+                Accessibility Statement
+Accessibility
+                Options
+Feedback
+Site Map
+
+
+
+
+
+
+

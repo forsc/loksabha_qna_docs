@@ -1,0 +1,350 @@
+
+
+
+
+	Questions : Lok Sabha
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Screen Reader Access
+Skip to Main Content
+Skip to Navigation
+
+
+
+Text Size
+
+                                A
+
+                                A
+A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+हिन्दी मे
+
+
+
+
+
+
+
+
+Parliament of India Lok Sabha House of the
+                        People
+
+
+
+
+
+
+* Special Characters not allowed
+
+
+
+
+
+
+
+
+
+
+
+
+India Time 
+
+
+Your Time 
+
+
+                        Tuesday,
+                        12 April 2022
+
+
+
+
+
+
+
+
+
+HomeMembersSitting MembersMembers Home PageMembers' PortalContact DetailsMembers SearchStatistical AnalysisAttendance of MembersHandbook Members Since 1952Digitized Who's WhoOthers BusinessProvisional CalendarList of BusinessPapers to be LaidList of Private Members' BusinessBulletin-IDigitized Lok Sabha Bulletin Part IBulletin-IIStatement of WorkSpecial Mentions (ZERO HOUR)Resume of WorkDigitized Resume of Work done by Lok Sabha QuestionsHomeQuestion ListStatus of notices of questionQuestions CalendarGrouping of Ministries - AlphabeticalOfficers in Min./Dept. Dealing with Parliamentary WorkQuestion SearchSupplementary Questions DebatesIntroductionSynopsisUncorrected DebateText of DebateDigitized DebatesConstituent Assembly DebatesWit And HumourDebate SearchHindi FontsDisclaimer Papers LaidPapers Laid on the Table of the House LegislationIntroduction(How Bill Becomes Act)Bills IntroducedBills PassedBills PendingBills AssentedBills LapsedBills WithdrawnBills NegativedBills Search Disclaimer CommitteesIntroductionChairpersonSummary of WorkCommittee Meetings ScheduleBills Referred to CommitteesReports PresentedDigitized ReportsPress ReleaseMembership SearchToday's Committee MeetingsCommittee Subject SelectedDepartment Related-RS Govt. AssurancesSANSAD TVIntranet
+
+
+
+
+
+HomeQuestion ListStatus of notices of questionQuestions CalendarGrouping of Ministries - AlphabeticalOfficers in Min./Dept. Dealing with Parliamentary WorkQuestion SearchSupplementary Questions
+
+
+
+
+
+
+
+
+
+
+
+Download as PDF
+
+
+
+
+Print
+
+
+
+
+
+
+
+
+
+
+
+
+PDF/WORD(Hindi)
+
+
+PDF/WORD
+
+
+
+
+                                    GOVERNMENT OF INDIA
+                                
+
+
+
+
+
+                                    MINISTRY OF
+                                    FINANCE
+
+
+
+
+
+
+                                    LOK SABHA
+                                
+
+
+
+
+
+UNSTARRED 
+
+
+                                    QUESTION NO:
+                                
+
+4105
+
+
+
+
+
+
+                                    ANSWERED ON: 
+                                
+
+28.03.2022
+
+
+
+
+
+
+Transaction Failures in AePS
+
+
+
+
+ Chinta Anuradha
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        Will the Minister of
+
+
+
+
+
+FINANCE
+
+
+                        be pleased to state:-
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                    (a)	whether the Government has taken any steps to decrease the rising rate of transaction failures in Aadhaar enabled Payment Services (AePS) and if so, the details thereof; (b)	whether the Government is taking steps to reconstruct the consumer redressal process in the case of failed transactions, such as automated response codes to trigger reversal transactions, if so, the details thereof and if not, the reasons therefor;(c)	whether the Government has taken any steps to regulate the rising number of fraudulent Business Correspondents (BCs) stealing money from vulnerable customers through AePS, if so, the details thereof and if not, the reasons therefor;(d)	whether the Government has undertaken measures to ensure that the money withdrawn by the BC is disbursed to the customer so verification is possible in case of an alleged fraudulent transaction; and (e)	if so, the details thereof and if not, the reasons therefor?
+
+
+
+
+
+
+ANSWER
+
+
+
+
+                                                        THE MINISTER OF STATE IN THE MINISTRY OF FINANCE(a) Aadhaar Enabled Payment System (AePS) is a bank led model which allows online interoperable financial transactions in accounts including accounts of beneficiaries of Direct Benefit Transfer (DBT), through Business Correspondents (BCs), using Aadhaar based biometric authentication. Banks offer this service to their customer to access his/her respective Aadhaar enabled bank account and perform basic banking transactions like cash deposit, cash withdrawal, intrabank or interbank fund transfer, balance enquiry and obtain mini statement through a BC.National Payments Corporation of India (NPCI) has apprised that it has taken various steps for reduction of declines as listed below:-(i)	NPCI has a 24*7 technical support team including the Network team, which tracks incidents and assists the banks in the closure of the incident;(ii)	NPCI escalates the matter to the Senior management of the Banks if they are having more than 1 lakh transactions declines per day;(iii)	Technical Taskforce is created for all online products to help Banks to work towards reducing the technical declines.Further, regular review is also done by Government periodically to contain the technical declines of AePS transactions.(b) RBI vide its notification dated 20.09.20219 for “Harmonisation of Turn Around Time (TAT) and customer compensation for failed transactions” has inter-alia advised Banks that wherever financial compensation is involved, the same shall be effected to the customer’s account suo moto, without waiting for a complaint or claim from the customer. Further, customers, who do not get the benefit of redress of the failure as defined in the TAT, can register a complaint with the Reserve Bank - Integrated Ombudsman Scheme, 2021. Accordingly, NPCI has apprised that the TAT has been implemented for all online products including AePS.(c) RBI has apprised that to strengthen the BC ecosystem they have prescribed the framework for development of Business Correspondent (BC) Registry Portal to Indian Banks’ Association (IBA). The BC registry portal provides a centralized repository of relevant information on BCs, which captures basic demographic details, concerned bank and corporate BC details, along with location of BCs, nature of operations, qualifications, gender, etc. In the event of malpractice/ frauds, banks have the option to blacklist BCs on the portal, details of which are made available to all the stakeholders.Details of all Business Correspondents (BCs) blocked/blacklisted are consolidated by NPCI and circulated periodically to all member banks for the benefit of the BC ecosystem. (d) & (e) As per RBI’s Master Circular dated 1.7.2014 on ‘Branch Authorisation’, banks are permitted to formulate a policy for engaging BCs with the approval of their Board of Directors. Further, the terms and conditions governing the contract between the Bank and the BC are required to be defined in written agreements subject to thorough legal vetting.Vide the same circular, Banks have been advised to give due consideration to reputational, legal and operational risks associated with the engagement of BCs. The banks have also been advised to adopt technology-based solutions for managing the risk, besides increasing the outreach in a cost-effective manner. The transactions should normally be put through information and communications technology (ICT) devices (handheld device/mobile phone) that are seamlessly integrated to the Core Banking Solution (CBS) of the Bank. The transactions are accounted for on a real time basis and the customers receive immediate verification of their transactions through visuals (screen based) or other means (debit or credit slip).*****
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+HomeArchiveIndex to Select Questions (1984-1999)Ballot ListStatistical Statements Relating to QuestionsUploading of Questions - Status QueryProcedure for Sending Text of Questions & AnswersDemarcation of responsibilities in Govt. of IndiaBrochure on Statutory Corporations, Companies and Other Bodies in Which the Government of India have financial or controlling interestHighlights pertaining to questions of 17th Lok Sabha
+
+
+
+
+
+
+Contact Us 
+Disclaimer
+
+
+
+
+
+
+
+
+
+
+
+        Developed and Hosted by National Informatics Centre (NIC)
+
+Content on this website is published,
+            managed & maintained by Software Unit, Computer (HW & SW) Management. Branch,
+            Lok Sabha Secretariat
+
+
+
+
+
+HomeMembersBusinessQuestionsDebatesPapers Laid
+
+
+LegislationCommitteesSANSAD TVIntranetSecretariatPRIDE
+
+
+RecruitmentSC/ST ReservationConferenceParliament Library
+
+
+About ParliamentPhoto GalleryRelated LinksRTITendersFAQ
+
+
+SpeakerDy. SpeakerLeader of the HousePanel of ChairpersonsContact UsFeedback
+
+
+Council of MinistersPublications of MinistriesParliamentry ProceduresJournal of Parliamentary Information
+Visitor's Counter:113262847
+
+
+
+
+
+
+
+Copyright
+Privacy Policy
+Disclaimer
+Terms &
+                Conditions
+
+                Accessibility Statement
+Accessibility
+                Options
+Feedback
+Site Map
+
+
+
+
+
+
+

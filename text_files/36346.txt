@@ -1,0 +1,473 @@
+
+
+
+
+	Questions : Lok Sabha
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Screen Reader Access
+Skip to Main Content
+Skip to Navigation
+
+
+
+Text Size
+
+                                A
+
+                                A
+A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+हिन्दी मे
+
+
+
+
+
+
+
+
+Parliament of India Lok Sabha House of the
+                        People
+
+
+
+
+
+
+* Special Characters not allowed
+
+
+
+
+
+
+
+
+
+
+
+
+India Time 
+
+
+Your Time 
+
+
+                        Tuesday,
+                        12 April 2022
+
+
+
+
+
+
+
+
+
+HomeMembersSitting MembersMembers Home PageMembers' PortalContact DetailsMembers SearchStatistical AnalysisAttendance of MembersHandbook Members Since 1952Digitized Who's WhoOthers BusinessProvisional CalendarList of BusinessPapers to be LaidList of Private Members' BusinessBulletin-IDigitized Lok Sabha Bulletin Part IBulletin-IIStatement of WorkSpecial Mentions (ZERO HOUR)Resume of WorkDigitized Resume of Work done by Lok Sabha QuestionsHomeQuestion ListStatus of notices of questionQuestions CalendarGrouping of Ministries - AlphabeticalOfficers in Min./Dept. Dealing with Parliamentary WorkQuestion SearchSupplementary Questions DebatesIntroductionSynopsisUncorrected DebateText of DebateDigitized DebatesConstituent Assembly DebatesWit And HumourDebate SearchHindi FontsDisclaimer Papers LaidPapers Laid on the Table of the House LegislationIntroduction(How Bill Becomes Act)Bills IntroducedBills PassedBills PendingBills AssentedBills LapsedBills WithdrawnBills NegativedBills Search Disclaimer CommitteesIntroductionChairpersonSummary of WorkCommittee Meetings ScheduleBills Referred to CommitteesReports PresentedDigitized ReportsPress ReleaseMembership SearchToday's Committee MeetingsCommittee Subject SelectedDepartment Related-RS Govt. AssurancesSANSAD TVIntranet
+
+
+
+
+
+HomeQuestion ListStatus of notices of questionQuestions CalendarGrouping of Ministries - AlphabeticalOfficers in Min./Dept. Dealing with Parliamentary WorkQuestion SearchSupplementary Questions
+
+
+
+
+
+
+
+
+
+
+
+Download as PDF
+
+
+
+
+Print
+
+
+
+
+
+
+
+
+
+
+
+
+PDF/WORD(Hindi)
+
+
+PDF/WORD
+
+
+
+
+                                    GOVERNMENT OF INDIA
+                                
+
+
+
+
+
+                                    MINISTRY OF
+                                    RAILWAYS
+
+
+
+
+
+
+                                    LOK SABHA
+                                
+
+
+
+
+
+UNSTARRED 
+
+
+                                    QUESTION NO:
+                                
+
+3275
+
+
+
+
+
+
+                                    ANSWERED ON: 
+                                
+
+23.03.2022
+
+
+
+
+
+
+Railway Network under Kavach Technology
+
+
+
+
+V. Kalanidhi
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                    Sambhajirao Mane Dhairyasheel
+                                                
+
+
+
+
+
+
+
+
+                                                    Sanjay Sadashivrao Mandlik
+                                                
+
+
+
+
+
+
+
+
+                                                    Kripanath Mallah
+                                                
+
+
+
+
+
+
+
+
+                                                    Subrata Pathak
+                                                
+
+
+
+
+
+
+
+
+                                                    Shrirang Appa Barne
+                                                
+
+
+
+
+
+
+
+
+                                                    Jaskaur Meena
+                                                
+
+
+
+
+
+
+
+
+                                                    Sudheer Gupta
+                                                
+
+
+
+
+
+
+
+
+                                                    Manoj Kumar Tiwari
+                                                
+
+
+
+
+
+
+
+
+                                                    Ravindra Kushawaha
+                                                
+
+
+
+
+
+
+
+
+                                                    Bidyut Baran Mahato
+                                                
+
+
+
+
+
+
+
+
+                                                    Vishnu Dayal Ram
+                                                
+
+
+
+
+
+
+
+
+                                                    Prataprao  Jadhav
+                                                
+
+
+
+
+
+
+
+
+
+
+
+
+                        Will the Minister of
+
+
+
+
+
+RAILWAYS
+
+
+                        be pleased to state:-
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                    (a)	whether the Railways has recently launched a ‘Kavach’ under the Atmanirbhar Bharat;(b)	if so, the details thereof along with the aims and objectives thereto;   (c)	the salient features of the said Kavach System;(d)	whether the Government has conducted any trial of ‘Kavach’ working system;(e)	if so, the details thereof and the outcome thereto;(f)	the total railway network routes brought under the Kavach System in the country including Assam and Tamil Nadu;(g)	the total expenditure incurred by the Government on developing the above said system; and (h)	the time by which it is likely to be installed?
+
+
+
+
+
+
+ANSWER
+
+
+
+
+                                                        MINISTER OF RAILWAYS, COMMUNICATIONS AND ELECTRONICS & INFORMATION TECHNOLOGY(SHRI ASHWINI VAISHNAW)(a)	to (c) Yes, Sir. Indian Railway has developed its own Automatic Train Protection (ATP) System called Kavach for enhancing safety of running trains.  KAVACH has been developed indigenously by RDSO in association with three Indian vendors and it has been adopted as our National Automatic Train Protection (ATP) System.KAVACH will not only aid Loco Pilot to avoid Signal Passing At Danger (SPAD) and over speeding but also help in train running during inclement weather such as dense fog.  Thus, Kavach will enhance safety and efficiency of train operations.The salient features of the said Kavach system are as under-•	Kavach controls speed of the train by automatic application of brakes in case Loco Pilot fails to apply the brakes.•	Repeats line-side signal in cab which is very useful for higher speeds and foggy weather.•	Works on principle of continuous update of Movement authority.•	Auto whistling at LC gates.•	Collision avoidance by direct loco to loco communication.•	Supports feature of SOS in case of any mishap to control train in vicinity. (d) to (f) Yes, Sir. Indian Railway has conducted trials ls of ‘Kavach’ on Absolute Block section of Lingamapalli – Vikarabad - Wadi, Vikarabad -Bidar (250 KM) section of South Central Railway.  After successful completion of trials, three vendors were approved for developmental orders on Indian Railways.On Successful trial a work of Kavach on 1199 RKm is in progress in Manmad – Mudkhed – Dhone – Guntakal & Bidar – Parbhani section of South Central Railway.Till now nearly 1098 Rkm of network route in South Central Railway has been brought under Kavach.(g)	and (h) Total expenditure incurred so far on development work of Kavach is ? 16.88 Crores.At present Kavach roll out is planned on New Delhi-Howrah and New Delhi – Mumbai section which is targeted for completion by Mar’2024.  Further roll out will be planned based on experience gained.*****
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+HomeArchiveIndex to Select Questions (1984-1999)Ballot ListStatistical Statements Relating to QuestionsUploading of Questions - Status QueryProcedure for Sending Text of Questions & AnswersDemarcation of responsibilities in Govt. of IndiaBrochure on Statutory Corporations, Companies and Other Bodies in Which the Government of India have financial or controlling interestHighlights pertaining to questions of 17th Lok Sabha
+
+
+
+
+
+
+Contact Us 
+Disclaimer
+
+
+
+
+
+
+
+
+
+
+
+        Developed and Hosted by National Informatics Centre (NIC)
+
+Content on this website is published,
+            managed & maintained by Software Unit, Computer (HW & SW) Management. Branch,
+            Lok Sabha Secretariat
+
+
+
+
+
+HomeMembersBusinessQuestionsDebatesPapers Laid
+
+
+LegislationCommitteesSANSAD TVIntranetSecretariatPRIDE
+
+
+RecruitmentSC/ST ReservationConferenceParliament Library
+
+
+About ParliamentPhoto GalleryRelated LinksRTITendersFAQ
+
+
+SpeakerDy. SpeakerLeader of the HousePanel of ChairpersonsContact UsFeedback
+
+
+Council of MinistersPublications of MinistriesParliamentry ProceduresJournal of Parliamentary Information
+Visitor's Counter:113261042
+
+
+
+
+
+
+
+Copyright
+Privacy Policy
+Disclaimer
+Terms &
+                Conditions
+
+                Accessibility Statement
+Accessibility
+                Options
+Feedback
+Site Map
+
+
+
+
+
+
+

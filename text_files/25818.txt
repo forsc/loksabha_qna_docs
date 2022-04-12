@@ -1,0 +1,373 @@
+
+
+
+
+	Questions : Lok Sabha
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Screen Reader Access
+Skip to Main Content
+Skip to Navigation
+
+
+
+Text Size
+
+                                A
+
+                                A
+A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+हिन्दी मे
+
+
+
+
+
+
+
+
+Parliament of India Lok Sabha House of the
+                        People
+
+
+
+
+
+
+* Special Characters not allowed
+
+
+
+
+
+
+
+
+
+
+
+
+India Time 
+
+
+Your Time 
+
+
+                        Tuesday,
+                        12 April 2022
+
+
+
+
+
+
+
+
+
+HomeMembersSitting MembersMembers Home PageMembers' PortalContact DetailsMembers SearchStatistical AnalysisAttendance of MembersHandbook Members Since 1952Digitized Who's WhoOthers BusinessProvisional CalendarList of BusinessPapers to be LaidList of Private Members' BusinessBulletin-IDigitized Lok Sabha Bulletin Part IBulletin-IIStatement of WorkSpecial Mentions (ZERO HOUR)Resume of WorkDigitized Resume of Work done by Lok Sabha QuestionsHomeQuestion ListStatus of notices of questionQuestions CalendarGrouping of Ministries - AlphabeticalOfficers in Min./Dept. Dealing with Parliamentary WorkQuestion SearchSupplementary Questions DebatesIntroductionSynopsisUncorrected DebateText of DebateDigitized DebatesConstituent Assembly DebatesWit And HumourDebate SearchHindi FontsDisclaimer Papers LaidPapers Laid on the Table of the House LegislationIntroduction(How Bill Becomes Act)Bills IntroducedBills PassedBills PendingBills AssentedBills LapsedBills WithdrawnBills NegativedBills Search Disclaimer CommitteesIntroductionChairpersonSummary of WorkCommittee Meetings ScheduleBills Referred to CommitteesReports PresentedDigitized ReportsPress ReleaseMembership SearchToday's Committee MeetingsCommittee Subject SelectedDepartment Related-RS Govt. AssurancesSANSAD TVIntranet
+
+
+
+
+
+HomeQuestion ListStatus of notices of questionQuestions CalendarGrouping of Ministries - AlphabeticalOfficers in Min./Dept. Dealing with Parliamentary WorkQuestion SearchSupplementary Questions
+
+
+
+
+
+
+
+
+
+
+
+Download as PDF
+
+
+
+
+Print
+
+
+
+
+
+
+
+
+
+
+
+
+PDF/WORD(Hindi)
+
+
+PDF/WORD
+
+
+
+
+                                    GOVERNMENT OF INDIA
+                                
+
+
+
+
+
+                                    MINISTRY OF
+                                    ELECTRONICS AND INFORMATION TECHNOLOGY
+
+
+
+
+
+
+                                    LOK SABHA
+                                
+
+
+
+
+
+UNSTARRED 
+
+
+                                    QUESTION NO:
+                                
+
+1562
+
+
+
+
+
+
+                                    ANSWERED ON: 
+                                
+
+28.07.2021
+
+
+
+
+
+
+Errors Committed by Aadhaar Card Service Providers
+
+
+
+
+Subrata Pathak
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                    Ravindra Shyamnarayan alias Ravi Kishan Shukla
+                                                
+
+
+
+
+
+
+
+
+                                                    Ravindra Kushawaha
+                                                
+
+
+
+
+
+
+
+
+
+
+
+
+                        Will the Minister of
+
+
+
+
+
+ELECTRONICS AND INFORMATION TECHNOLOGY
+
+
+                        be pleased to state:-
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                    Will the Minister of ELECTRONICS AND INFORMATION TECHNOLOGY be pleased to state:  (a)   whether the Government has taken any action against the Aadhar card service providers committing errors in the enrolment of Aadhar card;(b)  if so, the details thereof including the nature of the action taken by the Government against such service providers; and(c)  the details of the problems faced by common people due to the said errors committed by the said service providers and the reaction of the Government thereto?
+
+
+
+
+
+
+ANSWER
+
+
+
+
+                                                        (a) and (b): Yes, Sir. Unique Identification Authority of India (UIDAI) takes action on the Registrar or Enrolment Agency or service provider based on the Policy for enforcing of Aadhaar (Enrolment and Update) Regulations 2016, processes, standards, guidelines, data quality and containing corrupt /fraudulent practices, as updated from time to time. The latest policy dated 24.03.2021 is attached as Annexure-1.The action against such Registrar or Enrolment Agency or service provider includes deactivation of Aadhaar operator for retraining, suspension of Aadhaar operator and imposition of financial penalty on the Registrar or Enrolment Agency or service provider. Such details (monthly basis) are available under the link https://uidai.gov.in/ecosystem/enrolment-documents/sanction-orders.html (c):  In such cases the Aadhaar enrolment/update request gets rejected and the resident has to re-enroll/ re-update. However, the overall rejection in Quality Check (including operator mistakes) of the enrolment during the last 6 months is approximately 4.78 percent only.In order to minimize difficulties faced by the residents UIDAI has made provision for two screens in all the Enrolment Kits. The resident enrolling for Aadhaar can check the demographic details being recorded in their Aadhaar on the screen in front of them and ask the operator to enter correct information then and there, if entered wrongly. In addition to this, the resident gets an acknowledgement slip after enrollment/ update having all the details printed on it. Resident has to give his/ her consent and sign on the acknowledgement slip after Enrolment/ update, which becomes the part of the enrolment packet. UIDAI takes earnest efforts to minimize such errors by sensitizing its operators by imparting various trainings from time to time.With Quality check in place, UIDAI ensures that the resident does not get an Aadhaar with incorrect demographic information. In addition, no new Aadhaar /updation could be carried out based on invalid / fake documents.********Annexure-IPolicy for enforcing of Aadhaar (Enrolment and Update) Regulations 2016 , processes, standards, guidelines, Data Quality and containing corrupt / fraudulent practices.(Version -3.0 dated 24/03/2021)Honourable Supreme Court of India while disposing of Writ Petition (Civil ) No. 247 of 2017 and others dated 9.6.2017 in PAN- Aadhaar linking case, has inter alia  stated that :“….It is important that the aforesaid apprehensions are assuaged by taking proper measures so that confidence is instilled among the public at large that there is no chance of unauthorised leakage of data whether it is done by tightening the operations of the contractors who are given the job of enrolment, they being private persons or by prescribing severe penalties to those who are found guilty of leaking the details, is the outlook of the Government. However, we emphasise that measures in this behalf are absolutely essential and it would be in the fitness of things that proper scheme in this behalf is devised at the earliest.….”The above security concerns raised by Honourable Supreme Court about biometric as well as other personal data of residents have necessitated tightening  of the enrolment process and operation  and creating  by imposing financial disincentive on Registrars and deactivating/suspending their operators.The Regulation 26 – “Liability of Registrars, enrolling agencies and other service providers and action in case of default” is reproduced below:“Without prejudice to any other action which may be taken under the Act, for violation of any regulation, process, standard, guideline or order, by a Registrar or Enrolment Agency or any service provider or any other person, the Authority may immediately suspend the activities of such a Registrar or Enrolment Agency or service provider or concerned person, and after holding due enquiry, it may take steps for imposition of financial disincentives on such a Registrar or Enrolment Agency or service provider or any other person and for cancellation of the credentials, codes and permissions issued to them pursuant to the Act or these regulations, or any other steps as may be specifically provided for in the terms of engagement with the Authority."1.	UIDAI performs various validations & quality checks once the enrollment packet is uploaded to CIDR by Registrar/Enrolment agency. During these processes erroneous packets gets rejected. UIDAI also receives resident feedback/grievances through various channels regarding overcharging of residents for enrolment/update. UIDAI has started taking feedback from enrolled resident by calling/contacting them about their experience during their Aadhaar enrolment / update. Following are the broad objectives and actions proposed for Enforcing of Aadhaar (Enrolment and Update) Regulations 2016, processes, standards, guidelines, Data Quality and containing corrupt / fraudulent practices. To ensure that the interests of the UIDAI and the resident are protected, poor data quality and deviations from process norms (herein after called deficiencies) are dis-incentivized. Equally, the disincentives imposed must seek to serve as a deterrent and provide an opportunity for improvement, but must not become an unsustainable liability for the enrolment partners.2.	Specific deficiencies shall attract financial disincentives and administrative actions whereas Performance based periodic review attract administrative action if overall performance is poor for the period under review.3.	All the transactions during the previous month, irrespective of enrolment for new Aadhaar or update shall be considered for assessing the deficiencies4.	The overall financial dis-incentives on account of deficiencies other than corruption charges, in a given month, shall be capped at 10 % of the total amount payable in that month to the registrar – EA combination. The outstanding amount due to capping shall not be carried forward to the next month.  5.	The financial disincentive to be imposed against the corrupt practices reported by Regional Office for action as per MOM of the Standard Reconciliation Committee (SRC) meeting will be imposed in full.  Considering the UIDAI policy of 0% tolerance against corruption, this shall be applied over and above the deficiency charges mentioned as per para 3 above. The financial disincentive on corruption to be impossed only as per SRC report submitted by RO, including on OBD survey cases. The outstanding amount due over and above the amount payable during the month shall not be carried forward to the next month.6.	UIDAI, while making payment of assistance to Registrars will deduct the amount on account of financial disincentives.7.	In case of any dispute on the financial disincentive imposed against deficiencies or corruption cases, the Registrar may raise the same in the next SRC meeting and action shall be taken based on the decision of the SRC Committee.8.	Various deficiencies & Financial disincentives /administrative actions are as below.Sl. No.	Criteria	Amount	Existing	Revised1	Packets to be considered for assessing Deficiency	 	Only New Enrolment packets considered for calculating deficiency	New Enrolment and update packets to be considered for calculating deficiency2	Capping on penalty	 	The maximum penalty capped to 10% of income (including SLA on corruption)	 The overall financial dis-incentives on account of deficiencies other than corruption charges, in a given month, shall be capped at 10 % of the total amount payable in that month to the registrar – EA combination.                                                                          The 10% capping shall not be applicable for SLA on Corruption and the entire amount shall be deducted from payment.                                                                  SLA on corruption to be impossed only as per SRC report submitted by RO, including on OBD survey cases.3	Carry forward	 	The unrecovered penalty shall not be carried forwarded to the next month	The unrecovered penalty shall not be carried forwarded to the next month4	Gross violation of the stipulated guidelines with potential intent of fraud-tampering of UIDAI’s software (BYPASS of operator/supervisor Biometrics)	Rs 100,000 per machine	Suspension of operator for 5 years	Suspension of operator for 5 years   5	Gross violation of the stipulated guidelines with potential intent of fraud-     I.        Overcharging resident for UIDAI services/involved in corrupt practices.   II.        For running unauthorized enrolment center found during inspections  III.        Found involved in corrupt practices based on the outbound dialer survey 	Rs 50,000 per incident 	Suspension of operator for 1 year	Suspension of operator for 1 year    6	Biometric Error I (BE-I)     I.        Full finger prints or full iris incorrectly recorded as missing   II.        Photo of photo with in a  Biometric exception  III.        Exception photo of a different person IV.        Exception photo of an object	Rs 10,000 Per packet	For monthly cumulative BE-I errorsI.        For 1 or more cases suspension of operator for retrainingII.        For 5 or more cases suspension of operator for 5 yearsAppropriate legal action needs to be taken if cumulative error is >=1	For monthly cumulative BE-I errors                                           I.   For 1-3 cases suspension of operator for 1 yearII.      For more than 3 cases suspension of operator for 5 yearsAppropriate legal action needs to be taken if cumulative error is >=1  7	Photo of photo (POP)     I.        When a photo is of other photograph /or Non Human	Rs 10,000 Per packet	For monthly cumulative POP errorsI.             For 1 or more cases suspension of operator for 1 yearII.           For 5 or more cases suspension of operator for 5 yearsAppropriate legal action needs to be taken if cumulative error is >=1	For monthly cumulative BE-I errors                                           I.   For 1-3 cases suspension of operator for 1 yearII.      For more than 3 cases suspension of operator for 5 yearsAppropriate legal action needs to be taken if cumulative error is >=1  8	Document Error (DOE I)     I.        Fraudulent document   II.        Missing document	Rs 10,000 Per packet	For monthly cumulative DOE-I errorsI.        For 1 or more cases suspension   of operator for retrainingII.        For 5 or more cases suspension of operator for 5 yearsAppropriate legal action needs to be taken if cumulative error is >=1	For monthly cumulative DOE-I errors                                          I    For 1-3 cases suspension of operator for 1 yearII.      For more than 3 cases suspension of operator for 5 yearsAppropriate legal action needs to be taken if cumulative error is >=1  9	Use of unparliamentarily language/abusive language in residents demographics	Rs 1000 Per packet	For monthly cumulative such errorsI.        For 1 or more cases suspension   of operator for retraining   II.        For 5 or more cases suspension of operator for 5 yearsAppropriate legal action needs to be taken if cumulative error is >=1	For monthly cumulative such errors                                          I.  For 1 case - disassociation of operator for 3 months. Can be reinstated after retraining.                                           II. For 2-3 cases Suspension of operator for 1 year.                                                                               III. For 4 or more cases - Suspension of operator for 5 years.                                                                                 Appropriate legal action needs to be taken if cumulative error is >510	Document Error (DOE II)     I.        Poor quality document   II.        Invalid document  III.        Demographic data mismatch	Rs 25 Per packet	For monthly cumulative DOE-II errorsFor 30 or more cases suspension  of  operator for retraining	For monthly cumulative DOE-II errorsI.   For 30-100 cases dis- association of  operator for 3 months.  Can be reinstated after retraining.                                                          II. For 100 or more cases suspension of operator for 1 year.11	Biometric Error II (BE-II)     I.        Bad quality photo in exception photo   II.        Exception not visible in exception photo	Rs 25 Per packet	For monthly cumulative BE-II errorsFor 30 or more cases suspension of operator  for retraining	For monthly cumulative BE-II errorsI.   For 30-100 cases dis association of  operator for 3 months.  Can be reinstated after retraining.                                                          II. For 100 or more cases suspension of operator for 1 year.12	Biometric Error III (BE-III)     I.      Photo not as per guidelines	Rs 25 Per packet	For monthly cumulative BE-III errorsFor 30 or more cases suspension of operator  for retraining	For monthly cumulative BE-III errorsI.   For 30-100 cases dis association of operator for 3 months.  Can be reinstated after retraining.                                                          II. For 100 or more cases suspension of operator for 1 year.13	Demographic Error (DE)                                                                                              I.  Gender/Photo mismatch                                                                                     II. Age/Photo mismatch                                                                                           III. Error in Name/incomplete Address                                                             IV.  Relationship mismatch	Rs 25 Per packet	For monthly cumulative DE errorsFor 30 or more cases suspension of operator  for retraining	For monthly cumulative DE errorsI.   For 30-100 cases dis association of operator for 3 months.  Can be reinstated after retraining.                                                          II. For 100 or more cases suspension of operator for 1 year.*NOTE: (i) Incase the operator/supervisor is an employee of the Registrar (Banks, post offices and state governments), instead of suspension of operator/supervisor, departmental action be taken by the respective Registrar. In cases of outsourced operators by Registrars, the deactivation/suspension shall continue. However, in cases of grave/gross violations such as tampering of enrolment software, the suspension may be done even if the operator is an employee of the Registrar.  (ii) The retraining of the operators will be done by the concerned Registrar at their premises  or at respective Regional Office of UIDAI. The operator will remain deactivated/suspended till retraining and will be reactivated only on the recommendation of Regional reconciliation committee at RO as per existing operators on-boarding process/procedures.   9.	Review of EA based on adherence of process guidelinesThe EA is required to ensure compliance to processes prescribed by the UIDAI. Non-compliance would attract appropriate action against the agency.Activities deemed as non-compliant are listed below. This list is indicative and not exhaustive.•	Enrolling residents using unregistered enrolment stations or tampered software•	Sending spurious files to CIDR as enrolment packets•	Not complying with the enforcement of deactivation/suspension•	Engaging in activity that is against the process, policy and guidelines of UIDAI.The review pertaining to adherence to process guidelines could take place either during the periodic review or as a result of complaints received from time to time. Based on the severity and/ or recurrence of such complaints, appropriate action would be taken against the EA and Operator.Notwithstanding the provisions made above, UIDAI reserves the right to take exemplary action against EAs in case the nature of error/ non-compliance is of great severity.10.	Review of Operator performance based on soft skills.The Operator is the individual who would interact with the resident. Hence appropriate interaction of the Operator with the resident, is imperative. Departure from this norm could attract action against the Operator.Actions deemed as inappropriate are listed below. This list is indicative and not exhaustive.•	Rude behaviour or physical/ verbal abuse to the resident•	Charging money from the resident or promoting touts etc•	Miscommunication to residents with missing biometrics, stating that they cannot be enrolled•	Misguiding the resident in any manner that is contrary to the stated guidelines and procedures of UIDAIThe review of Soft Skills would take place during the monthly review or as a result of complaints received from time to time. Based on the severity and/ or recurrence of such complaints, appropriate action would be taken against the Operator.Notwithstanding the provisions made above, UIDAI reserves the right to take exemplary action against an Operator/ supervisor in case the   nature   of error/ non-compliance is of great severity.11.	Objection or request for correction by respective Registrars and EAs: The registrars / Enrolment agencies will be given opportunity for objection or request for correction to standing reconciliation committee decisions at respective Regional Offices as per Registrar/RO mapping.  The Registrars are mapped with the UIDAI Regional Office, in whose jurisdiction Registrar’s head quarter is located. 12.	The responsibility matrix for enforcement of financial  disincentive and administrative action shall be as follows: RESPONSIBILITY MATRIXS. No. 	Item	Time lines (in days)	ResponsibilityFinancial Disincentive for specific deficiencies1	Monthly Aadhaar generation and deficiencies report in prescribed template by 10th of every month.	D + 10	Tech Centre, UIDAI2	Receipt of report from RO level reconciliation committee about corrupt  practices & other relevant matters	D + 10	Reconciliation committee at RO UIDAI3	Issue of release order Assistance to Registrar by EU division HQ by 20th of every month.	D + 20	E&U Division, UIDAI4	Submission of objection or request for correction by respective Registrars and EAs to respective regional reconciliation committee by 30th of every month.	D + 30	Registrars/EAs5	Recommendation of reconciliation committee on the objections or request for correction by 10th of following month.	D + 40	Reconciliation committee at RO UIDAI6	Effecting the recommendation of reconciliation committee along with the next payment cycle.	D + 50	E&U division, UIDAIMonthly performance review of operators based on data quality1	Performance based monthly report of enrolment operators as per methodology for enforcing process guidelines and data quality by 10th of every month.	D +10	Tech Centre, UIDAI2	Action of disassociation/suspension of the operator by respective regional offices.	D + 15	Respective Regional Offices, UIDAI3	Stopping of enrolment by disassociated/suspended operators.	D + 20	Regional Office/ Registrar/ EAsMonthly Review of operator performance based on soft skills1	Review of operator performance based on soft skills	Monthly/case to case basis	Regionalreconciliationcommittee********
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+HomeArchiveIndex to Select Questions (1984-1999)Ballot ListStatistical Statements Relating to QuestionsUploading of Questions - Status QueryProcedure for Sending Text of Questions & AnswersDemarcation of responsibilities in Govt. of IndiaBrochure on Statutory Corporations, Companies and Other Bodies in Which the Government of India have financial or controlling interestHighlights pertaining to questions of 17th Lok Sabha
+
+
+
+
+
+
+Contact Us 
+Disclaimer
+
+
+
+
+
+
+
+
+
+
+
+        Developed and Hosted by National Informatics Centre (NIC)
+
+Content on this website is published,
+            managed & maintained by Software Unit, Computer (HW & SW) Management. Branch,
+            Lok Sabha Secretariat
+
+
+
+
+
+HomeMembersBusinessQuestionsDebatesPapers Laid
+
+
+LegislationCommitteesSANSAD TVIntranetSecretariatPRIDE
+
+
+RecruitmentSC/ST ReservationConferenceParliament Library
+
+
+About ParliamentPhoto GalleryRelated LinksRTITendersFAQ
+
+
+SpeakerDy. SpeakerLeader of the HousePanel of ChairpersonsContact UsFeedback
+
+
+Council of MinistersPublications of MinistriesParliamentry ProceduresJournal of Parliamentary Information
+Visitor's Counter:113217537
+
+
+
+
+
+
+
+Copyright
+Privacy Policy
+Disclaimer
+Terms &
+                Conditions
+
+                Accessibility Statement
+Accessibility
+                Options
+Feedback
+Site Map
+
+
+
+
+
+
+

@@ -1,0 +1,363 @@
+
+
+
+
+	Questions : Lok Sabha
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Screen Reader Access
+Skip to Main Content
+Skip to Navigation
+
+
+
+Text Size
+
+                                A
+
+                                A
+A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+हिन्दी मे
+
+
+
+
+
+
+
+
+Parliament of India Lok Sabha House of the
+                        People
+
+
+
+
+
+
+* Special Characters not allowed
+
+
+
+
+
+
+
+
+
+
+
+
+India Time 
+
+
+Your Time 
+
+
+                        Tuesday,
+                        12 April 2022
+
+
+
+
+
+
+
+
+
+HomeMembersSitting MembersMembers Home PageMembers' PortalContact DetailsMembers SearchStatistical AnalysisAttendance of MembersHandbook Members Since 1952Digitized Who's WhoOthers BusinessProvisional CalendarList of BusinessPapers to be LaidList of Private Members' BusinessBulletin-IDigitized Lok Sabha Bulletin Part IBulletin-IIStatement of WorkSpecial Mentions (ZERO HOUR)Resume of WorkDigitized Resume of Work done by Lok Sabha QuestionsHomeQuestion ListStatus of notices of questionQuestions CalendarGrouping of Ministries - AlphabeticalOfficers in Min./Dept. Dealing with Parliamentary WorkQuestion SearchSupplementary Questions DebatesIntroductionSynopsisUncorrected DebateText of DebateDigitized DebatesConstituent Assembly DebatesWit And HumourDebate SearchHindi FontsDisclaimer Papers LaidPapers Laid on the Table of the House LegislationIntroduction(How Bill Becomes Act)Bills IntroducedBills PassedBills PendingBills AssentedBills LapsedBills WithdrawnBills NegativedBills Search Disclaimer CommitteesIntroductionChairpersonSummary of WorkCommittee Meetings ScheduleBills Referred to CommitteesReports PresentedDigitized ReportsPress ReleaseMembership SearchToday's Committee MeetingsCommittee Subject SelectedDepartment Related-RS Govt. AssurancesSANSAD TVIntranet
+
+
+
+
+
+HomeQuestion ListStatus of notices of questionQuestions CalendarGrouping of Ministries - AlphabeticalOfficers in Min./Dept. Dealing with Parliamentary WorkQuestion SearchSupplementary Questions
+
+
+
+
+
+
+
+
+
+
+
+Download as PDF
+
+
+
+
+Print
+
+
+
+
+
+
+
+
+
+
+
+
+PDF/WORD(Hindi)
+
+
+PDF/WORD
+
+
+
+
+                                    GOVERNMENT OF INDIA
+                                
+
+
+
+
+
+                                    MINISTRY OF
+                                    ELECTRONICS AND INFORMATION TECHNOLOGY
+
+
+
+
+
+
+                                    LOK SABHA
+                                
+
+
+
+
+
+STARRED   
+
+
+                                    QUESTION NO:
+                                
+
+291
+
+
+
+
+
+
+                                    ANSWERED ON: 
+                                
+
+23.03.2022
+
+
+
+
+
+
+Data Theft
+
+
+
+
+Brijbhushan Sharan Singh
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                    Rajbahadur Singh
+                                                
+
+
+
+
+
+
+
+
+
+
+
+
+                        Will the Minister of
+
+
+
+
+
+ELECTRONICS AND INFORMATION TECHNOLOGY
+
+
+                        be pleased to state:-
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                    Will the Minister of ELECTRONICS AND INFORMATION TECHNOLOGY be pleased to state:(a) whether the Government is sensitive to the information related to Right to privacy in view of the daily occurrence of incidents of data theft/breaches and also about the misuse due to change in privacy policy of the big social media companies;(b)	 if so, the details thereof;(c) whether the Government is taking any steps to protect the personal information of the countrymen and if so, the details thereof;(d) whether the Government is planning to create and use any indigenous App in view of the increasing use of social media in Government work by including social media Apps run by private companies; and(e) if so, the details thereof? 
+
+
+
+
+
+
+ANSWER
+
+
+
+
+(a)  to (e):    A Statement is laid on the Table of the House.STATEMENT REFERRED TO IN REPLY TO LOK SABHA STARREDQUESTIONNO. *291  FOR 23-03-2022 REGARDING DATA THEFT…….(a) and (b):  Right to privacy is a Fundamental Right protected under Article 21 of the Constitution. Government is sensitive to the right to privacy related to information and is committed to ensure an Open, Safe & Trusted and Accountable Internet to its users. The Information Technology (IT) Act, 2000 has provisions for dealing with protection of sensitive personal data of users. Social media platforms are body corporate in the context of the IT Act, 2000. Section 43A of the IT Act and the Information Technology (Reasonable security practices and procedures and sensitive personal data or information) Rules, 2011 notified under this section provide  safeguards for sensitive personal data or information collected by a body corporate.   The Rules mandate that body corporate including social media platforms must provide policy for privacy and disclosure of such information, so that user is well aware of the type of personal data collected, purpose of collection and usage of such information. The rules also specify mode of collection of information, disclosure of information, transfer of information, etc. Also, section 72A of the IT Act provides for punishment for disclosure of information in breach of the lawful contract.(c):	The Government has already introduced The Personal Data Protection Bill, 2019 in Parliament during winter session of 2019. The Bill was referred to Joint Committee of Parliament (JCP).  The JCP has tabled its report on The Personal Data Protection Bill, 2019 in Parliament on 16.12.2021. This Bill ensures greater control of individuals over their personal data and right to privacy to individuals. The Bill also bestows obligations on data fiduciaries dealing with personal data.Further, the Government has taken following measures to mitigate data breaches and strengthen data protection:(i)	On observing the data breach/leakage online, The Indian Computer Emergency Response Team (CERT-In) notifies the affected organizations along with remedial actions to be taken. (ii)	CERT-In issues advisories to organizations regarding prevention of data breaches, data leaks and best practices to be followed by users for mitigating risks due to data breaches and securing online credentials. CERT-In has issued 68 advisories for data security and mitigating fraudulent activities. Further, CERT-In issues alerts and advisories regarding latest cyber threats/vulnerabilities and countermeasures to protect computers and networks on regular basis. (iii)	Security tips have been published for users to secure their Desktops, mobile/ smart phones and for preventing phishing attacks.(iv)	Government has issued guidelines for Chief Information Security Officers (CISOs) regarding their key roles and responsibilities for securing applications / infrastructure and compliance.(v)	All the government websites and applications are audited with respect to cyber security prior to their hosting. The auditing of the websites and applications is conducted on a regular basis after hosting also. (vi)	Government has empanelled 96 security auditing organisations to support and audit implementation of Information Security Best Practices. (vii)	Cyber security mock drills are being conducted regularly to enable assessment of cyber security posture and preparedness of organisations in Government and critical sectors. 64 such drills have so far been conducted by CERT-In where 820 organizations from different States and sectors participated. (d)  and (e): The Government has created indigenous apps to deliver services to common citizens, to facilitate citizen engagement and to provide safe and secure messaging, which inter alia, includes:(i)	Sandes has been made operational by Government as a freeware instant messaging platform. It runs on Android, iOS platforms and in prominent web browsers. (ii)	MyGov Mobile App has been made operational for citizen engagement and for facilitating participatory governance.(iii)	Unified Mobile App for New-Age Governance (UMANG) has been made operational to deliver mobile based services to citizens.********
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+HomeArchiveIndex to Select Questions (1984-1999)Ballot ListStatistical Statements Relating to QuestionsUploading of Questions - Status QueryProcedure for Sending Text of Questions & AnswersDemarcation of responsibilities in Govt. of IndiaBrochure on Statutory Corporations, Companies and Other Bodies in Which the Government of India have financial or controlling interestHighlights pertaining to questions of 17th Lok Sabha
+
+
+
+
+
+
+Contact Us 
+Disclaimer
+
+
+
+
+
+
+
+
+
+
+
+        Developed and Hosted by National Informatics Centre (NIC)
+
+Content on this website is published,
+            managed & maintained by Software Unit, Computer (HW & SW) Management. Branch,
+            Lok Sabha Secretariat
+
+
+
+
+
+HomeMembersBusinessQuestionsDebatesPapers Laid
+
+
+LegislationCommitteesSANSAD TVIntranetSecretariatPRIDE
+
+
+RecruitmentSC/ST ReservationConferenceParliament Library
+
+
+About ParliamentPhoto GalleryRelated LinksRTITendersFAQ
+
+
+SpeakerDy. SpeakerLeader of the HousePanel of ChairpersonsContact UsFeedback
+
+
+Council of MinistersPublications of MinistriesParliamentry ProceduresJournal of Parliamentary Information
+Visitor's Counter:113259863
+
+
+
+
+
+
+
+Copyright
+Privacy Policy
+Disclaimer
+Terms &
+                Conditions
+
+                Accessibility Statement
+Accessibility
+                Options
+Feedback
+Site Map
+
+
+
+
+
+
+

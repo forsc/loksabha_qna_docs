@@ -1,0 +1,373 @@
+
+
+
+
+	Questions : Lok Sabha
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Screen Reader Access
+Skip to Main Content
+Skip to Navigation
+
+
+
+Text Size
+
+                                A
+
+                                A
+A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+हिन्दी मे
+
+
+
+
+
+
+
+
+Parliament of India Lok Sabha House of the
+                        People
+
+
+
+
+
+
+* Special Characters not allowed
+
+
+
+
+
+
+
+
+
+
+
+
+India Time 
+
+
+Your Time 
+
+
+                        Monday,
+                        11 April 2022
+
+
+
+
+
+
+
+
+
+HomeMembersSitting MembersMembers Home PageMembers' PortalContact DetailsMembers SearchStatistical AnalysisAttendance of MembersHandbook Members Since 1952Digitized Who's WhoOthers BusinessProvisional CalendarList of BusinessPapers to be LaidList of Private Members' BusinessBulletin-IDigitized Lok Sabha Bulletin Part IBulletin-IIStatement of WorkSpecial Mentions (ZERO HOUR)Resume of WorkDigitized Resume of Work done by Lok Sabha QuestionsHomeQuestion ListStatus of notices of questionQuestions CalendarGrouping of Ministries - AlphabeticalOfficers in Min./Dept. Dealing with Parliamentary WorkQuestion SearchSupplementary Questions DebatesIntroductionSynopsisUncorrected DebateText of DebateDigitized DebatesConstituent Assembly DebatesWit And HumourDebate SearchHindi FontsDisclaimer Papers LaidPapers Laid on the Table of the House LegislationIntroduction(How Bill Becomes Act)Bills IntroducedBills PassedBills PendingBills AssentedBills LapsedBills WithdrawnBills NegativedBills Search Disclaimer CommitteesIntroductionChairpersonSummary of WorkCommittee Meetings ScheduleBills Referred to CommitteesReports PresentedDigitized ReportsPress ReleaseMembership SearchToday's Committee MeetingsCommittee Subject SelectedDepartment Related-RS Govt. AssurancesSANSAD TVIntranet
+
+
+
+
+
+HomeQuestion ListStatus of notices of questionQuestions CalendarGrouping of Ministries - AlphabeticalOfficers in Min./Dept. Dealing with Parliamentary WorkQuestion SearchSupplementary Questions
+
+
+
+
+
+
+
+
+
+
+
+Download as PDF
+
+
+
+
+Print
+
+
+
+
+
+
+
+
+
+
+
+
+PDF/WORD(Hindi)
+
+
+PDF/WORD
+
+
+
+
+                                    GOVERNMENT OF INDIA
+                                
+
+
+
+
+
+                                    MINISTRY OF
+                                    FINANCE
+
+
+
+
+
+
+                                    LOK SABHA
+                                
+
+
+
+
+
+UNSTARRED 
+
+
+                                    QUESTION NO:
+                                
+
+3256
+
+
+
+
+
+
+                                    ANSWERED ON: 
+                                
+
+09.12.2019
+
+
+
+
+
+
+Taxpayers
+
+
+
+
+Sunil Kumar Mondal
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                    Sudarshan Bhagat
+                                                
+
+
+
+
+
+
+
+
+                                                     Jai Prakash
+                                                
+
+
+
+
+
+
+
+
+
+
+
+
+                        Will the Minister of
+
+
+
+
+
+FINANCE
+
+
+                        be pleased to state:-
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                    (a)		whether there has been an increase in the number of taxpayers in the country during the 		last five years and if so, the details thereof, State-wise;(b)		whether the Government has received any such complaints where taxpayers have been 		threatened or misled using fake e-mails;(c)		if so, whether the Government has taken any steps to protect honest taxpayers from such 		misleading fake e-mails and if so, the details thereof; and(d)		the details of income tax collected during the financial year 2018-19 through different 		sources, State/UT-wise?
+
+
+
+
+
+
+ANSWER
+
+
+
+
+                                                        THE MINISTER OF STATE IN THE MINISTRY OF FINANCE(SHRI ANURAG SINGH THAKUR)(a)		Yes Sir.  The number of taxpayers under income-tax has been consistently increasing 		during the last five years, as under:  S.No.	Assessment Year	Total number of Taxpayers (in Crores)1	2014-15	5.702	2015-16	6.143	2016-17	6.924	2017-18	7.435	2018-19	8.46 A "Taxpayer" is a person who either has filed a return of income for the relevant Assessment Year or in whose case tax has been deducted at source in the relevant Financial Year but the taxpayer has not filed the return of income.State-wise details of number of taxpayers for the last 5 years are enclosed as Annexure-A. Contd…2/--: 2 :-(b) & (c) 	Yes Sir. Cases of phishing emails purporting to be from Income Tax Department and 		trying to fraudulently obtain sensitive personal and financial information have been 		reported by some taxpayers. To make the taxpayers aware that the Income Tax Department 		does not seek any confidential or financial information of the taxpayer over email and to 		alert taxpayers about the dangers of phishing emails, the following steps have been taken:		(i)	Publication of advisory in national website of Income-Tax Department informing 			taxpayers that Department does not request personal information, PIN, password 			or similar access information through e-mail. Accordingly, the taxpayers should 			not reply to, open attachments or click on links in any such email and forward such 			emails to Indian Computer Emergency Response Team (CERT-in), which is a 			Government of India agency mandated to fight against such threats.		(ii)	Implementation of best practices such as SPF (Sender Policy Framework), DKIM 			(Domain Keys Identified Mail) and DMARC (Domain-based Message 		Authentication, Reporting & Conformance) for its email domains. Use of these 		protocols enable the e-mail receiver domains such as Gmail, Yahoo, Hotmail etc. 				to determine whether or not a received e-mail is actually from the defined sender 		such as the Department and block phishing emails from reaching the taxpayer.		(iii)	Creation of a tab titled ‘Reminders/Campaigns’ on the e-Filing Portal to inform 		taxpayers about all emails and SMSs sent by Department.  		(iv)	Issue of Press Release of Ministry of Finance dated 05-February-2016, prescribing 			certain 	simple checks to be performed if a taxpayer receives an email purporting to 			be from the Income Tax Department to verify its authenticity. (d)		State-wise details of direct taxes collected under different Major Heads are enclosed as 		Annexure-B. *****  Annexure-ASTATE-WISE DETAILS OF NUMBER OF TAXPAYERS FOR THE LAST 5 YEARS(in lakhs)Sr	STATE NAME	 AY 2014-15 	 AY 2015-16 	 AY 2016-17 	 AY 2017-18 	 AY 2018-19 1	Andaman & Nicobar Islands	                   0.40 	               0.40 	               0.44 	               0.51 	               0.60 2	Andhra Pradesh	                 27.85 	             26.70 	             30.03 	             34.53 	             38.34 3	Arunachal Pradesh	                   0.24 	               0.25 	               0.30 	               0.36 	               0.47 4	Assam	                   7.65 	               8.34 	               9.62 	             10.36 	             13.15 5	Bihar	                 14.45 	             15.51 	             18.03 	             19.15 	             23.48 6	Chandigarh	                   2.42 	               2.56 	               2.75 	               2.87 	               3.07 7	Chhattisgarh	                   8.49 	               9.20 	             10.35 	             11.23 	             13.02 8	Dadra & Nagar Haveli	                   0.29 	               0.31 	               0.34 	               0.35 	               0.41 9	Daman & Diu	                   0.21 	               0.23 	               0.26 	               0.29 	               0.33 10	Delhi	                 33.23 	             34.82 	             37.76 	             40.12 	             43.04 11	FOREIGN	                   1.34 	               1.32 	               1.35 	               1.69 	               2.05 12	Goa	                   2.45 	               2.53 	               2.78 	               2.99 	               3.39 13	Gujarat	                 50.84 	             56.45 	             64.46 	             67.56 	             74.80 14	Haryana	                 19.54 	             21.55 	             24.44 	             26.39 	             29.72 15	Himachal Pradesh	                   4.78 	               5.11 	               5.71 	               6.73 	               7.72 16	Jammu & Kashmir	                   4.42 	               4.66 	               5.51 	               6.27 	               7.36 17	Jharkhand	                 10.43 	             11.00 	             12.33 	             13.10 	             15.14 18	Karnataka	                 33.54 	             36.01 	             40.38 	             44.38 	             51.47 19	Kerala	                 14.87 	             15.79 	             18.32 	             22.15 	             26.37 20	Lakshadweep	                   0.04 	               0.04 	               0.04 	               0.06 	               0.07 21	Madhya Pradesh	                 22.22 	             24.11 	             27.03 	             28.42 	             33.49 22	Maharashtra	                 98.72 	           103.85 	           114.28 	           118.32 	           130.74 23	Manipur	                   0.40 	               0.45 	               0.54 	               0.65 	               0.83 24	Meghalaya	                   0.40 	               0.42 	               0.49 	               0.58 	               0.69 25	Mizoram	                   0.04 	               0.05 	               0.06 	               0.08 	               0.13 26	Nagaland	                   0.22 	               0.24 	               0.27 	               0.34 	               0.41 27	Odisha	                   9.95 	             11.00 	             12.60 	             13.83 	             16.21 28	Puducherry	                   0.82 	               0.85 	               0.95 	               1.04 	               1.22 29	Punjab	                 25.48 	             27.47 	             30.84 	             32.55 	             36.66 30	Rajasthan	                 31.40 	             34.60 	             39.82 	             42.00 	             47.81 31	Sikkim	                   0.17 	               0.17 	               0.19 	               0.23 	               0.27 32	Tamil Nadu	                 38.07 	             40.27 	             44.89 	             48.37 	             56.26 33	Telangana	                   7.76 	             12.57 	             16.02 	             16.73 	             20.98 34	Tripura	                   0.72 	               0.78 	               1.01 	               1.16 	               1.49 35	Uttar Pradesh	                 50.57 	             54.92 	             63.13 	             67.85 	             78.22 36	Uttarakhand	                   6.56 	               7.05 	               7.94 	               8.70 	             10.15 37	West Bengal	                 39.42 	             42.34 	             47.00 	             50.68 	             56.21 TOTAL	         570.39 	      613.91 	      692.27 	      742.63 	      845.73 Annexure-BSTATEMENT SHOWING STATE-WISE COLLECTION OF DIRECT TAXES FOR F.Y 2018-19(Rupees in Crores)S.No.	States/Union Territories	0020-Corporation Tax	0021-Taxes on Income other than Corporate Tax*	OTHERS**	Total1	ANDAMAN & NICOBAR ISLANDS	39.23	76.27	0.00	115.502	ANDHRA PRADESH	22881.03	23243.63	97.99	46222.643	ARUNACHAL PRADESH	114.33	136.24	0.00	250.574	ASSAM	3803.77	2459.02	0.02	6262.815	BIHAR	1501.29	4736.81	1.31	6239.416	CHANDIGARH	812.42	1917.74	0.50	2730.667	CHHATISHGARH	1859.76	3412.20	0.08	5272.048	DADRA AND NAGAR HAVELI	81.66	174.95	0.03	256.659	DAMAN AND DIU	87.72	183.21	0.00	270.9310	DELHI	112745.00	53580.70	79.30	166404.9911	GOA	895.07	1564.00	0.15	2459.2212	GUJARAT	24336.94	24677.38	7.18	49021.5013	HARYANA	20189.82	9674.56	16.77	29881.1514	HIMACHAL PRADESH	859.48	1560.42	0.02	2419.9215	JAMMU AND KASHMIR	630.99	932.35	0.09	1563.4216	JHARKHAND	2727.05	4206.58	0.00	6933.6317	KARNATAKA	65207.35	54037.34	551.39	119796.0818	KERALA	8323.51	8696.12	1.46	17021.1019	LAKHSWADEEP	2.89	16.55	0.00	19.4420	MADHYA PRADESH	12142.49	7549.86	4.58	19696.9321	MAHARASHTRA	272115.95	141600.79	11672.96	425389.7022	MANIPUR	22.85	149.10	0.00	171.9523	MEGHALAYA	264.91	860.28	0.01	1125.2024	MIZORAM	14.39	45.18	0.00	59.5725	NAGALAND	11.10	110.11	0.00	121.2126	ORISSA	9063.00	4357.43	0.02	13420.4427	PONDICHERRY	215.90	584.07	0.05	800.0228	PUNJAB	3705.12	8113.41	1.57	11820.1029	RAJASTHAN	10157.36	10896.59	5.43	21059.3830	SIKKIM	209.86	269.75	0.06	479.6731	TAMILNADU	43663.20	30519.03	56.46	74238.7032	TELANGANA	6683.26	4173.82	3.12	10860.2033	TRIPURA	45.25	267.23	0.00	312.4934	UTTAR PRADESH	6716.23	20969.73	1.97	27687.9335	UTTRAKHAND	1122.30	2142.82	0.07	3265.1936	WEST BENGAL	29731.36	14903.66	3.55	44638.5837	Total	662983.84	442798.92	12506.15	1118288.9238	CTDS	587.78	18841.78	-----	19429.56Grand Total	663571.62	461640.70	12506.15	1137718.48 *Collection shown under Major Head 0021 also includes the collection under Major Head 0023, 0024, 0026, 0028, 0031, 003**Other remaining Head of Direct Taxes Collection	*****
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+HomeArchiveIndex to Select Questions (1984-1999)Ballot ListStatistical Statements Relating to QuestionsUploading of Questions - Status QueryProcedure for Sending Text of Questions & AnswersDemarcation of responsibilities in Govt. of IndiaBrochure on Statutory Corporations, Companies and Other Bodies in Which the Government of India have financial or controlling interestHighlights pertaining to questions of 17th Lok Sabha
+
+
+
+
+
+
+Contact Us 
+Disclaimer
+
+
+
+
+
+
+
+
+
+
+
+        Developed and Hosted by National Informatics Centre (NIC)
+
+Content on this website is published,
+            managed & maintained by Software Unit, Computer (HW & SW) Management. Branch,
+            Lok Sabha Secretariat
+
+
+
+
+
+HomeMembersBusinessQuestionsDebatesPapers Laid
+
+
+LegislationCommitteesSANSAD TVIntranetSecretariatPRIDE
+
+
+RecruitmentSC/ST ReservationConferenceParliament Library
+
+
+About ParliamentPhoto GalleryRelated LinksRTITendersFAQ
+
+
+SpeakerDy. SpeakerLeader of the HousePanel of ChairpersonsContact UsFeedback
+
+
+Council of MinistersPublications of MinistriesParliamentry ProceduresJournal of Parliamentary Information
+Visitor's Counter:113165025
+
+
+
+
+
+
+
+Copyright
+Privacy Policy
+Disclaimer
+Terms &
+                Conditions
+
+                Accessibility Statement
+Accessibility
+                Options
+Feedback
+Site Map
+
+
+
+
+
+
+

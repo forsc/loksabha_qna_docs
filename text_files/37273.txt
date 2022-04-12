@@ -1,0 +1,350 @@
+
+
+
+
+	Questions : Lok Sabha
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Screen Reader Access
+Skip to Main Content
+Skip to Navigation
+
+
+
+Text Size
+
+                                A
+
+                                A
+A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+हिन्दी मे
+
+
+
+
+
+
+
+
+Parliament of India Lok Sabha House of the
+                        People
+
+
+
+
+
+
+* Special Characters not allowed
+
+
+
+
+
+
+
+
+
+
+
+
+India Time 
+
+
+Your Time 
+
+
+                        Tuesday,
+                        12 April 2022
+
+
+
+
+
+
+
+
+
+HomeMembersSitting MembersMembers Home PageMembers' PortalContact DetailsMembers SearchStatistical AnalysisAttendance of MembersHandbook Members Since 1952Digitized Who's WhoOthers BusinessProvisional CalendarList of BusinessPapers to be LaidList of Private Members' BusinessBulletin-IDigitized Lok Sabha Bulletin Part IBulletin-IIStatement of WorkSpecial Mentions (ZERO HOUR)Resume of WorkDigitized Resume of Work done by Lok Sabha QuestionsHomeQuestion ListStatus of notices of questionQuestions CalendarGrouping of Ministries - AlphabeticalOfficers in Min./Dept. Dealing with Parliamentary WorkQuestion SearchSupplementary Questions DebatesIntroductionSynopsisUncorrected DebateText of DebateDigitized DebatesConstituent Assembly DebatesWit And HumourDebate SearchHindi FontsDisclaimer Papers LaidPapers Laid on the Table of the House LegislationIntroduction(How Bill Becomes Act)Bills IntroducedBills PassedBills PendingBills AssentedBills LapsedBills WithdrawnBills NegativedBills Search Disclaimer CommitteesIntroductionChairpersonSummary of WorkCommittee Meetings ScheduleBills Referred to CommitteesReports PresentedDigitized ReportsPress ReleaseMembership SearchToday's Committee MeetingsCommittee Subject SelectedDepartment Related-RS Govt. AssurancesSANSAD TVIntranet
+
+
+
+
+
+HomeQuestion ListStatus of notices of questionQuestions CalendarGrouping of Ministries - AlphabeticalOfficers in Min./Dept. Dealing with Parliamentary WorkQuestion SearchSupplementary Questions
+
+
+
+
+
+
+
+
+
+
+
+Download as PDF
+
+
+
+
+Print
+
+
+
+
+
+
+
+
+
+
+
+
+PDF/WORD(Hindi)
+
+
+PDF/WORD
+
+
+
+
+                                    GOVERNMENT OF INDIA
+                                
+
+
+
+
+
+                                    MINISTRY OF
+                                    ELECTRONICS AND INFORMATION TECHNOLOGY
+
+
+
+
+
+
+                                    LOK SABHA
+                                
+
+
+
+
+
+UNSTARRED 
+
+
+                                    QUESTION NO:
+                                
+
+4545
+
+
+
+
+
+
+                                    ANSWERED ON: 
+                                
+
+30.03.2022
+
+
+
+
+
+
+Artificial Intelligence
+
+
+
+
+Anubhav Mohanty
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        Will the Minister of
+
+
+
+
+
+ELECTRONICS AND INFORMATION TECHNOLOGY
+
+
+                        be pleased to state:-
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                    Will the Minister of Electronics and Information Technology be pleased to state:(a) whether the Government is planning to implement any program for upskilling or reskilling of individuals in the field of Artificial Intelligence and if so, the details thereof;(b) whether the aforesaid planning also caters to the individuals in two and three tier cities and rural areas  if so, the details thereof, State-wise;(c) whether the aforesaid program has a component of job placements after its completion and if so, the details thereof; and(d) whether the Government is considering any provision or incentive for a person from economically weaker background  to avail the program and ifso, the details thereof?
+
+
+
+
+
+
+ANSWER
+
+
+
+
+                                                        ):  Government of India has taken several steps to promote upskilling or reskilling in the field of Artificial Intelligence which include the following: -i.	Ministry of Electronics and IT (MeitY) has initiated a programme titled FutureSkills PRIME (www.futureskillsprime.in) in collaboration with NASSCOM, a B2C framework for re-skilling/ up-skilling of IT professionals in 10 Emerging are as including Artificial Intelligence. So far, 7 Lakh candidates have signed-up on the FutureSkills PRIME Portal, out of which, 1.2 lakh candidates have completed their courses. In addition, 524 Trainers and 4292 Government Officials have been trained on these technologies by NIELIT/C-DAC Resource Centres, and around 1.3 lakh unique learners have collectively earned 8.9 lakh ‘badges’ in recognition of having completed bite-sized digital fluency content.Under Artificial Intelligence, 36,528 candidates are enrolled in deep-skilling courses and 47,744 candidates are enrolled in Foundation courses.ii.	Government has published the National Strategy for Artificial Intelligence in June 2018 and proposes to develop an ecosystem for the research and adoption of Artificial Intelligence i.e. #AIFOR ALL.iii.	Government has launched ‘National AI Portal’ (https://indiaai.gov.in/) which is a repository of Artificial Intelligence (AI) based initiatives in the country at a single place. As on date, there are 1024 national and international articles, 655 news, 200 videos, 90 research reports, 279 Startups, 120 Government initiatives listed at National AI Portal.In addition, various steps have been taken to promote capacity building in Artificial Intelligence which include the following:i.	Government has initiated ‘Visvesvaraya PhD Scheme’ with an objective to enhance the number of PhDs in Electronics System Design & Manufacturing (ESDM) and IT/IT Enabled Services (IT/ITES) sectors in the country. The research areas under the scheme include Artificial Intelligence (covering 82 PhD fellows) and Machine Learning (covering 59 PhD fellows). ii.	National Programme on Responsible Use of AI for Youth: With the objective to empower the youth to become AI ready and help reduce the skill gap, government along with Industry partner has started this initiative to promote AI awareness among Government school going children. In Phase I, 50,666 students and 2536 teachers from 2252 schools from 35 States and UTs attended orientation sessions on AI. In Phase II, 100 teams have been short listed and have undergone extensive mentoring by AI experts. In Phase-III, Top 20 students have demonstrated their solutions in the national conference.iii.	To foster innovation through research, government has created several ‘Centres of Excellence’ on various Emerging Technologies including Artificial Intelligence. These centres connect various entities such as startups, enterprises, venture capitalists, government and academia to look into problem statements and develop innovative solutions. iv.	Department of Science & Technology is implementing the National Mission on Interdisciplinary Cyber-Physical Systems (NM-ICPS) to promote R&D, Human Resource Development (HRD), Technology Development, Entrepreneurship Development, International Collaboration etc. As part of the Mission implementation, 25 Technology Innovation Hubs (TIHs) have been established in reputed institutes across the country in advanced technologies including Machine Learning and Artificial Intelligence. v.	Government of India has also joined the league of leading economies including USA, UK, EU, Australia, Canada, France, Germany, Italy, Japan, Mexico, New Zealand, Republic of Korea, Singapore as a founding member of the Global Partnership on Artificial Intelligence (GPAI), which is an international and multi-stakeholder initiative to guide the responsible development and use of AI, grounded in human rights, inclusion, diversity, innovation, and economic growth.vi.	Government of India organized Responsible AI for Social Empowerment (RAISE) in 2020, a first-of-its-kind global meeting of minds on Artificial Intelligence to drive India''s vision and roadmap for social transformation, inclusion and empowerment through responsible AI. It was attended by 79,000+ stakeholders from academia, research, industry and government representatives from 147 participating countries.320 distinguished speakers from 21 countries participated in the event. (b): The initiatives mentioned in reply to Part (a) above are focusing on digital enablement of citizensin the field of Artificial Intelligence including those belonging to the Tier 2 & Tier 3 cities.  Further, the FutureSkills PRIME programmefollows an ‘aggregator of aggregators’ approach for digital skills training on a national scale and is hosted as an online B2Ce-commerce platform, thereby also enabling citizens in Tier 2 & Tier 3 cities to participate in the programme. To further strengthen the physical and digital connectivity, 40 C-DAC/NIELIT Centres spread across the country are also institutionalizing blended-learning programmes, in a hub and spoke mode, as Lead & Co-Lead Resource Centres.(c): Further, the FutureSkills PRIME programme targets to re-skill/ up-skill aspirants in emerging technologies so that they stay relevant in their present job with improved prospects, besides finding new avenues in future job-roles.The programme also targets those whose may have lost their existing jobs due to disruptive and emerging technologies. Towards this, the programme takes into account employment linkages, such as a ‘Career Prime’ web-page on the platform and an integrated ‘Career Portal’,which provides information on IT-ITeS jobs, internships, apprenticeships, hackathons etc.(d):Under FutureSkills PRIME, incentives are available to the trainees, including those from economically weaker backgrounds, after the learner is successfully assessed and certified. The incentive mechanism is aimed at motivating the learner to successfully complete the online up-skilling/re-skilling programs.********
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+HomeArchiveIndex to Select Questions (1984-1999)Ballot ListStatistical Statements Relating to QuestionsUploading of Questions - Status QueryProcedure for Sending Text of Questions & AnswersDemarcation of responsibilities in Govt. of IndiaBrochure on Statutory Corporations, Companies and Other Bodies in Which the Government of India have financial or controlling interestHighlights pertaining to questions of 17th Lok Sabha
+
+
+
+
+
+
+Contact Us 
+Disclaimer
+
+
+
+
+
+
+
+
+
+
+
+        Developed and Hosted by National Informatics Centre (NIC)
+
+Content on this website is published,
+            managed & maintained by Software Unit, Computer (HW & SW) Management. Branch,
+            Lok Sabha Secretariat
+
+
+
+
+
+HomeMembersBusinessQuestionsDebatesPapers Laid
+
+
+LegislationCommitteesSANSAD TVIntranetSecretariatPRIDE
+
+
+RecruitmentSC/ST ReservationConferenceParliament Library
+
+
+About ParliamentPhoto GalleryRelated LinksRTITendersFAQ
+
+
+SpeakerDy. SpeakerLeader of the HousePanel of ChairpersonsContact UsFeedback
+
+
+Council of MinistersPublications of MinistriesParliamentry ProceduresJournal of Parliamentary Information
+Visitor's Counter:113264078
+
+
+
+
+
+
+
+Copyright
+Privacy Policy
+Disclaimer
+Terms &
+                Conditions
+
+                Accessibility Statement
+Accessibility
+                Options
+Feedback
+Site Map
+
+
+
+
+
+
+

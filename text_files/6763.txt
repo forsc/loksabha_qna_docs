@@ -1,0 +1,363 @@
+
+
+
+
+	Questions : Lok Sabha
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Screen Reader Access
+Skip to Main Content
+Skip to Navigation
+
+
+
+Text Size
+
+                                A
+
+                                A
+A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+हिन्दी मे
+
+
+
+
+
+
+
+
+Parliament of India Lok Sabha House of the
+                        People
+
+
+
+
+
+
+* Special Characters not allowed
+
+
+
+
+
+
+
+
+
+
+
+
+India Time 
+
+
+Your Time 
+
+
+                        Sunday,
+                        10 April 2022
+
+
+
+
+
+
+
+
+
+HomeMembersSitting MembersMembers Home PageMembers' PortalContact DetailsMembers SearchStatistical AnalysisAttendance of MembersHandbook Members Since 1952Digitized Who's WhoOthers BusinessProvisional CalendarList of BusinessPapers to be LaidList of Private Members' BusinessBulletin-IDigitized Lok Sabha Bulletin Part IBulletin-IIStatement of WorkSpecial Mentions (ZERO HOUR)Resume of WorkDigitized Resume of Work done by Lok Sabha QuestionsHomeQuestion ListStatus of notices of questionQuestions CalendarGrouping of Ministries - AlphabeticalOfficers in Min./Dept. Dealing with Parliamentary WorkQuestion SearchSupplementary Questions DebatesIntroductionSynopsisUncorrected DebateText of DebateDigitized DebatesConstituent Assembly DebatesWit And HumourDebate SearchHindi FontsDisclaimer Papers LaidPapers Laid on the Table of the House LegislationIntroduction(How Bill Becomes Act)Bills IntroducedBills PassedBills PendingBills AssentedBills LapsedBills WithdrawnBills NegativedBills Search Disclaimer CommitteesIntroductionChairpersonSummary of WorkCommittee Meetings ScheduleBills Referred to CommitteesReports PresentedDigitized ReportsPress ReleaseMembership SearchToday's Committee MeetingsCommittee Subject SelectedDepartment Related-RS Govt. AssurancesSANSAD TVIntranet
+
+
+
+
+
+HomeQuestion ListStatus of notices of questionQuestions CalendarGrouping of Ministries - AlphabeticalOfficers in Min./Dept. Dealing with Parliamentary WorkQuestion SearchSupplementary Questions
+
+
+
+
+
+
+
+
+
+
+
+Download as PDF
+
+
+
+
+Print
+
+
+
+
+
+
+
+
+
+
+
+
+PDF/WORD(Hindi)
+
+
+PDF/WORD
+
+
+
+
+                                    GOVERNMENT OF INDIA
+                                
+
+
+
+
+
+                                    MINISTRY OF
+                                    ELECTRONICS AND INFORMATION TECHNOLOGY
+
+
+
+
+
+
+                                    LOK SABHA
+                                
+
+
+
+
+
+STARRED   
+
+
+                                    QUESTION NO:
+                                
+
+47
+
+
+
+
+
+
+                                    ANSWERED ON: 
+                                
+
+20.11.2019
+
+
+
+
+
+
+Mobile Phone Data
+
+
+
+
+Asaduddin Owaisi
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                     Imtiaz Jaleel Syed
+                                                
+
+
+
+
+
+
+
+
+
+
+
+
+                        Will the Minister of
+
+
+
+
+
+ELECTRONICS AND INFORMATION TECHNOLOGY
+
+
+                        be pleased to state:-
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                    Will the Minister of Electronics & Information Technology be pleased to state:-(a)  whether the Government has taken note of the fact that a spyware/malware ‘Pegasus’ of Israel-based NSO group has reportedly been used to infect/spy/steal mobile phone data of many human rights activists, journalists and other eminent persons of the country; (b)	if so, the details thereof, State/UTwise along with the reasons therefor and the reaction of the Government thereto;(c)	whether the said breach of privacy has affected many people across the world and if so, the details thereof and the number of Indian citizens affected by this spyware; (d)	whether the Government has taken cognizance of the reports of alleged use and purchase of the Pegasus spyware by Government agencies and if so, the details thereof along with the reaction of the Government thereto;(e)	whether the Government has asked WhatsApp to explain the aforesaid spyware attack and if so, the details thereof and the response received by the Government thereon; (f)	whether the Government had received prior intimation in this regard from social media owners like WhatsApp,  Facebook and if so, the details thereof along with the date on which such intimation was received and the action taken in this regard; and (g)	whether the Government proposes to enact any law to safeguard the privacy of citizens from similar attacks as mandated by the apex court and if so, the details thereof along with the other steps taken/being taken by the Government in this regard?
+
+
+
+
+
+
+ANSWER
+
+
+
+
+                                                        (a)	 to (g):  A Statement is laid on the Table of the House.STATEMENT REFERRED TO IN REPLY TO LOK SABHA STARRED QUESTION NO. *47 FOR 20-11-2019 REGARDING MOBILE PHONE DATA...... (a), (b) and (c) : Yes, Sir. Government has taken note of the fact that a spyware/malware has affected some Whatsapp users. According to WhatsApp, this spyware was developed by an Israel based company NSO Group and that it had developed and used Pegasus spyware to attempt to reach mobile phones of a possible number of 1400 users globally that includes 121 users from India.(d) :	Some statements have appeared, based on reports in media, regarding this. These attempts to malign the Government of India for the reported breach are completely misleading.  The Government is committed to protect the fundamental rights of citizens, including the right to privacy. The Government operates strictly as per provisions of law and laid down protocols. There are adequate provisions in the Information Technology (IT) Act, 2000 to deal with hacking, spyware etc.(e) and (f) :	The Indian Computer Emergency Response Team (CERT-In) published a vulnerability note on May 17, 2019advising countermeasures to users regarding a vulnerability in WhatsApp. Subsequently, on May 20, 2019 WhatsApp reported an incident to the CERT-In stating that WhatsApp had identified and promptly fixed a vulnerability that could enable an attacker to insert and execute code on mobile devices and that the vulnerability can no longer be exploited to carry out attacks. On September 5, 2019 WhatsApp wrote to CERT-In mentioning an update to the security incident reported in May 2019, that while the full extent of this attack may never be known, WhatsApp continued to review the available information. It also mentioned that WhatsApp believes it is likely that devices of approximately one hundred and twenty one users in India may have been attempted to be reached. Based on media reports on 31st October, 2019, about such targeting of mobile devices of Indian citizens through WhatsApp by spyware Pegasus, CERT-In has issued a formal notice to WhatsApp seeking submission of relevant details and information.(g) :	Ministry of Electronics & Information Technology is working on the Personal Data Protection Bill to safeguard the privacy of citizens, and it is proposed to table it in Parliament.******* 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+HomeArchiveIndex to Select Questions (1984-1999)Ballot ListStatistical Statements Relating to QuestionsUploading of Questions - Status QueryProcedure for Sending Text of Questions & AnswersDemarcation of responsibilities in Govt. of IndiaBrochure on Statutory Corporations, Companies and Other Bodies in Which the Government of India have financial or controlling interestHighlights pertaining to questions of 17th Lok Sabha
+
+
+
+
+
+
+Contact Us 
+Disclaimer
+
+
+
+
+
+
+
+
+
+
+
+        Developed and Hosted by National Informatics Centre (NIC)
+
+Content on this website is published,
+            managed & maintained by Software Unit, Computer (HW & SW) Management. Branch,
+            Lok Sabha Secretariat
+
+
+
+
+
+HomeMembersBusinessQuestionsDebatesPapers Laid
+
+
+LegislationCommitteesSANSAD TVIntranetSecretariatPRIDE
+
+
+RecruitmentSC/ST ReservationConferenceParliament Library
+
+
+About ParliamentPhoto GalleryRelated LinksRTITendersFAQ
+
+
+SpeakerDy. SpeakerLeader of the HousePanel of ChairpersonsContact UsFeedback
+
+
+Council of MinistersPublications of MinistriesParliamentry ProceduresJournal of Parliamentary Information
+Visitor's Counter:113117778
+
+
+
+
+
+
+
+Copyright
+Privacy Policy
+Disclaimer
+Terms &
+                Conditions
+
+                Accessibility Statement
+Accessibility
+                Options
+Feedback
+Site Map
+
+
+
+
+
+
+

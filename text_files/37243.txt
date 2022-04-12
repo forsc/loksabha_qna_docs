@@ -1,0 +1,363 @@
+
+
+
+
+	Questions : Lok Sabha
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Screen Reader Access
+Skip to Main Content
+Skip to Navigation
+
+
+
+Text Size
+
+                                A
+
+                                A
+A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+हिन्दी मे
+
+
+
+
+
+
+
+
+Parliament of India Lok Sabha House of the
+                        People
+
+
+
+
+
+
+* Special Characters not allowed
+
+
+
+
+
+
+
+
+
+
+
+
+India Time 
+
+
+Your Time 
+
+
+                        Tuesday,
+                        12 April 2022
+
+
+
+
+
+
+
+
+
+HomeMembersSitting MembersMembers Home PageMembers' PortalContact DetailsMembers SearchStatistical AnalysisAttendance of MembersHandbook Members Since 1952Digitized Who's WhoOthers BusinessProvisional CalendarList of BusinessPapers to be LaidList of Private Members' BusinessBulletin-IDigitized Lok Sabha Bulletin Part IBulletin-IIStatement of WorkSpecial Mentions (ZERO HOUR)Resume of WorkDigitized Resume of Work done by Lok Sabha QuestionsHomeQuestion ListStatus of notices of questionQuestions CalendarGrouping of Ministries - AlphabeticalOfficers in Min./Dept. Dealing with Parliamentary WorkQuestion SearchSupplementary Questions DebatesIntroductionSynopsisUncorrected DebateText of DebateDigitized DebatesConstituent Assembly DebatesWit And HumourDebate SearchHindi FontsDisclaimer Papers LaidPapers Laid on the Table of the House LegislationIntroduction(How Bill Becomes Act)Bills IntroducedBills PassedBills PendingBills AssentedBills LapsedBills WithdrawnBills NegativedBills Search Disclaimer CommitteesIntroductionChairpersonSummary of WorkCommittee Meetings ScheduleBills Referred to CommitteesReports PresentedDigitized ReportsPress ReleaseMembership SearchToday's Committee MeetingsCommittee Subject SelectedDepartment Related-RS Govt. AssurancesSANSAD TVIntranet
+
+
+
+
+
+HomeQuestion ListStatus of notices of questionQuestions CalendarGrouping of Ministries - AlphabeticalOfficers in Min./Dept. Dealing with Parliamentary WorkQuestion SearchSupplementary Questions
+
+
+
+
+
+
+
+
+
+
+
+Download as PDF
+
+
+
+
+Print
+
+
+
+
+
+
+
+
+
+
+
+
+PDF/WORD(Hindi)
+
+
+PDF/WORD
+
+
+
+
+                                    GOVERNMENT OF INDIA
+                                
+
+
+
+
+
+                                    MINISTRY OF
+                                    ELECTRONICS AND INFORMATION TECHNOLOGY
+
+
+
+
+
+
+                                    LOK SABHA
+                                
+
+
+
+
+
+UNSTARRED 
+
+
+                                    QUESTION NO:
+                                
+
+4448
+
+
+
+
+
+
+                                    ANSWERED ON: 
+                                
+
+30.03.2022
+
+
+
+
+
+
+CSC for Cyber Services
+
+
+
+
+Jugal Kishore Sharma
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                    Jyotirmay Singh Mahato
+                                                
+
+
+
+
+
+
+
+
+
+
+
+
+                        Will the Minister of
+
+
+
+
+
+ELECTRONICS AND INFORMATION TECHNOLOGY
+
+
+                        be pleased to state:-
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Will the  Minister of Electronics and Information Technology be pleased to state:-(a) whether the Government has set up Common Services Centres (CSC) to make cyber services available in Gram Panchayats (GPs); (b) if so, the details thereof; (c) the details of the number of CSCs set up in the States of Jammu and Kashmir and West Bengal so far, district-wise; and (d) the time by which all GPs are likely to get a dedicated CSC in the country including the States of Jammu and Kashmir and West Bengal?
+
+
+
+
+
+
+ANSWER
+
+
+
+
+                                                        (a) and (b): Yes, Sir. Ministry of Electronics and Information Technology (MeitY) has implemented the network of Common Services Centres (CSC) under the Digital India Programme. CSC is an important way of extending governance in public services including cyber services (vizAadhaar services, financial inclusion services, educational services, G2C/B2C services, healthcare services) to every citizen. The CSC project envisages setting up of at-least one CSC in each of 2.50 lakh Gram Panchayats (GPs) across the country, for delivery of various Government-to-Citizen (G2C) and other citizen-centric e-Services to citizens. It is a self-sustainable entrepreneurship model which is run by Village Level Entrepreneurs (VLEs). The number and kind of services being provided currently through CSCs are at Annexure-I.As on February 2022, total 4,63,705 CSCs are operational across all states & Union Territories of the country, out of which, total 3,63,887 CSCs are operational at Gram Panchayat (GP) level. The list of number of CSCs in the country (State/UT-wise) is at Annexure-II.(c): The district-wise details of the number of CSCs set up in the UT of Jammu and Kashmir and State of West Bengal are at Annexure-III.(d):In the State of West Bengal and UT of Jammu & Kashmir, all the Gram Panchayats are covered with at least one registered CSC.CSC e-Governance Service India Limited (CSC SPV) covers  villages,  depending  on feasibility, availability of internet connection and stable power supply.******* Annexure-IList of Services offered through CSCsSL NO.	CONTENTS	SL NO.	CONTENTS1	Aadhaar Services	5	Educational Services1.1	Aadhaar Services – Generation of Aadhaar	5.1	Education Services – Digital Literacy1.2	Aadhaar Services – E-KYC & Authentication	5.2	Various On-line courses of NIELIT & NIOS, various courses of IGNOU, IITs, Private Universities 1.3	Aadhaar Services – Aadhaar Printing	5.3	Various courses of CSC Academy1.4	Aadhaar Updates (UCL)	6	Legal Services2	Central G2C Services - PM Welfare Schemes	6.1	Tele-Legal Consultation Services2.1	Ayushman Bharat Yojana	6.2	E-Courts Services2.2	PM FasalBimaYojana	7	Financial Inclusion Services2.3	PM - Ujjwala Scheme (LPG Booking)	7.1	Financial Inclusion – Banking Services2.4	PM - Shram Yogi Maan-dhanYojana	7.2	Financial Inclusion – DigiPay (AEPS)2.5	PM - KisanMaan-dhanYojana	7.3	Financial Inclusion – Insurance Services2.6	PM - KisanSammanNidhiYojana	7.4	Financial Inclusion – NPS & APY2.7	PM - Merchant Pension Yojana	7.5	Financial Inclusion – Fastag Services2.8	PM - Kisan Credit Cards Yojana	7.6	Financial Inclusion - CIBIL Registrations2.9	PM - SVA NidhiYojana	8	Tours & Travels2.1	E-Shram Registrations	8.1	Tours & Travels – IRCTC Services3	Other Central G2C Services	8.2	Tours & Travels – Other Services3.1	Election Commission Services	9	Utility Bill Payment Services3.2	Passport Application	9.1	Utility Bill Payment – Bharat Bill Payment System (BBPS)3.3	PAN Application	9.2	Utility Services – Electricity Bill Payment3.4	Swachh Bharat Abhiyan	9.3	Utility Services – Water Bill Payment3.5	FSSAI Registration/Licence	9.4	Utility Services – LPG Booking3.6	JeevanPramaan	10	Healthcare Services3.7	UdyamJyotiParichay	10.1	Healthcare Services – Tele-Medicine3.8	Recruitment Applications through CSCs	10.2	Healthcare Services - Medicine Sales4	State G2C Services	10.3	Healthcare Services – StreeSwabhiman4.1	E-District Services	11	Other B2C / B2B Services4.2	PDS Services	11.1	Grameen E-Store4.3	Labour Registration Services	11.2	Other Services – Products Distribution4.4	E-Stamp	11.3	Other Services – Agriculture Services4.5	E-Vahan – Sarathi Transport Services	11.4	Other Services – Mobile/DTH Recharge4.6	Himachal SwasthyaBimaYojana (HIMCARE)	11.5	Other Services – IT Return Filing4.7	Other State G2C Services - Recruitment Services	11.6	Other Services – Diginame4.8	Other State G2C Services - Municipal Services	12	Skill Development4.9	Other State G2C Services – SwasthaBima	12.1	Skill Development: Schemes and Courses4.1	Other State G2C Services - FasalBimaYojana	12.2	Skill Development – Job Portals Annexure-IISTATE/UT-WISE STATUS OF  ROLL OUT CSCs  28 FEBRUARY, 2022 	Functional CSCs (Urban+Rural)	Functional CSCs at GP level State/UT	28 Feb''22	28 Feb''22 Andhra Pradesh	8960	6639Arunachal Pradesh	144	103Assam	9852	8983Bihar	47755	42626Chhattisgarh	18238	14535Goa	143	94Gujarat	12337	8466Haryana	19370	13614Himachal Pradesh	4879	4288Jharkhand	18206	15559Karnataka	11023	7352Kerala	6144	4772Madhya Pradesh	39828	30033Maharashtra	46716	35848Manipur	953	788Meghalaya	882	775Mizoram	337	235Nagaland	506	351Odisha	14715	12795Punjab	10829	7523Rajasthan	20052	16187Sikkim	72	56Tamil Nadu	11091	7317Telangana	5775	3933Tripura	1621	1391Uttar Pradesh	112276	88451Uttarakhand	8413	6143West Bengal	20921	18802State Total	452038	357659 Andaman & Nicobar	50	29Chandigarh	132	6Dadra & NH, D&D	75	50Delhi	4159	228Jammu & Kashmir	6927	5694Ladakh	109	98Lakshadweep	12	12Puducherry	203	111UT Total	11667	6228 GRAND TOTAL	463705	363887 Annexure-IIIThe district-wise details of the number of CSCs set up in the State of West Bengal and UT of Jammu and Kashmir.DISTRICT WISE STATUS OF ROLL OUT OF CSCs AS ON 28 FEBRUARY, 2022 IN WEST BENGALSL NO	DISTRICTS	Total	Rural	Urban1	NORTH 24 PARGANAS	1615	1247	3682	SOUTH 24 PARGANAS	1648	1532	1163	BANKURA	1057	993	644	PURBA BARDHAMAN	1210	1078	1325	BIRBHUM	1021	937	846	COOCHBEHAR	908	851	577	DARJEELING	209	162	478	DINAJPUR DAKSHIN	742	684	589	DINAJPUR UTTAR	936	882	5410	HOOGHLY	877	755	12211	HOWRAH	730	639	9112	JALPAIGURI	555	503	5213	KOLKATA	167	0	16714	MALDAH	1413	1343	7015	MEDINIPUR EAST	1456	1365	9116	MEDINIPUR WEST	1240	1157	8317	MURSHIDABAD	1945	1774	17118	NADIA	1465	1326	13919	PURULIA	868	819	4920	ALIPURDUAR	364	358	621	KALIMPONG	30	28	222	JHARGRAM	193	182	1123	PASCHIM BARDHAMAN	272	187	85 	 	20921	18802	2119DISTRICT WISE STATUS OF ROLL OUT OF CSCs AS ON 28 FEBRUARY, 2022 IN JAMMU & KASHMIRSL NO	DISTRICTS	Total	Rural	Urban1	ANANTNAG	633	528	1052	BUDGAM	541	485	563	BARAMULLA	596	524	724	DODA	235	225	105	JAMMU	604	376	2286	KATHUA	296	257	397	KUPWARA	608	582	268	POONCH	246	237	99	PULWAMA	369	318	5110	RAJOURI	349	314	3511	SRINAGAR	414	57	35712	UDHAMPUR	257	217	4013	KISHTWAR	159	142	1714	RAMBAN	233	217	1615	KULGAM	342	306	3616	BANDIPORA	267	211	5617	SAMBA	138	111	2718	SHOPIAN	199	179	2019	GANDERBAL	244	227	1720	REASI	197	181	16 	 	6927	5694	1233
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+HomeArchiveIndex to Select Questions (1984-1999)Ballot ListStatistical Statements Relating to QuestionsUploading of Questions - Status QueryProcedure for Sending Text of Questions & AnswersDemarcation of responsibilities in Govt. of IndiaBrochure on Statutory Corporations, Companies and Other Bodies in Which the Government of India have financial or controlling interestHighlights pertaining to questions of 17th Lok Sabha
+
+
+
+
+
+
+Contact Us 
+Disclaimer
+
+
+
+
+
+
+
+
+
+
+
+        Developed and Hosted by National Informatics Centre (NIC)
+
+Content on this website is published,
+            managed & maintained by Software Unit, Computer (HW & SW) Management. Branch,
+            Lok Sabha Secretariat
+
+
+
+
+
+HomeMembersBusinessQuestionsDebatesPapers Laid
+
+
+LegislationCommitteesSANSAD TVIntranetSecretariatPRIDE
+
+
+RecruitmentSC/ST ReservationConferenceParliament Library
+
+
+About ParliamentPhoto GalleryRelated LinksRTITendersFAQ
+
+
+SpeakerDy. SpeakerLeader of the HousePanel of ChairpersonsContact UsFeedback
+
+
+Council of MinistersPublications of MinistriesParliamentry ProceduresJournal of Parliamentary Information
+Visitor's Counter:113264001
+
+
+
+
+
+
+
+Copyright
+Privacy Policy
+Disclaimer
+Terms &
+                Conditions
+
+                Accessibility Statement
+Accessibility
+                Options
+Feedback
+Site Map
+
+
+
+
+
+
+

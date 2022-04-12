@@ -1,0 +1,350 @@
+
+
+
+
+	Questions : Lok Sabha
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Screen Reader Access
+Skip to Main Content
+Skip to Navigation
+
+
+
+Text Size
+
+                                A
+
+                                A
+A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+हिन्दी मे
+
+
+
+
+
+
+
+
+Parliament of India Lok Sabha House of the
+                        People
+
+
+
+
+
+
+* Special Characters not allowed
+
+
+
+
+
+
+
+
+
+
+
+
+India Time 
+
+
+Your Time 
+
+
+                        Monday,
+                        11 April 2022
+
+
+
+
+
+
+
+
+
+HomeMembersSitting MembersMembers Home PageMembers' PortalContact DetailsMembers SearchStatistical AnalysisAttendance of MembersHandbook Members Since 1952Digitized Who's WhoOthers BusinessProvisional CalendarList of BusinessPapers to be LaidList of Private Members' BusinessBulletin-IDigitized Lok Sabha Bulletin Part IBulletin-IIStatement of WorkSpecial Mentions (ZERO HOUR)Resume of WorkDigitized Resume of Work done by Lok Sabha QuestionsHomeQuestion ListStatus of notices of questionQuestions CalendarGrouping of Ministries - AlphabeticalOfficers in Min./Dept. Dealing with Parliamentary WorkQuestion SearchSupplementary Questions DebatesIntroductionSynopsisUncorrected DebateText of DebateDigitized DebatesConstituent Assembly DebatesWit And HumourDebate SearchHindi FontsDisclaimer Papers LaidPapers Laid on the Table of the House LegislationIntroduction(How Bill Becomes Act)Bills IntroducedBills PassedBills PendingBills AssentedBills LapsedBills WithdrawnBills NegativedBills Search Disclaimer CommitteesIntroductionChairpersonSummary of WorkCommittee Meetings ScheduleBills Referred to CommitteesReports PresentedDigitized ReportsPress ReleaseMembership SearchToday's Committee MeetingsCommittee Subject SelectedDepartment Related-RS Govt. AssurancesSANSAD TVIntranet
+
+
+
+
+
+HomeQuestion ListStatus of notices of questionQuestions CalendarGrouping of Ministries - AlphabeticalOfficers in Min./Dept. Dealing with Parliamentary WorkQuestion SearchSupplementary Questions
+
+
+
+
+
+
+
+
+
+
+
+Download as PDF
+
+
+
+
+Print
+
+
+
+
+
+
+
+
+
+
+
+
+PDF/WORD(Hindi)
+
+
+PDF/WORD
+
+
+
+
+                                    GOVERNMENT OF INDIA
+                                
+
+
+
+
+
+                                    MINISTRY OF
+                                    COMMUNICATIONS
+
+
+
+
+
+
+                                    LOK SABHA
+                                
+
+
+
+
+
+UNSTARRED 
+
+
+                                    QUESTION NO:
+                                
+
+2173
+
+
+
+
+
+
+                                    ANSWERED ON: 
+                                
+
+04.03.2020
+
+
+
+
+
+
+Mobile and Landline Customers in North Eastern Region
+
+
+
+
+Naba (Hira) Kumar Sarania
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        Will the Minister of
+
+
+
+
+
+COMMUNICATIONS
+
+
+                        be pleased to state:-
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                    (a) 	the number of Bharat Sanchar Nigam Limited (BSNL) mobile and landline customers in North Eastern States of the country, State/UT-wise; (b) 	the steps taken/being taken by the Government to strengthen BSNL network in the said region; (c) 	the steps taken by the Government to enhance the BSNL broadband speed in the aforesaid region; (d) 	whether BSNL landlines are functional in the said region where there is reportedly no use of landlines and if so, the details thereof; and (e) 	the details of States/UTs where the work on Bharat Net project is going on along with the number of villages in the North Eastern States which has been covered under the said project, State/UT-wise?
+
+
+
+
+
+
+ANSWER
+
+
+
+
+                                                        MINISTER OF STATE FOR COMMUNICATIONS,  HUMAN RESOURCE DEVELOPMENT AND ELECTRONICS & INFORMATION TECHNOLOGY (SHRI SANJAY DHOTRE)(a) 	State-wise detail of mobile and landline connections of Bharat Sanchar Nigam Limited (BSNL) in the North Eastern States of the country is as under:<pre>S.No.	State	Mobile connections	Landline connections1	Assam	27,61,008	78,4002	Arunachal Pradesh	2,31,299	23,0923	Manipur	1,19,185	18,9314	Nagaland	1,03,594	5,9365	Meghalaya	3,13,745	15,0646	Mizoram	2,20,736	11,3547	Tripura	4,20,730	17,8588	Sikkim	45,000 (approx.)	5,254</pre>(b) 	BSNL has informed that to strengthen its network, BSNL is progressively adding Base Transceiver Stations (BTSs) and laying optical fibre cable in a phased manner and improving landline services through installation of Next Generation Network (NGN)/C-DoT Max NG state of the art technology telephone exchanges.Apart from above, Department of Telecommunications (DoT) is utilising the strength and competence of BSNL to implement a number of important projects including “Implementation of transmission media plan for North Eastern Region Project” to strengthen telecom services in North Eastern region.  Under Universal Services Obligation Fund (USOF) schemes, Optical Fibre Cable (OFC) to connect Block Headquarters (BHQs) to District Headquarters (DHQs) in Assam State is complete.   (c) 	To enhance its broadband services, following measures have been taken by BSNL:?	56 number of High capacity Multiprotocol Label Switching Transport Profile (MPLS-TP) technology based (MNG PAN) switches are deployed in North Eastern States which improved the traffic handling capacity of the access network in the North Eastern region.?	In addition to the existing six (6) number of Broadband Network Gateways (BNGs), four (4) number of high speed BNGs has been deployed at Guwahati, Bongaigaon, Shillong and Arunachal Pradesh to improve the customer browsing experience.?	In case of congestion, backhaul of DSLAM (Digital Subscriber Line Access Multiplexer), OCLAN (Other City Lane Area Network), OLT (Optical Line Terminal) are being upgraded to improve the browsing experience.(d) 	BSNL has informed that its landline services are functional in North Eastern States.  There is no report that landline services of BSNL in North Eastern States are of no use.(e) 	As on 24.02.2020, State wise details of number of service ready Gram Panchayats (GPs) under Bharat Net in the North Eastern States is at Annexure. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+HomeArchiveIndex to Select Questions (1984-1999)Ballot ListStatistical Statements Relating to QuestionsUploading of Questions - Status QueryProcedure for Sending Text of Questions & AnswersDemarcation of responsibilities in Govt. of IndiaBrochure on Statutory Corporations, Companies and Other Bodies in Which the Government of India have financial or controlling interestHighlights pertaining to questions of 17th Lok Sabha
+
+
+
+
+
+
+Contact Us 
+Disclaimer
+
+
+
+
+
+
+
+
+
+
+
+        Developed and Hosted by National Informatics Centre (NIC)
+
+Content on this website is published,
+            managed & maintained by Software Unit, Computer (HW & SW) Management. Branch,
+            Lok Sabha Secretariat
+
+
+
+
+
+HomeMembersBusinessQuestionsDebatesPapers Laid
+
+
+LegislationCommitteesSANSAD TVIntranetSecretariatPRIDE
+
+
+RecruitmentSC/ST ReservationConferenceParliament Library
+
+
+About ParliamentPhoto GalleryRelated LinksRTITendersFAQ
+
+
+SpeakerDy. SpeakerLeader of the HousePanel of ChairpersonsContact UsFeedback
+
+
+Council of MinistersPublications of MinistriesParliamentry ProceduresJournal of Parliamentary Information
+Visitor's Counter:113178613
+
+
+
+
+
+
+
+Copyright
+Privacy Policy
+Disclaimer
+Terms &
+                Conditions
+
+                Accessibility Statement
+Accessibility
+                Options
+Feedback
+Site Map
+
+
+
+
+
+
+

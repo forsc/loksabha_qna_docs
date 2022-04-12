@@ -1,0 +1,350 @@
+
+
+
+
+	Questions : Lok Sabha
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Screen Reader Access
+Skip to Main Content
+Skip to Navigation
+
+
+
+Text Size
+
+                                A
+
+                                A
+A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+हिन्दी मे
+
+
+
+
+
+
+
+
+Parliament of India Lok Sabha House of the
+                        People
+
+
+
+
+
+
+* Special Characters not allowed
+
+
+
+
+
+
+
+
+
+
+
+
+India Time 
+
+
+Your Time 
+
+
+                        Tuesday,
+                        12 April 2022
+
+
+
+
+
+
+
+
+
+HomeMembersSitting MembersMembers Home PageMembers' PortalContact DetailsMembers SearchStatistical AnalysisAttendance of MembersHandbook Members Since 1952Digitized Who's WhoOthers BusinessProvisional CalendarList of BusinessPapers to be LaidList of Private Members' BusinessBulletin-IDigitized Lok Sabha Bulletin Part IBulletin-IIStatement of WorkSpecial Mentions (ZERO HOUR)Resume of WorkDigitized Resume of Work done by Lok Sabha QuestionsHomeQuestion ListStatus of notices of questionQuestions CalendarGrouping of Ministries - AlphabeticalOfficers in Min./Dept. Dealing with Parliamentary WorkQuestion SearchSupplementary Questions DebatesIntroductionSynopsisUncorrected DebateText of DebateDigitized DebatesConstituent Assembly DebatesWit And HumourDebate SearchHindi FontsDisclaimer Papers LaidPapers Laid on the Table of the House LegislationIntroduction(How Bill Becomes Act)Bills IntroducedBills PassedBills PendingBills AssentedBills LapsedBills WithdrawnBills NegativedBills Search Disclaimer CommitteesIntroductionChairpersonSummary of WorkCommittee Meetings ScheduleBills Referred to CommitteesReports PresentedDigitized ReportsPress ReleaseMembership SearchToday's Committee MeetingsCommittee Subject SelectedDepartment Related-RS Govt. AssurancesSANSAD TVIntranet
+
+
+
+
+
+HomeQuestion ListStatus of notices of questionQuestions CalendarGrouping of Ministries - AlphabeticalOfficers in Min./Dept. Dealing with Parliamentary WorkQuestion SearchSupplementary Questions
+
+
+
+
+
+
+
+
+
+
+
+Download as PDF
+
+
+
+
+Print
+
+
+
+
+
+
+
+
+
+
+
+
+PDF/WORD(Hindi)
+
+
+PDF/WORD
+
+
+
+
+                                    GOVERNMENT OF INDIA
+                                
+
+
+
+
+
+                                    MINISTRY OF
+                                    ELECTRONICS AND INFORMATION TECHNOLOGY
+
+
+
+
+
+
+                                    LOK SABHA
+                                
+
+
+
+
+
+UNSTARRED 
+
+
+                                    QUESTION NO:
+                                
+
+2915
+
+
+
+
+
+
+                                    ANSWERED ON: 
+                                
+
+15.12.2021
+
+
+
+
+
+
+India Enterprise Architecture
+
+
+
+
+ Dr. T. Sumathy (a) Thamizhachi Thangapandian
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        Will the Minister of
+
+
+
+
+
+ELECTRONICS AND INFORMATION TECHNOLOGY
+
+
+                        be pleased to state:-
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                    Will the Minister of ELECTRONICS & INFORMATION TECHNOLOGY be pleased to state: (a)	the details of the criteria have been used by the Ministry of Information and Technology for declaring India Enterprise Architecture (IndEA) as an e-Governance standard; (b)	the State-wise and year-wise details of the purpose that India Enterprise Architecture (IndEA) has served till now; (c)	whether the India Enterprise Architecture links the database and other information of citizens with their Aadhaar cards and if so, the details thereof; and (d)	the details of the measures taken by India Enterprise Architecture (IndEA) including for marginalised groups that have been denied access to basic amenities in the e-governance mode?
+
+
+
+
+
+
+ANSWER
+
+
+
+
+                                                        ):	Under the project titled ‘National Centre for e-Governance Standards & Technology (NeST)’ implemented by the Standardization Testing and Quality Certification (STQC) Directorate, an attached office of the Ministry of Electronics and Information Technology (MeitY), a Working Group on Enterprise Architecture (EA) was formed with participation of other Ministries/States, academia, Research & Development (R&D) organizations and industry in October, 2016. The Working Group submitted a draft report on India Enterprise Architecture (IndEA) Framework and Adoption Guide, which was circulated to Ministries/States for providing feedback and subsequently, the report was also published on the NeST website for public feedback by STQC. Thereafter, the draft was circulated to the members of the Apex Body, constituted under the chairmanship of Secretary, MeitY for their suggestions and approval. After following the above criteria, MeitY has notified IndEA Framework and Adoption Guide on October 09, 2018. (b):	A project was initiated by MeitY in March, 2019 for pilot implementation of IndEA by National e-Governance Division (NeGD) wherein one State (Meghalaya) was formally selected. Year-wise details of the purpose that IndEA has served in the State of Meghalaya are given as under:•	As per announcement made by Hon''ble Minister of Electronics and Information Technology (IT) during the launch of the North East Vision document in August, 2018, Meghalaya was selected as the first pilot State for preparation of State Wide Enterprise Architecture and implementation of segment architecture for Finance Department. •	Under the project, the State held 39 awareness and sensitization workshops, floated ‘Request for Proposal (RFP)’ for developing in-house capacities of EA experts, preparing vision, requirements, solution architecture for Finance & detailed blueprint artefacts, and initiated the implementation of Phase I of segment architecture for Finance Department in 2019. •	It has helped in faster and seamless sanctions and disbursement of funds to the Departments, reducing the turn-around time from 6 months to 15 days. •	The first phase of Application Programming Interface (API) integrations among budget estimates, allocation system, e-Billing, centralized treasury MIS, single sign on, pensions and integrated platform of the State was launched on September 17, 2021 by the Hon''ble Union Minister of Electronics and IT and Hon''ble Chief Minister of Meghalaya jointly.(c)  and (d):	No, Madam, the primary purpose of IndEA is to help Ministries/Departments/States at various levels to adopt a structured approach for developing their enterprise solutions.********
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+HomeArchiveIndex to Select Questions (1984-1999)Ballot ListStatistical Statements Relating to QuestionsUploading of Questions - Status QueryProcedure for Sending Text of Questions & AnswersDemarcation of responsibilities in Govt. of IndiaBrochure on Statutory Corporations, Companies and Other Bodies in Which the Government of India have financial or controlling interestHighlights pertaining to questions of 17th Lok Sabha
+
+
+
+
+
+
+Contact Us 
+Disclaimer
+
+
+
+
+
+
+
+
+
+
+
+        Developed and Hosted by National Informatics Centre (NIC)
+
+Content on this website is published,
+            managed & maintained by Software Unit, Computer (HW & SW) Management. Branch,
+            Lok Sabha Secretariat
+
+
+
+
+
+HomeMembersBusinessQuestionsDebatesPapers Laid
+
+
+LegislationCommitteesSANSAD TVIntranetSecretariatPRIDE
+
+
+RecruitmentSC/ST ReservationConferenceParliament Library
+
+
+About ParliamentPhoto GalleryRelated LinksRTITendersFAQ
+
+
+SpeakerDy. SpeakerLeader of the HousePanel of ChairpersonsContact UsFeedback
+
+
+Council of MinistersPublications of MinistriesParliamentry ProceduresJournal of Parliamentary Information
+Visitor's Counter:113227887
+
+
+
+
+
+
+
+Copyright
+Privacy Policy
+Disclaimer
+Terms &
+                Conditions
+
+                Accessibility Statement
+Accessibility
+                Options
+Feedback
+Site Map
+
+
+
+
+
+
+
